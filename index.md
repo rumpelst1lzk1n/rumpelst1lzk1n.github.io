@@ -637,7 +637,9 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 | -------- |
 | klassisches Frame-Design, TBS Source One |
 
-Die Motoren werden an den Armen montiert, die Steuerelektronik an der Kreuzung der Arme. Im vorderen Teil wird die Kamera montiert, im hinteren Teil der Videosender. Der Akku wird oben auf die Top-Plate geschnallt.
+Die Motoren werden an den Armen montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.
+
+Der Akku wird abhängig vom Frame mit oben auf die Top-Plate oder unter die Bottom-Plate geschnallt.
 
 Frames gibt es in allen möglichen Größen und Preisklassen.
 
@@ -738,11 +740,17 @@ Für viele gehört das selbst bauen der Drohne einfach zum Hobby dazu. Ich will 
 
 RTF wird für 2 leicht unterschiedliche Produkte verwendet.
 
-Zum einen 
+Zum einen bezeichnet es komplette Kits, bestehend aus Brille, Funkfernbedienung und Drohne. Ggf. sogar noch mit Akkus und Ladegerät. Auspacken, Akkus laden, losfliegen. Theoretisch das Rundum-Sorglos-Paket. Meistens kommen hier aber billigste Komponenten zum Einsatz, daher sind solche Kits mit Vorsicht zu genießen.
+
+Zum anderen wird der Begriff als Synonym für "Bind and Fly" verwendet.
 
 #### Bind and Fly / BNF
 
+Die Drohne ist flugfertig zusammengebaut, verfügt über ein Videosystem und einen Funkempfänger. Du musst diesen eigentlich nur noch an die Funkefernbedienung binden.
+
 #### Plug'n'Play / PNP
+
+Die Drohne ist flugfertig zusammengebaut, verfügt über ein Videosystem, hat aber im Gegensatz zum BNF *KEINEN* Funkempfänger an Bord. Du musst diesen selbst nachrüsten. Praktisch, wenn man sowieso noch einen Funkempfänger daheim rum liegen hat.
 
 #### Powertrain
 
@@ -756,13 +764,42 @@ Gibt es ganz selten bei Drohnen von namenhaften Herstellern, ist eher auf dem Ge
 
 Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammensetzung und die Komponenten. Das hilft ungemein, wenn du die Drohne nach einer Bruchlandung reparieren musst.
 
+#### Builds
+
+Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium.
+
+##### Budget
+
+TBS Source One
+Emax Eco2 oder XingE
+
+##### Mittelklasse
+
+Diatone Roma F5
+Xing2
+Diatone Mamba F405 Stack
+
+##### Premium
+
+ImpulseRC Apex 5
+ETHIX Mr Steele Stout
+
+### Build on Demand
+
+Neben dem Kaufen und selbst bauen gibt es noch die Möglichkeit, dass du dir eine Drohne nach Wunsch bauen lässt. Entweder von einem Kumpel, der schon im Hobby drin ist, von einem kommerziellen Dienstleister, oder von jemandem, der diesen Dienst hobbymäßig im Netz anbietet.
+
+Bei jemandem, den du für den Zusammenbau bezahlst, kannst du mit ca. 200€ für diese Dienstleistung rechnen. Mehr oder weniger. Das ist abhängig davon, was er sonst noch so alles an der Drohne macht, ob z.B. die Elektronik der Drohne bereits getuned sein soll.
+
+Bei einem Kumpel ist _mindestens_ ein Kasten Bier fällig.
+
 ## Zusatzausrüstung
 
 ### Löten
 
 Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen.
 
-### Drohnentasche
+### Drohnenrucksack
+
 
 ## Rechtliches
 
