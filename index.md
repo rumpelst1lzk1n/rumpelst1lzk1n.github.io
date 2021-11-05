@@ -106,13 +106,13 @@ Die großen einschlägigen deutschen Shops über die du immer wieder stolperst s
 
 ### Ebay Kleinanzeigen
 
-Hier lohnt es fast immer die Augen offen zu halten.
+Hier lohnt es die Augen offen zu halten.
 Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen.
 Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
 Wenn du mit dem Guide durch bist, kannst du viele Sachen auch ganz gut einschätzen.
 Meist braucht man für gute Käufe etwas Erfahrung...
-Gerne kannst du auch Rückfragen dazu im pr0 Discord stellen -> https://discord.gg/uBh3QsnqF5
+Gerne kannst du auch Rückfragen dazu im [pr0 Discord](https://discord.gg/uBh3QsnqF5) stellen.
 
 ## Fernbedienung
 
