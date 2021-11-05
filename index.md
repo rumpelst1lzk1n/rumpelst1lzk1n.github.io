@@ -465,11 +465,12 @@ SharkByte ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch ke
 
 #### Videosender
 
-Aktuell gibt es 3 Videosender in eher unüblichen Formfaktoren.
+Aktuell gibt es 4 Videosender in eher unüblichen Formfaktoren.
 
-| TX5M.1 | TX5R.1 | TX5S.1 |
-| -------- | -------- | -------- |
-| ![TX5M.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5M.1VTX.jpg) | ![TX5R.1](https://www.fatshark.com/wp-content/uploads/2021/09/shark-byte-video-transmitter-tx5r1-fsv2480-02.jpg) | ![TX5S.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5S.1VTX.jpg) |
+|Version| TX5M.1 (20x20) | TX5R.1 (20x20) | TX5S.1 (25x25) |
+| --------| -------- | -------- | -------- |
+|1| ![TX5M.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5M.1VTX.jpg) | ![TX5R.1](https://www.fatshark.com/wp-content/uploads/2021/09/shark-byte-video-transmitter-tx5r1-fsv2480-02.jpg) | ![TX5S.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5S.1VTX.jpg) |
+|2| | ![HDZero Race v2 VTX](https://shop.rc-hangar15.de/media/image/product/9667/md/hdzero-race2-vtx-fuer-shark-byte-digital-hd-pre-order~3.jpg) | |
 
 Richtig interessant wird das System, wenn Videosender in üblichen Formfaktoren mit mehr Sendeleistung erhältlich werden. Diese befinden sich aktuell in der Entwicklung.
 
