@@ -5,23 +5,41 @@
 <!-- TOC -->
 
 - [Einleitung](#einleitung)
-- [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
+- [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
 - [Einkaufen](#einkaufen)
   - [Banggood und Aliexpress](#banggood-und-aliexpress)
   - [Direktvertrieb](#direktvertrieb)
-  - [Europäische Shops](#europ%C3%A4ische-shops)
+  - [Europäische Shops](#europäische-shops)
   - [Ebay Kleinanzeigen](#ebay-kleinanzeigen)
 - [Fernbedienung](#fernbedienung)
   - [Formfaktor](#formfaktor)
   - [Funkprotokoll](#funkprotokoll)
+    - [Legacy](#legacy)
+    - [Modern](#modern)
   - [OpenTX](#opentx)
   - [Empfehlungen](#empfehlungen)
+    - [Radiomaster TX16S](#radiomaster-tx16s)
+    - [Radiomater TX12](#radiomater-tx12)
+    - [Jumper T-Lite](#jumper-t-lite)
+    - [TBS Tango 2](#tbs-tango-2)
+    - [TBS Mambo](#tbs-mambo)
 - [Simulatoren](#simulatoren)
 - [Videosystem](#videosystem)
   - [Allgemein](#allgemein)
+    - [Frequenz und Kanal](#frequenz-und-kanal)
+    - [Sendeleistung](#sendeleistung)
+    - [Antennen](#antennen)
   - [Analog](#analog)
+    - [Videosender](#videosender)
+    - [Brille](#brille)
+    - [Empfänger](#empfänger)
   - [DJI](#dji)
+    - [Brillen](#brillen)
+    - [Videosender](#videosender-1)
+    - [Kamera](#kamera)
   - [Sharkbyte](#sharkbyte)
+    - [Videosender](#videosender-2)
+    - [Empfänger](#empfänger-1)
   - [HD Aufnahmen](#hd-aufnahmen)
 - [Flugmodi](#flugmodi)
   - [Cinematic](#cinematic)
@@ -30,28 +48,58 @@
   - [Longrange](#longrange)
 - [Drohne / Quad / Copter](#drohne--quad--copter)
   - [Klassen](#klassen)
+    - [TinyWhoop](#tinywhoop)
+    - [Cinewhoop](#cinewhoop)
+    - [Toothpick](#toothpick)
+    - [3 Zoll](#3-zoll)
+    - [5 Zoll](#5-zoll)
+    - [7 Zoll](#7-zoll)
+    - [Cinelifter](#cinelifter)
+    - [X-Class](#x-class)
   - [Komponenten](#komponenten)
+    - [Rahmen / Frame](#rahmen--frame)
+    - [Flight Controller / FC](#flight-controller--fc)
+    - [Empfänger / Receiver / RX](#empfänger--receiver--rx)
+    - [Videosender](#videosender-3)
+    - [Motorsteuerung / Electronic Speed Controller / ESC](#motorsteuerung--electronic-speed-controller--esc)
+    - [Motoren](#motoren)
+    - [sonstige Komponenten](#sonstige-komponenten)
 - [Software](#software)
 - [Akkus](#akkus)
   - [Sicherheit](#sicherheit)
-  - [Ladegeräte](#ladeger%C3%A4te)
+  - [Ladegeräte](#ladegeräte)
   - [Spannung](#spannung)
 - [Drohne Teil 2](#drohne-teil-2)
   - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
+    - [Ready-to-Fly / RTF](#ready-to-fly--rtf)
+    - [Bind and Fly / BNF](#bind-and-fly--bnf)
+    - [Plug'n'Play / PNP](#plugnplay--pnp)
+    - [Powertrain](#powertrain)
+    - [Empfehlungen](#empfehlungen-1)
   - [Eigenbau](#eigenbau)
+    - [Builds](#builds)
   - [Build on Demand](#build-on-demand)
-- [Zusatzausrüstung](#zusatzausr%C3%BCstung)
-  - [Löten](#l%C3%B6ten)
+- [Zusatzausrüstung](#zusatzausrüstung)
+  - [Löten](#löten)
   - [Drohnenrucksack](#drohnenrucksack)
 - [Rechtliches](#rechtliches)
-  - [Führerscheine](#f%C3%BChrerscheine)
+  - [Führerscheine](#führerscheine)
+    - [der kleine Drohnenführerschein](#der-kleine-drohnenführerschein)
+    - [der große Drohnenführerschein](#der-große-drohnenführerschein)
   - [Vereine](#vereine)
-- [D-Druck](#d-druck)
+- [3D-Druck](#3d-druck)
 - [Jenseits der Drohne](#jenseits-der-drohne)
 - [Glossar](#glossar)
 - [Linkliste](#linkliste)
   - [Youtube-Channel](#youtube-channel)
+    - [Einsteigerfreundlich / Tutorials / legitime Produktbewertungen](#einsteigerfreundlich--tutorials--legitime-produktbewertungen)
+    - [Marktschreier](#marktschreier)
+    - [Hi tech, low life](#hi-tech-low-life)
+    - [Fanboy-Kanäle / Entertainment](#fanboy-kanäle--entertainment)
+    - [Nicht eindeutig zuordenbar](#nicht-eindeutig-zuordenbar)
   - [Websites](#websites)
+    - [Rechtliches](#rechtliches-1)
+    - [Tutorials / Blogger](#tutorials--blogger)
   - [Discord Server](#discord-server)
 
 <!-- /TOC -->
@@ -166,7 +214,7 @@ Zudem unterscheide ich bei den Funkprotokollen zwischen Legacy und Modern.
 
 #### Legacy
 
-Diese Protokolle sind irrelevant. 
+Diese Protokolle sind irrelevant.
 FrSky, Graupner und wie sie alle heißen. Ihnen gemein ist, dass sie eigentlich alle mit einem Multi-Protokoll-Modul abgedeckt werden. Vergiss sie. Wenn du welche hast, verkaufe sie.
 
 Wenn du unbedingt eine Drohne fliegen willst, die einen Empfänger mit einem dieser Protokolle verwendet, ist ein Multi-Protokoll-Modul der richtige Weg.
@@ -197,7 +245,7 @@ Funken ohne OpenTX (oder Derivat) sind irrelevant.
 
 ### Empfehlungen
 
-Bei den genannten Funken ist das Display nachrangig. 
+Bei den genannten Funken ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
 
 #### Radiomaster TX16S
@@ -349,7 +397,6 @@ Bei den Analog-Brillen gibt es die größte Varianz in Sachen Preis. Es gibt Bri
 
 Man unterscheidet bei den Brillen zwischen Box- und Binocular-Style.
 
-
 | Box | Binocular |
 | -------- | -------- |
 | <img src="https://img.eachine.com//eachine/products/original/201710/1508810670_22.JPG" alt="Binocular" width="300"/> | <img src="https://www.fatshark.com/wp-content/uploads/2019/10/HDO2%E4%B8%BB%E5%9B%BE-600x600.jpg" alt="Binocular" width="300"/> |
@@ -438,7 +485,7 @@ Ein Empfänger sollte ähnlich wie eine Brille mit eingebautem Modul mindestens 
 
 ### DJI
 
-DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein goldener Käfig. Kameras gibt es von 2 Herstellern. Es gibt 2 Brillen und 2 Videosender von DJI. 
+DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein goldener Käfig. Kameras gibt es von 2 Herstellern. Es gibt 2 Brillen und 2 Videosender von DJI.
 
 > *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler und kommt so in etwa bei 720p raus.
 
@@ -547,7 +594,14 @@ Die besten Racer sind so schnell unterwegs, dass es dem ungeübten Auge schwer f
 
 Fliegen um des Fliegens Willen. Du fliegst irgendwelche akrobatischen Kunststückchen, Loopings, durch Lost Places (Bandos).
 
-Egal ob hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem Affenzahn einem Looping durch eine enge Lücke fliegst. So 
+Egal ob hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem Affenzahn einem Looping durch eine enge Lücke fliegst. Es gibt mehrere Stilrichtungen des Freestyles.
+
+| Stilrichtung | Merkmale |
+| -------- | -------- |
+| FlippyFloppy | Schnelle Richtungswechsel, viele Rollen und Überschläge |
+| Flow | Sehr gleichmäßiger Flugstil, Tendenz zum Cinematic |
+| Juicy | Sehr gleichmäßiger Flugstil mit kurzen, scharfen Manövern, die sanft ausklingen |
+| Sbang | Scharfe Manöver, die häufig dazu führen, dass die zweite Hälfte des Tricks aussihet, als hätte man die erste Hälfte rückwärts abgespielt |
 
 ### Longrange
 
@@ -587,13 +641,15 @@ Für die Propellergröße relativ geringes Gewicht und eine filigrane Bauweise.
 
 Die Propellergröße kann von 2.5" bis 5" reichen. Gerade die größeren sind weniger etwas zum harten Crashen. Aber super um einfach irgendwo entspannt durch die Natur zu gondeln.
 
-#### 3"
+#### 3 Zoll
 
-Der kleine Bruder des 5". Das Gewicht einer üblichen 3" Drohne liegt irgendwo zwischen 200 und 300 Gramm.
+Meistens ein Frame in klassischer Bauform. Der Name bezieht sich auf die Propellergröße.
+
+Beim 3 Zoll Copter handelt es sich um den kleinen Bruder des 5 Zoll (siehe unten). Das Gewicht einer üblichen 3" Drohne liegt irgendwo zwischen 200 und 300 Gramm.
 
 Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst im Park fliegen ohne den Leuten zu sehr Angst einzujagen? Dann bist du hier richtig. Unterschätze den kleinen aber nicht. Auf die kleinen Propeller können oberflächliche Fleischwunden verursachen.
 
-#### 5"
+#### 5 Zoll
 
 **DER** Standard. Das Gewicht einer üblichen 5" Drohne liegt irgendwo zwischen 500 und 700 Gramm. Die Höchstgeschwindigkeit liegt bei circa 120km/h.
 
@@ -601,7 +657,7 @@ Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht
 
 90% der Videos, die du auf Youtube findest, entstanden mit einer 5" Drohne, da diese leicht eine GoPro tragen kann. Für diese Größe findest du die meisten Motoren, Propeller, etc.
 
-#### 7"
+#### 7 Zoll
 
 Wenn 3" der kleine Bruder ist, so ist 7" der große Bruder. Hier wird die Teileauswahl merklich kleiner.
 
@@ -648,10 +704,10 @@ Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 
 | Budget | Mittelklasse | Premium |
 | -------- | -------- | -------- |
-| TBS | iFlight  | ImpulseRC |
-|  | Diatone | Armattan |
-|      | Flywoo | Lumenier |
-|      | GepRC | Ummagawd |
+| TBS | iFlight | ImpulseRC |
+| | Diatone | Armattan |
+| | Flywoo | Lumenier |
+| | GepRC | Ummagawd |
 
 Die Liste erhebt bei weitem keinen Anspruch auf Vollständigkeit.
 
