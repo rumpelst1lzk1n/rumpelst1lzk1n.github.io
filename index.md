@@ -58,7 +58,7 @@
 
 ## Einleitung
 
-Dieser geile Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermitteln und hat den Anspruch, die meisten *allgemeinen* Fragen zu beantworten über die ein Neueinsteiger stolpern könnte.
+Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermitteln und hat den Anspruch, die meisten *allgemeinen* Fragen zu beantworten über die ein Neueinsteiger stolpern könnte.
 
 Vorweg: Das Hobby kann teuer sein. Plane mit mindestens 500€ für einen absoluten Einsteiger-Setup oder 1000-1500€ für ein gutes Setup.
 
