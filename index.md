@@ -8,7 +8,6 @@
 - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
 - [Einkaufen](#einkaufen)
   - [Banggood und Aliexpress](#banggood-und-aliexpress)
-  - [Direktvertrieb](#direktvertrieb)
   - [Europäische Shops](#europäische-shops)
   - [Ebay Kleinanzeigen](#ebay-kleinanzeigen)
 - [Fernbedienung](#fernbedienung)
@@ -40,6 +39,7 @@
   - [Sharkbyte](#sharkbyte)
     - [Videosender](#videosender-2)
     - [Empfänger](#empfänger-1)
+  - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
 - [Flugmodi](#flugmodi)
   - [Cinematic](#cinematic)
@@ -127,35 +127,18 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe remove_me das in sei
 
 Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
 
-Am günstigsten kommt man an die Produkte, wenn man auch direkt dort einkauft. 
-Es gibt auch Shops in Deutschland - diese sind aber meist 10-20% teurer.
+Am günstigsten kommt man an die Produkte, wenn man auch direkt dort einkauft.
 
 Vorteil beim Einkaufen in China: Günstiger.
 Nachteil: Du wartest 10-30 Tage bis die Sachen da sind.
 
-Es gibt auch Express-Versand, da sind die Sachen dann in ~5 Tagen da, aber der kostet mehr. 
+Es gibt auch Express-Versand, da sind die Sachen dann in ~5 Tagen da, aber der kostet mehr.
 Und es bleibt öfter im Zoll hängen. Dann kannst du auch gleich in Deutschland kaufen.
 
 ### Banggood und Aliexpress
 
-Bekannte Shops sind [Banggood](https://www.banggood.com/) und [Aliexpress](https://de.aliexpress.com/). 
-
-[Banggood](https://www.banggood.com/) ist eher mit Amazon zu vergleichen. Versand und Support liegt beides bei Banggood und zumindest in den letzten Jahren leistet sich Banggood auch einen ganz ordentlichen Support. Zudem unterhält es kleinere Lagerhäuser in Europa über die vereinzelte Produkte schneller geliefert werden können.
-
-[Aliexpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
-Unterschiedliche Händler übernehmen unabhängig von Aliexpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
-
-Beide Shops führen direkt Mehrwertsteuer ab. 
-Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen. 
-Bei anderen nicht-europäischen Shops sieht das anders aus.
-
-Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is! 
-
-### Direktvertrieb
-
-Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://iflight-rc.com) etc. haben auch ihre eigenen Shops.
- Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware. 
-Allerdings muss man Zoll noch auf die Bestellung drauf rechnen. Manchmal hat man aber auch Glück. 
+Bekannte Shops sind [Banggood](https://www.banggood.com/) und [Aliexpress](https://de.aliexpress.com/).
+Allerdings muss man Zoll noch auf die Bestellung drauf rechnen. Manchmal hat man aber auch Glück.
 
 ### Europäische Shops
 
@@ -175,10 +158,9 @@ Hier lohnt es fast immer die Augen offen zu halten.
 Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen.
 Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
-Wenn du mit dem Guide durch bist, kannst du viele Sachen auch ganz gut einschätzen. 
+Wenn du mit dem Guide durch bist, kannst du viele Sachen auch ganz gut einschätzen.
 Meist braucht man für gute Käufe etwas Erfahrung...
 Gerne kannst du auch Rückfragen dazu im pr0 Discord stellen -> https://discord.gg/uBh3QsnqF5
-
 
 ## Fernbedienung
 
@@ -389,7 +371,7 @@ Der Vorteil bei analogen Systemen ist, dass du die unterschiedlichen Videosender
 
 Besonders hervorzuheben sind die Videosender der Unify-Reihe von TBS und die ImmersionRC Tramp. Sie gelten mit als die Besten.
 
-Für den Anfang tut es eigentlich jeder, aber spätestens wenn du mit anderen fliegst, willst du einen halbwegs guten, da manche No-Name-VTX ein sehr "unsauberes" Signal haben und auch über den eigentlich eingestellten Kanal hinaus Frequenzen nutzen.
+Für den Anfang tut es eigentlich jeder, aber spätestens wenn du mit anderen fliegst, willst du einen halbwegs guten. Manche No-Name-VTX haben ein sehr "unsauberes" Signal und streiem auch über den eigentlich eingestellten Kanal hinaus in andere Frequenzen. Wenn das Budget wirklich knapp ist und du den billigsten VTX willst, achte zumindest darauf, dass dieser mit [OpenVTX](https://github.com/OpenVTx/OpenVTx) als Firmware beworben wird.
 
 #### Brille
 
@@ -550,6 +532,10 @@ Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Bril
 | Scout HD | SharkByte Empfänger |
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
+
+### OpenHD
+
+[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider nicht zu gebrauchen, da die Latenz zu hoch ist.
 
 ### HD Aufnahmen
 
