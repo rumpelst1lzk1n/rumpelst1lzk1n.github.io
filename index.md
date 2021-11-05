@@ -682,11 +682,34 @@ Bis vor einigen Jahren war diese Komponente noch aufgeteilt in einen Chip für d
 
 Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ESC, AIO-ESC).
 
-##### BLheli_S
-
-##### BLheli_32
+Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S oder BLHeli_32 zum Einsatz. BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bekommen, die diese Firmware nahezu gleichwertig zu BLHeli_32 machen.
 
 #### Motoren
+
+Der Antrieb unseres Copters. Hier gibt es einige Zahlen, die kennen sollte.
+
+##### Motor-Größe
+
+1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namenhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
+
+Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaften. Flache, breite Motoren bleiben kühler, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden wärmer, reagieren aber schneller. Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet.
+
+Die Motor-Größe wird üblicherweise an der größe der Propeller fest gemacht. Für 5"-Drohnen haben sich die Größen 2207 und 2306 etabliert.
+
+##### KV
+
+Mit KV sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Proeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
+
+Für 5"-Drohnen haben sich Werte zwischen 1700 und 2500 KV für Akkus mit 14,8 bis 22,4 Volt etabliert. Die Motoren haben in ihren Beschreibungen häufig auch, für wie viele Akkuzellen sie ausgelegt sind. Dazu später mehr.
+
+Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es im Drohnenbereich üblich ist.
+Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt Strom. KV bezeichnet die Anzahl der Umdrehungen pro Minute, ab welcher der Motor 1 Volt Spannung ausgibt.
+
+##### Stator und Magneten
+
+[Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
+
+#### Propeller
 
 #### sonstige Komponenten
 
@@ -696,7 +719,7 @@ Der am weitesten verbreitete Anschlusstyp für Drohnen-Akkus. Es gibt ihn in 3 G
 
 Es handelt sich dabei um den Wert für die dauerhafte Belastung. Die kurzzeitige Spitzenbelastung beträgt leicht das doppelte.
 
-Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir deine Drohne anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht. 
+Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir deine Drohne anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.
 
 ##### Kondensator
 
@@ -713,6 +736,8 @@ Vielleicht gerätst du in die Verlockung, optische Anbauteile an der Drohne zu b
 ## Software
 
 ## Akkus
+
+Akkus unterscheidet man nach Anzahl der Zellen sowie nach ihrer Kapazität.
 
 ### Sicherheit
 
@@ -796,7 +821,6 @@ Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen.
 
 ### Drohnenrucksack
 
-
 ## Rechtliches
 
 In diesem Abschnitt geht es um die rechtliche Situation als FPV-Pilot.
@@ -807,7 +831,7 @@ Grundsätzlich gilt: Sei kein Arschloch, dann wird in den allermeisten Fällen d
 
 Halte Abstand zu unbeteiligten, damit sie sich von deiner kinderfressenden Killerdrohne nicht bedroht oder beobachtet fühlen.
 
-Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Der einfachste Weg ist, zu gehen. 
+Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Der einfachste Weg ist, zu gehen.
 
 ### Führerscheine
 
@@ -908,7 +932,7 @@ Der Themenbereich FPV ist voller Anglizismen
 
 ### Websites
 
-#### Rechtliches
+#### Rechtsgrundlagen
 
 - [Deutsches Luftfahrtbundesamt](https://lba-openuav.de/einstieg/)
 - [LuftVO (Gesetze zu unbemannten Fluggeräten)](https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG001201360)
