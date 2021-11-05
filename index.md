@@ -14,13 +14,13 @@
   - [Formfaktor](#formfaktor)
   - [Funkprotokoll](#funkprotokoll)
   - [OpenTX](#opentx)
-  - [Empfehlungen](#empfehlungen)
+  - [Empfehlungen (Funke)](#empfehlungen-funke)
 - [Simulatoren](#simulatoren)
 - [Videosystem](#videosystem)
   - [Allgemein](#allgemein)
   - [Analog](#analog)
   - [DJI](#dji)
-  - [Sharkbyte](#sharkbyte)
+  - [SharkByte](#sharkbyte)
   - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
 - [Flugmodi](#flugmodi)
@@ -94,14 +94,14 @@ Allerdings muss man Zoll noch auf die Bestellung drauf rechnen. Manchmal hat man
 
 ### Europäische Shops
 
-Eine Liste innereuropäischer FPV-Shops findest du hier: https://fpvmarket.eu/european-fpv-stores/
+Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
 
 Die großen einschlägigen deutschen Shops über die du immer wieder stolperst sind:
 
-- https://n-factory.de/
-- https://shop.rc-hangar15.de/
-- https://www.rctech.de/
-- https://www.fpv24.com/de/
+- [n-factory.de](https://n-factory.de/)
+- [shop.rc-hangar15.de](https://shop.rc-hangar15.de/)
+- [rctech.de](https://www.rctech.de/)
+- [fpv24.com](https://www.fpv24.com/de/)
 - ...
 
 ### Ebay Kleinanzeigen
@@ -130,8 +130,8 @@ Als vorherschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollforma
 
 Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 
-| Vollformat | Gamepad | 
-| -------- | -------- | 
+| Vollformat | Gamepad |
+| -------- | -------- |
 | <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/t/x/tx16s_hall-1.jpg" alt="Radiomaster TX16S" width="300"/> | <img src="https://www.team-blacksheep.com/img/gallery/A7300949.JPG" alt="TBS Tango 2" width="300"/> |
 
 ### Funkprotokoll
@@ -177,7 +177,7 @@ OpenTX ist ein Betriebssystem für Funkfernbedienungen. Alle hier genannten Funk
 
 Funken ohne OpenTX (oder Derivat) sind irrelevant.
 
-### Empfehlungen
+### Empfehlungen (Funke)
 
 Bei den genannten Funken ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
@@ -359,7 +359,7 @@ Vorteile:
 
 In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille.  Lass dich nicht täuschen, es gibt günstigere Brillen im Binocular-Style. Die sind Müll.
 
-##### Empfehlungen
+##### Empfehlungen (Analog-Brillen)
 
 Schau dich auf dem Gebrauchtmarkt um. Viele der unten genannten Modelle kriegst du auf eBay-Kleinanzeigen recht günstig gebraucht.
 
@@ -457,9 +457,9 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-### Sharkbyte
+### SharkByte
 
-Sharkbyte ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt.
+SharkByte ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt.
 
 >*Anm. rumpelst1lzk1n*: Das Bild ist gut aber die Hardware ist noch nicht so ausgereift/etabliert wie DJI. Persönlich würde ich einem Neueinsteiger aktuell noch davon abraten.
 
@@ -753,7 +753,7 @@ Powertrain bezeichnet die Drohne ohne Videosender und Empfänger. Das Paket best
 
 Gibt es ganz selten bei Drohnen von namenhaften Herstellern, ist eher auf dem Gebrauchtmarkt zu finden.
 
-#### Empfehlungen
+#### Empfehlungen (Drohne kaufen)
 
 ### Eigenbau
 
@@ -836,7 +836,7 @@ Die wenigsten Drohnen-Piloten sind Mitglieder eines Modellbau-Vereins. Den Verei
 
 ## 3D-Druck
 
-Man braucht immer wieder etwas. Halterungen für Antennen und Kameras, Landefüße, etc. 
+Man braucht immer wieder etwas. Halterungen für Antennen und Kameras, Landefüße, etc.
 
 Eine gute Anlaufstelle um nach Druckteilen für seinen Frame zu suchen ist [yeggi.com](https://www.yeggi.com/). Masochisten suchen auch direkt auf [thingiverse.com](https://www.thingiverse.com/), aber deren Suche ist leider wenig zuverlässig.
 
