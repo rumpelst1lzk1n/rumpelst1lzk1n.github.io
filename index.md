@@ -707,7 +707,7 @@ Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt St
 
 ##### Stator und Magneten
 
-[Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
+![Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
 
 #### Propeller
 
