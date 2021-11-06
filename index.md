@@ -110,7 +110,7 @@ Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://if
 
 Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware.
 
-Anders als Banggood und Aliexpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen. Manchmal hat man aber auch Glück.
+Anders als Banggood und Aliexpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen und es kann ein Gang zum nächsten Zollamt oder zur Poststelle notwendig sein. Manchmal hat man aber auch Glück.
 
 ### Europäische Shops
 
