@@ -690,7 +690,7 @@ Die Motorsteuerung gibt die Drehrichtung der Motoren vor. Die 2 jeweils diagonal
 
 | props in | props out |
 | -------- | -------- |
-| ![props in](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg) | ![props out](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg)) |
+| ![props in](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg) | ![props out](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg) |
 
 Welche der beiden Varianten besser ist, darüber scheiden sich die Geister.
 
