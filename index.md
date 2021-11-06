@@ -879,15 +879,15 @@ Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, gr
 
 **MACH IHN!**
 
-Auf https://lba-openuav.de/ kannst du den kleinen Drohnenführerschein für die Kategorie "A1/A3" machen. Den brauchst du.
+Auf einer [Website des Luftfahrtbundesamtes](https://lba-openuav.de/) kannst du den kleinen Drohnenführerschein für die Kategorie "A1/A3" machen. Den brauchst du.
 
-Zum einen hast du dann schon mal alle Regeln gehört, die es zu beachten gilt. 
+Zum einen hast du dann schon mal alle Regeln gehört, die es zu beachten gilt.
 
 Zum anderen hast du ein offizielles Dokument, dass du jemandem unter die Nase halten kannst, der dir grundlos auf den Sack gehen will. Betonung liegt auf "grundlos". Sei kein Arschloch.
 
 #### der große Drohnenführerschein
 
-Den großen Drohnenführerschein brauchst du als Anfänger definitiv nicht.
+Den großen Drohnenführerschein (Kategorie "A2") brauchst du als Anfänger definitiv nicht.
 
 Der Schein kostet abhängig vom Anbieter der Schulung 200-300€. Gegebenenfalls noch mehr, wenn die Schulung mehr ist als ein Online-Kurs und z.B. auch noch Präsenzunterricht beinhaltet.
 
