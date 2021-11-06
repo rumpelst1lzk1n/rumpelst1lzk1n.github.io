@@ -7,7 +7,7 @@
 - [Einleitung](#einleitung)
 - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
 - [Einkaufen](#einkaufen)
-  - [Banggood und Aliexpress](#banggood-und-aliexpress)
+  - [Chinashops](#chinashops)
   - [Europäische Shops](#europäische-shops)
   - [Ebay Kleinanzeigen](#ebay-kleinanzeigen)
 - [Fernbedienung](#fernbedienung)
@@ -77,6 +77,10 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe remove_me das in sei
 
 ## Einkaufen
 
+In dem Abschnitt gehe ich kurz darauf ein, wie du überhaupt an Drohnen und Zubehör kommst.
+
+### Chinashops
+
 Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
 
 Am günstigsten kommt man an die Produkte, wenn man auch direkt dort einkauft.
@@ -87,10 +91,26 @@ Nachteil: Du wartest 10-30 Tage bis die Sachen da sind.
 Es gibt auch Express-Versand, da sind die Sachen dann in ~5 Tagen da, aber der kostet mehr.
 Und es bleibt öfter im Zoll hängen. Dann kannst du auch gleich in Deutschland kaufen.
 
-### Banggood und Aliexpress
+#### Banggood und Aliexpress
 
 Bekannte Shops sind [Banggood](https://www.banggood.com/) und [Aliexpress](https://de.aliexpress.com/).
-Allerdings muss man Zoll noch auf die Bestellung drauf rechnen. Manchmal hat man aber auch Glück.
+
+[Banggood](https://www.banggood.com/) ist eher mit Amazon zu vergleichen. Versand und Support liegt beides bei Banggood und zumindest in den letzten Jahren leistet sich Banggood auch einen ganz ordentlichen Support. Zudem unterhält es kleinere Lagerhäuser in Europa über die vereinzelte Produkte schneller geliefert werden können.
+
+[Aliexpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
+Unterschiedliche Händler übernehmen unabhängig von Aliexpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
+
+Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen.
+
+Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
+
+#### Direktvertrieb
+
+Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://iflight-rc.com) etc. haben auch ihre eigenen Shops.
+
+Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware.
+
+Anders als Banggood und Aliexpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen. Manchmal hat man aber auch Glück.
 
 ### Europäische Shops
 
