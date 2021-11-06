@@ -102,7 +102,7 @@ Unterschiedliche Händler übernehmen unabhängig von Aliexpress den Versand und
 
 Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen.
 
-Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
+> *Anm. remove_me*: Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
 
 #### Direktvertrieb
 
