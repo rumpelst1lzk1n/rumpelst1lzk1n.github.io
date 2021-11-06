@@ -664,13 +664,15 @@ Das Gyroskop liefert die Lageinformationen, die Steuersoftware berechnet, wie sc
 
 Die mit Abstand häufigste Steuersoftware ist Betaflight. Es gibt noch andere Software, der Themenkomplex hat aber weiter unten ein eigenes Kapitel.
 
+Das Herzstück des FCs ist der Prozessor. Hier unterscheidet man zwischen F4, F7 und H7. Diese unterscheiden sich in Geschwindigkeit und verfügbaren Anschlüssen. Aktuell gibt es noch keinen wirklichen Grund, etwas anderes als F4 für eine Standard-Drohne zu verwenden.
+
 Es gibt auch Flight Controller mit integriertem ESC, hier spricht man von einem "All in One" (AIO).
 
 #### Empfänger / Receiver / RX
 
 Das Gegenstück zu deiner Funkfernsteuerung (siehe oben). Nimmt die Steuersignale entgegen, wandelt dabei Funkwellen in elektrische Signale um und schickt diese an den Flight Controller.
 
-#### Videosender
+#### Videosender / VTX
 
 Das Gegenstück zu deiner FPV-Brille (siehe oben). Der Videosender ist üblicherweise an den Flight Controller mit angeschlossen. Dies ermöglicht es, dass Flugdaten (Akkukapazität, Flugmodus, GPS Koordinaten)
 
@@ -683,6 +685,14 @@ Bis vor einigen Jahren war diese Komponente noch aufgeteilt in einen Chip für d
 Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ESC, AIO-ESC).
 
 Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S oder BLHeli_32 zum Einsatz. BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bekommen, die diese Firmware nahezu gleichwertig zu BLHeli_32 machen.
+
+Die Motorsteuerung gibt die Drehrichtung der Motoren vor. Die 2 jeweils diagonal gelegenen Motoren sollten sich in die gleiche Richtung drehen. Dabei unterscheidet man zwischen "props in" und "props out".
+
+| props in | props out |
+| -------- | -------- |
+| ![props in](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg) | ![props out](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg)) |
+
+Welche der beiden Varianten besser ist, darüber scheiden sich die Geister.
 
 #### Motoren
 
@@ -712,6 +722,24 @@ Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt St
 ![Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
 
 #### Propeller
+
+Die Propeller sind mit das markanteste Merkmal einer Drohne. Ihre Größe wird in angloamerkikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
+
+Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß die Drohne ist, über die gesprochen wird.
+
+##### Kennzahlen
+
+Neben dem Durchmesser sind die Anzahl der Propellerblätter sowie deren Steigung die Kennzahlen für einen Probeller.
+
+Die Anzahl der Blätter eines Motors ist offensichtlich. 2-Blatt gelten als besonders effizient, 3 Blatt sind der Standard als Kompromiss aus Effizienz und Leistung. Propeller mit mehr Blättern findet man meistens bei CineWhoops, da diese eine größere Laufruhe versprechen.
+
+Durchmesser und Steigung (Pitch) sind weniger offensichtlich. Ähnlich wie der Durchmesser und die Höhe bei Motoren, wird dies meistens in einer kombinierten Zahl angegeben. Wie bei Motoren geben die ersten beiden Zahlen den Durchmesser des Propellers an, die zweiten 2 Zahlen die Steigung. Ein 5045-Propeller hat demnach 5 Zoll Durchmesser und 45 Grad Steigung. Eine höhere Steigung des führt bei Drehung des Propellers zu mehr bewegter Luft und damit zu einer höheren Geschwindigkeit. Allerdings auch zu einer größeren Leistungsaufnahme des Motors, der den Propeller bewegen muss.
+
+##### Drehrichtung
+
+Ein Propellerset besteht normalerweise aus 4 Propellern. 2 davon sind für die Drehung im Uhrzeigersinn (CW, clockwise), 2 für die Drehung gegen den Uhrzeigersind (CCW, counter clockwise).
+
+Die Propeller müssen auf der Drohne so montiert sein, dass sich die 2 Diagonal befindlichen in die gleiche Richtung drehen. Siehe dazu die Grafik im Abschnitt `Motorsteuerung / Electronic Speed Controller / ESC`.
 
 #### sonstige Komponenten
 
@@ -753,7 +781,7 @@ In diesem Abschnitt geht es darum, tatsächlich eine Drohne zu kaufen oder zu ba
 
 ### Fertige Drohne kaufen
 
-Wenn du eine fertige Drohne kaufst, sparst du jede Menge Zeit mit der Auswahl der Komponenten und dem Zusammenbau und Einstellen der Drohne. Zudem bekommst du eine fertig gebaute Drohne oft günstiger als wenn du ihre Einzelteile separat kaufen würdest.
+Wenn du eine fertige Drohne kaufst, sparst du jede Menge Zeit mit der Auswahl der Komponenten und dem Zusammenbau und Einstellen der Drohne. Häufig bekommst du eine fertig gebaute Drohne oft günstiger als wenn du ihre Einzelteile separat kaufen würdest. Zudem kannst du erwarten, dass die Drohne bereits akzeptabel eingestellt ist, was das Flugverhalten angeht.
 
 Für viele gehört das selbst bauen der Drohne einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, eine fertige Drohne zu kaufen.
 
@@ -793,19 +821,29 @@ Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Pr
 
 ##### Budget
 
-TBS Source One
-Emax Eco2 oder XingE
+Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog. Gegebenenfalls auch noch mit einem Legacy-Funk-Protokol, weil das deine Funke von Haus aus kann und du kein Modul brauchst.
+
+- Frame: TBS Source One
+- Motor: Emax Eco2 oder XingE
+- ESC & FC: Diatone Mamba F405 Stack
+- Receiver: FrSky XM+
+- Videosender: HappyModel OVX300
+
+Wenn du bei dem Hobby bleibst, solltest du dir überlegen, ob du die Drohne mittelfristig auf ELRS (2.4 Ghz) umbaust.
 
 ##### Mittelklasse
 
-Diatone Roma F5
-Xing2
-Diatone Mamba F405 Stack
+Ab der Mittelklasse gehe ich davon aus, dass dein Budget eine digitale .
+
+- Frame: Diatone Roma F5
+- Motor: Xing2
+- Receiver: ELRS
 
 ##### Premium
 
-ImpulseRC Apex 5
-ETHIX Mr Steele Stout
+- Frame: ImpulseRC Apex 5
+- Motor: ETHIX Mr Steele Stout
+- Receiver: ELRS, Tracer oder Crossfire
 
 ### Build on Demand
 
@@ -946,6 +984,11 @@ Der Themenbereich FPV ist voller Anglizismen
 - https://kamikatze-fpv.de/ (Fokus auf Team Blacksheep)
 - https://www.fpvknowitall.com/ (Joshua Bardwell Einkaufsliste)
 - https://betaflight.de/docs/knowledge-base/
+
+#### Tune Presets
+
+- [UAV Tech Presets](https://theuavtech.com/presets/)
+- [Betaflight Community Presets](https://github.com/betaflight/betaflight/wiki/Community-Presets)
 
 ### Discord Server
 
