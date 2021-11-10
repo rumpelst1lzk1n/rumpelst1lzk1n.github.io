@@ -66,12 +66,13 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe remove_me das in sei
 
 ## SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
-- **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Lite)
-- **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone)
-- **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter
+- **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Lite).
+- **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone).
+- **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter.
 - **Schritt 3.1**: Lies den Rest in diesem Dokument. Kläre Fragen und werde schlauer.
-- **Schritt 4**: Kaufe weitere Hardware, entweder einen Fertig-Copter (BNF) oder aber Einzelteile
-- **Schritt 4.1**: Passende Akkus für die Drohne (4 Stück sollten es schon sein) und ein Ladegerät (ISDT 608AC oder Hota D6 Pro)
+- **Schritt 4**: Kaufe weitere Hardware, entweder einen Fertig-Copter (BNF) oder aber Einzelteile.
+- **Schritt 4.1**: Ein Ladegerät (ISDT 608AC oder Hota D6 Pro).
+- **Schritt 4.2**: Passende Akkus für die Drohne (4 Stück sollten es schon sein).
 - **Schritt 5**: übe übe übe - bis alles da ist.
 - **Schritt 6**: rausgehen - fliegen.
 
@@ -482,6 +483,8 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 SharkByte ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt.
 
 >*Anm. rumpelst1lzk1n*: Das Bild ist gut aber die Hardware ist noch nicht so ausgereift/etabliert wie DJI. Persönlich würde ich einem Neueinsteiger aktuell noch davon abraten.
+
+Anders als bei Analog und DJI gibt es zum gegenwärtigen Zeitpunkt keine fertigen Drohnen mit diesem System.
 
 #### Videosender
 
