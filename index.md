@@ -544,6 +544,8 @@ Da sich die Drohne aber im dreidimensionalen Raum bewegen kann, findest du hier 
 
 Tore, Flaggen und andere Hindernisse bestehen häufig aus buntem Zeltstoff und Zeltstangen oder Schwimmnudeln. Hauptsache gut erkennbar. Es gibt fertige Hindernisse zu kaufen, man kann aber auch vieles selbst bauen.
 
+Zeltstangen und -Stoff bieten sich an, da diese auch Crashes mit einer Drohne überleben. Schwimmnudeln eignen sich ebenfalls zum Bauen von Hindernissen.
+
 Es gibt ganze Ligen, die bekannteste ist die Drone Racing League.
 
 Zum Üben werden die Strecken auch oft in Simulatoren (siehe oben) nachgebaut.
@@ -563,7 +565,7 @@ Egal ob hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem A
 | FlippyFloppy | Schnelle Richtungswechsel, viele Rollen und Überschläge |
 | Flow | Sehr gleichmäßiger Flugstil, Tendenz zum Cinematic |
 | Juicy | Sehr gleichmäßiger Flugstil mit kurzen, scharfen Manövern, die sanft ausklingen |
-| Sbang | Scharfe Manöver, die häufig dazu führen, dass die zweite Hälfte des Tricks aussihet, als hätte man die erste Hälfte rückwärts abgespielt |
+| Sbang | Scharfe Manöver, die häufig dazu führen, dass die zweite Hälfte des Tricks aussieht, als hätte man die erste Hälfte rückwärts abgespielt |
 
 ### Longrange
 
