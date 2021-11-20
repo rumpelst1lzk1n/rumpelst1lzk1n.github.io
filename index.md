@@ -794,13 +794,89 @@ Vielleicht gerätst du in die Verlockung, optische Anbauteile an der Drohne zu b
 
 ## Akkus
 
-Akkus unterscheidet man nach Anzahl der Zellen sowie nach ihrer Kapazität.
+Akkus sind die Stromlieferanten unserer Fluggeräte.
+
+Man unterscheidet sie nach Anzahl der Zellen sowie nach ihrer Kapazität.
+
+Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku-Zellen, die in Reihe geschalten wurden
+
+### Akku-Aufbau
+
+#### Zellen
+
+Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Drohnen fliegen mit mehrzelligen Akkus.
+
+Zellen in Reihe geschalten erhöhen die Spannung. Zellen parallel geschalten erhöhen die Kapazität.
+
+Ein 2S Akku hat 2 Zellen in Reihe (seriell) geschalten. Am Stromanschluss liegt die Summe der Spannung der einzelnen Akkus an.
+
+Ein 2P Akku hat 2 Zellen parallel geschalten. Der Akku kann Summe der Kapazität der einzelnen Akkus als Leistung zur Verfügung stellen.
+
+Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich ist dabei, dass die Zellen erst parallel verbunden werden und anschließend die so entstandenen Akkus in Reihe geschalten werden.
+
+#### Zell-Spannung & -Chemie
+
+Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Drohnen auch Lithium-Ionen, aber darüber musst du dir für den Anfang keinen Kopf machen.
+
+Bei einem LiPo-Akku beträgt die Nominalspannung **einer Zelle** 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.
+
+Wird ein Akku geladen, erhöht sich die Spannung zwischen Plus- und Minuspol. ein LiPo-Akku voll, beträgt die Spannung circa 4,2 Volt. Es gibt spezielle Akkus mit der Kennzeichnung HV (für "High-Voltage"), diese können bis 4,35 Volt geladen werden.
+
+Wird ein Akku entladen, verringert sich nach und nach die Spannung. Weiter herunter als 3,3 Volt solltest du eine Akku-Zelle nicht fliegen, sonst kannst du den Akku nachhaltig beschädigen.
+
+#### Stromanschluss
+
+An diesem Kabel hängt der Stecker, der deine Drohne mit Strom versorgt.
+
+Der am weitesten verbreitete Anschlusstyp für Drohnen-Akkus ist `XT`. Es gibt ihn in 3 Größen, XT30, XT60 und XT90. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.
+
+Es handelt sich dabei um den Wert für die dauerhafte Belastung. Die kurzzeitige Spitzenbelastung beträgt leicht das doppelte.
+
+Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir deine Drohne anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.
+
+Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Coptern ist XT60 üblich.
+
+#### Ballancer-Kabel
+
+An diesem Kabel findet sich ein Stecker vom Typ JST XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Lade-Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.
 
 ### Sicherheit
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GHS-pictogram-flamme.svg/1280px-GHS-pictogram-flamme.svg.png" alt="Entflammbar" width="200"/>
+
+Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behlätnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.
+
+Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPos beträgt diese Spannung 3,8 Volt.
+
 ### Ladegeräte
 
-### Spannung
+Das Ladegerät bringt deine Akkus auf die gewünschte Spannung. Heißt, es lädt sie oder entlädt sie nach Bedarf. Beim Entladen wird die Energie meistens in Wärme umgewandelt. Da diese irgendwie aus dem Netzteil raus muss, läuft der Lüfter meists auf Volllast. Die Geschwindigkeit des Entladens ist durch die Menge der abführbaren Wärme begrenzt, normalerweise geht daher Entladen deutlich langsamer.
+
+Bei Ladegeräten unterscheidet man zwischen jenen mit und ohne integriertes Netzteil. Hat das Ladegerät ein integriertes Netzteil, kannst du das Ladegerät direkt an die Steckdose hängen.
+
+#### ISDT 608AC
+
+Das günstigste Netzteil, dass sich zu kaufen lohnt.
+
+- circa 65€
+- 50W über integriertes Netzteil
+- 200W über externes Netzteil
+
+#### HOTA D6 Pro
+
+- circa 100€
+- 200W über integriertes Netzteil (nur Pro-Version)
+- 650W über externes Netzteil
+- 2 Ausgänge
+
+#### SkyRC Q200
+
+- circa 150€
+- 4 Ausgänge
+
+#### Netzteil
+
+#### Parallel Board
 
 ## Drohne Teil 2
 
