@@ -213,6 +213,8 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
 
+Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
+
 #### Radiomater TX12
 
 - ca. 90€
