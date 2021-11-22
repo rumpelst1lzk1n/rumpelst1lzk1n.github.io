@@ -818,7 +818,7 @@ Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich is
 
 #### Zell-Spannung & -Chemie
 
-Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Drohnen auch Lithium-Ionen, aber darüber musst du dir für den Anfang keinen Kopf machen.
+Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Drohnen auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.
 
 Bei einem LiPo-Akku beträgt die Nominalspannung **einer Zelle** 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.
 
@@ -842,6 +842,20 @@ Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zol
 
 An diesem Kabel findet sich ein Stecker vom Typ JST XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Lade-Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.
 
+#### Input & Output
+
+Wie viel Strom ein Akku auf einmal abgeben kann, wird in der Einheit Coulomb (C) angegeben. Auf Akkus findest du Angaben wie 70C, 100C oder 120C. Diese Zahl steht für das vielfache der Kapazität. Ein Akku mit 1000 Milliamperestunden, für den der Hersteller 100C angibt, kann bis zu 100 Ampere auf einmal abgeben.
+
+Gleichzeitig gilt als Richtwert für das Laden von Akkus: Lädst du sie mit 1C halten sie am längsten, lädst du mit mehr, geht das auf die Lebendsdauer. Lädst du mit viel mehr (z.B. 5C oder mehr) besteht akute Brandgefahr!
+
+Rechenbeispiel:
+
+Du hast einen Akku mit 500 Milliamperestunden. 1C entspricht also 0.5 Ampere. Stell dein Ladegerät so ein, dass es den Akku mit 0.5 Ampere lädt. Der Ladevorgang wird etwa eine Stunde dauern. Lädst du den Akku stattdessen mit 1 Ampere, wird der Ladevorgang nur etwa eine halbe Stunde dauer. Dies geht aber zulasten der Lebensdauer des Akkus.
+
+#### Empfehlungen (Akkus)
+
+Welche Akkus für deine Drohne die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles von der verbauten Hardware und dem anvisierten Gewicht der Drohne ab. Daher werde ich hier auch keine pauschalen Empfehlungen aussprechen.
+
 ### Sicherheit
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/GHS-pictogram-flamme.svg/1280px-GHS-pictogram-flamme.svg.png" alt="Entflammbar" width="200"/>
@@ -854,31 +868,52 @@ Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist di
 
 Das Ladegerät bringt deine Akkus auf die gewünschte Spannung. Heißt, es lädt sie oder entlädt sie nach Bedarf. Beim Entladen wird die Energie meistens in Wärme umgewandelt. Da diese irgendwie aus dem Netzteil raus muss, läuft der Lüfter meists auf Volllast. Die Geschwindigkeit des Entladens ist durch die Menge der abführbaren Wärme begrenzt, normalerweise geht daher Entladen deutlich langsamer.
 
-Bei Ladegeräten unterscheidet man zwischen jenen mit und ohne integriertes Netzteil. Hat das Ladegerät ein integriertes Netzteil, kannst du das Ladegerät direkt an die Steckdose hängen.
+Bei Ladegeräten unterscheidet man zwischen jenen mit und ohne integriertes Netzteil. Hat das Ladegerät ein integriertes Netzteil, kannst du das Ladegerät direkt an die Steckdose hängen, aus der Wechselspannung (AC) kommt.
 
-#### ISDT 608AC
+Hat dein Ladegerät kein integriertes Netzteil, musst du es an ein Netzteil anschließen, dass die Wechselspannung aus der Steckdose zuvor in Gleichspannung (DC) konvertiert. Für den Anfang willst du ein Ladegerät mit integriertem Netzteil.
 
-Das günstigste Netzteil, dass sich zu kaufen lohnt.
+#### Empfehlungen (Ladegerät)
+
+##### ISDT 608AC
+
+Das günstigste Ladegerät, dass sich zu kaufen lohnt.
 
 - circa 65€
 - 50W über integriertes Netzteil
 - 200W über externes Netzteil
 
-#### HOTA D6 Pro
+##### HOTA D6 Pro
 
 - circa 100€
 - 200W über integriertes Netzteil (nur Pro-Version)
 - 650W über externes Netzteil
 - 2 Ausgänge
 
-#### SkyRC Q200
+##### SkyRC Q200
 
 - circa 150€
+- 200W über integriertes Netzteil
+- 300W über externes Netzteil
 - 4 Ausgänge
 
-#### Netzteil
+### paralleles Laden
 
-#### Parallel Board
+Wenn du mehr Akkus mit der gleichen Spannung und grob der gleichen Kapazität hast, kannst du dir überlegen, ob du dir ein sog. "parallel charging board" oder "Para-Board" zulegst. Das ist eine Platine, die mehrere Akkus miteinander verbindet, sodass sie für das Ladegerät wie ein einziger Akku aussehen. Das heißt, du kannst dein Ladegerät auf mehr Ampere einstellen.
+
+Rechenbeispiel:
+
+Du hast 5 Akkus ja 1000 mah. Lädst du diese einzeln mit je einem Coulomb, musst du dein Ladegerät auf 1 Ampere einstellen. Der Ladevorgang wird etwa eine Stunde pro Akku brauchen, also 5 Stunden insgesamt.
+
+Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1 Coulomb zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.
+
+**!!ACHTUNG!!**
+
+Beim parallelen Laden ist besondere Vorsicht geboten.
+
+- Du kannst ausschließlich Akkus mit gleicher Zell-Anzahl parallel laden.
+- Die Akkus sollten annähernd gleiche Kapazität haben.
+- Die Akkus sollten einen annähernd gleichen Ladezustand haben. Die einzelnen Zellen sollten höchstens 0.1 Volt Abweichung zueinander haben.
+- Keiner der Akkus sollte eine beschädigte Zelle haben, andernfalls kann es sein, dass du Zelle an gleicher Stelle in den anderen Akkus ebenfalls beschädigst.
 
 ## Drohne Teil 2
 
@@ -938,7 +973,7 @@ Wenn du bei dem Hobby bleibst, solltest du dir überlegen, ob du die Drohne mitt
 
 ##### Mittelklasse
 
-Ab der Mittelklasse gehe ich davon aus, dass dein Budget eine digitale .
+Ab der Mittelklasse gehe ich davon aus, dass dein Budget ein digitales Video-Übertragungssystem beinhaltet.
 
 - Frame: Diatone Roma F5
 - Motor: Xing2
