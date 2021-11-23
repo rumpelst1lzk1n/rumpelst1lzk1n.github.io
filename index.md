@@ -868,13 +868,13 @@ Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten
 
 Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behlätnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.
 
-Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPos beträgt diese Spannung 3,8 Volt.
-
 | Munitionskiste | BatSafe | Blumentopf |
 | ------ |------- | -------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ammunition_box.jpg" alt="Munitionskiste" width="200"/> | <img src="https://modster.at/media/image/ba/b7/bb/285566_MODSTER_BAT_Safe_Lipo_Tresor_Mini_MODSTER_Bat_Safe_Mini292011.jpg" alt="BatSafe" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flowerpot_1.jpg" alt="Blumentopf" width="200"/> |
 
 Wichtig bei der Aufbewahrung ist, die Akkus **NIEMALS** druckdicht zu verpacken. Sonst hast du eine Rohrbombe. Wenn dir Munitionskiste Luftdichtigkeit verspricht, bohr ein paar Löcher oder entferne die Dichtung an einigen Stellen, damit im Fall eines Brandes der Druck geziehlt entweichen kann.
+
+Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPos beträgt diese Spannung 3,8 Volt.
 
 ### Ladegeräte
 
@@ -1009,9 +1009,15 @@ Bei einem Kumpel ist _mindestens_ ein Kasten Bier fällig.
 
 ### Löten
 
-Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen.
+Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
+
+Wenn du dich beim Löten unwohl fühlst, gibt es auch Übungsplatinen. Dann verbrennst du beim ersten mal nicht gleich teure Chips.
+
+Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleihaltigem. Dazu sollte das Lötzinn Flussmittel enthalten.
 
 ### Drohnenrucksack
+
+Es gibt spezielle Rucksäcke für Drohnen. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Drohnen außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
 
 ## Rechtliches
 
