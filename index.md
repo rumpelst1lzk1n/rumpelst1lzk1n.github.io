@@ -1011,7 +1011,7 @@ Bei einem Kumpel ist _mindestens_ ein Kasten Bier fällig.
 
 Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
-Wenn du dich beim Löten unwohl fühlst, gibt es auch Übungsplatinen. Dann verbrennst du beim ersten mal nicht gleich teure Chips.
+> *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
 Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleihaltigem. Dazu sollte das Lötzinn Flussmittel enthalten.
 
@@ -1160,7 +1160,6 @@ Der Themenbereich FPV ist voller Anglizismen
 - Teuer ist erst gut, wenn man lang genug fliegt um Unterschiede erkennen zu können.
 - Lern deinen Kopter am besten beim ersten Aufbau kennen.
 - Deinen ersten Kopter kannst du auch fertig kaufen. Doch bedenke: Wenn du ihn crasht musst du ihn selber reparieren wenn du schnell wieder in der Luft sein willst.
-- Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 - Umso schlechter du deine eigenen Kopter kennst desto weniger wirst du fliegen.
 - Für den Kauf von Einzelteilen gilt: Bei Motoren und Armen immer 2 mehr bestellen.
 - Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
