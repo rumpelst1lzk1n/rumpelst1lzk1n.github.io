@@ -920,10 +920,10 @@ Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku m
 
 Wenn du dir ein Para-Board holst, achte darauf, dass
 
-1) die XT-Anschlüsse mit Auto-Sicherungen abgesichert sind und
+1) die XT-Anschlüsse mit Auto-Sicherungen und
 2) die Balancer-Anschlüsse mit selbst-zurücksetzenden Polymer-Sicherungen
 
-abgesichert sind.
+abgesichert sind. Damit vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.
 
 |HGLRC Thor Pro| Uruav Blacklight|
 | ----- | ----- |
