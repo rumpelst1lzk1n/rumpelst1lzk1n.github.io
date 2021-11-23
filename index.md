@@ -1049,7 +1049,7 @@ Den großen Drohnenführerschein (Kategorie "A2") brauchst du als Anfänger defi
 
 Der Schein kostet abhängig vom Anbieter der Schulung 200-300€. Gegebenenfalls noch mehr, wenn die Schulung mehr ist als ein Online-Kurs und z.B. auch noch Präsenzunterricht beinhaltet.
 
-Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen fliegen. Und du bekommst leichter eine Sondergenehmigung von der Luftfahrbehörde. Braucht es eigentlich nur, wenn du professionell (z.B. als Auftragsarbeit) fliegst.
+Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen fliegen. Und du bekommst leichter eine Sondergenehmigung von der Luftfahrtbehörde. Braucht es eigentlich nur, wenn du professionell (z.B. als Auftragsarbeit) fliegst.
 
 ### Vereine
 
