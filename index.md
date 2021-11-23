@@ -631,7 +631,7 @@ Wenn 3" der kleine Bruder ist, so ist 7" der große Bruder. Hier wird die Teilea
 
 Unauffällig ist anders. Wenn so ein Gerät auf dich zu kommt, geh in Deckung. Und wenn du es steuerst, bleib verdammt nochmal weg von den Leuten.
 
-Das Gerät erreicht höhere Geschwindigkeiten als ein 5" und tut sich bei Verfolgungsjagden mit Autos z.B. deutlich leichter, die mit zu halten.
+Das Gerät erreicht höhere Geschwindigkeiten als ein 5" und tut sich bei Verfolgungsjagden mit Autos z.B. deutlich leichter, die Geschwindigkeit mit zu halten.
 
 Auch kann eine 7"-Drohne deutlich mehr Gewischt zusätzlich tragen wie z.B. ein schweres Akku-Pack um mehrere Kilometer weit auf Berge zu fliegen.
 
