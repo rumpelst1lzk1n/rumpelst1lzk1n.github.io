@@ -918,6 +918,17 @@ Du hast 5 Akkus ja 1000 mah. Lädst du diese einzeln mit je einem Coulomb, musst
 
 Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1 Coulomb zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.
 
+Wenn du dir ein Para-Board holst, achte darauf, dass
+
+1) die XT-Anschlüsse mit Auto-Sicherungen abgesichert sind und
+2) die Balancer-Anschlüsse mit selbst-zurücksetzenden Polymer-Sicherungen
+
+abgesichert sind.
+
+|HGLRC Thor Pro| Uruav Blacklight|
+| ----- | ----- |
+| <img src="https://cdn.shopify.com/s/files/1/2672/8290/products/hglrc-thor-lipo-battery-balance-charger-board-pro-40a-xt60-xt30-plug-2-6s-integrated-with-lipo-discharger-for-imax-b6-isdt-q6-nano-hota-d6-pro-p6-736094_540x.jpg" alt="HGLRC Thor Pro" width="300"/> | <img src="https://img.uruav.com/uruav/products/original/202011/08D1CA88-E62C-42DF-477C-9FCF3BB13E25.png" alt="HGLRC Thor Pro" width="300"/> |
+
 **!!ACHTUNG!!**
 
 Beim parallelen Laden ist besondere Vorsicht geboten.
