@@ -1119,11 +1119,11 @@ Der Themenbereich FPV ist voller Anglizismen
 
 #### Tutorials / Blogger
 
-- https://oscarliang.com/ (FPV allgemein, viele Tutorials)
-- https://blog.seidel-philipp.de/ (FPV allgemein)
-- https://kamikatze-fpv.de/ (Fokus auf Team Blacksheep)
-- https://www.fpvknowitall.com/ (Joshua Bardwell Einkaufsliste)
-- https://betaflight.de/docs/knowledge-base/
+- [https://oscarliang.com/](https://oscarliang.com/) (FPV allgemein, viele Tutorials)
+- [https://blog.seidel-philipp.de/](https://blog.seidel-philipp.de/) (FPV allgemein)
+- [https://kamikatze-fpv.de/](https://kamikatze-fpv.de/) (Fokus auf Team Blacksheep)
+- [https://www.fpvknowitall.com/](https://www.fpvknowitall.com/) (Joshua Bardwell Einkaufsliste)
+- [https://betaflight.de/docs/knowledge-base/](https://betaflight.de/docs/knowledge-base/)
 
 #### Tune Presets
 
