@@ -918,13 +918,14 @@ Du hast 5 Akkus ja 1000 mah. Lädst du diese einzeln mit je einem Coulomb, musst
 
 Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1 Coulomb zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.
 
-Wenn du dir ein Para-Board holst, achte darauf, dass
+Wenn du dir ein Para-Board holst, achte auf folgende Punkte
 
-1) die XT-Anschlüsse mit Auto-Sicherungen und
-2) die Balancer-Anschlüsse mit selbst-zurücksetzenden Polymer-Sicherungen und
-3) du sowohl Anschlüsse für Akkus mit XT60 wie auch mit XT30 hast.
+ - Die XT-Anschlüsse sollten mit Auto-Sicherungen abgesichert sein.
+ - Die Balancer-Anschlüsse sollten mit selbst-zurücksetzenden Polymer-Sicherungen abgesichert sein.
+ - Das Board sollte Anschlüsse für XT60 und XT30 haben.
+ - Die verfügbaren Balancer-Ports sollten für unterschiedliche Akku-Größen (idR 2-6S) ausgelegt sein.
 
-abgesichert sind. Damit vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.
+Durch die Sicherungen vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.
 
 Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weitere Vorteile. Ein gutes Board dient gleichzeitig als Adapter von XT60 (den die meisten Ladegeräte als Ausgang haben) auf XT30. Zudem schützt du die Anschlüsse deines Ladegeräts vor dem Ausleiern; ein Para-Board steckst du deutlich weniger oft an als die Akkus, die du in das Para-Board selbst steckst.
 
@@ -938,7 +939,7 @@ Beim parallelen Laden ist besondere Vorsicht geboten.
 
 - Du kannst ausschließlich Akkus mit gleicher Zell-Anzahl parallel laden.
 - Die Akkus sollten annähernd gleiche Kapazität haben.
-- Die Akkus sollten einen annähernd gleichen Ladezustand haben. Die einzelnen Zellen sollten höchstens 0.1 Volt Abweichung zueinander haben.
+- Die Akkus sollten einen annähernd gleichen Ladezustand haben. Die einzelnen Zellen sollten höchstens 0.1 Volt Abweichung zueinander haben. **VOR DEM ANSTECKEN PRÜFEN!**
 - Keiner der Akkus sollte eine beschädigte Zelle haben, andernfalls kann es sein, dass du Zelle an gleicher Stelle in den anderen Akkus ebenfalls beschädigst.
 
 ## Drohne Teil 2
