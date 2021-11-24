@@ -921,9 +921,12 @@ Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku m
 Wenn du dir ein Para-Board holst, achte darauf, dass
 
 1) die XT-Anschlüsse mit Auto-Sicherungen und
-2) die Balancer-Anschlüsse mit selbst-zurücksetzenden Polymer-Sicherungen
+2) die Balancer-Anschlüsse mit selbst-zurücksetzenden Polymer-Sicherungen und
+3) du sowohl Anschlüsse für Akkus mit XT60 wie auch mit XT30 hast.
 
 abgesichert sind. Damit vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.
+
+Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weitere Vorteile. Ein gutes Board dient gleichzeitig als Adapter von XT60 (den die meisten Ladegeräte als Ausgang haben) auf XT30. Zudem schützt du die Anschlüsse deines Ladegeräts vor dem Ausleiern; ein Para-Board steckst du deutlich weniger oft an als die Akkus, die du in das Para-Board selbst steckst.
 
 |HGLRC Thor Pro| Uruav Blacklight|
 | ----- | ----- |
