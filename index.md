@@ -5,22 +5,21 @@
 <!-- TOC -->
 
 - [Einleitung](#einleitung)
-- [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
+- [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
 - [Einkaufen](#einkaufen)
-  - [Chinashops](#chinashops)
-  - [Europäische Shops](#europäische-shops)
-  - [Ebay Kleinanzeigen](#ebay-kleinanzeigen)
+  - [China-Shops](#china-shops)
+  - [Europäische Shops](#europ%C3%A4ische-shops)
+  - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
 - [Fernbedienung](#fernbedienung)
   - [Formfaktor](#formfaktor)
   - [Funkprotokoll](#funkprotokoll)
-  - [OpenTX](#opentx)
-  - [Empfehlungen (Funke)](#empfehlungen-funke)
+  - [Empfehlungen Funke](#empfehlungen-funke)
 - [Simulatoren](#simulatoren)
 - [Videosystem](#videosystem)
   - [Allgemein](#allgemein)
   - [Analog](#analog)
   - [DJI](#dji)
-  - [SharkByte](#sharkbyte)
+  - [SharkByte / HDZero](#sharkbyte--hdzero)
   - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
 - [Flugmodi](#flugmodi)
@@ -31,28 +30,33 @@
 - [Drohne / Quad / Copter](#drohne--quad--copter)
   - [Klassen](#klassen)
   - [Komponenten](#komponenten)
-- [Software](#software)
+- [Software Funkfernbedienung](#software-funkfernbedienung)
+  - [OpenTX](#opentx)
+  - [EdgeTX](#edgetx)
+  - [FreedomTX](#freedomtx)
 - [Akkus](#akkus)
   - [Akku-Aufbau](#akku-aufbau)
   - [Sicherheit](#sicherheit)
-  - [Ladegeräte](#ladegeräte)
+  - [Ladegeräte](#ladeger%C3%A4te)
+  - [paralleles Laden](#paralleles-laden)
 - [Drohne Teil 2](#drohne-teil-2)
   - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
   - [Eigenbau](#eigenbau)
   - [Build on Demand](#build-on-demand)
-- [Zusatzausrüstung](#zusatzausrüstung)
-  - [Löten](#löten)
+- [Zusatzausrüstung](#zusatzausr%C3%BCstung)
+  - [Löten](#l%C3%B6ten)
   - [Drohnenrucksack](#drohnenrucksack)
 - [Rechtliches](#rechtliches)
-  - [Führerscheine](#führerscheine)
+  - [Führerscheine](#f%C3%BChrerscheine)
   - [Vereine](#vereine)
-- [3D-Druck](#3d-druck)
+- [D-Druck](#d-druck)
 - [Jenseits der Drohne](#jenseits-der-drohne)
 - [Glossar](#glossar)
 - [Linkliste](#linkliste)
   - [Youtube-Channel](#youtube-channel)
   - [Websites](#websites)
   - [Discord Server](#discord-server)
+  - [OpenSource Projekte](#opensource-projekte)
 - [Sonstiges](#sonstiges)
   - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
 
@@ -64,7 +68,7 @@ Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermit
 
 Vorweg: Das Hobby kann teuer sein. Plane mit mindestens 500€ für einen absoluten Einsteiger-Setup oder 1000-1500€ für ein gutes Setup.
 
-Das Dokument hat eine ziemliche Länge, daher hat der liebe remove_me das in seiner unnachahmlichen Art kurz gefasst.
+Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in seiner unnachahmlichen Art kurz gefasst.
 
 ## SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
@@ -82,7 +86,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe remove_me das in sei
 
 In dem Abschnitt gehe ich kurz darauf ein, wie du überhaupt an Drohnen und Zubehör kommst.
 
-### Chinashops
+### China-Shops
 
 Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
 
@@ -127,21 +131,21 @@ Die großen einschlägigen deutschen Shops über die du immer wieder stolperst s
 - [fpv24.com](https://www.fpv24.com/de/)
 - ...
 
-### Ebay Kleinanzeigen
+### EBay Kleinanzeigen
 
 Hier lohnt es die Augen offen zu halten.
-Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen.
-Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
+Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen. Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
 Wenn du mit dem Guide durch bist, kannst du viele Sachen auch ganz gut einschätzen.
 Meist braucht man für gute Käufe etwas Erfahrung...
+
 Gerne kannst du auch Rückfragen dazu im [pr0 Discord](https://discord.gg/uBh3QsnqF5) stellen.
 
 ## Fernbedienung
 
 Du willst fliegen? **Nein**, willst du nicht.
 
-Du willst erstmal im Simulator üben. Wenn du ein Gamepad daheim hast, kannst du direkt dir auf Steam einen der vielen Simulatoren holen. Ein Gamepad ist besser als nichts, aber eigentlich willst du eine echte Funkfernbedienung. Diese verhält sich von den Sticks deutlich anders als ein Gamepad. Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
+Du willst erst mal im Simulator üben. Wenn du ein Gamepad daheim hast, kannst du direkt dir auf Steam einen der vielen Simulatoren holen. Ein Gamepad ist besser als nichts, aber eigentlich willst du eine echte Funkfernbedienung. Diese verhält sich von den Sticks deutlich anders als ein Gamepad. Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
 
 Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernbedienung ist eine idR einmalige Anschaffung, die dich sehr lange begleiten wird.
 
@@ -149,7 +153,7 @@ Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernb
 
 ### Formfaktor
 
-Als vorherschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen!
+Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen!
 
 Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 
@@ -178,14 +182,14 @@ Wenn du unbedingt eine Drohne fliegen willst, die einen Empfänger mit einem die
 
 #### Modern
 
-Bei den modernen Übertragungsprotokollen ist die Frequenz nahezu irrelevant. Außer um wirklich die letzten Prozent beim Racen raus zu kitzeln, wirst du die höhere Übertragungsfrequenz bei 2.4 Ghz nicht spüren. Ähnlich verhält es sich bei der höheren Reichweite von 900Mhz. Beide Frequenzen gehen mit den modernen Protokollen weiter als deine Videoverbindung.
+Bei den modernen Übertragungsprotokollen ist die Frequenz nahezu irrelevant. Außer um wirklich die letzten Prozent beim Rennen fliegen raus zu kitzeln, wirst du die höhere Übertragungsfrequenz bei 2.4 Ghz nicht spüren. Ähnlich verhält es sich bei der höheren Reichweite von 900Mhz. Beide Frequenzen gehen mit den modernen Protokollen weiter als deine Videoverbindung.
 
 - TBS Crossfire (900Mhz)
 - TBS Tracer (2.4Ghz)
 - ELRS (900Mhz und 2.4Ghz)
 - ImmersionRC Ghost (2.4Ghz)
 
-TBS Crossfire ist das älteste und erwachsenste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine kompfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.
+TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine komfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.
 
 TBS Tracer ist wie Crossfire nur auf 2.4Ghz. Die TBS Mambo hat Tracer bereits eingebaut. Alles andere funktioniert wie bei Crossfire.
 
@@ -194,13 +198,15 @@ Es gibt Sender/Empfänger für 2.4Ghz und 900Mhz. Sender und Empfänger müssen 
 
 Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Warnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
 
-### OpenTX
-
-OpenTX ist ein Betriebssystem für Funkfernbedienungen. Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.
-
-Funken ohne OpenTX (oder Derivat) sind irrelevant.
-
 ### Empfehlungen (Funke)
+
+Wenn du dir eine Funkfernbedienung holst, solltest du darauf achten, dass diese mit OpenTX oder einem Derivat davon läuft.
+
+OpenTX ist ein Betriebssystem für Funkfernbedienungen und hat sich bei FPV-Drohnen als Quasi-Standard etabliert. Für Funken mit diesem Betriebssystem wirst du online jede Menge Hilfestellungen finden.
+
+Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.
+
+> *Anm. rumpelst1lzk1n*: Funken ohne OpenTX (oder Derivat davon) sind irrelevant.
 
 Bei den genannten Funken ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
@@ -460,7 +466,7 @@ Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also ega
 | --- |
 | DJI FPV Brille |
 
-Das DVR der Brille kann man auch schon ganz gut zum herumzeigen verwenden.
+Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
 
 #### Videosender
 
@@ -470,7 +476,7 @@ Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer
 | -------- | -------- |
 | ![AirUnit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/DJIairunit1_2000x.jpg) | ![Vista Unit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/2_45ba11d1-79c7-441d-a81f-287561bb5f59_2000x.jpg) |
 
-Der Videosenderkann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernbedienung benutzt werden. Eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
+Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernbedienung benutzt werden. Eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
 #### Kamera
 
@@ -482,13 +488,15 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-### SharkByte
+### SharkByte / HDZero
 
-SharkByte ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt.
+SharkByte (aka. HDZero) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die eigentliche Firma hinter der Technologie (HDZero) aber von FatShark abgenabelt. Neue Produkte entstehen unabhängig von FatShark.
 
 >*Anm. rumpelst1lzk1n*: Das Bild ist gut aber die Hardware ist noch nicht so ausgereift/etabliert wie DJI. Persönlich würde ich einem Neueinsteiger aktuell noch davon abraten.
 
 Anders als bei Analog und DJI gibt es zum gegenwärtigen Zeitpunkt keine fertigen Drohnen mit diesem System.
+
+Das System befindet sich aktuell (Ende 2021) in einem sehr vielversprechendem Stadium. Viele Früheinsteiger erhoffen sich Anfang 2022 große Sprünge mit neuen Videosendern, Kameras und Empfängern.
 
 #### Videosender
 
@@ -503,9 +511,9 @@ Richtig interessant wird das System, wenn Videosender in üblichen Formfaktoren 
 
 #### Empfänger
 
-Für Sharkbyte gibt es 2 Empfänger, die beide circa 250€ kosten.
+Für SharkByte gibt es 2 Empfänger, die beide circa 250€ kosten.
 
-Das eine ist eine Brille, die Fatshark Scout HD. Diese hat einen Sharkbyte-Empfänger fest verbaut. Obwohl sie einer analogen Brille ähnlich sieht, unterstützt ausschließlich SharkByte sie kein analoges Videosignal.
+Das eine ist eine Brille, die Fatshark Scout HD. Diese hat einen SharkByte-Empfänger fest verbaut. Obwohl sie einer analogen Brille ähnlich sieht, unterstützt ausschließlich SharkByte sie kein analoges Videosignal.
 
 Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
 
@@ -541,8 +549,8 @@ Als Cinematic bezeichnet man allgemein einen entspannten Flugstil ohne große ak
 
 ### Race
 
-Mit FPV-Drohnen werden Rennen ausgetragen. Mehrere Piloten fliegen gegeneinander um die Wette durch einen Hindernisparcour. Dieser besteht oft aus Slaloms und Toren, die es in einer bestimmten Abfolge zu durchfliegen gilt.
-Da sich die Drohne aber im dreidimensionalen Raum bewegen kann, findest du hier auch Hindernisse, die bei Rennen mit ergebundenen Fahrzeugen eher unüblich sind.
+Mit FPV-Drohnen werden Rennen ausgetragen. Mehrere Piloten fliegen gegeneinander um die Wette durch einen Hindernisparcours. Dieser besteht oft aus Slaloms und Toren, die es in einer bestimmten Abfolge zu durchfliegen gilt.
+Da sich die Drohne aber im dreidimensionalen Raum bewegen kann, findest du hier auch Hindernisse, die bei Rennen mit erdgebundenen Fahrzeugen eher unüblich sind.
 
 > *Anm. rumpelst1lzk1n*: Außer vielleicht das Rennen wird von Red Bull veranstaltet.
 
@@ -621,7 +629,7 @@ Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst 
 
 **DER** Standard. Das Gewicht einer üblichen 5" Drohne liegt irgendwo zwischen 500 und 700 Gramm. Die Höchstgeschwindigkeit liegt bei circa 120km/h.
 
-Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht gleich einen Finger absäbeln, aber sie werden es nachhaltig versuchen, wenn du dumm genug bist, in sie zu greifen. Schnittwunden und Prellungen inbegriffen.
+Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht gleich einen Finger ab säbeln, aber sie werden es nachhaltig versuchen, wenn du dumm genug bist, in sie zu greifen. Schnittwunden und Prellungen inbegriffen.
 
 90% der Videos, die du auf Youtube findest, entstanden mit einer 5" Drohne, da diese leicht eine GoPro tragen kann. Für diese Größe findest du die meisten Motoren, Propeller, etc.
 
@@ -653,7 +661,7 @@ Wenn du deine Drohne reparieren, umbauen oder komplett selbst bauen möchtest, s
 
 #### Rahmen / Frame
 
-Der Frame besteht aus in Epoxidharz eingelegten Karbonfaßern. Wie ein Tuningteil beim Auto, leicht aber trotzdem sehr stabil. Die Karbonfaßern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
+Der Frame besteht aus in Epoxidharz eingelegten Karbonfasern. Wie ein Tuningteil beim Auto, leicht aber trotzdem sehr stabil. Die Karbonfasern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
 
 Die meisten Frames bestehen aus 4 Armen, einer Top-Plate, einer Bottom-Plate und ggf. noch einem Gegenstück, welches die Arme gegen die Bottom-Plate fixiert. Dazu kommt noch eine Halterung für die Kamera, die entweder aus Karbon oder Kunststoff (meists TPU) gefertigt sind.
 Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) verbunden.
@@ -687,9 +695,9 @@ Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen 
 
 #### Flight Controller / FC
 
-Der Flight Controller ist ein Mikrokontroller der die unterschiedlichen elektronischen Komponenten deiner Drohne zusammenbringt.
+Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektronischen Komponenten deiner Drohne zusammenbringt.
 
-Das Gyroskop liefert die Lageinformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit die Drohne in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.
+Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit die Drohne in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.
 
 Die mit Abstand häufigste Steuersoftware ist Betaflight. Es gibt noch andere Software, der Themenkomplex hat aber weiter unten ein eigenes Kapitel.
 
@@ -729,21 +737,21 @@ Der Antrieb unseres Copters. Hier gibt es einige Zahlen, die kennen sollte.
 
 ##### Motor-Größe
 
-1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namenhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
+1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namenhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
 
 Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaften. Flache, breite Motoren bleiben kühler, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden wärmer, reagieren aber schneller. Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet.
 
-Die Motor-Größe wird üblicherweise an der größe der Propeller fest gemacht. Für 5"-Drohnen haben sich die Größen 2207 und 2306 etabliert.
+Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für 5"-Drohnen haben sich die Größen 2207 und 2306 etabliert.
 
 ##### KV
 
-Mit KV sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Proeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
+Mit KV sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Propeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
 
 Für 5"-Drohnen haben sich Werte zwischen 1700 und 2500 KV für Akkus mit 14,8 bis 22,4 Volt etabliert. Die Motoren haben in ihren Beschreibungen häufig auch, für wie viele Akkuzellen sie ausgelegt sind. Dazu später mehr.
 
-Die KV werden über Anzahlen an Wicklungen um den Stator erreicht. Häufig wirst du die äußerlich identischen Motoren finden, die mit einer unterschließlichen Anzahl an KV angeboten werden.
+Die KV werden über Anzahlen an Wicklungen um den Stator erreicht. Häufig wirst du die äußerlich identischen Motoren finden, die mit einer unterschiedlichen Anzahl an KV angeboten werden.
 
-Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es im Drohnenbereich üblich ist.
+Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es bei Drohnen üblich ist.
 Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt Strom. KV bezeichnet die Anzahl der Umdrehungen pro Minute, ab welcher der Motor 1 Volt Spannung ausgibt.
 
 ##### Stator und Magneten
@@ -752,13 +760,13 @@ Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt St
 
 #### Propeller
 
-Die Propeller sind mit das markanteste Merkmal einer Drohne. Ihre Größe wird in angloamerkikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
+Die Propeller sind mit das markanteste Merkmal einer Drohne. Ihre Größe wird in angloamerikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
 
 Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß die Drohne ist, über die gesprochen wird.
 
 ##### Kennzahlen
 
-Neben dem Durchmesser sind die Anzahl der Propellerblätter sowie deren Steigung die Kennzahlen für einen Probeller.
+Neben dem Durchmesser sind die Anzahl der Propellerblätter sowie deren Steigung die Kennzahlen für einen Propeller.
 
 Die Anzahl der Blätter eines Motors ist offensichtlich. 2-Blatt gelten als besonders effizient, 3 Blatt sind der Standard als Kompromiss aus Effizienz und Leistung. Propeller mit mehr Blättern findet man meistens bei CineWhoops, da diese eine größere Laufruhe versprechen.
 
@@ -766,7 +774,7 @@ Durchmesser und Steigung (Pitch) sind weniger offensichtlich. Ähnlich wie der D
 
 ##### Drehrichtung
 
-Ein Propellerset besteht normalerweise aus 4 Propellern. 2 davon sind für die Drehung im Uhrzeigersinn (CW, clockwise), 2 für die Drehung gegen den Uhrzeigersind (CCW, counter clockwise).
+Ein Propellerset besteht normalerweise aus 4 Propellern. 2 davon sind für die Drehung im Uhrzeigersinn (CW, clockwise), 2 für die Drehung gegen den Uhrzeiger sind (CCW, counter clockwise).
 
 Die Propeller müssen auf der Drohne so montiert sein, dass sich die 2 Diagonal befindlichen in die gleiche Richtung drehen. Siehe dazu die Grafik im Abschnitt `Motorsteuerung / Electronic Speed Controller / ESC`.
 
@@ -792,7 +800,29 @@ GPS ist für den Anfang als optional zu betrachten. Es ermöglicht abhängig von
 
 Vielleicht gerätst du in die Verlockung, optische Anbauteile an der Drohne zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
 
-## Software
+## Software (Funkfernbedienung)
+
+In diesem Abschnitt schauen wir uns die Software deiner Funkfernbedienung näher an.
+
+### OpenTX
+
+Eine Open-Source-Software für Funkfernbedienungen. Alle oben empfohlenen Funkfernbedienungen laufen mit dieser Software.
+
+Initiiert wurde OpenTX von der Firma FrSky. Allerdings wird das Projekt inzwischen weitestgehend unabhängig von diesem Hersteller weiterentwickelt. FrSky verwendet auf neueren Funken kein OpenTX mehr.
+
+#### OpenTX Companion
+
+Die Software "OpenTX Companion" wird auf deinem Rechner installiert. Mit dieser kannst du deine Funke aktualisieren, Einstellungen der Funke direkt am Rechner vornehmen und ein Backup dieser anfertigen.
+
+Das Einstellen am Rechner ist insbesondere für Funken ohne oder mit nur sehr kleinem Display praktisch.
+
+### EdgeTX
+
+EdgeTX ist eine Abspaltung von OpenTX mit dem Ziel, die Entwicklung schneller voranzutreiben.
+
+### FreedomTX
+
+Ebenfalls eine Abspaltung von OpenTX, die von TBS speziell auf ihre eigenen Funken Tango (2) und Mambo angepasst wurde. Die Anpassungen sollen eigentlich auch in OpenTX / EdgeTX zurück fließen. Längerfristiges Ziel von TBS ist es, OpenTX bzw. EdgeTX direkt zu nutzen.
 
 ## Akkus
 
@@ -860,7 +890,7 @@ Ein größerer Akku heißt nicht automatisch längere Flugzeit. Irgendwann ist d
 
 Wenn du dir einen fertigen Copter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus die Drohne ausgelegt ist. Wenn du deinen Copter selbst baust, schau dir ähnliche Fertig-Copter an, was für diese empfohlen wird.
 
-Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten" geworben. Die tatsächliche Leistungsfähigkeit wird mit der aktuellen Temperatur, dem Datum oder der Anzahl der Kinder des Vorarbeiters multipliziert. Renomierte Hersteller, auf deren Angaben du dich eigentlich verlassen kannst sind Tattu, China Hobby Line (CNHL) und GnB.
+Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten" geworben. Die tatsächliche Leistungsfähigkeit wird mit der aktuellen Temperatur, dem Datum oder der Anzahl der Kinder des Vorarbeiters multipliziert. Renommierte Hersteller, auf deren Angaben du dich eigentlich verlassen kannst sind Tattu, China Hobby Line (CNHL) und GnB.
 
 ### Sicherheit
 
@@ -878,7 +908,7 @@ Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist di
 
 Zudem empfiehlt es sich, einen kleinen Akku-Tester griffbereit zu haben. Auch unterwegs.
 
-| LiPo-Tester (Premium) | LiPo-Tester (einfach) | 
+| LiPo-Tester (Premium) | LiPo-Tester (einfach) |
 | ------ |------- |
 | <img src="https://www.isdt.co/wp-content/uploads/2018/11/bg-8s.jpg" alt="ISDT BG-8S" width="200"/> | <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/l/o/low-voltage-alarm-black-color-91011000001-0-2.jpg" alt="LiPo Tester" width="200"/> |
 
@@ -926,10 +956,10 @@ Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku m
 
 Wenn du dir ein Para-Board holst, achte auf folgende Punkte
 
- - Die XT-Anschlüsse sollten mit Auto-Sicherungen abgesichert sein.
- - Die Balancer-Anschlüsse sollten mit selbst-zurücksetzenden Polymer-Sicherungen abgesichert sein.
- - Das Board sollte Anschlüsse für XT60 und XT30 haben.
- - Die verfügbaren Balancer-Ports sollten für unterschiedliche Akku-Größen (idR 2-6S) ausgelegt sein.
+- Die XT-Anschlüsse sollten mit Auto-Sicherungen abgesichert sein.
+- Die Balancer-Anschlüsse sollten mit selbst-zurücksetzenden Polymer-Sicherungen abgesichert sein.
+- Das Board sollte Anschlüsse für XT60 und XT30 haben.
+- Die verfügbaren Balancer-Ports sollten für unterschiedliche Akku-Größen (idR 2-6S) ausgelegt sein.
 
 Durch die Sicherungen vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.
 
@@ -990,11 +1020,11 @@ Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammen
 
 #### Builds
 
-Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium.
+Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
 
 ##### Budget
 
-Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog. Gegebenenfalls auch noch mit einem Legacy-Funk-Protokol, weil das deine Funke von Haus aus kann und du kein Modul brauchst.
+Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog. Gegebenenfalls auch noch mit einem Legacy-Funk-Protokol, weil das deine Funke von Haus aus kann (sofern du den Empfehlungen oben gefolgt bist) und du kein Modul brauchst.
 
 - Frame: TBS Source One
 - Motor: Emax Eco2 oder XingE
@@ -1013,6 +1043,8 @@ Ab der Mittelklasse gehe ich davon aus, dass dein Budget ein digitales Video-Üb
 - Receiver: ELRS
 
 ##### Premium
+
+Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen.
 
 - Frame: ImpulseRC Apex 5
 - Motor: ETHIX Mr Steele Stout
@@ -1173,6 +1205,21 @@ Der Themenbereich FPV ist voller Anglizismen
 
 - [pr0-FPV](https://discord.gg/uBh3QsnqF5)
 - [ELRS Community](https://discord.gg/dS6ReFY)
+
+### OpenSource Projekte
+
+#### Flight Controller Software
+
+- [Ardupilot](https://github.com/ArduPilo/)
+- [Betaflight](https://github.com/betaflight)
+- [Emuflight](https://github.com/emuflight)
+- [iNAV](https://github.com/iNavFlight)
+
+#### Funkfernbeidienungs-Software
+
+- [EdgeTX](https://github.com/EdgeTX)
+- [OpenTX](https://github.com/opentx)
+- [FreedomTX](https://github.com/tbs-fpv/freedomtx)
 
 ## Sonstiges
 
