@@ -605,6 +605,8 @@ Der Rahmen besteht üblicherweise aus Plastik (Spritzdruckguss) und hält schon 
 
 Ideal für Innen oder kleinere Gärten.
 
+Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine echte Überlegung wert, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren vorausgesetzt.
+
 #### Cinewhoop
 
 Eher behäbig. Für die verwendeten Propeller relativ große Motoren. Verfügt über einen Propellerschutz, der zudem oft mit Schaumstoff gepolstert ist.
@@ -1013,6 +1015,26 @@ Powertrain bezeichnet die Drohne ohne Videosender und Empfänger. Das Paket best
 Gibt es ganz selten bei Drohnen von namenhaften Herstellern, ist eher auf dem Gebrauchtmarkt zu finden.
 
 #### Empfehlungen (Drohne kaufen)
+
+Für fertige Drohnen gilt immer die Empfehlung, sich Testberichte dazu auf Youtube anzusehen.
+
+##### Eachine Trashcan
+
+Wenn du im Winter einsteigst, solltest du dir überlegen, ob du dir einen TinyWhoop holst und damit innen fliegst. Die "Trashcan" von Eachine ist ein populärer Vertreter und kann mit 1S oder 2S Akkus geflogen werden.
+
+> *Anm. rumpelst1lzk1n*: Auf XT30 umlöten und dann mit 2S 350mah LiPos fliegen. Ein Traum.
+
+##### Happymodel Moblite7
+
+Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden.
+
+##### iFlight Nazgul 5 (Evoque)
+
+Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile.
+
+##### Diatone Roma F5 (V2)
+
+Ähnlich dem iFlight Nazgul. In Sachen Qualität der Komponenten steht der Roma F5 dem Nazgul in nichts nach. Die größte Frage ist, welchen man zum aktuellen Zeitpunkt günstiger bekommt und welcher Frame einem besser gefällt.
 
 ### Eigenbau
 
