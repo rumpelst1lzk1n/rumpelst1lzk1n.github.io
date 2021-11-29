@@ -468,6 +468,8 @@ Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also ega
 
 Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
 
+Es gibt auch Adapter, um ein Receiver-Modul (siehe oben) mit der DJI-Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
+
 #### Videosender
 
 Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann. Die Vista Unit ist zu bevorzugen und passt auch leichter in die meisten Frames.
@@ -870,9 +872,13 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Coptern ist XT60 üblich.
 
+Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ. Daneben gibt es noch BT2, der einen geringeren Widerstand als PH2 verspricht. Fertige Copter mit BT2 wirst du aber nur von BetaFPV finden, der Anschluss ist etwas proprietär.
+
 #### Ballancer-Kabel
 
-An diesem Kabel findet sich ein Stecker vom Typ JST XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Lade-Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.
+An diesem Kabel findet sich ein Stecker vom Typ JST-XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Lade-Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.
+
+Wenn du einen 1S-Akku hast, entfällt der Balancer-Anschluss natürlich.
 
 #### Input & Output
 
@@ -1022,15 +1028,17 @@ Für fertige Drohnen gilt immer die Empfehlung, sich Testberichte dazu auf Youtu
 
 Wenn du im Winter einsteigst, solltest du dir überlegen, ob du dir einen TinyWhoop holst und damit innen fliegst. Die "Trashcan" von Eachine ist ein populärer Vertreter und kann mit 1S oder 2S Akkus geflogen werden.
 
+Mit 2S kann man sie auch außen ganz gut fliegen.
+
 > *Anm. rumpelst1lzk1n*: Auf XT30 umlöten und dann mit 2S 350mah LiPos fliegen. Ein Traum.
 
 ##### Happymodel Moblite7
 
-Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden.
+Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden, hat aber aufgrund des geringen Gewichts eine vergleichsweise lange Flugzeit.
 
 ##### iFlight Nazgul 5 (Evoque)
 
-Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile.
+Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Drohne mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
 
 ##### Diatone Roma F5 (V2)
 
