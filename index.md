@@ -343,6 +343,8 @@ Die mit großem Abstand günstigste Möglichkeit, in FPV einzusteigen. Wenn dein
 
 Brille 80€, Videosender 10€, Kamera 15€ wäre so ein Minimal-Setup.
 
+Neben dem Geld ist auch noch das Gewicht ein Argument für einen Analog-Setup. Die leichtesten anlogen Videosender wiegen circa 1 Gramm.
+
 #### Videosender
 
 Es gibt eine Vielzahl unterschiedlicher Videosendern von unterschiedlichen Herstellern.
@@ -862,7 +864,7 @@ Wird ein Akku entladen, verringert sich nach und nach die Spannung. Weiter herun
 
 #### Stromanschluss
 
-An diesem Kabel hängt der Stecker, der deine Drohne mit Strom versorgt.
+Dieser Stecker versorgt deine Drohne mit Strom.
 
 Der am weitesten verbreitete Anschlusstyp für Drohnen-Akkus ist `XT`. Es gibt ihn in 3 Größen, XT30, XT60 und XT90. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.
 
@@ -872,7 +874,7 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Coptern ist XT60 üblich.
 
-Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ. Daneben gibt es noch BT2, der einen geringeren Widerstand als PH2 verspricht. Fertige Copter mit BT2 wirst du aber nur von BetaFPV finden, der Anschluss ist etwas proprietär.
+Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ.
 
 #### Ballancer-Kabel
 
