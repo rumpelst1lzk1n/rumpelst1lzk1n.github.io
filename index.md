@@ -1038,6 +1038,10 @@ Mit 2S kann man sie auch außen ganz gut fliegen.
 
 Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden, hat aber aufgrund des geringen Gewichts eine vergleichsweise lange Flugzeit.
 
+##### GepRC Phantom
+
+Schöner kleiner Toothpick mit gut Power. Anfängerfreundlich, verzeiht Crashes und wirkt nicht bedrohlich, wenn du damit z.B. im Park cruisen möchtest.
+
 ##### iFlight Nazgul 5 (Evoque)
 
 Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Drohne mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
@@ -1112,9 +1116,11 @@ Juristisch betrachtet bist du mit einem unbemannten Fluggerät ("unmanned aerial
 
 Grundsätzlich gilt: Sei kein Arschloch, dann wird in den allermeisten Fällen darüber hinweg gesehen, wenn du mal nicht ganz so legal unterwegs bist.
 
-Halte Abstand zu unbeteiligten, damit sie sich von deiner kinderfressenden Killerdrohne nicht bedroht oder beobachtet fühlen.
+Halte Abstand zu Unbeteiligten, damit sie sich von deiner kinderfressenden Killerdrohne nicht bedroht oder beobachtet fühlen.
 
-Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Der einfachste Weg ist, zu gehen.
+Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Zudem setzt bei manchen auch einfach das Hirn aus, wenn sie den Begriff "Drohne" hören. Der einfachste Weg ist, zu gehen.
+
+![drone retard](img/drone_retard.PNG)
 
 ### Führerscheine
 
