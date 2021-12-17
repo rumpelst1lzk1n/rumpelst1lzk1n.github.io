@@ -830,6 +830,44 @@ EdgeTX ist eine Abspaltung von OpenTX mit dem Ziel, die Entwicklung schneller vo
 
 Ebenfalls eine Abspaltung von OpenTX, die von TBS speziell auf ihre eigenen Funken Tango (2) und Mambo angepasst wurde. Die Anpassungen sollen eigentlich auch in OpenTX / EdgeTX zurück fließen. Längerfristiges Ziel von TBS ist es, OpenTX bzw. EdgeTX direkt zu nutzen.
 
+## Software (Flight Controller)
+
+Es gibt mehreres an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokusieren uns hier aber auf unsere FPV-Drohnen.
+
+Neben der nachfolgend genannten Software gibt es noch weitere meists proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
+
+Ob eine bestimmte Software deinen Flight Controller unterstützt, findest du meistens auf der Seite der Software.
+
+### Betaflight
+
+Mit **Abstand** die populärste Software.
+
+Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *Betaflight Configurator*.
+
+Als Einsteiger wirst du sehr wahrscheindlich zuerst mit dieser Firmware Kontakt haben.
+
+### KISS / FETtec
+
+Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, hat aber allgemein einen guten Ruf.
+
+> *Anm. Panda.FPV*: Bei Puffi muss man immer aufpassen. Der versucht einen auf die dunkle Seite zu ziehen. Ruckzuck fliegst du KISS wenn du nicht aufpasst.
+
+### Emuflight
+
+Ähnlich Betaflight aber mehr auf TinyWhoops ausgelegt.
+
+Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *Emuflight Configurator*.
+
+### iNAV
+
+Ähnlich Betaflight aber mit mehr Fokus auf Navigations-Features, wie das Halten der Position, automatische Rückkehr zum Startort, Abfliegen von Wegpunkten, ...
+
+Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *iNAV Configurator*.
+
+### Ardupilot
+
+Wie iNAV nur noch umfangreicher auf den autonomen Betrieb des Geräts ausgerichtet. Unterstützt neben diversen Fluggeräten auch U-Boote, Rover, ...
+
 ## Akkus
 
 Akkus sind die Stromlieferanten unserer Fluggeräte.
