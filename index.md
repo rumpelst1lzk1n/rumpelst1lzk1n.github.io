@@ -691,11 +691,17 @@ Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 | | Flywoo | Lumenier |
 | | GepRC | Ummagawd |
 
-Die Liste erhebt bei weitem keinen Anspruch auf Vollständigkeit.
+Die Liste erhebt keinen Anspruch auf Vollständigkeit.
+
+> *Anm. rumpelst1lzk1n*: Zudem gibt es im Preissegment über den Premium-Herstellern noch die Exoten. Diese können nochmal deutlich mehr kosten, weil sie in kleineren Stückzahlen gefertigt werden oder sehr spezielle Eigenschaften/Formen aufweisen. Insbesondere z.B. Cinelifter. Bleib für den Einstieg bei bewährtem.
 
 Alle oben genannten Hersteller fertigen **eigene** Designs. Insbesondere auf Banggood und Aliexpress gibt oft auch Klone der Premium-Hersteller in mehr oder weniger guter Qualität und mit mehr oder weniger gutem Support.
 
-Bei einem Premium-Hersteller kann man erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt. Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen.
+Bei den Mittelklasse- und Premium-Herstellern kann man davon ausgehen, dass eigentlich jedes Teil des Frames bis hin zu den Schrauben auch separat als Ersatzteil erhältlich ist.
+
+Bei einem Premium-Hersteller kann man zudem erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt.
+
+Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen.
 
 Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen "TBS Source One". Die Schnittmuster dieses Frames sind hochoffiziell OpenSource und frei erhältlich. Jeder kann (und darf) den Frame herstellen.
 
@@ -1092,6 +1098,8 @@ Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Ite
 
 Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammensetzung und die Komponenten. Das hilft ungemein, wenn du die Drohne nach einer Bruchlandung reparieren musst.
 
+> *Anm. Puffi*: Für den Kauf von Einzelteilen gilt: Bei Motoren und Armen immer 2 mehr bestellen.
+
 #### Builds
 
 Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
@@ -1305,7 +1313,6 @@ Der Themenbereich FPV ist voller Anglizismen
 - Lern deinen Kopter am besten beim ersten Aufbau kennen.
 - Deinen ersten Kopter kannst du auch fertig kaufen. Doch bedenke: Wenn du ihn crasht musst du ihn selber reparieren wenn du schnell wieder in der Luft sein willst.
 - Umso schlechter du deine eigenen Kopter kennst desto weniger wirst du fliegen.
-- Für den Kauf von Einzelteilen gilt: Bei Motoren und Armen immer 2 mehr bestellen.
 - Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
 - Betrachte deinen Kopter nach dem Erstflug als verloren! Du wirst sonst nie dein komplettes Potenzial nutzen.
 
