@@ -12,6 +12,7 @@
   - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
 - [Fernbedienung](#fernbedienung)
   - [Formfaktor](#formfaktor)
+  - [Modi](#modi)
   - [Funkprotokoll](#funkprotokoll)
   - [Empfehlungen Funke](#empfehlungen-funke)
 - [Simulatoren](#simulatoren)
