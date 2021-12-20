@@ -1393,7 +1393,6 @@ Der Themenbereich FPV ist voller Anglizismen
 - Lern deinen Kopter am besten beim ersten Aufbau kennen.
 - Deinen ersten Kopter kannst du auch fertig kaufen. Doch bedenke: Wenn du ihn crasht musst du ihn selber reparieren wenn du schnell wieder in der Luft sein willst.
 - Umso schlechter du deine eigenen Kopter kennst desto weniger wirst du fliegen.
-- Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
 - Betrachte deinen Kopter nach dem Erstflug als verloren! Du wirst sonst nie dein komplettes Potenzial nutzen.
 
 ---
