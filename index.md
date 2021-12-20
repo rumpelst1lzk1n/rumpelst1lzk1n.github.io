@@ -34,6 +34,12 @@
   - [OpenTX](#opentx)
   - [EdgeTX](#edgetx)
   - [FreedomTX](#freedomtx)
+- [Software Flight Controller](#software-flight-controller)
+  - [Betaflight](#betaflight)
+  - [KISS / FETtec](#kiss--fettec)
+  - [Emuflight](#emuflight)
+  - [iNAV](#inav)
+  - [Ardupilot](#ardupilot)
 - [Akkus](#akkus)
   - [Akku-Aufbau](#akku-aufbau)
   - [Sicherheit](#sicherheit)
@@ -57,6 +63,7 @@
   - [Websites](#websites)
   - [Discord Server](#discord-server)
   - [OpenSource Projekte](#opensource-projekte)
+  - [Hersteller Dokumentationen](#hersteller-dokumentationen)
 - [Sonstiges](#sonstiges)
   - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
 
@@ -842,19 +849,27 @@ Es gibt mehreres an unterschiedlicher Steuersoftware für Flight Controller. Tei
 
 Neben der nachfolgend genannten Software gibt es noch weitere meists proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
-Ob eine bestimmte Software deinen Flight Controller unterstützt, findest du meistens auf der Seite der Software.
+In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Drohnen) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller. Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
+
+In manchen Fällen kannst du auch zwischen unterschiedlicher Software hin und her wechseln. Ob eine bestimmte Software deinen Flight Controller unterstützt, findest du meistens auf der Seite der Software.
+
+Bevor du mit der Software herum spielst, stell sicher, dass du vorher ein Backup der Einstellungen deines Copters gemacht hast.
+
+> *Anm. rumpelst1lzk1n*: Kein Backup, kein Mitleid.
 
 ### Betaflight
 
-Mit **Abstand** die populärste Software.
+Mit **Abstand** die populärste Software für Flight Controller.
 
 Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *Betaflight Configurator*.
 
-Als Einsteiger wirst du sehr wahrscheindlich zuerst mit dieser Firmware Kontakt haben.
+Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Fertige Drohnen verwenden das meistens. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab geflasht.
 
 ### KISS / FETtec
 
-Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, hat aber allgemein einen guten Ruf.
+Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+
+> *Anm. Puffi*: KISS/FETTec is super!!11!
 
 > *Anm. Panda.FPV*: Bei Puffi muss man immer aufpassen. Der versucht einen auf die dunkle Seite zu ziehen. Ruckzuck fliegst du KISS wenn du nicht aufpasst.
 
@@ -1304,6 +1319,12 @@ Der Themenbereich FPV ist voller Anglizismen
 - [EdgeTX](https://github.com/EdgeTX)
 - [OpenTX](https://github.com/opentx)
 - [FreedomTX](https://github.com/tbs-fpv/freedomtx)
+
+### Hersteller Dokumentationen
+
+- [Diatone](https://www.diatone.us/apps/help-center)
+- [iFlight](https://drive.google.com/drive/folders/1r3MNTBNYSzGeRXQg45j4IJVoW1Xjk7Y0)
+- [HGLRC](https://www.hglrc.com/pages/download)
 
 ## Sonstiges
 
