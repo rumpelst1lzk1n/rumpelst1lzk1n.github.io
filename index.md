@@ -250,7 +250,7 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 
-#### Radiomater TX12
+#### Radiomaster TX12
 
 - ca. 90€
 - etwas kleiner als Vollformat
