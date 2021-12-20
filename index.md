@@ -174,7 +174,7 @@ Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 
 | Vollformat | Gamepad |
 | -------- | -------- |
-| <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/t/x/tx16s_hall-1.jpg" alt="Radiomaster TX16S" width="300"/> | <img src="https://www.team-blacksheep.com/img/gallery/A7300949.JPG" alt="TBS Tango 2" width="300"/> |
+| <img src="./img/radiomaster_tx16s.png" alt="Radiomaster TX16S" width="300"/> | <img src="./img/tbs_tango2.png" alt="TBS Tango 2" width="300"/> |
 
 ### Modi
 
