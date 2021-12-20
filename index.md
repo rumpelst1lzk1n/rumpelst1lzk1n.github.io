@@ -1166,6 +1166,8 @@ Ab der Mittelklasse gehe ich davon aus, dass du für den Videoempfang bereits ei
 
 Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen. Kauf dir lieber 2 mal ein 300€ Quad als einmal ein 600€ Quad.
 
+> *Anm. Puffi*: Teuer ist erst gut, wenn man lang genug fliegt um Unterschiede erkennen zu können.
+
 - Frame: ImpulseRC Apex 5
 - Motor: ETHIX Mr Steele Stout
 - ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4
@@ -1388,7 +1390,6 @@ Der Themenbereich FPV ist voller Anglizismen
 
 ### Puffis gesammelte Weisheiten
 
-- Teuer ist erst gut, wenn man lang genug fliegt um Unterschiede erkennen zu können.
 - Lern deinen Kopter am besten beim ersten Aufbau kennen.
 - Deinen ersten Kopter kannst du auch fertig kaufen. Doch bedenke: Wenn du ihn crasht musst du ihn selber reparieren wenn du schnell wieder in der Luft sein willst.
 - Umso schlechter du deine eigenen Kopter kennst desto weniger wirst du fliegen.
