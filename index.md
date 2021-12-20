@@ -310,7 +310,7 @@ Wenn du vermutest, dass dein Videosignal von WLAN gestört wird, kann es sich lo
 
 "R" (Raceband) ist die beliebteste Kanal-Gruppe für den Flug mit mehreren anderen Piloten. Wenn du zusammen mit anderen Piloten fliegst, solltet ihr vorab ausmachen, wer welchen Kanal verwendet und das auch **vor** dem Abheben verifizieren.
 
-Beim anschalten des Videosenders kann dieser auch auf anderen als den ausgewählten Frequenzen senden. Vermeide es daher, deinen Videosender in unmittelbarer Nähe von anderen Piloten einzuschalten.
+Beim Anschalten des Videosenders kann dieser auch auf anderen als den ausgewählten Frequenzen senden. Vermeide es daher, deinen Videosender in unmittelbarer Nähe von anderen Piloten einzuschalten.
 
 ![FPV Channel Übersicht](https://oscarliang.com/ctt/uploads/2021/03/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-sharkbyte-05-21.jpg)
 
@@ -377,7 +377,7 @@ Der Vorteil bei analogen Systemen ist, dass du die unterschiedlichen Videosender
 
 Besonders hervorzuheben sind die Videosender der Unify-Reihe von TBS und die ImmersionRC Tramp. Sie gelten mit als die Besten.
 
-Für den Anfang tut es eigentlich jeder, aber spätestens wenn du mit anderen fliegst, willst du einen halbwegs guten. Manche No-Name-VTX haben ein sehr "unsauberes" Signal und streiem auch über den eigentlich eingestellten Kanal hinaus in andere Frequenzen. Wenn das Budget wirklich knapp ist und du den billigsten VTX willst, achte zumindest darauf, dass dieser mit [OpenVTX](https://github.com/OpenVTx/OpenVTx) als Firmware beworben wird.
+Für den Anfang tut es eigentlich jeder, aber spätestens wenn du mit anderen fliegst, willst du einen halbwegs guten. Manche No-Name-VTX haben ein sehr "unsauberes" Signal und streut auch über den eigentlich eingestellten Kanal hinaus in andere Frequenzen. Wenn das Budget wirklich knapp ist und du den billigsten VTX willst, achte zumindest darauf, dass dieser mit [OpenVTX](https://github.com/OpenVTx/OpenVTx) als Firmware beworben wird.
 
 #### Brille
 
@@ -404,7 +404,7 @@ In dieser Kategorie bekommst du ab ca ~80€ eine halbwegs taugliche Einsteigerb
 
 Beim Binocular-Style hast du ein Display pro Auge. Brillen in dieser Bauform sind deutlich kompakter aber auch deutlich teurer.
 
-Eine Brille passt da eher selten drunter, dafür kannst du oft den Augenabstand und die Dioptrin in der Optik der Brille direkt einstellen.
+Eine Brille passt da eher selten drunter, dafür kannst du oft den Augenabstand und die Dioptrien in der Optik der Brille direkt einstellen.
 
 Vorteile:
 
@@ -481,7 +481,7 @@ DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein golde
 
 Bei den Brillen unterscheidet man zwischen V1 und V2. V2 ist nur relevant, wenn du die DJI-FPV-Drohne fliegen willst. Sonst tut es V1 auch. Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht crasht. Wo du klassische FPV-Drohne gegen Bäume donnern und (falls überhaupt mal etwas kaputt geht) selbst reparieren kannst, ist die DJI-FPV-Drohne ein Plastikbomber, den du für teuer Geld zu DJI in die Reparatur schicken musst.
 
-> *Anm. remove_me*: Scheiss auf die!
+> *Anm. remove_me*: Scheiß auf die!
 
 Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also egal, ob du die Brille v1 oder v2 kaufst.
 
@@ -642,7 +642,7 @@ Darauf ausgelegt, in der näheren Umgebung von Menschen geflogen zu werden und d
 
 Für die Propellergröße relativ geringes Gewicht und eine filigrane Bauweise.
 
-Die Propellergröße kann von 2.5" bis 5" reichen. Gerade die größeren sind weniger etwas zum harten Crashen. Aber super um einfach irgendwo entspannt durch die Natur zu gondeln.
+Die Propellergröße kann von 2.5" bis 5" reichen. Gerade die Größeren verzeihen harte Abstürze auf Beton o.Ä. nicht. Aber super um einfach irgendwo entspannt durch die Natur zu gondeln.
 
 #### 3 Zoll
 
@@ -688,9 +688,9 @@ Wenn du deine Drohne reparieren, umbauen oder komplett selbst bauen möchtest, s
 
 #### Rahmen / Frame
 
-Der Frame besteht aus in Epoxidharz eingelegten Karbonfasern. Wie ein Tuningteil beim Auto, leicht aber trotzdem sehr stabil. Die Karbonfasern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
+Der Frame besteht aus in Epoxidharz eingelegten Karbonfasern. Wie ein Tuning-Bauteil beim Auto, leicht aber trotzdem sehr stabil. Die Karbonfasern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
 
-Die meisten Frames bestehen aus 4 Armen, einer Top-Plate, einer Bottom-Plate und ggf. noch einem Gegenstück, welches die Arme gegen die Bottom-Plate fixiert. Dazu kommt noch eine Halterung für die Kamera, die entweder aus Karbon oder Kunststoff (meists TPU) gefertigt sind.
+Die meisten Frames bestehen aus 4 Armen, einer Top-Plate, einer Bottom-Plate und ggf. noch einem Gegenstück, welches die Arme gegen die Bottom-Plate fixiert. Dazu kommt noch eine Halterung für die Kamera, die entweder aus Karbon oder Kunststoff (meistens TPU) gefertigt sind.
 Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) verbunden.
 
 | ![Source One](https://www.team-blacksheep.com/img/gallery/A7301673.JPG) |
@@ -770,7 +770,7 @@ Der Antrieb unseres Copters. Hier gibt es einige Zahlen, die kennen sollte.
 
 ##### Motor-Größe
 
-1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namenhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
+1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
 
 Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaften. Flache, breite Motoren bleiben kühler, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden wärmer, reagieren aber schneller. Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet.
 
@@ -859,9 +859,9 @@ Ebenfalls eine Abspaltung von OpenTX, die von TBS speziell auf ihre eigenen Funk
 
 ## Software (Flight Controller)
 
-Es gibt mehreres an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokusieren uns hier aber auf unsere FPV-Drohnen.
+Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokusieren uns hier aber auf unsere FPV-Drohnen.
 
-Neben der nachfolgend genannten Software gibt es noch weitere meists proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
+Neben der nachfolgend genannten Software gibt es noch weitere meistens proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
 In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Drohnen) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller. Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
 
