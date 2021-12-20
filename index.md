@@ -152,11 +152,15 @@ Gerne kannst du auch Rückfragen dazu im [pr0 Discord](https://discord.gg/uBh3Qs
 
 Du willst fliegen? **Nein**, willst du nicht.
 
-Du willst erst mal im Simulator üben. Wenn du ein Gamepad daheim hast, kannst du direkt dir auf Steam einen der vielen Simulatoren holen. Ein Gamepad ist besser als nichts, aber eigentlich willst du eine echte Funkfernbedienung. Diese verhält sich von den Sticks deutlich anders als ein Gamepad. Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
-
-Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernbedienung ist eine idR einmalige Anschaffung, die dich sehr lange begleiten wird.
+Du willst erst mal im Simulator üben.
 
 > *Anm. remove_me*: **GLAUB ALLEN! ERST SIMULATOR! DANN DROHNE!!**
+
+Wenn du ein Gamepad hast, kannst du direkt dir auf Steam einen der vielen Simulatoren holen. Ein Gamepad ist besser als nichts, aber eigentlich willst du eine echte Funkfernbedienung. Diese verhält sich von den Sticks anders als ein Gamepad.
+
+Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
+
+Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernbedienung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird.
 
 ### Formfaktor
 
@@ -167,6 +171,14 @@ Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 | Vollformat | Gamepad |
 | -------- | -------- |
 | <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/t/x/tx16s_hall-1.jpg" alt="Radiomaster TX16S" width="300"/> | <img src="https://www.team-blacksheep.com/img/gallery/A7300949.JPG" alt="TBS Tango 2" width="300"/> |
+
+### Modi
+
+Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernbedienung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst.
+
+Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernbedienung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst. Für den Wechsel zwischen "Mode 1/3" und "Mode 2/4" müssen mechanische Anpassungen in der Funke vorgenommen werden, damit die Gas-Achse nicht mehr zentriert wird.
+
+![radio_modes](./img/radio_modes.drawio.png)
 
 ### Funkprotokoll
 
