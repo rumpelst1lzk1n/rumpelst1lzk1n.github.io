@@ -51,6 +51,7 @@
   - [Eigenbau](#eigenbau)
   - [Build on Demand](#build-on-demand)
 - [Zusatzausrüstung](#zusatzausr%C3%BCstung)
+  - [Bit-Set](#bit-set)
   - [Löten](#l%C3%B6ten)
   - [Drohnenrucksack](#drohnenrucksack)
 - [Rechtliches](#rechtliches)
@@ -1132,33 +1133,48 @@ Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammen
 
 Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
 
+Die Builds konzentrieren sich auf gängige Frames und Hardware. Beim Flight Controller verwenden wir etwas mit Betaflight.
+
+Natürlich kannst du auch einen super exotischen Frame oder ganz ausgefallene Motoren verwenden. Dann erwarte aber nicht, dass du groß Hilfe dafür findest.
+
 ##### Budget
 
 Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog. Gegebenenfalls auch noch mit einem Legacy-Funk-Protokol, weil das deine Funke von Haus aus kann (sofern du den Empfehlungen oben gefolgt bist) und du kein Modul brauchst.
 
 - Frame: TBS Source One
 - Motor: Emax Eco2 oder XingE
-- ESC & FC: Diatone Mamba F405 Stack
+- ESC & FC: JHEMCU F405 Stack
 - Receiver: FrSky XM+
 - Videosender: HappyModel OVX300
+- Kamera: Caddx Ratel, Runcam Racer, Foxeer Racer
 
 Wenn du bei dem Hobby bleibst, solltest du dir überlegen, ob du die Drohne mittelfristig auf ELRS (2.4 Ghz) umbaust.
 
 ##### Mittelklasse
 
-Ab der Mittelklasse gehe ich davon aus, dass dein Budget ein digitales Video-Übertragungssystem beinhaltet.
+Ab der Mittelklasse gehe ich davon aus, dass du für den Videoempfang bereits ein digitales System hast. Entweder DJI oder HDZero. Siehe oben.
 
 - Frame: Diatone Roma F5
-- Motor: Xing2
+- Motor: iFlight Xing2
+- ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4
 - Receiver: ELRS
+- Videosystem: passend zum Videoempfänger
 
 ##### Premium
 
-Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen.
+Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen. Kauf dir lieber 2 mal ein 300€ Quad als einmal ein 600€ Quad.
 
 - Frame: ImpulseRC Apex 5
 - Motor: ETHIX Mr Steele Stout
+- ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4
 - Receiver: ELRS, Tracer oder Crossfire
+- Videosystem: passend zum Videoempfänger
+
+#### Tune
+
+Nach dem Zusammenbauen der Drohne solltest du auch noch in Betaflight das Flugverhalten einstellen. Das kann man auf die Spitze treiben, für die ersten paar Monate im Hobby reicht aber ein Standard-Tune. Links zu unterschiedlichen Quellen für Tunes findest du in der [Linkliste](#linkliste).
+
+> *Anm. Puffi*: Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
 
 ### Build on Demand
 
@@ -1170,6 +1186,12 @@ Bei einem Kumpel ist _mindestens_ ein Kasten Bier fällig.
 
 ## Zusatzausrüstung
 
+### Bit-Set
+
+Du wirst vor allem viele kleine Sechskant-Schrauben haben. Wenn du hier noch nichts hast, leg dir ein kleines Sortiment an entsprechenden Schraubenziehern oder Bits zu. Insbesondere die Hex-Bits für 1.5, 2.0, 2.5 und 3.0 sind hier relevant.
+
+Ein gutes allgemeines Set, dass dir sicher auch außerhalb von FPV gute Dienste leisten wird, ist z.B. das [iFixit "Mako Precision Bit Set"](https://store.ifixit.de/products/mako-driver-kit-64-precision-bits).
+
 ### Löten
 
 Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
@@ -1177,6 +1199,14 @@ Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
 Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleihaltigem. Dazu sollte das Lötzinn Flussmittel enthalten.
+
+Gute kompakte Lötkolben sind z.B.
+
+- TS100
+- Sequre Mini SQ-001
+- Sequre Mini D60
+
+Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben um unterwegs zu löten. Alternativ haben die Netzteile, die dir hier im Guide empfohlen werden auch eine DC-Power-Funktion, mit der die Lötkolben betrieben werden können.
 
 ### Drohnenrucksack
 
