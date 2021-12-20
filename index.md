@@ -859,7 +859,7 @@ Ebenfalls eine Abspaltung von OpenTX, die von TBS speziell auf ihre eigenen Funk
 
 ## Software (Flight Controller)
 
-Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokusieren uns hier aber auf unsere FPV-Drohnen.
+Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokussieren uns hier aber auf unsere FPV-Drohnen.
 
 Neben der nachfolgend genannten Software gibt es noch weitere meistens proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
@@ -1389,3 +1389,9 @@ Mitwirkende:
 - [Panda](https://www.youtube.com/channel/UCh5bOX3_hTCsVLJxf4cm5qA) (Discord: Panda.#9780)
 - [Puffi](https://www.youtube.com/channel/UCnS1f_wUUGjGD3vL1L-AKFA) (Discord: Puffi#7127)
 - [remove_me](https://www.youtube.com/channel/UCV0hukgWm_BdC_gvOPZSa9w) (Discord: remove_me#4028)
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="HC56FX97RNX8U" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
+</form>
