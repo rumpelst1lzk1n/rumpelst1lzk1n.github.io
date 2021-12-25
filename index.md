@@ -6,6 +6,7 @@
 
 - [Einleitung](#einleitung)
 - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
+- [Hilfe bekommen](#hilfe-bekommen)
 - [Einkaufen](#einkaufen)
   - [China-Shops](#china-shops)
   - [Europäische Shops](#europ%C3%A4ische-shops)
@@ -92,6 +93,16 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 - **Schritt 4.2**: Passende Akkus für die Drohne (4 Stück sollten es schon sein).
 - **Schritt 5**: übe übe übe - bis alles da ist.
 - **Schritt 6**: rausgehen - fliegen.
+
+## Hilfe bekommen
+
+Die meisten Online-Communities, die sich mit FPV beschäftigen, sind sehr hilfsbereit. Was aber nicht heißt, dass du das als deine persönliche Support-Hotline missverstehen solltest. Niemand hat sich verpflichtet, dir zu helfen oder deine Fragen zu beantworten und ein bisschen eigenständiges Denken ist eine Grundvoraussetzung.
+
+Wenn du bei Fragen ausschließlich ein RTFM oder einfach einen Link bekommst, ist das der dezente Hinweis, dass du die Antwort auf deine Frage auch sehr leicht selbst gefunden hättest.
+
+Passiert dir das häufiger? Dann solltest du dir vielleicht die Anleitung ["How To Ask Questions The Smart Way"](http://www.catb.org/~esr/faqs/smart-questions.html) durchlesen.
+
+TL;DR: Gib den Leuten Grund zur Annahme, dass deine Fragen ernst zu nehmen sind.
 
 ## Einkaufen
 
@@ -871,7 +882,9 @@ Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teil
 
 Neben der nachfolgend genannten Software gibt es noch weitere meistens proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
-In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Drohnen) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller. Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
+In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Drohnen) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller.
+
+Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
 
 In manchen Fällen kannst du auch zwischen unterschiedlicher Software hin und her wechseln. Ob eine bestimmte Software deinen Flight Controller unterstützt, findest du meistens auf der Seite der Software.
 
@@ -883,9 +896,13 @@ Bevor du mit der Software herum spielst, stell sicher, dass du vorher ein Backup
 
 Mit **Abstand** die populärste Software für Flight Controller.
 
-Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *Betaflight Configurator*.
+Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flightcontroller nennt sich *Betaflight Configurator*.
 
 Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Fertige Drohnen verwenden das meistens. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab geflasht.
+
+Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Treiber du für das Flashen von neuer Firmware benötigst.
+
+> *Anm. rumpelst1lzk1n*: READ THE FUCKING MANUAL!
 
 ### KISS / FETtec
 
@@ -1319,6 +1336,7 @@ Der Themenbereich FPV ist voller Anglizismen
 - [Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ)
 - [Oscar Liang](https://www.youtube.com/user/289359752)
 - [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)
+- [Painless360](https://www.youtube.com/c/Painless360)
 
 #### Marktschreier
 
