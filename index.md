@@ -53,6 +53,7 @@
   - [Build on Demand](#build-on-demand)
 - [Zusatzausrüstung](#zusatzausr%C3%BCstung)
   - [Bit-Set](#bit-set)
+  - [Prop-Tool](#prop-tool)
   - [Löten](#l%C3%B6ten)
   - [Drohnenrucksack](#drohnenrucksack)
 - [Rechtliches](#rechtliches)
@@ -1224,6 +1225,10 @@ Du wirst vor allem viele kleine Sechskant-Schrauben haben. Wenn du hier noch nic
 
 Ein gutes allgemeines Set, dass dir sicher auch außerhalb von FPV gute Dienste leisten wird, ist z.B. das [iFixit "Mako Precision Bit Set"](https://store.ifixit.de/products/mako-driver-kit-64-precision-bits).
 
+### Prop-Tool
+
+Propeller werden meistens mit einer M8-Mutter befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
+
 ### Löten
 
 Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
@@ -1260,6 +1265,8 @@ Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, gr
 
 ### Führerscheine
 
+Um unbenannte Luftfahrzeuge führen zu dürfen, gibt es 2 Führerscheine.
+
 #### der kleine Drohnenführerschein
 
 **MACH IHN!**
@@ -1290,7 +1297,7 @@ Man braucht immer wieder etwas. Halterungen für Antennen und Kameras, Landefü�
 
 Eine gute Anlaufstelle um nach Druckteilen für seinen Frame zu suchen ist [yeggi.com](https://www.yeggi.com/). Masochisten suchen auch direkt auf [thingiverse.com](https://www.thingiverse.com/), aber deren Suche ist leider wenig zuverlässig.
 
-Es ist nützlich, einen 3D-Drucker zu haben, oder jemand zu kennen, der einem Teile Drucken kann.
+Es ist nützlich, einen 3D-Drucker zu haben, oder jemand zu kennen, der einem Teile drucken kann.
 
 Wenn man selbst keinen Zugriff auf einen Drucker hat, gibt es online eine Vielzahl an Diensten, die einem die gewünschten Teile für mehr oder weniger Geld drucken.
 
