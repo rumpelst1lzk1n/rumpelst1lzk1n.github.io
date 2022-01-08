@@ -795,6 +795,9 @@ Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaft
 
 Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für 5"-Drohnen haben sich die Größen 2207 und 2306 etabliert.
 
+Einen weiteren Anhaltspunkt für die Auswahl des Motors für eine entsprechende Drohne gibt nachfolgende Grafik.
+![motor volume vs prop diameter by Chris Rosser](img/chris_rosser_motor_size_vs_prop_diameter.png)
+
 ##### KV
 
 Mit KV sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Propeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
