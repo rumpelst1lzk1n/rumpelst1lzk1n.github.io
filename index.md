@@ -850,11 +850,19 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 ##### Kondensator
 
-Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. Dieser gleicht Schwankungen bei der Spannungsversorgung aus und sorgt für ein saubereres Bild.
+Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. Dieser gleicht Schwankungen bei der Spannungsversorgung aus, sorgt bei analoger Video-Übertragung für ein saubereres Bild und kann dabei helfen, die Elektronik-Komponenten vor Schaden zu schützen.
 
 ##### GPS
 
-GPS ist für den Anfang als optional zu betrachten. Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr der Drohne zum Startpunkt.
+GPS ist für den Anfang als optional zu betrachten.
+
+Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr der Drohne zum Startpunkt (RTH / Return To Home).
+
+##### Magnetometer / Kompass
+
+Ebenso wie GPS als optional zu betrachten.
+
+Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Copters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rücker zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.
 
 ##### Heckspoiler
 
