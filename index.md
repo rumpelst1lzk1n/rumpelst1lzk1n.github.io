@@ -1,4 +1,4 @@
-# Einsteigerguide FPV (Ende 2021)
+# Einsteigerguide FPV (Anfang 2022)
 
 **WORK IN PROGRESS!!!**
 
@@ -21,7 +21,8 @@
   - [Allgemein](#allgemein)
   - [Analog](#analog)
   - [DJI](#dji)
-  - [SharkByte / HDZero](#sharkbyte--hdzero)
+  - [HDZero / Sharkbyte](#hdzero--sharkbyte)
+  - [Orqa HD](#orqa-hd)
   - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
 - [Flugmodi](#flugmodi)
@@ -239,7 +240,7 @@ TBS Tracer ist wie Crossfire nur auf 2.4Ghz. Die TBS Mambo hat Tracer bereits ei
 ELRS ist OpenSource und wird von unterschiedlichen Herstellern angeboten.
 Es gibt Sender/Empfänger für 2.4Ghz und 900Mhz. Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber die gleiche Frequenz nutzen. Das System ist noch relativ jung, aber es springen zunehmend Hersteller auf den Zug auf. Es gibt inzwischen auch vereinzelt Drohnen fertig damit zu kaufen. Das günstigste der 4 Systeme.
 
-Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Warnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
+Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
 
 ### Empfehlungen (Funke)
 
@@ -388,7 +389,7 @@ Brille 80€, Videosender 10€, Kamera 15€ wäre so ein Minimal-Setup.
 
 Neben dem Geld ist auch noch das Gewicht ein Argument für einen Analog-Setup. Die leichtesten anlogen Videosender wiegen circa 1 Gramm.
 
-#### Videosender
+#### Videosender (Analog)
 
 Es gibt eine Vielzahl unterschiedlicher Videosendern von unterschiedlichen Herstellern.
 
@@ -439,6 +440,8 @@ In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille.  L
 
 Schau dich auf dem Gebrauchtmarkt um. Viele der unten genannten Modelle kriegst du auf eBay-Kleinanzeigen recht günstig gebraucht.
 
+Wenn du mehr als 200€ für die Brille ausgibst, sollte diese über einen HDMI-Eingang verfügen um zukunftssicher für HD-Systeme zu sein (siehe unten).
+
 ###### Eachine EV800D
 
 Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Geld auszugeben.
@@ -446,7 +449,7 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 - ca. 80€
 - DVR
 - Antennen-Diversity
-- wird mit einer Patch und einer Omni-Antenne geliefert
+- wird mit einer Patchantenne und einer omnidirektionalen Antenne geliefert
 - integriertes Receiver mit Diversity, was in dieser Preisklasse nicht selbstverständlich ist
 
 ###### Skyzone Cobra X (v2)
@@ -481,7 +484,7 @@ Auf dem Gebrauchtmarkt gibt es öfter auch Pakete mit Receiver.
 - HDMI-in
 - OLED-Display (knackscharfe Farben)
 
-#### Empfänger
+#### Empfänger (Analog)
 
 Manche Brillen kommen ohne Empfänger. Hier musst du den diesen über einen Modulschacht nachrüsten.
 
@@ -515,7 +518,7 @@ Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
 
 Es gibt auch Adapter, um ein Receiver-Modul (siehe oben) mit der DJI-Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
 
-#### Videosender
+#### Videosender (DJI)
 
 Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann. Die Vista Unit ist zu bevorzugen und passt auch leichter in die meisten Frames.
 
@@ -535,17 +538,17 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-### SharkByte / HDZero
+### HDZero / Sharkbyte
 
-SharkByte (aka. HDZero) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die eigentliche Firma hinter der Technologie (HDZero) aber von FatShark abgenabelt. Neue Produkte entstehen unabhängig von FatShark.
+HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
 
 >*Anm. rumpelst1lzk1n*: Das Bild ist gut aber die Hardware ist noch nicht so ausgereift/etabliert wie DJI. Persönlich würde ich einem Neueinsteiger aktuell noch davon abraten.
 
-Anders als bei Analog und DJI gibt es zum gegenwärtigen Zeitpunkt keine fertigen Drohnen mit diesem System.
+Es gibt inzwischen erste fertige Drohnen mit diesem System.
 
-Das System befindet sich aktuell (Ende 2021) in einem sehr vielversprechendem Stadium. Viele Früheinsteiger erhoffen sich Anfang 2022 große Sprünge mit neuen Videosendern, Kameras und Empfängern.
+Das System befindet sich aktuell (Anfang 2021) in einem sehr vielversprechendem Stadium. Für 2022 zeichnen sich große Sprünge mit neuen Videosendern, Kameras und Empfängern ab.
 
-#### Videosender
+#### Videosender (HDZero)
 
 Aktuell gibt es 4 Videosender in eher unüblichen Formfaktoren.
 
@@ -556,17 +559,23 @@ Aktuell gibt es 4 Videosender in eher unüblichen Formfaktoren.
 
 Richtig interessant wird das System, wenn Videosender in üblichen Formfaktoren mit mehr Sendeleistung erhältlich werden. Diese befinden sich aktuell in der Entwicklung.
 
-#### Empfänger
+#### Empfänger (HDZero)
 
-Für SharkByte gibt es 2 Empfänger, die beide circa 250€ kosten.
+Für HDZero gibt es 2 Empfänger, die beide circa 250€ kosten.
 
-Das eine ist eine Brille, die Fatshark Scout HD. Diese hat einen SharkByte-Empfänger fest verbaut. Obwohl sie einer analogen Brille ähnlich sieht, unterstützt ausschließlich SharkByte sie kein analoges Videosignal.
+Das eine ist eine Brille, die Fatshark Scout HD. Diese hat einen HDZero-Empfänger fest verbaut. Obwohl sie einer analogen Brille ähnlich sieht, unterstützt sie ausschließlich HDZero, kein analoges Videosignal.
 
 Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
 
-| Scout HD | SharkByte Empfänger |
+| Scout HD | HDZero Empfänger |
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
+
+### Orqa HD
+
+Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
+
+Der Videoempfänger ist ein Modul ähnlich dem von HDZero, das an die Brille geschraubt wird. Der Empfänger scheint das Videosignal über HDMI ausgeben zu können, was die Kompatibilität mit analogen FPV-Brillen mit HDMI-Eingang erhöhen dürfte.
 
 ### OpenHD
 
