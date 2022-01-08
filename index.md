@@ -1413,6 +1413,8 @@ Der Themenbereich FPV ist voller Anglizismen
 
 ### OpenSource Projekte
 
+[Github-Seite dieses Guides.](https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io)
+
 #### Flight Controller Software
 
 - [Ardupilot](https://github.com/ArduPilo/)
@@ -1420,7 +1422,7 @@ Der Themenbereich FPV ist voller Anglizismen
 - [Emuflight](https://github.com/emuflight)
 - [iNAV](https://github.com/iNavFlight)
 
-#### Funkfernbeidienungs-Software
+#### Funkfernbedienungs-Software
 
 - [EdgeTX](https://github.com/EdgeTX)
 - [OpenTX](https://github.com/opentx)
