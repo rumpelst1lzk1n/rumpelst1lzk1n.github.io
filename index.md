@@ -1394,6 +1394,7 @@ Der Themenbereich FPV ist voller Anglizismen
 - [JohnnyFPV](https://www.youtube.com/channel/UC7O8KgJdsE_e9op3vG-p2dg)
 - [RotorRiot](https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw)
 - [MCK](https://www.youtube.com/channel/UCFJdwOewIZBv3dDJmhtVn1g)
+- [Botgrinder](https://www.youtube.com/c/BOTGRINDERFPV)
 
 #### Nicht eindeutig zuordenbar
 
