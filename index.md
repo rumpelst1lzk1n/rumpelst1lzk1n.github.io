@@ -5,7 +5,8 @@
 <!-- TOC -->
 
 - [Einleitung](#einleitung)
-- [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
+  - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
+  - [Was ist das für 1 Guide?](#was-ist-das-f%C3%BCr-1-guide)
 - [Hilfe bekommen](#hilfe-bekommen)
 - [Einkaufen](#einkaufen)
   - [China-Shops](#china-shops)
@@ -78,15 +79,11 @@
 
 ## Einleitung
 
-Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermitteln und hat den Anspruch, die meisten *allgemeinen* Fragen zu beantworten über die ein Neueinsteiger stolpern könnte.
-
-Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
-
 Vorweg: Das Hobby kann teuer sein. Plane mit mindestens 500€ für einen absoluten Einsteiger-Setup oder 1000-1500€ für ein gutes Setup.
 
 Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in seiner unnachahmlichen Art kurz gefasst.
 
-## SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
+### SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
 - **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Lite).
 - **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone).
@@ -97,6 +94,14 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 - **Schritt 4.2**: Passende Akkus für die Drohne (4 Stück sollten es schon sein).
 - **Schritt 5**: übe übe übe - bis alles da ist.
 - **Schritt 6**: rausgehen - fliegen.
+
+### Was ist das für 1 Guide?
+
+Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermitteln und hat den Anspruch, als Orientierungshilfe für Einsteiger zu dienen und die meisten *allgemeinen* Fragen zu beantworten über die man beim Einstieg stolpert.
+
+Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
+
+Für HowTos gibt es genügend Youtube Videos.
 
 ## Hilfe bekommen
 
