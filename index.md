@@ -1373,6 +1373,7 @@ Der Themenbereich FPV ist voller Anglizismen
 - [Oscar Liang](https://www.youtube.com/user/289359752)
 - [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)
 - [Painless360](https://www.youtube.com/c/Painless360)
+- [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)
 
 #### Marktschreier
 
