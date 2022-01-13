@@ -101,7 +101,7 @@ Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermit
 
 Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
 
-Für HowTos gibt es genügend Youtube Videos.
+Für HowTos findet ihr unten in den Links umfangreich Anlaufstellen.
 
 ## Hilfe bekommen
 
@@ -212,11 +212,11 @@ Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du a
 
 ### Funkprotokoll
 
-Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender und Empfänger müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.
+Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkferbedienung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.
 
 Funkprotokolle verwenden die Frequenzen 2.4Ghz und 900Mhz.
 
-900Mhz hat eine höhere Reichweite/bessere Penetration, wenn du hinter Bäumen oder in Gebäuden fliegst. 2.4Ghz erlaubt mehr Piloten gleichzeitig in der Luft und hat eine höhere Update-Rate, heißt, deine Eingaben werden häufiger zur Drohne geschickt.
+900Mhz hat eine höhere Reichweite/bessere Penetration, wenn du hinter Bäumen, in Gebäuden oder wirklich wirklich weit weg fliegst. 2.4Ghz erlaubt mehr Piloten gleichzeitig in der Luft und hat eine höhere Update-Rate, heißt, deine Eingaben werden häufiger zur Drohne geschickt.
 
 Falls du ein nicht von deiner Funke abgedecktes Protokoll fliegen willst, kannst du dieses mit Modulen nachrüsten. Die beiden Formfaktoren nutzen unterschiedliche Modulgrößen, "JR" bei Vollformat, "Lite" bei Gamepad.
 
