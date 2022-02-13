@@ -272,6 +272,13 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 
+#### Radiomaster Zorro
+
+- ca. 100€
+- Gamepad
+- Mehrere Protokoll-Varianten. Nimm die mit ELRS.
+- Monochrom-Display
+
 #### Radiomaster TX12
 
 - ca. 90€
