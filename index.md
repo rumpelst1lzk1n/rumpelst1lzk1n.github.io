@@ -40,7 +40,7 @@
   - [FreedomTX](#freedomtx)
 - [Software Flight Controller](#software-flight-controller)
   - [Betaflight](#betaflight)
-  - [KISS / FETtec](#kiss--fettec)
+  - [KISS & FETtec](#kiss--fettec)
   - [Emuflight](#emuflight)
   - [iNAV](#inav)
   - [Ardupilot](#ardupilot)
@@ -943,9 +943,9 @@ Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Tr
 
 > *Anm. rumpelst1lzk1n*: READ THE FUCKING MANUAL!
 
-### KISS / FETtec
+### KISS & FETtec
 
-Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+Die einzige beiden nennenswerten proprietäre Repräsentanten von Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
 
 > *Anm. Puffi*: KISS/FETTec is super!!11!
 
