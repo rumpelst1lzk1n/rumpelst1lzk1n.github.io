@@ -28,7 +28,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [Orqa HD](#orqa-hd)
   - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
-- [Flugmodi](#flugmodi)
+- [Flugstile](#flugstile)
   - [Cinematic](#cinematic)
   - [Race](#race)
   - [Freestyle](#freestyle)
@@ -620,7 +620,7 @@ Andere populäre HD-Kameras sind:
 - Insta360 Go(2)
 - Runcam Orange
 
-## Flugmodi
+## Flugstile
 
 Bevor es um die tatsächliche Drohne geht, solltest du dir bewusst machen, was du damit überhaupt machen willst.
 
@@ -1349,7 +1349,7 @@ Die wenigsten Drohnen-Piloten sind Mitglieder eines Modellbau-Vereins. Den Verei
 
 > *Anm. rumpelst1lzk1n*: Die Leute in den Modellbauvereinen haben häufig die Entwicklung mindestens der letzen 5 wenn nicht gar 10 Jahre verschlafen. Motor und Servo, mehr brauchen sie nicht, mehr verstehen sie nicht. Aber: wo unsere Fluggeräte mit Elektronik glänzen, glänzen die alten Modellbauer bei der Mechanik.
 
-## 3D-Druck
+## D-Druck
 
 Man braucht immer wieder etwas. Halterungen für Antennen und Kameras, Landefüße, etc.
 
