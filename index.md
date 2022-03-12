@@ -778,7 +778,7 @@ Bei den Mittelklasse- und Premium-Herstellern kann man davon ausgehen, dass eige
 
 Bei einem Premium-Hersteller kann man zudem erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt.
 
-Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen.
+Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen. Sei kein Arsch, kauf keine Klone.
 
 Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen "TBS Source One". Die Schnittmuster dieses Frames sind hochoffiziell OpenSource und frei erhältlich. Jeder kann (und darf) den Frame herstellen.
 
@@ -956,7 +956,7 @@ Mit **Abstand** die populärste Software für Flight Controller.
 
 Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flightcontroller nennt sich *Betaflight Configurator*.
 
-Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Fertige Drohnen verwenden das meistens. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab geflasht.
+Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Drohnen nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
 
 Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Treiber du für das Flashen von neuer Firmware benötigst.
 
@@ -969,6 +969,8 @@ Die einzige beiden nennenswerten proprietäre Repräsentanten von Flight Control
 > *Anm. Puffi*: KISS/FETTec is super!!11!
 
 > *Anm. Panda.FPV*: Bei Puffi muss man immer aufpassen. Der versucht einen auf die dunkle Seite zu ziehen. Ruckzuck fliegst du KISS wenn du nicht aufpasst.
+
+Sowohl KISS als auch FETtec haben den gleichen Ursprung. Teilweise waren die gleichen Entwickler sowohl an der Firmware von KISS als auch von FETtec beteiligt. Zwar wurden viele Komponenten inzwischen unabhängig voneinander neu entwickelt, durch den gemeinsamen Ursprung gibt es aber dennoch Ähnlichkeiten.
 
 ### Emuflight
 
@@ -986,13 +988,15 @@ Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Ko
 
 Wie iNAV nur noch umfangreicher auf den autonomen Betrieb des Geräts ausgerichtet. Unterstützt neben diversen Fluggeräten auch U-Boote, Rover, ...
 
+Als Konfigurationssoftware kommt meistens *Mission Planer* oder *QGroundControl* zum Einsatz.
+
 ## Akkus
 
 Akkus sind die Stromlieferanten unserer Fluggeräte.
 
 Man unterscheidet sie nach Anzahl der Zellen sowie nach ihrer Kapazität.
 
-Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku-Zellen, die in Reihe geschalten wurden
+Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku-Zellen, die in Reihe geschalten wurden.
 
 ### Akku-Aufbau
 
@@ -1014,7 +1018,7 @@ Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihre
 
 Bei einem LiPo-Akku beträgt die Nominalspannung **einer Zelle** 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.
 
-Wird ein Akku geladen, erhöht sich die Spannung zwischen Plus- und Minuspol. ein LiPo-Akku voll, beträgt die Spannung circa 4,2 Volt. Es gibt spezielle Akkus mit der Kennzeichnung HV (für "High-Voltage"), diese können bis 4,35 Volt geladen werden.
+Wird ein Akku geladen, erhöht sich die Spannung zwischen Plus- und Minuspol. Bei einem vollen LiPo-Akku beträgt die Spannung circa 4,2 Volt. Es gibt spezielle Akkus mit der Kennzeichnung HV (für "High-Voltage"), diese können bis 4,35 Volt geladen werden.
 
 Wird ein Akku entladen, verringert sich nach und nach die Spannung. Weiter herunter als 3,3 Volt solltest du eine Akku-Zelle nicht fliegen, sonst kannst du den Akku nachhaltig beschädigen.
 
@@ -1440,7 +1444,7 @@ Der Themenbereich FPV ist voller Anglizismen
 
 #### Tutorials / Blogger
 
-- [https://oscarliang.com/](https://oscarliang.com/) (FPV allgemein, viele Tutorials)
+- [https://oscarliang.com/](https://oscarliang.com/) (FPV allgemein, viele Tutorials, Bilder von seiner Website in diesem Guide mit freundlicher Genehmigung)
 - [https://blog.seidel-philipp.de/](https://blog.seidel-philipp.de/) (FPV allgemein)
 - [https://kamikatze-fpv.de/](https://kamikatze-fpv.de/) (Fokus auf Team Blacksheep)
 - [https://www.fpvknowitall.com/](https://www.fpvknowitall.com/) (Joshua Bardwell Einkaufsliste)
@@ -1469,6 +1473,11 @@ Der Themenbereich FPV ist voller Anglizismen
 - [Betaflight](https://github.com/betaflight)
 - [Emuflight](https://github.com/emuflight)
 - [iNAV](https://github.com/iNavFlight)
+
+#### ESC Software
+
+- [ESC Configurator](https://esc-configurator.com/) (nur in Crome-basierten Browsern unterstützt)
+- [BLHeli_32 Suite](https://github.com/bitdump/BLHeli/releases)
 
 #### Funkfernbedienungs-Software
 
