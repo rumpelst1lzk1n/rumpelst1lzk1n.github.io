@@ -522,6 +522,8 @@ DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein golde
 
 > *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler und kommt so in etwa bei 720p raus.
 
+Es gibt keine Anzeichen dafür, dass das System aktuell großartig weiterentwickelt wird. Allerdings hat es auch schon einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
+
 #### Brillen
 
 Bei den Brillen unterscheidet man zwischen V1 und V2. V2 ist nur relevant, wenn du die DJI-FPV-Drohne fliegen willst. Sonst tut es V1 auch. Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht crasht. Wo du klassische FPV-Drohne gegen Bäume donnern und (falls überhaupt mal etwas kaputt geht) selbst reparieren kannst, ist die DJI-FPV-Drohne ein Plastikbomber, den du für teuer Geld zu DJI in die Reparatur schicken musst.
@@ -566,20 +568,19 @@ HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz z
 
 Es gibt inzwischen erste fertige Drohnen mit diesem System.
 
-Das System befindet sich aktuell (Anfang 2021) in einem sehr vielversprechendem Stadium. Für 2022 zeichnen sich große Sprünge mit neuen Videosendern, Kameras und Empfängern ab.
+Das System befindet sich aktuell (Ende 2021) in einem sehr vielversprechendem Stadium. Für 2022 zeichnen sich große Sprünge mit neuen Videosendern, Kameras und Empfängern ab. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
 
 #### Videosender (HDZero)
 
-Aktuell gibt es 4 Videosender in eher unüblichen Formfaktoren.
+Aktuell gibt es 3 relevante Videosender.
 
-|Generation| TX5M.1 (20x20) | TX5R.1 (20x20) | TX5S.1 (25x25) | TX5L (30x30) |
-| --------| -------- | -------- | -------- | -------- |
-|1| ![TX5M.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5M.1VTX.jpg) | ![TX5R.1](https://www.fatshark.com/wp-content/uploads/2021/09/shark-byte-video-transmitter-tx5r1-fsv2480-02.jpg) | ![TX5S.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5S.1VTX.jpg) | |
-|2| | ![HDZero Race v2 VTX](https://shop.rc-hangar15.de/media/image/product/9667/md/hdzero-race2-vtx-fuer-shark-byte-digital-hd-pre-order~3.jpg) | | ![HDZero 1Watt freestyle VTX](./img/HDzero_freestyle_vtx.png) |
+| Race V2 (20x20) | Whoop (25x25) | Freestyle (30x30) |
+| -------- | -------- | -------- |
+| ![HDZero Race v2 VTX](https://static.wixstatic.com/media/967e02_0e44ce977be64add96eeeed77389581e~mv2.png/v1/fill/w_204,h_201,al_c,usm_0.66_1.00_0.01,enc_auto/top1_tou.png) | ![TX5S.1](https://static.wixstatic.com/media/967e02_388c829d11164f7abd2429a625bdc93e~mv2.png/v1/fill/w_223,h_162,al_c,usm_0.66_1.00_0.01,enc_auto/%E5%8D%95%E6%9D%BF1.png) | ![HDZero 1Watt freestyle VTX](./img/HDzero_freestyle_vtx.png) |
 
-Aus der ersten Generation ist eigentlich nur noch der Sender im 25x25 Format erhältlich.
+Es gibt noch ältere Hardware mit teilweise etwas unüblichen Formfaktoren. Diese ist aber nicht mehr erhältlich.
 
-Der 30x30 Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
+Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
 
 #### Empfänger (HDZero)
 
