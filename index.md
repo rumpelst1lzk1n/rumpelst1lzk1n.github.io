@@ -137,14 +137,14 @@ Nachteil: Du wartest 10-30 Tage bis die Sachen da sind.
 Es gibt auch Express-Versand, da sind die Sachen dann in ~5 Tagen da, aber der kostet mehr.
 Und es bleibt öfter im Zoll hängen. Dann kannst du auch gleich in Deutschland kaufen.
 
-#### Banggood und Aliexpress
+#### Banggood und AliExpress
 
-Bekannte Shops sind [Banggood](https://www.banggood.com/) und [Aliexpress](https://de.aliexpress.com/).
+Bekannte Shops sind [Banggood](https://www.banggood.com/) und [AliExpress](https://de.aliexpress.com/).
 
 [Banggood](https://www.banggood.com/) ist eher mit Amazon zu vergleichen. Versand und Support liegt beides bei Banggood und zumindest in den letzten Jahren leistet sich Banggood auch einen ganz ordentlichen Support. Zudem unterhält es kleinere Lagerhäuser in Europa über die vereinzelte Produkte schneller geliefert werden können.
 
-[Aliexpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
-Unterschiedliche Händler übernehmen unabhängig von Aliexpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
+[AliExpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
+Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
 
 Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen.
 
@@ -156,7 +156,7 @@ Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://if
 
 Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware.
 
-Anders als Banggood und Aliexpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen und es kann ein Gang zum nächsten Zollamt oder zur Poststelle notwendig sein. Manchmal hat man aber auch Glück.
+Anders als Banggood und AliExpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen und es kann ein Gang zum nächsten Zollamt oder zur Poststelle notwendig sein. Manchmal hat man aber auch Glück.
 
 ### Europäische Shops
 
@@ -196,7 +196,7 @@ Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernb
 
 ### Formfaktor
 
-Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen!
+Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen.
 
 Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 
@@ -216,11 +216,11 @@ Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die 
 
 Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.
 
-Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anderst zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst.
+Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst.
 
 ### Funkprotokoll
 
-Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkferbedienung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.
+Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkfernbedienung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.
 
 Funkprotokolle verwenden die Frequenzen 2.4Ghz und 900Mhz.
 
@@ -365,7 +365,7 @@ Die Sendeleistung wird üblicherweise in Milliwatt (mw) angegeben.
 
 In Europa beträgt die maximal zulässige Sendeleistung 25mw. Es gibt auch Videosender, die ein vielfaches davon unterstützen, die meisten erhältlichen Sender unterstützen bis zu 200, 400, 600 oder 1000mw. Mehr Leistung heißt mehr Reichweite und besseres Bild auf größere Distanz. Um die Reichweite zu verdoppeln, musst du die Leistung vervierfachen.
 
-Die Sendeleistung lässt herunter regeln, meistens erfolgt das über die Steuersoftware der Drohne.
+Die Sendeleistung lässt sich herunter regeln, meistens erfolgt das über die Steuersoftware der Drohne.
 
 Es obliegt dem Piloten, die gesetzlich vorgeschriebene Leistung einzuhalten.
 
@@ -772,7 +772,7 @@ Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 
 > *Anm. rumpelst1lzk1n*: Zudem gibt es im Preissegment über den Premium-Herstellern noch die Exoten. Diese können nochmal deutlich mehr kosten, weil sie in kleineren Stückzahlen gefertigt werden oder sehr spezielle Eigenschaften/Formen aufweisen. Insbesondere z.B. Cinelifter. Bleib für den Einstieg bei bewährtem.
 
-Alle oben genannten Hersteller fertigen **eigene** Designs. Insbesondere auf Banggood und Aliexpress gibt oft auch Klone der Premium-Hersteller in mehr oder weniger guter Qualität und mit mehr oder weniger gutem Support.
+Alle oben genannten Hersteller fertigen **eigene** Designs. Insbesondere auf Banggood und AliExpress gibt oft auch Klone der Premium-Hersteller in mehr oder weniger guter Qualität und mit mehr oder weniger gutem Support.
 
 Bei den Mittelklasse- und Premium-Herstellern kann man davon ausgehen, dass eigentlich jedes Teil des Frames bis hin zu den Schrauben auch separat als Ersatzteil erhältlich ist.
 
