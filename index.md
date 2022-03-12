@@ -566,12 +566,14 @@ Das System befindet sich aktuell (Anfang 2021) in einem sehr vielversprechendem 
 
 Aktuell gibt es 4 Videosender in eher unüblichen Formfaktoren.
 
-|Version| TX5M.1 (20x20) | TX5R.1 (20x20) | TX5S.1 (25x25) |
-| --------| -------- | -------- | -------- |
-|1| ![TX5M.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5M.1VTX.jpg) | ![TX5R.1](https://www.fatshark.com/wp-content/uploads/2021/09/shark-byte-video-transmitter-tx5r1-fsv2480-02.jpg) | ![TX5S.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5S.1VTX.jpg) |
-|2| | ![HDZero Race v2 VTX](https://shop.rc-hangar15.de/media/image/product/9667/md/hdzero-race2-vtx-fuer-shark-byte-digital-hd-pre-order~3.jpg) | |
+|Generation| TX5M.1 (20x20) | TX5R.1 (20x20) | TX5S.1 (25x25) | TX5L (30x30) |
+| --------| -------- | -------- | -------- | -------- |
+|1| ![TX5M.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5M.1VTX.jpg) | ![TX5R.1](https://www.fatshark.com/wp-content/uploads/2021/09/shark-byte-video-transmitter-tx5r1-fsv2480-02.jpg) | ![TX5S.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteTX5S.1VTX.jpg) | |
+|2| | ![HDZero Race v2 VTX](https://shop.rc-hangar15.de/media/image/product/9667/md/hdzero-race2-vtx-fuer-shark-byte-digital-hd-pre-order~3.jpg) | | ![HDZero 1Watt freestyle VTX](./img/HDzero_freestyle_vtx.png) |
 
-Richtig interessant wird das System, wenn Videosender in üblichen Formfaktoren mit mehr Sendeleistung erhältlich werden. Diese befinden sich aktuell in der Entwicklung.
+Aus der ersten Generation ist eigentlich nur noch der Sender im 25x25 Format erhältlich.
+
+Der 30x30 Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
 
 #### Empfänger (HDZero)
 
@@ -585,11 +587,13 @@ Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Bril
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
 
+Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestellt wird, aber der Nachfolger noch nicht erhältlich ist.
+
 ### Orqa HD
 
 Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
 
-Der Videoempfänger ist ein Modul ähnlich dem von HDZero, das an die Brille geschraubt wird. Der Empfänger scheint das Videosignal über HDMI ausgeben zu können, was die Kompatibilität mit analogen FPV-Brillen mit HDMI-Eingang erhöhen dürfte.
+Der Videoempfänger ist ein Modul ähnlich dem von HDZero, das an die Brille geschraubt wird. Der Empfänger scheint das Videosignal über HDMI ausgeben zu können, was die Kompatibilität mit analogen FPV-Brillen mit HDMI-Eingang erhöhen dürfte. Zudem kann der Empfänger auch eine proprietäre Schnittstelle zur Orqa v2-Brille verwenden.
 
 ### OpenHD
 
@@ -789,7 +793,9 @@ Das Gegenstück zu deiner Funkfernsteuerung (siehe oben). Nimmt die Steuersignal
 
 #### Videosender / VTX
 
-Das Gegenstück zu deiner FPV-Brille (siehe oben). Der Videosender ist üblicherweise an den Flight Controller mit angeschlossen. Dies ermöglicht es, dass Flugdaten (Akkukapazität, Flugmodus, GPS Koordinaten)
+Das Gegenstück zu deiner FPV-Brille (siehe oben). Der Videosender ist üblicherweise an den Flight Controller mit angeschlossen. Dies ermöglicht es, dass Flugdaten (Akkukapazität, Flugmodus, GPS Koordinaten) im Bild dargestellt werden.
+
+Bei analogem Video sind diese untrennbar in das Bild eingebrannt. Bei digitaler Bildübertragung werden die Flugdaten normalerweise separat übertragen. Damit kann das Bild auch ohne Flugdaten in der Brille gespeichert werden.
 
 #### Motorsteuerung / Electronic Speed Controller / ESC
 
