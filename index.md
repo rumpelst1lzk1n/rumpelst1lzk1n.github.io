@@ -542,7 +542,7 @@ Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernbedienung benutzt werden. Eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
-#### Kamera
+#### Kamera (DJI)
 
 Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 60FPS und Kameras mit 120FPS. Du willst eine Kamera mit 120FPS.
 
@@ -796,6 +796,12 @@ Das Gegenstück zu deiner Funkfernsteuerung (siehe oben). Nimmt die Steuersignal
 Das Gegenstück zu deiner FPV-Brille (siehe oben). Der Videosender ist üblicherweise an den Flight Controller mit angeschlossen. Dies ermöglicht es, dass Flugdaten (Akkukapazität, Flugmodus, GPS Koordinaten) im Bild dargestellt werden.
 
 Bei analogem Video sind diese untrennbar in das Bild eingebrannt. Bei digitaler Bildübertragung werden die Flugdaten normalerweise separat übertragen. Damit kann das Bild auch ohne Flugdaten in der Brille gespeichert werden.
+
+#### Kamera
+
+Die Kamera wird bei digitalen Systemen direkt an den Videosender angeschlossen. Dieser übernimmt dann die Übertragung des Bildes sowie der Flugdaten.
+
+Bei analogen Systemen kannst du die Kamera zwar auch direkt an den Videosender anschließen, dann hast du aber normalerweise keine Flugdaten. Es gibt Ausnahmen, bei denen die Videosender begrenzt Informationen auch selbst im Bild anzeigen können. Normalerweise schleifst du aber das Bild der Kamera erst einmal durch den Flight Controller, damit dieser die Flugdaten ins Bild einfügt. Erst dann wird die Kombination aus Videobild und Flugdaten an den VTX weiter gereicht.
 
 #### Motorsteuerung / Electronic Speed Controller / ESC
 
