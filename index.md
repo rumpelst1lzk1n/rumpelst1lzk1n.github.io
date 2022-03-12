@@ -499,14 +499,14 @@ Auf dem Gebrauchtmarkt gibt es öfter auch Pakete mit Receiver.
 ###### Skyzone Sky04X (v2)
 
 - ca. 600€
-- gutes DVR, 60FPS
+- gutes DVR, 60FPS (ab V2, V1 hat nur 30FPS DVR)
 - gutes eingebautes Receiver-Modul
 - HDMI-in
 - OLED-Display (knackscharfe Farben)
 
 #### Empfänger (Analog)
 
-Manche Brillen kommen ohne Empfänger. Hier musst du den diesen über einen Modulschacht nachrüsten.
+Manche Brillen kommen ohne Empfänger. Hier musst du diesen über einen Modulschacht nachrüsten.
 
 Falls du dich für so eine Brille entschieden hast, hier eine Liste populärer Empfänger:
 
