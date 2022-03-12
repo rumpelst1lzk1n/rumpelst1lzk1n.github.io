@@ -284,6 +284,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - Gamepad
 - Mehrere Protokoll-Varianten. Nimm die mit ELRS.
 - Monochrom-Display
+- sehr kleiner interner Akku
 
 #### Radiomaster TX12
 
