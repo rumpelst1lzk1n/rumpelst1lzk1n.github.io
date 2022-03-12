@@ -1358,6 +1358,7 @@ Wenn man selbst keinen Zugriff auf einen Drucker hat, gibt es online eine Vielza
 Falls du selbst überlegst, dir einen Drucker zu kaufen, hast du effektiv die Wahl zwischen folgenden Szenarien:
 
 1) einem billigen Drucker kaufen und mit viel Zeitaufwand und nochmal etwas Geld zu einem guten Drucker umbauen.
+
 2) eingen guten aber teuren Drucker kaufen, der direkt funktioniert.
 
 Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker halten. Beispielsweise einen Ender 3. Wie auch bei Drohnen gilt: Für häufig genutzte Sachen findest du online viel Doku für weitere Modifikation.
