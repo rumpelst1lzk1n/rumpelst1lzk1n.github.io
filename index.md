@@ -966,7 +966,7 @@ Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Tr
 
 ### KISS & FETtec
 
-Die einzige beiden nennenswerten proprietäre Repräsentanten von Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+Die einzigen beiden nennenswerten proprietären Repräsentanten von Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
 
 > *Anm. Puffi*: KISS/FETTec is super!!11!
 
