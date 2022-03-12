@@ -600,7 +600,9 @@ Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestell
 
 Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
 
-Der Videoempfänger ist ein Modul ähnlich dem von HDZero, das an die Brille geschraubt wird. Der Empfänger scheint das Videosignal über HDMI ausgeben zu können, was die Kompatibilität mit analogen FPV-Brillen mit HDMI-Eingang erhöhen dürfte. Zudem kann der Empfänger auch eine proprietäre Schnittstelle zur Orqa v2-Brille verwenden.
+Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-Brillen kann dieser dann entweder mit HDMI oder einer proprietären Schnittstelle angeschlossen werden.
+
+Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
 
 ### OpenHD
 
