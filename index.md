@@ -2,6 +2,8 @@
 
 **WORK IN PROGRESS!!!**
 
+Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Daten einigermaßen aktuell zu halten.
+
 <!-- TOC -->
 
 - [Einleitung](#einleitung)
