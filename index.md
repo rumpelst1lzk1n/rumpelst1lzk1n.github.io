@@ -121,6 +121,10 @@ Passiert dir das häufiger? Dann solltest du dir vielleicht die Anleitung ["How 
 
 In dem Abschnitt gehe ich kurz darauf ein, wie du überhaupt an Drohnen und Zubehör kommst.
 
+> *Anm. rumpelst1lzk1n*: Willkommen in 2022, der Fortsetzung von 2021. Prices are high and everything is out of stock.
+
+Wir schlittern seit 2020 von einer Krise in die nächste. Das trifft auch das Hobby. Seit 2020 sind die Preise stark gestiegen. Und gerade in den Sommermonaten, wenn alle Fliegen, sind viele Produkte ausverkauft. Plane frühzeitig oder richtige dich auf Vorbestellung und lange Lieferzeiten ein.
+
 ### China-Shops
 
 Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
