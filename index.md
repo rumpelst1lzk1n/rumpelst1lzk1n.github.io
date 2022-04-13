@@ -6,76 +6,172 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 
 <!-- TOC -->
 
-- [Einleitung](#einleitung)
-  - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
-  - [Was ist das für 1 Guide?](#was-ist-das-f%C3%BCr-1-guide)
-- [Hilfe bekommen](#hilfe-bekommen)
-- [Einkaufen](#einkaufen)
-  - [China-Shops](#china-shops)
-  - [Europäische Shops](#europ%C3%A4ische-shops)
-  - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
-- [Fernbedienung](#fernbedienung)
-  - [Formfaktor](#formfaktor)
-  - [Modi](#modi)
-  - [Funkprotokoll](#funkprotokoll)
-  - [Empfehlungen Funke](#empfehlungen-funke)
-- [Simulatoren](#simulatoren)
-- [Videosystem](#videosystem)
-  - [Allgemein](#allgemein)
-  - [Analog](#analog)
-  - [DJI](#dji)
-  - [HDZero / Sharkbyte](#hdzero--sharkbyte)
-  - [Orqa HD](#orqa-hd)
-  - [OpenHD](#openhd)
-  - [HD Aufnahmen](#hd-aufnahmen)
-- [Flugstile](#flugstile)
-  - [Cinematic](#cinematic)
-  - [Race](#race)
-  - [Freestyle](#freestyle)
-  - [Longrange](#longrange)
-- [Drohne / Quad / Copter](#drohne--quad--copter)
-  - [Klassen](#klassen)
-  - [Komponenten](#komponenten)
-- [Software Funkfernbedienung](#software-funkfernbedienung)
-  - [OpenTX](#opentx)
-  - [EdgeTX](#edgetx)
-  - [FreedomTX](#freedomtx)
-- [Software Flight Controller](#software-flight-controller)
-  - [Betaflight](#betaflight)
-  - [KISS & FETtec](#kiss--fettec)
-  - [Emuflight](#emuflight)
-  - [iNAV](#inav)
-  - [Ardupilot](#ardupilot)
-- [Akkus](#akkus)
-  - [Akku-Aufbau](#akku-aufbau)
-  - [Sicherheit](#sicherheit)
-  - [Ladegeräte](#ladeger%C3%A4te)
-  - [paralleles Laden](#paralleles-laden)
-- [Drohne Teil 2](#drohne-teil-2)
-  - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
-  - [Eigenbau](#eigenbau)
-  - [Build on Demand](#build-on-demand)
-- [Zusatzausrüstung](#zusatzausr%C3%BCstung)
-  - [Bit-Set](#bit-set)
-  - [Prop-Tool](#prop-tool)
-  - [Löten](#l%C3%B6ten)
-  - [Drohnenrucksack](#drohnenrucksack)
-- [Rechtliches](#rechtliches)
-  - [Führerscheine](#f%C3%BChrerscheine)
-  - [Vereine](#vereine)
-- [D-Druck](#d-druck)
-  - [Drucker](#drucker)
-  - [Materialien](#materialien)
-- [Jenseits der Drohne](#jenseits-der-drohne)
-- [Glossar](#glossar)
-- [Linkliste](#linkliste)
-  - [Youtube-Channel](#youtube-channel)
-  - [Websites](#websites)
-  - [Discord Server](#discord-server)
-  - [OpenSource Projekte](#opensource-projekte)
-  - [Hersteller Dokumentationen](#hersteller-dokumentationen)
-- [Sonstiges](#sonstiges)
-  - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
+- [Einsteigerguide FPV (Anfang 2022)](#einsteigerguide-fpv-anfang-2022)
+  - [Einleitung](#einleitung)
+    - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
+    - [Was ist das für 1 Guide?](#was-ist-das-für-1-guide)
+  - [Hilfe bekommen](#hilfe-bekommen)
+  - [Einkaufen](#einkaufen)
+    - [China-Shops](#china-shops)
+      - [Banggood und AliExpress](#banggood-und-aliexpress)
+      - [Direktvertrieb](#direktvertrieb)
+    - [Europäische Shops](#europäische-shops)
+    - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
+  - [Fernbedienung](#fernbedienung)
+    - [Formfaktor](#formfaktor)
+    - [Modi](#modi)
+    - [Funkprotokoll](#funkprotokoll)
+      - [Legacy](#legacy)
+      - [Modern](#modern)
+    - [Empfehlungen (Funke)](#empfehlungen-funke)
+      - [Radiomaster TX16S (Mk 2)](#radiomaster-tx16s-mk-2)
+      - [Radiomaster Zorro](#radiomaster-zorro)
+      - [Radiomaster TX12](#radiomaster-tx12)
+      - [Jumper T-Lite](#jumper-t-lite)
+      - [TBS Tango 2](#tbs-tango-2)
+      - [TBS Mambo](#tbs-mambo)
+  - [Simulatoren](#simulatoren)
+  - [Videosystem](#videosystem)
+    - [Allgemein](#allgemein)
+      - [Frequenz und Kanal](#frequenz-und-kanal)
+      - [Sendeleistung](#sendeleistung)
+      - [Antennen](#antennen)
+    - [Analog](#analog)
+      - [Videosender (Analog)](#videosender-analog)
+      - [Brille](#brille)
+        - [Box-Style](#box-style)
+        - [Binocular-Style](#binocular-style)
+        - [Empfehlungen (Analog-Brillen)](#empfehlungen-analog-brillen)
+          - [Eachine EV800D](#eachine-ev800d)
+          - [Skyzone Cobra X (v2)](#skyzone-cobra-x-v2)
+          - [Fatshark Attitude V6](#fatshark-attitude-v6)
+          - [Fatshark Dominator HDO 2](#fatshark-dominator-hdo-2)
+          - [Skyzone Sky04X (v2)](#skyzone-sky04x-v2)
+      - [Empfänger (Analog)](#empfänger-analog)
+    - [DJI](#dji)
+      - [Brillen](#brillen)
+      - [Videosender (DJI)](#videosender-dji)
+      - [Kamera (DJI)](#kamera-dji)
+    - [HDZero / Sharkbyte](#hdzero--sharkbyte)
+      - [Videosender (HDZero)](#videosender-hdzero)
+      - [Empfänger (HDZero)](#empfänger-hdzero)
+    - [Orqa HD](#orqa-hd)
+    - [OpenHD](#openhd)
+    - [HD Aufnahmen](#hd-aufnahmen)
+  - [Flugstile](#flugstile)
+    - [Cinematic](#cinematic)
+    - [Race](#race)
+    - [Freestyle](#freestyle)
+    - [Longrange](#longrange)
+  - [Drohne / Quad / Copter](#drohne--quad--copter)
+    - [Klassen](#klassen)
+      - [TinyWhoop](#tinywhoop)
+      - [Cinewhoop](#cinewhoop)
+      - [Toothpick](#toothpick)
+      - [3 Zoll](#3-zoll)
+      - [5 Zoll](#5-zoll)
+      - [7 Zoll](#7-zoll)
+      - [Cinelifter](#cinelifter)
+      - [X-Class](#x-class)
+    - [Komponenten](#komponenten)
+      - [Rahmen / Frame](#rahmen--frame)
+      - [Flight Controller / FC](#flight-controller--fc)
+      - [Empfänger / Receiver / RX](#empfänger--receiver--rx)
+      - [Videosender / VTX](#videosender--vtx)
+      - [Kamera](#kamera)
+      - [Motorsteuerung / Electronic Speed Controller / ESC](#motorsteuerung--electronic-speed-controller--esc)
+      - [Motoren](#motoren)
+        - [Motor-Größe](#motor-größe)
+        - [KV](#kv)
+        - [Stator und Magneten](#stator-und-magneten)
+      - [Propeller](#propeller)
+        - [Kennzahlen](#kennzahlen)
+        - [Drehrichtung](#drehrichtung)
+      - [sonstige Komponenten](#sonstige-komponenten)
+        - [XT30 / XT60 / XT90](#xt30--xt60--xt90)
+        - [Kondensator](#kondensator)
+        - [GPS](#gps)
+        - [Magnetometer / Kompass](#magnetometer--kompass)
+        - [Heckspoiler](#heckspoiler)
+  - [Software (Funkfernbedienung)](#software-funkfernbedienung)
+    - [OpenTX](#opentx)
+      - [OpenTX Companion](#opentx-companion)
+    - [EdgeTX](#edgetx)
+    - [FreedomTX](#freedomtx)
+  - [Software (Flight Controller)](#software-flight-controller)
+    - [Betaflight](#betaflight)
+    - [KISS & FETtec](#kiss--fettec)
+    - [Emuflight](#emuflight)
+    - [iNAV](#inav)
+    - [Ardupilot](#ardupilot)
+  - [Akkus](#akkus)
+    - [Akku-Aufbau](#akku-aufbau)
+      - [Zellen](#zellen)
+      - [Zell-Spannung & -Chemie](#zell-spannung---chemie)
+      - [Stromanschluss](#stromanschluss)
+      - [Ballancer-Kabel](#ballancer-kabel)
+      - [Input & Output](#input--output)
+      - [Empfehlungen (Akkus)](#empfehlungen-akkus)
+    - [Sicherheit](#sicherheit)
+    - [Ladegeräte](#ladegeräte)
+      - [Empfehlungen (Ladegerät)](#empfehlungen-ladegerät)
+        - [ISDT 608AC](#isdt-608ac)
+        - [HOTA D6 Pro](#hota-d6-pro)
+        - [SkyRC Q200](#skyrc-q200)
+    - [paralleles Laden](#paralleles-laden)
+  - [Drohne Teil 2](#drohne-teil-2)
+    - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
+      - [Ready-to-Fly / RTF](#ready-to-fly--rtf)
+      - [Bind and Fly / BNF](#bind-and-fly--bnf)
+      - [Plug'n'Play / PNP](#plugnplay--pnp)
+      - [Powertrain](#powertrain)
+      - [Empfehlungen (Drohne kaufen)](#empfehlungen-drohne-kaufen)
+        - [Eachine Trashcan](#eachine-trashcan)
+        - [Happymodel Moblite7](#happymodel-moblite7)
+        - [GepRC Phantom](#geprc-phantom)
+        - [iFlight Nazgul 5 (Evoque)](#iflight-nazgul-5-evoque)
+        - [Diatone Roma F5 (V2)](#diatone-roma-f5-v2)
+    - [Eigenbau](#eigenbau)
+      - [Builds](#builds)
+        - [Budget](#budget)
+        - [Mittelklasse](#mittelklasse)
+        - [Premium](#premium)
+      - [Tune](#tune)
+    - [Build on Demand](#build-on-demand)
+  - [Zusatzausrüstung](#zusatzausrüstung)
+    - [Bit-Set](#bit-set)
+    - [Prop-Tool](#prop-tool)
+    - [Löten](#löten)
+    - [Drohnenrucksack](#drohnenrucksack)
+  - [Rechtliches](#rechtliches)
+    - [Führerscheine](#führerscheine)
+      - [der kleine Drohnenführerschein](#der-kleine-drohnenführerschein)
+      - [der große Drohnenführerschein](#der-große-drohnenführerschein)
+    - [Vereine](#vereine)
+  - [D-Druck](#d-druck)
+    - [Drucker](#drucker)
+    - [Materialien](#materialien)
+  - [Jenseits der Drohne](#jenseits-der-drohne)
+  - [Glossar](#glossar)
+  - [Linkliste](#linkliste)
+    - [Youtube-Channel](#youtube-channel)
+      - [Einsteigerfreundlich / Tutorials / legitime Produktbewertungen](#einsteigerfreundlich--tutorials--legitime-produktbewertungen)
+      - [Marktschreier](#marktschreier)
+      - [Hi tech, low life](#hi-tech-low-life)
+      - [Fanboy-Kanäle / Entertainment](#fanboy-kanäle--entertainment)
+      - [Nicht eindeutig zuordenbar](#nicht-eindeutig-zuordenbar)
+    - [Websites](#websites)
+      - [Rechtsgrundlagen](#rechtsgrundlagen)
+      - [Tutorials / Blogger](#tutorials--blogger)
+      - [Tune Presets](#tune-presets)
+    - [Discord Server](#discord-server)
+    - [OpenSource Projekte](#opensource-projekte)
+      - [Flight Controller Software](#flight-controller-software)
+      - [ESC Software](#esc-software)
+      - [Funkfernbedienungs-Software](#funkfernbedienungs-software)
+    - [Hersteller Dokumentationen](#hersteller-dokumentationen)
+  - [Sonstiges](#sonstiges)
+    - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
 
 <!-- /TOC -->
 
@@ -268,11 +364,13 @@ Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Deriv
 Bei den genannten Funken ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
 
-#### Radiomaster TX16S
+Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt, es gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
+
+#### Radiomaster TX16S (Mk 2)
 
 - ca. 200€
 - Vollformat
-- eingebautes Multi-Protokoll-Modul
+- Multi-Protokoll-Modul, MK2 wahlweise mit ELRS
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
 
@@ -319,7 +417,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 ## Simulatoren
 
-Für den Einstieg erfüllt jeder Simulator den Zweck dass du dich mit der Steuerung einer Drohne vertraut machst. Und die Drohne gegen Bäume, Häuser und in den Asphalt hämmern kannst, ohne gleich Geld in die Reparatur stecken zu müssen.
+Für den Einstieg erfüllt jeder Simulator den Zweck, dass du dich mit der Steuerung einer Drohne vertraut machst. Und die Drohne gegen Bäume, Häuser und in den Asphalt hämmern kannst, ohne gleich Geld in die Reparatur stecken zu müssen.
 
 Und falls du feststellst, dass das Hobby überhaupt nichts für dich ist, hast du nur Geld für die Fernbedienung ausgegeben. Diese kannst du normalerweise ohne großen Verlust auf eBay-Kleinanzeigen oder in einschlägigen Facebook-Gruppen verkaufen.
 
@@ -523,7 +621,11 @@ DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein golde
 
 > *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler und kommt so in etwa bei 720p raus.
 
-Es gibt keine Anzeichen dafür, dass das System aktuell großartig weiterentwickelt wird. Allerdings hat es auch schon einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
+Das System hat einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
+
+Es gibt Anzeichen dafür, dass DJI das System weiterentwickelt. Ob diese Weiterentwicklung mit der aktuell verfügbaren Hardware kompatibel sein wird, oder ob DJI ein neues System auf den Markt bringt, ist bisher noch nicht bekannt.
+
+Zudem wurde die Firmware des Systems [inzwischen geknackt](https://github.com/fpv-wtf/margerine), was auf eine Weiterentwicklung des Systems durch die Community hoffen lässt.
 
 #### Brillen
 
@@ -594,8 +696,9 @@ Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Bril
 | Scout HD | HDZero Empfänger |
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
+|  | ![HDZero VRX](img/hdzero-vrx-digital-hd-empfaenger-modul.png) |
 
-Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestellt wird, aber der Nachfolger noch nicht erhältlich ist.
+Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestellt wird. Der Nachfolger ist voraussichtlich ab Mai 2022 erhältlich.
 
 ### Orqa HD
 
@@ -607,7 +710,7 @@ Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mi
 
 ### OpenHD
 
-[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider nicht zu gebrauchen, da die Latenz zu hoch ist.
+[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
 
 ### HD Aufnahmen
 
