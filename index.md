@@ -1333,7 +1333,7 @@ Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. G
 
 - Frame: ImpulseRC Apex 5
 - Motor: ETHIX Mr Steele Stout
-- ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4
+- ESC & FC: Diatone Mamba F722 App Stack oder iFlight SucceX-D F7
 - Receiver: ELRS, Tracer oder Crossfire
 - Videosystem: passend zum Videoempfänger
 
