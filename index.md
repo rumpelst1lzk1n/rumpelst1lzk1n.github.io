@@ -6,172 +6,77 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 
 <!-- TOC -->
 
-- [Einsteigerguide FPV (Anfang 2022)](#einsteigerguide-fpv-anfang-2022)
-  - [Einleitung](#einleitung)
-    - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-für-mega-ungeduldige)
-    - [Was ist das für 1 Guide?](#was-ist-das-für-1-guide)
-  - [Hilfe bekommen](#hilfe-bekommen)
-  - [Einkaufen](#einkaufen)
-    - [China-Shops](#china-shops)
-      - [Banggood und AliExpress](#banggood-und-aliexpress)
-      - [Direktvertrieb](#direktvertrieb)
-    - [Europäische Shops](#europäische-shops)
-    - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
-  - [Fernbedienung](#fernbedienung)
-    - [Formfaktor](#formfaktor)
-    - [Modi](#modi)
-    - [Funkprotokoll](#funkprotokoll)
-      - [Legacy](#legacy)
-      - [Modern](#modern)
-    - [Empfehlungen (Funke)](#empfehlungen-funke)
-      - [Radiomaster TX16S (Mk 2)](#radiomaster-tx16s-mk-2)
-      - [Radiomaster Zorro](#radiomaster-zorro)
-      - [Radiomaster TX12](#radiomaster-tx12)
-      - [Jumper T-Lite](#jumper-t-lite)
-      - [TBS Tango 2](#tbs-tango-2)
-      - [TBS Mambo](#tbs-mambo)
-  - [Simulatoren](#simulatoren)
-  - [Videosystem](#videosystem)
-    - [Allgemein](#allgemein)
-      - [Frequenz und Kanal](#frequenz-und-kanal)
-      - [Sendeleistung](#sendeleistung)
-      - [Antennen](#antennen)
-    - [Analog](#analog)
-      - [Videosender (Analog)](#videosender-analog)
-      - [Brille](#brille)
-        - [Box-Style](#box-style)
-        - [Binocular-Style](#binocular-style)
-        - [Empfehlungen (Analog-Brillen)](#empfehlungen-analog-brillen)
-          - [Eachine EV800D](#eachine-ev800d)
-          - [Skyzone Cobra X (v2)](#skyzone-cobra-x-v2)
-          - [Fatshark Attitude V6](#fatshark-attitude-v6)
-          - [Fatshark Dominator HDO 2](#fatshark-dominator-hdo-2)
-          - [Skyzone Sky04X (v2)](#skyzone-sky04x-v2)
-      - [Empfänger (Analog)](#empfänger-analog)
-    - [DJI](#dji)
-      - [Brillen](#brillen)
-      - [Videosender (DJI)](#videosender-dji)
-      - [Kamera (DJI)](#kamera-dji)
-    - [HDZero / Sharkbyte](#hdzero--sharkbyte)
-      - [Videosender (HDZero)](#videosender-hdzero)
-      - [Empfänger (HDZero)](#empfänger-hdzero)
-    - [Orqa HD](#orqa-hd)
-    - [OpenHD](#openhd)
-    - [HD Aufnahmen](#hd-aufnahmen)
-  - [Flugstile](#flugstile)
-    - [Cinematic](#cinematic)
-    - [Race](#race)
-    - [Freestyle](#freestyle)
-    - [Longrange](#longrange)
-  - [Drohne / Quad / Copter](#drohne--quad--copter)
-    - [Klassen](#klassen)
-      - [TinyWhoop](#tinywhoop)
-      - [Cinewhoop](#cinewhoop)
-      - [Toothpick](#toothpick)
-      - [3 Zoll](#3-zoll)
-      - [5 Zoll](#5-zoll)
-      - [7 Zoll](#7-zoll)
-      - [Cinelifter](#cinelifter)
-      - [X-Class](#x-class)
-    - [Komponenten](#komponenten)
-      - [Rahmen / Frame](#rahmen--frame)
-      - [Flight Controller / FC](#flight-controller--fc)
-      - [Empfänger / Receiver / RX](#empfänger--receiver--rx)
-      - [Videosender / VTX](#videosender--vtx)
-      - [Kamera](#kamera)
-      - [Motorsteuerung / Electronic Speed Controller / ESC](#motorsteuerung--electronic-speed-controller--esc)
-      - [Motoren](#motoren)
-        - [Motor-Größe](#motor-größe)
-        - [KV](#kv)
-        - [Stator und Magneten](#stator-und-magneten)
-      - [Propeller](#propeller)
-        - [Kennzahlen](#kennzahlen)
-        - [Drehrichtung](#drehrichtung)
-      - [sonstige Komponenten](#sonstige-komponenten)
-        - [XT30 / XT60 / XT90](#xt30--xt60--xt90)
-        - [Kondensator](#kondensator)
-        - [GPS](#gps)
-        - [Magnetometer / Kompass](#magnetometer--kompass)
-        - [Heckspoiler](#heckspoiler)
-  - [Software (Funkfernbedienung)](#software-funkfernbedienung)
-    - [OpenTX](#opentx)
-      - [OpenTX Companion](#opentx-companion)
-    - [EdgeTX](#edgetx)
-    - [FreedomTX](#freedomtx)
-  - [Software (Flight Controller)](#software-flight-controller)
-    - [Betaflight](#betaflight)
-    - [KISS & FETtec](#kiss--fettec)
-    - [Emuflight](#emuflight)
-    - [iNAV](#inav)
-    - [Ardupilot](#ardupilot)
-  - [Akkus](#akkus)
-    - [Akku-Aufbau](#akku-aufbau)
-      - [Zellen](#zellen)
-      - [Zell-Spannung & -Chemie](#zell-spannung---chemie)
-      - [Stromanschluss](#stromanschluss)
-      - [Ballancer-Kabel](#ballancer-kabel)
-      - [Input & Output](#input--output)
-      - [Empfehlungen (Akkus)](#empfehlungen-akkus)
-    - [Sicherheit](#sicherheit)
-    - [Ladegeräte](#ladegeräte)
-      - [Empfehlungen (Ladegerät)](#empfehlungen-ladegerät)
-        - [ISDT 608AC](#isdt-608ac)
-        - [HOTA D6 Pro](#hota-d6-pro)
-        - [SkyRC Q200](#skyrc-q200)
-    - [paralleles Laden](#paralleles-laden)
-  - [Drohne Teil 2](#drohne-teil-2)
-    - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
-      - [Ready-to-Fly / RTF](#ready-to-fly--rtf)
-      - [Bind and Fly / BNF](#bind-and-fly--bnf)
-      - [Plug'n'Play / PNP](#plugnplay--pnp)
-      - [Powertrain](#powertrain)
-      - [Empfehlungen (Drohne kaufen)](#empfehlungen-drohne-kaufen)
-        - [Eachine Trashcan](#eachine-trashcan)
-        - [Happymodel Moblite7](#happymodel-moblite7)
-        - [GepRC Phantom](#geprc-phantom)
-        - [iFlight Nazgul 5 (Evoque)](#iflight-nazgul-5-evoque)
-        - [Diatone Roma F5 (V2)](#diatone-roma-f5-v2)
-    - [Eigenbau](#eigenbau)
-      - [Builds](#builds)
-        - [Budget](#budget)
-        - [Mittelklasse](#mittelklasse)
-        - [Premium](#premium)
-      - [Tune](#tune)
-    - [Build on Demand](#build-on-demand)
-  - [Zusatzausrüstung](#zusatzausrüstung)
-    - [Bit-Set](#bit-set)
-    - [Prop-Tool](#prop-tool)
-    - [Löten](#löten)
-    - [Drohnenrucksack](#drohnenrucksack)
-  - [Rechtliches](#rechtliches)
-    - [Führerscheine](#führerscheine)
-      - [der kleine Drohnenführerschein](#der-kleine-drohnenführerschein)
-      - [der große Drohnenführerschein](#der-große-drohnenführerschein)
-    - [Vereine](#vereine)
-  - [D-Druck](#d-druck)
-    - [Drucker](#drucker)
-    - [Materialien](#materialien)
-  - [Jenseits der Drohne](#jenseits-der-drohne)
-  - [Glossar](#glossar)
-  - [Linkliste](#linkliste)
-    - [Youtube-Channel](#youtube-channel)
-      - [Einsteigerfreundlich / Tutorials / legitime Produktbewertungen](#einsteigerfreundlich--tutorials--legitime-produktbewertungen)
-      - [Marktschreier](#marktschreier)
-      - [Hi tech, low life](#hi-tech-low-life)
-      - [Fanboy-Kanäle / Entertainment](#fanboy-kanäle--entertainment)
-      - [Nicht eindeutig zuordenbar](#nicht-eindeutig-zuordenbar)
-    - [Websites](#websites)
-      - [Rechtsgrundlagen](#rechtsgrundlagen)
-      - [Tutorials / Blogger](#tutorials--blogger)
-      - [Tune Presets](#tune-presets)
-    - [Discord Server](#discord-server)
-    - [OpenSource Projekte](#opensource-projekte)
-      - [Flight Controller Software](#flight-controller-software)
-      - [ESC Software](#esc-software)
-      - [Funkfernbedienungs-Software](#funkfernbedienungs-software)
-    - [Hersteller Dokumentationen](#hersteller-dokumentationen)
-  - [Sonstiges](#sonstiges)
-    - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
+- [Einleitung](#einleitung)
+  - [SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#super-short-cut-f%C3%BCr-mega-ungeduldige)
+  - [Was ist das für 1 Guide?](#was-ist-das-f%C3%BCr-1-guide)
+- [Hilfe bekommen](#hilfe-bekommen)
+- [Einkaufen](#einkaufen)
+  - [China-Shops](#china-shops)
+  - [Europäische Shops](#europ%C3%A4ische-shops)
+  - [EBay Kleinanzeigen](#ebay-kleinanzeigen)
+- [Fernbedienung](#fernbedienung)
+  - [Formfaktor](#formfaktor)
+  - [Modi](#modi)
+  - [Funkprotokoll](#funkprotokoll)
+  - [Empfehlungen Funke](#empfehlungen-funke)
+  - [Empfehlungen Sendemodul & Empfänger](#empfehlungen-sendemodul--empf%C3%A4nger)
+- [Simulatoren](#simulatoren)
+- [Videosystem](#videosystem)
+  - [Allgemein](#allgemein)
+  - [Analog](#analog)
+  - [DJI](#dji)
+  - [HDZero / Sharkbyte](#hdzero--sharkbyte)
+  - [Orqa HD](#orqa-hd)
+  - [OpenHD](#openhd)
+  - [HD Aufnahmen](#hd-aufnahmen)
+- [Flugstile](#flugstile)
+  - [Cinematic](#cinematic)
+  - [Race](#race)
+  - [Freestyle](#freestyle)
+  - [Longrange](#longrange)
+- [Drohne / Quad / Copter](#drohne--quad--copter)
+  - [Klassen](#klassen)
+  - [Komponenten](#komponenten)
+- [Software Funkfernbedienung](#software-funkfernbedienung)
+  - [OpenTX](#opentx)
+  - [EdgeTX](#edgetx)
+  - [FreedomTX](#freedomtx)
+- [Software Flight Controller](#software-flight-controller)
+  - [Betaflight](#betaflight)
+  - [KISS & FETtec](#kiss--fettec)
+  - [Emuflight](#emuflight)
+  - [iNAV](#inav)
+  - [Ardupilot](#ardupilot)
+- [Akkus](#akkus)
+  - [Akku-Aufbau](#akku-aufbau)
+  - [Sicherheit](#sicherheit)
+  - [Ladegeräte](#ladeger%C3%A4te)
+  - [paralleles Laden](#paralleles-laden)
+- [Drohne Teil 2](#drohne-teil-2)
+  - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
+  - [Eigenbau](#eigenbau)
+  - [Build on Demand](#build-on-demand)
+- [Zusatzausrüstung](#zusatzausr%C3%BCstung)
+  - [Bit-Set](#bit-set)
+  - [Prop-Tool](#prop-tool)
+  - [Löten](#l%C3%B6ten)
+  - [Drohnenrucksack](#drohnenrucksack)
+- [Rechtliches](#rechtliches)
+  - [Führerscheine](#f%C3%BChrerscheine)
+  - [Vereine](#vereine)
+- [D-Druck](#d-druck)
+  - [Drucker](#drucker)
+  - [Materialien](#materialien)
+- [Jenseits der Drohne](#jenseits-der-drohne)
+- [Glossar](#glossar)
+- [Linkliste](#linkliste)
+  - [Youtube-Channel](#youtube-channel)
+  - [Websites](#websites)
+  - [Discord Server](#discord-server)
+  - [OpenSource Projekte](#opensource-projekte)
+  - [Hersteller Dokumentationen](#hersteller-dokumentationen)
+- [Sonstiges](#sonstiges)
+  - [Puffis gesammelte Weisheiten](#puffis-gesammelte-weisheiten)
 
 <!-- /TOC -->
 
@@ -298,7 +203,7 @@ Nachfolgend 2 populäre Vertreter beider Formfaktoren.
 
 | Vollformat | Gamepad |
 | -------- | -------- |
-| <img src="./img/radiomaster_tx16s.png" alt="Radiomaster TX16S" width="300"/> | <img src="./img/tbs_tango2.png" alt="TBS Tango 2" width="300"/> |
+| <img src="./img/radiomaster_tx16s.png" alt="Radiomaster TX16S" width="300"/> | <img src="./img/team_blacksheep/tbs_tango2.png" alt="TBS Tango 2" width="300"/> |
 
 ### Modi
 
@@ -339,7 +244,7 @@ Bei den modernen Übertragungsprotokollen ist die Frequenz nahezu irrelevant. Au
 
 - TBS Crossfire (900Mhz)
 - TBS Tracer (2.4Ghz)
-- ELRS (900Mhz und 2.4Ghz)
+- ExpressLRS (aka. ELRS) (900Mhz und 2.4Ghz)
 - ImmersionRC Ghost (2.4Ghz)
 
 TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine komfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.
@@ -414,6 +319,38 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - etwas kleiner als Vollformat
 - eingebautes Tracer
 - kleines Monochrom-Display
+
+### Empfehlungen (Sendemodul & Empfänger)
+
+Wenn deine Funke nicht das Protokoll kann, das du möchtest, gibt es bei den meisten Funken die Möglichkeit, ein Modul nachzurüsten.
+
+#### Happymodel ES24TX Pro
+
+- ca. 50€
+- ELRS auf 2.4GHz
+- 1W maximale Sendeleistung
+- Wifi/Bluetooth
+- Versionen für JR- und Lite-Modulschacht ("Slim")
+
+Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt gebracht hat. Die Produkte genießen einen guten Ruf, auch, weil der Hersteller gut mit den Entwicklern zusammen arbeitet.
+
+> *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass der USB
+
+|Happymodel ES24TX Pro|Happymodel ES24TX Pro Slim|
+| --- | --- |
+|![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg)|![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg)|
+
+#### ELRS-Empfänger
+
+Einen ELRS-Empfänger bekommst du für um die 15€. Mehr ist Wucher. Spezialfälle z.B. mit Antennen-Diversity oder PWM ausgenommen.
+
+Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-Antenne verwenden, die direkt auf dem Receiver drauf ist. Heißt, du musst dir keine Gedanken machen, wie du eine Antenne auf deinem Fluggerät unter bringst. Eine richtige Antenne hat mehr Reichweite. Für kleine Fluggeräte, mit denen du dich in einem Umkreis von etwa einen Kilometer bewegst, reicht das trotzdem. Das Grundprinzip, dass bei gleicher Sendeleistung dein Steuersignal weiter geht als dein Videosignal wird auch damit erfüllt.
+
+|Happymodel EP1| Happymodel EP2|BetaFPV EP2|
+| --- | --- | --- |
+| ![Happymodel EP1](./img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](./img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](./img/betafpv/EP2_RX_flat_ceramic.webp) |
+
+Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
 
 ## Simulatoren
 
@@ -667,11 +604,18 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
 
->*Anm. rumpelst1lzk1n*: Das Bild ist gut aber die Hardware ist noch nicht so ausgereift/etabliert wie DJI. Persönlich würde ich einem Neueinsteiger aktuell noch davon abraten.
+Bei der Bildqualität ist DJI klar das bessere System.
 
-Es gibt inzwischen erste fertige Drohnen mit diesem System.
+Für die Nutzung von HDZero gibt es normal folgende Gründe:
 
-Das System befindet sich aktuell (Ende 2021) in einem sehr vielversprechendem Stadium. Für 2022 zeichnen sich große Sprünge mit neuen Videosendern, Kameras und Empfängern ab. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
+1) Du willst kein DJI aber trotzdem besseres Bild als Analog.
+2) Du bist Racer und willst weniger Gewicht auf der Drohne.
+3) Du bist Racer und willst eine fixe Latenz.
+4) Du hast bereits eine gute Analog-Brille (mit HDMI-Eingang) und möchtest diese weiter verwenden.
+
+Das System kann inzwischen (Mitte 2022) als relativ ausgereift betrachtet werden.
+
+Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sender herausbringen. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
 
 #### Videosender (HDZero)
 
@@ -679,7 +623,7 @@ Aktuell gibt es 3 relevante Videosender.
 
 | Race V2 (20x20) | Whoop (25x25) | Freestyle (30x30) |
 | -------- | -------- | -------- |
-| ![HDZero Race v2 VTX](https://static.wixstatic.com/media/967e02_0e44ce977be64add96eeeed77389581e~mv2.png/v1/fill/w_204,h_201,al_c,usm_0.66_1.00_0.01,enc_auto/top1_tou.png) | ![TX5S.1](https://static.wixstatic.com/media/967e02_388c829d11164f7abd2429a625bdc93e~mv2.png/v1/fill/w_223,h_162,al_c,usm_0.66_1.00_0.01,enc_auto/%E5%8D%95%E6%9D%BF1.png) | ![HDZero 1Watt freestyle VTX](./img/HDzero_freestyle_vtx.png) |
+| ![HDZero Race v2 VTX](https://static.wixstatic.com/media/967e02_0e44ce977be64add96eeeed77389581e~mv2.png/v1/fill/w_204,h_201,al_c,usm_0.66_1.00_0.01,enc_auto/top1_tou.png) | ![TX5S.1](https://static.wixstatic.com/media/967e02_388c829d11164f7abd2429a625bdc93e~mv2.png/v1/fill/w_223,h_162,al_c,usm_0.66_1.00_0.01,enc_auto/%E5%8D%95%E6%9D%BF1.png) | ![HDZero 1Watt freestyle VTX](./img/divimath/HDzero_freestyle_vtx.png) |
 
 Es gibt noch ältere Hardware mit teilweise etwas unüblichen Formfaktoren. Diese ist aber nicht mehr erhältlich.
 
@@ -696,7 +640,7 @@ Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Bril
 | Scout HD | HDZero Empfänger |
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
-|  | ![HDZero VRX](img/hdzero-vrx-digital-hd-empfaenger-modul.png) |
+|  | ![HDZero VRX](img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png) |
 
 Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestellt wird. Der Nachfolger ist voraussichtlich ab Mai 2022 erhältlich.
 
