@@ -88,7 +88,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 
 ### SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
-- **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Lite).
+- **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Pro).
 - **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone).
 - **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter.
 - **Schritt 3.1**: Lies den Rest in diesem Dokument. Kläre Fragen und werde schlauer.
@@ -122,7 +122,7 @@ Passiert dir das häufiger? Dann solltest du dir vielleicht die Anleitung ["How 
 
 In dem Abschnitt gehe ich kurz darauf ein, wie du überhaupt an Drohnen und Zubehör kommst.
 
-> *Anm. rumpelst1lzk1n*: Willkommen in 2022, der Fortsetzung von 2021. Prices are high and everything is out of stock.
+> *Anm. rumpelst1lzk1n*: Willkommen in 2022, der Fortsetzung von 2021. Prices are high and everything is out of stock. Es kann sein, dass aufgrund von Gründen die Preise in der Realität inzwischen stark von denen in dem Guide hier abweichen. Leider nach oben.
 
 Wir schlittern seit 2020 von einer Krise in die nächste. Das trifft auch das Hobby. Seit 2020 sind die Preise stark gestiegen. Und gerade in den Sommermonaten, wenn alle Fliegen, sind viele Produkte ausverkauft. Plane frühzeitig oder richtige dich auf Vorbestellung und lange Lieferzeiten ein.
 
@@ -273,7 +273,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 
 #### Radiomaster TX16S (Mk 2)
 
-- ca. 200€
+- ca. 230€
 - Vollformat
 - Multi-Protokoll-Modul, MK2 wahlweise mit ELRS
 - OpenTX oder EdgeTX
@@ -283,7 +283,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 #### Radiomaster Zorro
 
-- ca. 100€
+- ca. 140€
 - Gamepad
 - Mehrere Protokoll-Varianten. Nimm die mit ELRS.
 - Monochrom-Display
@@ -291,17 +291,17 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 #### Radiomaster TX12
 
-- ca. 90€
+- ca. 120€
 - etwas kleiner als Vollformat
 - eingebautes Multi-Protokoll-Modul
 - OpenTX oder EdgeTX
 - Monochrom-Display
 
-#### Jumper T-Lite
+#### Jumper T-Pro
 
-- ca. 90€
+- ca. 150€
 - Gamepad
-- eingebautes Multi-Protokoll-Modul
+- Mehrere Protokoll-Varianten. Nimm die mit ELRS.
 - winziges Monochrom-Display
 
 #### TBS Tango 2
@@ -315,7 +315,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 #### TBS Mambo
 
-- ca. 150€
+- ca. 160€
 - etwas kleiner als Vollformat
 - eingebautes Tracer
 - kleines Monochrom-Display
@@ -324,7 +324,11 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 Wenn deine Funke nicht das Protokoll kann, das du möchtest, gibt es bei den meisten Funken die Möglichkeit, ein Modul nachzurüsten.
 
-#### Happymodel ES24TX Pro
+#### ELRS
+
+Bei ELRS konzentrieren wir uns auf 2.4 GHz. 900 Mhz-Systeme würde ich für einen Neueinsteiger nicht empfehlen. Bzw. wenn, dann Crossfire.
+
+##### Happymodel ES24TX Pro
 
 - ca. 50€
 - ELRS auf 2.4GHz
@@ -340,7 +344,7 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 | --- | --- |
 |![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg)|![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg)|
 
-#### ELRS-Empfänger
+##### ELRS-Empfänger
 
 Einen ELRS-Empfänger bekommst du für um die 15€. Mehr ist Wucher. Spezialfälle z.B. mit Antennen-Diversity oder PWM ausgenommen.
 
@@ -351,6 +355,30 @@ Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-A
 | ![Happymodel EP1](./img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](./img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](./img/betafpv/EP2_RX_flat_ceramic.webp) |
 
 Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
+
+#### Crossfire & Tracer
+
+Eigentlich gibt es bei den Systemen von TBS nicht viel zu sagen. Crossfire ist 900 Mhz, Tracer ist 2.4 Ghz. Es gibt nur einen Hersteller und dieser hat sein Produktportfolio ganz gut unter Kontrolle.
+
+##### Sender
+
+Lediglich bei Crossfire gibt es 2 unterschiedliche Sende-Module für den JR-Schacht. Das Micro (v2) reicht vollkommen aus.
+
+Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modulschacht.
+
+| Crossfire Micro TX | Crossfire Nano TX | Tracer Micro TX | Tracer Nano TX |
+| --- | --- | --- | --- |
+| ![Crossfire Micro TX](./img/team_blacksheep/Crossfire_Mtx.jpg) | ![Crossfire Nano TX](./img/team_blacksheep/Crossfire_Mtx_lite.jpg) | ![Tracer Micro TX](./img/team_blacksheep/Tracer_Mtx.jpg) | ![Tracer Nano TX](./img/team_blacksheep/Tracer_Mtx_lite.jpg) |
+
+##### Empfänger
+
+Es gibt 3 Empfänger-Typen, die für den FPV-Bereich relevant sind.
+
+- Crossfire Nano Diversity
+- Nano (jeweils Crossfire & Tracer, bei Tracer gleichzeitig Diversity)
+- Sixty9 (jeweils Crossfire & Tracer)
+
+Wenn du Analog fliegst, empfehle ich dir, einen Blick auf den Sixty9 zu werfen. Das ist eine Kombination aus Empfänger und Video-Sender. Ansonsten nimm den Nano. Der Crossfire Nano Diversity ist eher für LongRange-Systeme gedacht.
 
 ## Simulatoren
 
@@ -1276,16 +1304,16 @@ Natürlich kannst du auch einen super exotischen Frame oder ganz ausgefallene Mo
 
 ##### Budget
 
-Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog. Gegebenenfalls auch noch mit einem Legacy-Funk-Protokol, weil das deine Funke von Haus aus kann (sofern du den Empfehlungen oben gefolgt bist) und du kein Modul brauchst.
+Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog.
+
+Im schlimmsten Fall hast du auch noch ein Legacy-Funksystem. Das dürfte aber nur der Fall sein, wenn du gebraucht gekauft hast. Und selbst dann solltest du dir mittelfristig überlegen, ob du ein Upgrade auf ELRS vornimmst.
 
 - Frame: TBS Source One
 - Motor: Emax Eco2 oder XingE
 - ESC & FC: JHEMCU F405 Stack
-- Receiver: FrSky XM+
+- Receiver: ELRS
 - Videosender: HappyModel OVX300
 - Kamera: Caddx Ratel, Runcam Racer, Foxeer Racer
-
-Wenn du bei dem Hobby bleibst, solltest du dir überlegen, ob du die Drohne mittelfristig auf ELRS (2.4 Ghz) umbaust.
 
 ##### Mittelklasse
 
