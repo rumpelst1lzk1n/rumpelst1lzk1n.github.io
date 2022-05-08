@@ -152,7 +152,7 @@ Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie dr
 
 #### Direktvertrieb
 
-Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://iflight-rc.com) etc. haben auch ihre eigenen Shops.
+Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://iflight-rc.com), [Team Blacksheep](https://www.team-blacksheep.com/) etc. haben auch ihre eigenen Shops. In diesen findest du neben den eigenen Produkten oft auch Zubehör, das von den Herstellern zusätzlich angeboten wird um ein abgerundetes Produktportfolio in ihrem Store bieten zu können.
 
 Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware.
 
