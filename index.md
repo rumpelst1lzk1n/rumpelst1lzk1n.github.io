@@ -26,9 +26,8 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [Analog](#analog)
   - [DJI](#dji)
   - [HDZero / Sharkbyte](#hdzero--sharkbyte)
-  - [Orqa HD](#orqa-hd)
-  - [OpenHD](#openhd)
   - [HD Aufnahmen](#hd-aufnahmen)
+  - [unter ferner liefen](#unter-ferner-liefen)
 - [Flugstile](#flugstile)
   - [Cinematic](#cinematic)
   - [Race](#race)
@@ -672,18 +671,6 @@ Daneben gibt es noch ein Empfänger-Modul. Dieser setzt eine vorhandene FPV-Bril
 
 Der reine Empfänger ist aktuell schwer zu bekommen, da er nicht mehr hergestellt wird. Der Nachfolger ist voraussichtlich ab Mai 2022 erhältlich.
 
-### Orqa HD
-
-Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
-
-Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-Brillen kann dieser dann entweder mit HDMI oder einer proprietären Schnittstelle angeschlossen werden.
-
-Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
-
-### OpenHD
-
-[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
-
 ### HD Aufnahmen
 
 Wer wirklich gutes Bildmaterial von seinem Flug haben will, packt eine Action-Cam auf die Drohne.
@@ -695,6 +682,20 @@ Andere populäre HD-Kameras sind:
 - GoPro Session
 - Insta360 Go(2)
 - Runcam Orange
+
+### unter ferner liefen
+
+#### Orqa HD
+
+Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
+
+Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-Brillen kann dieser dann entweder mit HDMI oder einer proprietären Schnittstelle angeschlossen werden.
+
+Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
+
+#### OpenHD
+
+[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
 
 ## Flugstile
 
