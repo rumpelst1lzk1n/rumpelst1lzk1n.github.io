@@ -63,7 +63,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [Rechtliches](#rechtliches)
   - [Führerscheine](#f%C3%BChrerscheine)
   - [Vereine](#vereine)
-- [3D-Druck](#3d-druck)
+- [D-Druck](#d-druck)
   - [Drucker](#drucker)
   - [Materialien](#materialien)
 - [Jenseits der Drohne](#jenseits-der-drohne)
@@ -785,7 +785,7 @@ Meistens ein Frame in klassischer Bauform. Der Name bezieht sich auf die Propell
 
 Beim 3 Zoll Copter handelt es sich um den kleinen Bruder des 5 Zoll (siehe unten). Das Gewicht einer üblichen 3" Drohne liegt irgendwo zwischen 200 und 300 Gramm.
 
-Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst im Park fliegen ohne den Leuten zu sehr Angst einzujagen? Dann bist du hier richtig. Unterschätze den kleinen aber nicht. Auf die kleinen Propeller können oberflächliche Fleischwunden verursachen.
+Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst im Park fliegen ohne den Leuten zu sehr Angst einzujagen? Dann bist du hier richtig. Unterschätze den kleinen aber nicht. Auch die kleinen Propeller können oberflächliche Fleischwunden verursachen.
 
 #### 5 Zoll
 
@@ -803,7 +803,7 @@ Unauffällig ist anders. Wenn so ein Gerät auf dich zu kommt, geh in Deckung. U
 
 Das Gerät erreicht höhere Geschwindigkeiten als ein 5" und tut sich bei Verfolgungsjagden mit Autos z.B. deutlich leichter, die Geschwindigkeit mit zu halten.
 
-Auch kann eine 7"-Drohne deutlich mehr Gewischt zusätzlich tragen wie z.B. ein schweres Akku-Pack um mehrere Kilometer weit auf Berge zu fliegen.
+Auch kann eine 7"-Drohne deutlich mehr Gewicht zusätzlich tragen wie z.B. ein schweres Akku-Pack um mehrere Kilometer weit auf Berge zu fliegen.
 
 #### Cinelifter
 
@@ -1115,7 +1115,7 @@ Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zol
 
 Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ.
 
-#### Ballancer-Kabel
+#### Balancer-Kabel
 
 An diesem Kabel findet sich ein Stecker vom Typ JST-XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Lade-Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.
 
@@ -1370,7 +1370,7 @@ Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der
 
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
-Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleihaltigem. Dazu sollte das Lötzinn Flussmittel enthalten.
+Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel enthalten.
 
 Gute kompakte Lötkolben sind z.B.
 
