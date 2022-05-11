@@ -1,4 +1,4 @@
-# Einsteigerguide FPV (Anfang 2022)
+# Einsteigerguide FPV (Anfang/Mitte 2022)
 
 **WORK IN PROGRESS!!!**
 
@@ -63,7 +63,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [Rechtliches](#rechtliches)
   - [Führerscheine](#f%C3%BChrerscheine)
   - [Vereine](#vereine)
-- [D-Druck](#d-druck)
+- [3D-Druck](#3d-druck)
   - [Drucker](#drucker)
   - [Materialien](#materialien)
 - [Jenseits der Drohne](#jenseits-der-drohne)
