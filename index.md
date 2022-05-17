@@ -127,6 +127,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
         - [ISDT 608AC](#isdt-608ac)
         - [HOTA D6 Pro](#hota-d6-pro)
         - [SkyRC Q200](#skyrc-q200)
+    - [Laden/Entladenn](#ladenentladenn)
     - [paralleles Laden](#paralleles-laden)
   - [Drohne Teil 2](#drohne-teil-2)
     - [Fertige Drohne kaufen](#fertige-drohne-kaufen)
@@ -1300,6 +1301,10 @@ Das günstigste Ladegerät, dass sich zu kaufen lohnt.
 - 200W über integriertes Netzteil
 - 300W über externes Netzteil
 - 4 Ausgänge
+
+### Laden/Entladenn
+
+Neue Akkus sollten "eingeflogen" werden. Also die ersten 2-3 Zyklen langsam mit maximal 1C geladen und bei Flug mit maximal 2/3 Gas geflogen (und damit entladen) werden. Wenn du sofort mit 2C den Strom rein pumpst und mit Vollgas los ballerst, geht das massiv auf die Leistungsfähigkeit der Akkus. Es gibt Menschen, die ihre Akkus direkt beim ersten Flug dadurch getötet haben, dass Sie permanent Vollgas geflogen sind.
 
 ### paralleles Laden
 
