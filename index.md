@@ -88,7 +88,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 
 ### SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
-- **Schritt 1**: Kaufe eine Funke (TX16s oder Jumper T-Pro).
+- **Schritt 1**: Kaufe eine Funke (TX16S oder Jumper T-Pro, am besten schon mit ExpressLRS).
 - **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone).
 - **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter.
 - **Schritt 3.1**: Lies den Rest in diesem Dokument. Kläre Fragen und werde schlauer.
