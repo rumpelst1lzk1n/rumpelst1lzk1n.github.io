@@ -729,9 +729,9 @@ Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfern
 
 Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 60FPS und Kameras mit 120FPS. Du willst eine Kamera mit 120FPS.
 
-- DJI Cam
-- Caddx Vista Cam
-- Caddx Nebula Pro
+- DJI Air Unit Cam
+- Caddx Vista Unit Cam
+- Caddx Nebula **Pro** (nano)
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
