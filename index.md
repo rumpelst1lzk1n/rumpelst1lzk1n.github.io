@@ -735,6 +735,8 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
+![DJI Cams](./img/DJI/dji_cams.png)
+
 ### HDZero / Sharkbyte
 
 HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
