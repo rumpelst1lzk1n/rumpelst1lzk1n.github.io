@@ -175,8 +175,9 @@ Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/e
 Hier lohnt es die Augen offen zu halten.
 Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen. Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
-Wenn du mit dem Guide durch bist, kannst du viele Sachen auch ganz gut einschätzen.
-Meist braucht man für gute Käufe etwas Erfahrung...
+Meist braucht man für gute Käufe etwas Erfahrung, damit dir der Verkäufer nicht irgendwelche Uralt-Hardware für teuer Geld aufschwatzt.
+
+Wenn du mit dem Guide durch bist, solltest kannst du viele Sachen aber ganz gut einschätzen können.
 
 Gerne kannst du auch Rückfragen dazu im [pr0 Discord](https://discord.gg/uBh3QsnqF5) stellen.
 
