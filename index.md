@@ -158,15 +158,17 @@ Anders als Banggood und AliExpress führen diese Shops Einfuhrumsatzsteuer und Z
 
 ### 3.2. Europäische Shops
 
-Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
-
-Die großen einschlägigen deutschen Shops über die du immer wieder stolperst sind:
+Die einschlägigen deutschen Shops über die du immer wieder stolperst sind:
 
 - [n-factory.de](https://n-factory.de/)
 - [shop.rc-hangar15.de](https://shop.rc-hangar15.de/)
 - [rctech.de](https://www.rctech.de/)
 - [fpv24.com](https://www.fpv24.com/de/)
 - ...
+
+Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
+
+Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
 
 ### 3.3. EBay Kleinanzeigen
 
