@@ -872,7 +872,7 @@ Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen. Sei kein 
 
 Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen "TBS Source One". Die Schnittmuster dieses Frames sind hochoffiziell OpenSource und frei erhältlich. Jeder kann (und darf) den Frame herstellen.
 
-#### 8.2.2. Flight Controller / FC
+#### 8.2.2. Flugsteuerung / Flight Controller / FC
 
 Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektronischen Komponenten deiner Drohne zusammenbringt.
 
