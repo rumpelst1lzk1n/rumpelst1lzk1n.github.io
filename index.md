@@ -197,17 +197,17 @@ Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfer
 
 ### 4.1. Formfaktor
 
-Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen.
+Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.
 
-Nachfolgend 2 populäre Vertreter beider Formfaktoren.
+Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
-| Vollformat | Gamepad |
-| -------- | -------- |
-| <img src="./img/radiomaster_tx16s.png" alt="Radiomaster TX16S" width="300"/> | <img src="./img/team_blacksheep/tbs_tango2.png" alt="TBS Tango 2" width="300"/> |
+| Vollformat | Gamepad | Zwischending |
+| -------- | -------- | -------- |
+| ![Radiomaster TX16S](./img/radiomaster_tx16s.png) | ![TBS Tango 2](./img/team_blacksheep/tango2.jpg) | ![TBS Mambo](./img/team_blacksheep/mambo.jpg) |
 
 ### 4.2. Modi
 
-Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernbedienung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst.
+Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernbedienung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernbedienungen im Gamepad-Formfaktor.
 
 Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernbedienung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.
 
