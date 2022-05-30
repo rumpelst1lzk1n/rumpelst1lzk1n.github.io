@@ -1,4 +1,4 @@
-# 1. Einsteigerguide FPV (Anfang/Mitte 2022)
+# Einsteigerguide FPV (Anfang/Mitte 2022)
 
 **WORK IN PROGRESS!!!**
 
