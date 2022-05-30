@@ -1446,7 +1446,7 @@ Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, gr
 
 ### 14.1. Führerscheine
 
-Um unbenannte Luftfahrzeuge führen zu dürfen, gibt es 2 Führerscheine.
+Um unbemannte Luftfahrzeuge führen zu dürfen, gibt es 2 Führerscheine.
 
 #### 14.1.1. der kleine Drohnenführerschein
 
