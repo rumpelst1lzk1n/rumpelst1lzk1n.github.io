@@ -1279,7 +1279,7 @@ Wenn du eine fertige Drohne kaufst, sparst du jede Menge Zeit mit der Auswahl de
 
 Für viele gehört das selbst bauen der Drohne einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, eine fertige Drohne zu kaufen.
 
-> *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigtl. auch nix wert. Aber schön, dass du da bist! 
+> *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigtl. auch nix wert. Aber schön, dass du da bist!
 
 #### 12.1.1. Ready-to-Fly / RTF
 
