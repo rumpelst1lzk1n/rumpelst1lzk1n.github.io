@@ -193,7 +193,7 @@ Wenn du ein Gamepad hast, kannst du direkt dir auf Steam einen der vielen Simula
 
 Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
 
-Für diesen Abschnitt kannst du zwischen 90 und 250€ einplanen. Eine Funkfernbedienung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird.
+Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfernbedienung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird. Es geht auch noch teurer, aber das bedeutet nicht zwangsläufig bessere oder modernere Technik.
 
 ### 4.1. Formfaktor
 
