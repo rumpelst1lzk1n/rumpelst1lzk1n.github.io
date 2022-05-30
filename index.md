@@ -1398,7 +1398,7 @@ Ein gutes allgemeines Set, dass dir sicher auch außerhalb von FPV gute Dienste 
 
 ### 13.2. Prop-Tool
 
-Propeller werden meistens mit einer M8-Mutter befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
+Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
 
 ### 13.3. Löten
 
