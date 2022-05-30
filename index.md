@@ -11,7 +11,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [3. Einkaufen](#3-einkaufen)
   - [3.1. China-Shops](#31-china-shops)
   - [3.2. Europäische Shops](#32-europäische-shops)
-  - [3.3. EBay Kleinanzeigen](#33-ebay-kleinanzeigen)
+  - [3.3. Gebrauchtmarkt](#33-gebrauchtmarkt)
 - [4. Fernbedienung](#4-fernbedienung)
   - [4.1. Formfaktor](#41-formfaktor)
   - [4.2. Modi](#42-modi)
@@ -170,10 +170,11 @@ Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
 
 Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
 
-### 3.3. EBay Kleinanzeigen
+### 3.3. Gebrauchtmarkt
 
-Hier lohnt es die Augen offen zu halten.
-Es gibt immer wieder Schnäppchen z.B. bei aufgelösten Sammlungen. Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
+Auf den einschlägigen Gebraucht-Portalen wie eBay-Kleinanzeigen oder willhaben.at (österreichisches eBay-Kleinanzeigen) gibt es immer wieder Schnäppchen.
+
+Hier lohnt es die Augen offen zu halten z.B. bei aufgelösten Sammlungen. Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
 Meist braucht man für gute Käufe etwas Erfahrung, damit dir der Verkäufer nicht irgendwelche Uralt-Hardware für teuer Geld aufschwatzt.
 
