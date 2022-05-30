@@ -65,7 +65,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [Rechtliches](#rechtliches)
   - [Führerscheine](#f%C3%BChrerscheine)
   - [Vereine](#vereine)
-- [3D-Druck](#3d-druck)
+- [D-Druck](#d-druck)
   - [Drucker](#drucker)
   - [Materialien](#materialien)
 - [Jenseits der Drohne](#jenseits-der-drohne)
@@ -341,7 +341,7 @@ Bei ELRS konzentrieren wir uns auf 2.4 GHz. 900 Mhz-Systeme würde ich für eine
 
 Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt gebracht hat. Die Produkte genießen einen guten Ruf, auch, weil der Hersteller gut mit den Entwicklern zusammen arbeitet.
 
-> *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass der USB
+> *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass man das Modul für Zugriff auf den USB-Port aufschrauben muss. Ist aber nicht unbedingt notwendig, flashen kann man das Modul auch über die Funke oder über WiFi.
 
 |Happymodel ES24TX Pro|Happymodel ES24TX Pro Slim|
 | --- | --- |
