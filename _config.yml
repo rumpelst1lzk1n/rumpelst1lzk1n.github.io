@@ -21,7 +21,7 @@
 title: Einsteigerguide FPV
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dieser Guide soll einen umfangreichen Einblick in das Thema “FPV-Drohnen” vermitteln und hat den Anspruch, als Orientierungshilfe für Einsteiger zu dienen und die meisten allgemeinen Fragen zu beantworten über die man beim Einstieg stolpert.
+  Einstiegshilfe in das Thema “FPV” mit Multicoptern/"Drohnen". Orientierungshilfe für Einsteiger rund um die meisten allgemeinen Fragen zu beantworten über die man am Anfang stolpert.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: rumpelst1lzk1n
