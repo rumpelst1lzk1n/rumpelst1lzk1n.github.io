@@ -23,9 +23,10 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [6.1. Allgemein](#61-allgemein)
   - [6.2. Analog](#62-analog)
   - [6.3. DJI](#63-dji)
-  - [6.4. HDZero / Sharkbyte](#64-hdzero--sharkbyte)
-  - [6.5. HD Aufnahmen](#65-hd-aufnahmen)
-  - [6.6. unter ferner liefen](#66-unter-ferner-liefen)
+  - [6.4. HDZero (früher Sharkbyte)](#64-hdzero-früher-sharkbyte)
+  - [6.5. Walksnail](#65-walksnail)
+  - [6.6. HD Aufnahmen](#66-hd-aufnahmen)
+  - [6.7. unter ferner liefen](#67-unter-ferner-liefen)
 - [7. Flugstile](#7-flugstile)
   - [7.1. Cinematic](#71-cinematic)
   - [7.2. Race](#72-race)
@@ -333,10 +334,10 @@ Bei ELRS konzentrieren wir uns auf 2.4 GHz. 900 Mhz-Systeme würde ich für eine
 
 ##### 4.5.1.1. Happymodel ES24TX Pro
 
-- ca. 50€
+- ca. 45€
 - ELRS auf 2.4GHz
 - 1W maximale Sendeleistung
-- Wifi/Bluetooth
+- WiFi/Bluetooth
 - Versionen für JR- und Lite-Modulschacht ("Slim")
 
 Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt gebracht hat. Die Produkte genießen einen guten Ruf, auch, weil der Hersteller gut mit den Entwicklern zusammen arbeitet.
@@ -468,9 +469,11 @@ Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Le
 
 ### 6.2. Analog
 
-Bis vor 2 Jahren die einzige Möglichkeit für FPV. Es gibt dutzende verschiedene Kameras, Videosender und Brillen von mehreren Herstellern. Alles untereinander kompatibel.
+Bis etwa Mitte 2019 die einzige Möglichkeit für FPV. Es gibt dutzende verschiedene Kameras, Videosender und Brillen von mehreren Herstellern. Alles untereinander kompatibel.
 
 Die mit großem Abstand günstigste Möglichkeit, in FPV einzusteigen. Wenn dein Budget auf die oben erwähnten 500€ beschränkt ist, ist das hier deine Kategorie.
+
+> *Anm. rumpelst1lzk1n*: Auch, wenn du mit dem Fliegen anfangen willst aber auf die Veröffentlichung/Verfügbarkeit eines bestimmten (digitalen) Videosystems wartest, kannst du mit einem analogen Budget-Setup einsteigen, ohne allzu viel Geld zu verbrennen.
 
 Brille 80€, Videosender 10€, Kamera 15€ wäre so ein Minimal-Setup.
 
@@ -514,14 +517,14 @@ In dieser Kategorie bekommst du ab ca ~80€ eine halbwegs taugliche Einsteigerb
 
 Beim Binocular-Style hast du ein Display pro Auge. Brillen in dieser Bauform sind deutlich kompakter aber auch deutlich teurer.
 
-Eine Brille passt da eher selten drunter, dafür kannst du oft den Augenabstand und die Dioptrien in der Optik der Brille direkt einstellen.
+Eine Brille für die Sehstärke passt da eher selten drunter. Dafür kannst du oft den Augenabstand und die Dioptrien in der Optik der Brille direkt einstellen.
 
 Vorteile:
 
 - kleiner/leichter
 - Optik pro Auge anpassbar
 
-In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille.  Lass dich nicht täuschen, es gibt günstigere Brillen im Binocular-Style. Die sind Müll.
+In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille. Lass dich nicht täuschen, es gibt günstigere Brillen im Binocular-Style. Die sind Müll.
 
 ##### 6.2.2.3. Empfehlungen (Analog-Brillen)
 
@@ -536,8 +539,8 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 - ca. 80€
 - DVR
 - Antennen-Diversity
-- wird mit einer Patchantenne und einer omnidirektionalen Antenne geliefert
-- integriertes Receiver mit Diversity, was in dieser Preisklasse nicht selbstverständlich ist
+- wird mit einer Patch-Antenne und einer omni-direktionalen Antenne geliefert
+- integrierter Receiver mit Diversity, was in dieser Preisklasse nicht selbstverständlich ist
 
 ###### 6.2.2.3.2. Skyzone Cobra X (v2)
 
@@ -635,7 +638,7 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ![DJI Cams](./img/DJI/dji_cams.png)
 
-### 6.4. HDZero / Sharkbyte
+### 6.4. HDZero (früher Sharkbyte)
 
 HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
 
@@ -682,7 +685,13 @@ Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZer
 | -------- | -------- |
 | ![Fatshark Scout HD](https://www.fatshark.com/wp-content/uploads/2019/06/DSC_0272-e1560242488189-scaled.jpg) | ![Shark Byte RX5.1](https://www.fatshark.com/wp-content/uploads/2021/01/SharkByteRX5.jpg) |
 
-### 6.5. HD Aufnahmen
+### 6.5. Walksnail
+
+Im Mai 2022 wurde ein neues System von Fatshark/Walksnail vorgestellt. Das System soll sich ähnlich wie DJI verhalten, ist aber nicht kompatibel. Obwohl es Ende Juni 2022 herauskommen soll ist noch nicht viel über dieses System bekannt. Um das Vorgehen der Veröffentlichung gab es eine größere Kontroverse, da Fatshark nicht offen legen wollte, wer hinter dem System steht.
+
+> *Anm. rumpelst1lzk1n*: Einem Anfänger würde ich noch davon abraten. Das System sollte sich mindestens 1-2 Monate auf dem Markt befunden haben und einmal durch die Hände der größeren Reviewer gegangen sein.
+
+### 6.6. HD Aufnahmen
 
 Wer wirklich gutes Bildmaterial von seinem Flug haben will, packt eine Action-Cam auf die Drohne.
 
@@ -694,9 +703,9 @@ Andere populäre HD-Kameras sind:
 - Insta360 Go(2)
 - Runcam Orange
 
-### 6.6. unter ferner liefen
+### 6.7. unter ferner liefen
 
-#### 6.6.1. Orqa HD
+#### 6.7.1. Orqa HD
 
 Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
 
@@ -704,7 +713,7 @@ Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-B
 
 Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
 
-#### 6.6.2. OpenHD
+#### 6.7.2. OpenHD
 
 [OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
 
