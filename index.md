@@ -78,6 +78,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [18.3. Discord Server](#183-discord-server)
   - [18.4. OpenSource Projekte](#184-opensource-projekte)
   - [18.5. Hersteller Dokumentationen](#185-hersteller-dokumentationen)
+  - [18.6. Shops](#186-shops)
 - [19. Sonstiges](#19-sonstiges)
   - [19.1. Puffis gesammelte Weisheiten](#191-puffis-gesammelte-weisheiten)
 
@@ -1653,6 +1654,32 @@ Der Themenbereich FPV ist voller Anglizismen
 - [Diatone](https://www.diatone.us/apps/help-center)
 - [iFlight](https://drive.google.com/drive/folders/1r3MNTBNYSzGeRXQg45j4IJVoW1Xjk7Y0)
 - [HGLRC](https://www.hglrc.com/pages/download)
+
+### 18.6. Shops
+
+Bei manchen den Links *kann* es sich um Affiliate Links handeln.
+
+#### 18.6.1. Allgemein
+
+Folgende Ships sind in meinem Soziotop bekannt und eigentlich verlässlich:
+
+- [drone-fpv-racer.com](https://www.drone-fpv-racer.com/), Frankreich
+- [droneit.se](https://droneit.se/), Schweden
+- [fpv24.com](https://www.fpv24.com/de/), Deutschland
+- [modell-hubschrauber.at](https://www.modell-hubschrauber.at/), Österreich
+- [n-factory.de](https://n-factory.de/), Deutschland
+- [rctech.de](https://www.rctech.de/), Deutschland
+- [rotorama.de](https://www.rotorama.de/), Tschechien
+- [shop.rc-hangar15.de](https://shop.rc-hangar15.de/), Deutschland
+
+#### 18.6.2. Akkus
+
+- [Tattu (Gensace)](https://www.gensace.de/)
+- [China Hobby Line (CNHL)](https://bit.ly/3uUdpjt)
+
+#### 18.6.3. Antennen
+
+- [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
 
 ## 19. Sonstiges
 
