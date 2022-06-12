@@ -97,7 +97,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 - **Schritt 4.1**: Ein Ladegerät (ISDT 608AC oder Hota D6 Pro).
 - **Schritt 4.2**: Passende Akkus für die Drohne (4 Stück sollten es schon sein).
 - **Schritt 5**: übe übe übe - bis alles da ist.
-- **Schritt 6**: rausgehen - fliegen.
+- **Schritt 6**: rausgehen - offenes Gelände suchen (gemähte Wiesen sind dein Freund) - fliegen.
 
 ### 1.2. Was ist das für 1 Guide?
 
