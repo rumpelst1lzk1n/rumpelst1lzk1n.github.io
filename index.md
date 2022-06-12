@@ -470,6 +470,32 @@ Bei sehr kleinen und leichten Drohnen (TinyWhoops, siehe unten) kann aus Gewicht
 
 Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Leistung des Senders zu erhöhen.
 
+#### 6.1.4. OSD / On-Screen-Display
+
+Oder auch: Alle Infos, die du über dein Fluggerät haben solltest. Das OSD zeigt dir diverse Daten aus deiner Flugsteuerung im Video deiner Brille an.
+
+Häufig genutzte Werte sind z.B:
+
+- Akku-Kapazität/-Spannung
+- Empfangsqualität der Steuerungssignale
+- **Warnmeldungen** (wann sollte ich landen, warum will mein Gerät nicht abheben, ...)
+- GPS-Position
+- Flugmodus
+
+Vieles, was du anzeigen kannst, hängt davon ab, was deine Drohne verbaut hat und wie sie eingestellt ist.
+
+Beispiele:
+
+- Ohne GPS macht es keinen Sinn, sich die GPS Informationen anzeigen zu lassen.
+- Ist die Strom-Messung am Flight-Controller falsch kalibriert, können dir die zugehörigen OSD-Elemente nicht automagisch richtige Werte liefern.
+- Ist die minimale Zell-Spannung falsch eingestellt, werden dir Warnmeldungen über einen leeren Akku zu früh oder (schlimmer) zu spät ausgegeben.
+
+Näheres dazu findest du normalerweise in der Anleitung deiner Software für die Flugsteuerung.
+
+Die unterschiedlichen Videosysteme haben unterschiedliche Wege, wie sie dir Systeminformationen über dein Fluggerät anzeigen. Analog brennt das statisch ins Bild mit ein, bei digitalen Systemen wird das meistens über einen separaten Kanal übertragen und im Empfänger über das Bild gelegt. Das bringt den Vorteil mit sich, dass du bei manchen Systemen entscheiden kannst, ob du diese Informationen mit im DVR speichern willst oder eben nicht.
+
+> *Anm. rumpelst1lzk1n*: Dieser Abschnitt ist einer besonderen Person gewidmet.
+
 ### 6.2. Analog
 
 Bis etwa Mitte 2019 die einzige Möglichkeit für FPV. Es gibt dutzende verschiedene Kameras, Videosender und Brillen von mehreren Herstellern. Alles untereinander kompatibel.
