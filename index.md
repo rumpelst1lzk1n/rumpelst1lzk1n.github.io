@@ -20,7 +20,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
 - [6. Videosystem](#6-videosystem)
   - [6.1. Allgemein](#61-allgemein)
@@ -44,7 +44,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS & FETtec](#102-kiss--fettec)
+  - [10.2. KISS \& FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -127,6 +127,8 @@ In dem Abschnitt gehe ich kurz darauf ein, wie du überhaupt an Drohnen und Zube
 > *Anm. rumpelst1lzk1n*: Willkommen in 2022, der Fortsetzung von 2021. Prices are high and everything is out of stock. Es kann sein, dass aufgrund von Gründen die Preise in der Realität inzwischen stark von denen in dem Guide hier abweichen. Leider nach oben.
 
 Wir schlittern seit 2020 von einer Krise in die nächste. Das trifft auch das Hobby. Seit 2020 sind die Preise stark gestiegen. Und gerade in den Sommermonaten, wenn alle fliegen wollen, sind viele Produkte ausverkauft. Plane frühzeitig oder richtige dich auf Vorbestellung und lange Lieferzeiten ein.
+
+Viele Shops zeigen manche Artikel permanent als ausverkauft an. Das hängt oft damit zusammen, dass die Vorbestellungen die Lieferungen übersteigen. Die Vorbestellungen werden bedient, aber der Artikel ist nie "verfügbar".
 
 ### 3.1. China-Shops
 
