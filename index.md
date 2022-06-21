@@ -1380,46 +1380,58 @@ Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammen
 
 #### 12.2.1. Builds
 
-Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Ultra-Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
+Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
 
-Die Builds konzentrieren sich auf gängige Frames und Hardware. Beim Flight Controller verwenden wir etwas mit Betaflight.
+Die Builds konzentrieren sich auf gängige Frames und Hardware. Beim Flight Controller verwenden wir etwas mit Betaflight. Zudem rechnen wir den Preis ohne Akkus und ohne Ersatz-Motoren.
 
 Natürlich kannst du auch einen super exotischen Frame oder ganz ausgefallene Motoren verwenden. Dann erwarte aber nicht, dass du groß Hilfe dafür findest.
+
+Wenn du darüber hinaus noch Inspiration suchst, lohnt sich ein Blick auf die Website [rotorbuild](https://rotorbuilds.com/). Dort veröffentlichen einige Piloten ihre Builds.
 
 ##### 12.2.1.1. Budget
 
 Bei einem Budget-Build gehe ich davon aus, dass auch deine andere Ausrüstung eher in die Kategorie "Budget" fällt. Das heißt, du fliegt auf jeden Fall Analog.
 
-Im schlimmsten Fall hast du auch noch ein Legacy-Funksystem. Das dürfte aber nur der Fall sein, wenn du gebraucht gekauft hast. Und selbst dann solltest du dir mittelfristig überlegen, ob du ein Upgrade auf ELRS vornimmst.
+Im schlimmsten Fall hast du auch noch ein Legacy-Funksystem wie FrSky. Frühere Versionen dieses Guides haben bei diesem Budget-Build ebenfalls noch auf ein Legacy-Funk-Protokoll gesetzt.
 
-- Frame: TBS Source One
-- Motor: Emax Eco2 oder XingE
-- ESC & FC: JHEMCU F405 Stack
-- Receiver: ELRS
-- Videosender: HappyModel OVX300
-- Kamera: Caddx Ratel, Runcam Racer, Foxeer Racer
+> *Anm. Teflon.Don*: Ja ne, FrSky sollte man echt keinem mehr antun.
+
+Selbst wenn man sich ein gebrauchtes Modell mit einem Legacy-Funksystem kauft, sollte man sich schleunigst überlegen, ob man nicht in ein Upgrade auf ELRS investiert.
+
+Kostenpunkt dieses Builds sind in etwa 220€.
+
+- Frame: TBS Source One (ca. 30€)
+- Motor: Emax Eco2 oder XingE (ca. 60€)
+- ESC & FC: JHEMCU F405 Stack (ca. 75€)
+- Receiver: ELRS (ca. 15€)
+- Videosender: HappyModel OVX300 (ca. 15€)
+- Kamera: Caddx Ratel, Runcam Racer, Foxeer Racer (ca. 25€)
 
 ##### 12.2.1.2. Mittelklasse
 
 Ab der Mittelklasse gehe ich davon aus, dass du für den Videoempfang bereits ein digitales System hast. Entweder DJI oder HDZero. Siehe oben.
 
-- Frame: Diatone Roma F5
-- Motor: iFlight Xing2
-- ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4
-- Receiver: ELRS
-- Videosystem: passend zum Videoempfänger
+Kostenpunkt dieses Builds sind in etwa 350-400€.
+
+- Frame: Diatone Roma F5 (ca. 50€)
+- Motor: iFlight Xing2 (ca. 80€)
+- ESC & FC: Diatone Mamba F405 Stack oder iFlight SucceX-E F4 (ca. 100€)
+- Receiver: ELRS (ca. 15€)
+- Videosystem: passend zum Videoempfänger (ca. 110-140€)
 
 ##### 12.2.1.3. Premium
 
-Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen. Kauf dir lieber 2 mal ein 300€ Quad als einmal ein 600€ Quad.
+Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. Gerade zu Anfang wirst du viel Crashen. Das kann teuer werden. Und als Anfänger wirst du wahrscheindlich keinen Unterschied zwischen Budget- und Premium-Motoren feststellen. Bau dir lieber 2 mal ein 300€ Quad als einmal ein 600€ Quad.
 
 > *Anm. Puffi*: Teuer ist erst gut, wenn man lang genug fliegt um Unterschiede erkennen zu können.
 
-- Frame: ImpulseRC Apex 5
-- Motor: ETHIX Mr Steele Stout
-- ESC & FC: Diatone Mamba F722 App Stack oder iFlight SucceX-D F7
-- Receiver: ELRS, Tracer oder Crossfire
-- Videosystem: passend zum Videoempfänger
+Kostenpunkt dieses Builds sind in etwa 500€.
+
+- Frame: ImpulseRC Apex 5 (ca. 100€)
+- Motor: ETHIX Mr Steele Stout (ca. 110€)
+- ESC & FC: Diatone Mamba F722 App Stack oder iFlight SucceX-D F7 (ca. 130€)
+- Receiver: ELRS, Tracer oder Crossfire (ca. 15-35€)
+- Videosystem: passend zum Videoempfänger (ca. 110-140€)
 
 #### 12.2.2. Tune
 
