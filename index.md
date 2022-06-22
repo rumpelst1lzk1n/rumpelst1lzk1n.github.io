@@ -1380,13 +1380,19 @@ Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammen
 
 #### 12.2.1. Builds
 
-Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Premium. Natürlich kannst du nach belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden.
+Im Folgenden werden einige mögliche Builds vorgestellt, von Budget bis Premium.
 
-Die Builds konzentrieren sich auf gängige Frames und Hardware. Beim Flight Controller verwenden wir etwas mit Betaflight. Zudem rechnen wir den Preis ohne Akkus und ohne Ersatz-Motoren.
-
-Natürlich kannst du auch einen super exotischen Frame oder ganz ausgefallene Motoren verwenden. Dann erwarte aber nicht, dass du groß Hilfe dafür findest.
+Die Builds konzentrieren sich auf gängige Frames und Hardware. Für 5" Frames/Copter wirst du die größte Teileauswahl finden.
 
 Wenn du darüber hinaus noch Inspiration suchst, lohnt sich ein Blick auf die Website [rotorbuild](https://rotorbuilds.com/). Dort veröffentlichen einige Piloten ihre Builds.
+
+Beim Flight Controller verwenden wir etwas mit Betaflight.
+
+Die Builds sind mit 6S-Akkus mit einer Kapazität von 1000-1300 mAh gedacht. Für 4 Stück davon kannst du nochmal etwa 100€ einplanen, je nach Marke.
+
+Zudem ist bei der Preiskalkulation kein Ersatzmotor mit drin. Einen Ersatz-Motor solltest du dir schon mit bestellten.
+
+Natürlich kannst du bei den Builds nach Belieben Teile tauschen, z.B. den Premium Frame mit den Budget-Motoren verwenden oder ein Premium-Build mit analoger statt digitaler Videoübertragung bauen.
 
 ##### 12.2.1.1. Budget
 
