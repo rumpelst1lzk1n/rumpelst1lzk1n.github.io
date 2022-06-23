@@ -1360,9 +1360,9 @@ Mit 2S kann man sie auch außen ganz gut fliegen.
 
 Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden, hat aber aufgrund des geringen Gewichts eine vergleichsweise lange Flugzeit.
 
-##### 12.1.5.3. GepRC Phantom
+##### 12.1.5.3. GepRC Phantom / Emax Babyhawk
 
-Schöner kleiner Toothpick mit gut Power. Anfängerfreundlich, verzeiht Crashes und wirkt nicht bedrohlich, wenn du damit z.B. im Park cruisen möchtest.
+Schöne kleine Toothpicks mit gut Power. Anfängerfreundlich, verzeihen aufgrund des geringen Gewichts Crashes und wirken nicht so bedrohlich, wenn du damit z.B. im Park cruisen möchtest.
 
 ##### 12.1.5.4. iFlight Nazgul 5 (Evoque)
 
