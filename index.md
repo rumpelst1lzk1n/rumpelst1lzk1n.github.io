@@ -1289,7 +1289,7 @@ Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weiter
 
 |HGLRC Thor Pro| Uruav Blacklight|
 | ----- | ----- |
-| <img src="./img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/> | <img src="./img/uruav_blacklight.png" alt="HGLRC Thor Pro" width="300"/> |
+| <img src="./img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/> | <img src="./img/uruav_blacklight.png" alt="URUAV Blacklight" width="300"/> |
 
 **!!ACHTUNG!!**
 
