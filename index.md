@@ -445,7 +445,11 @@ Ein Bastard aus Acro und Angle. Die Drohne ist an sich stabil, kann aber trotzde
 
 #### 5.2.4. 3D
 
-Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst.
+Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst. Hoch ist gas, runter ist Rückwärtsgang.
+
+Damit sind richtig abgespacte Manöver möglich. Kopfüber schweben? Kein Problem.
+
+Allerdings erfordert dieser Flugmodus nochmal deutlich mehr Übung und auch oft andere Einstellungen in den Tiefen der Drohne. Die wenigsten Piloten fliegen diesen Modus. Und wie bei allem, das wenig verwendet wird, findest du dafür auch entsprechend weniger Hilfestellung online. Fang erstmal mit dem Acro-Modus an, bevor du dich an so einen Exoten wagst.
 
 #### 5.2.5. Airmode
 
