@@ -20,8 +20,10 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
+  - [5.1. Üben](#51-üben)
+  - [5.2. Flugmodi](#52-flugmodi)
 - [6. Videosystem](#6-videosystem)
   - [6.1. Allgemein](#61-allgemein)
   - [6.2. Analog](#62-analog)
@@ -44,7 +46,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS \& FETtec](#102-kiss--fettec)
+  - [10.2. KISS & FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -404,6 +406,50 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 - [DRL (Steam)](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
 - [Uncrashed (Steam)](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
 - [AI Drone Simulator (Steam)](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)
+
+### 5.1. Üben
+
+Übe viel. Du solltest etwa 10 Stunden auf der Uhr haben, bevor du dich an das Fliegen einer richtigen Drohne im Außenbereich wagst.
+
+Die Zeit ist bahres Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
+
+Zudem gibt es auch in den Simulatoren kompetitive Wettbewerbe, seien es Wettrennen oder Zeitrennen.
+
+### 5.2. Flugmodi
+
+Man unterscheidet im weitesten zwischen 3 Flugmodi.
+
+#### 5.2.1. Acro
+
+Der herausfordernste Modus. Gleichezeitig auch der Modus, den du dir direkt angewöhnen solltest.
+
+Beim Acro-Modus stellst du nur die Fluglage ein. Die Drohne verbleibt dann in dieser Fluglage. Jegliche Änderung der Fluglage MUSS vom Piloten vorgegeben werden.
+
+Nur mit diesem Flugmodus sind die wirklich coolen Tricks möglich und die meisten Videos, die du gesehen haben wirst, sind vermutlich mit diesem Flugmodus aufgenommen.
+
+#### 5.2.2. Angle / Level
+
+Die Drohne wird stabil gehalten und folgt bis zu einem gewissen Grad deinen Sticks, kippt aber nicht um. Wenn du die Sticks für Pitch, Roll und Yaw in die Neutralposition bringst, begibt sich die Drohne wieder in die Horizontale.
+
+Achtung: Dass die Drohne sich in die Horizontale begibt heißt NICHT, dass sie anhält. Wenn die Drohne schwung drauf hat, nimmt sie diesen trotzdem mit und schwebt in die entsprechende Richtung weiter.
+
+Damit sind nur eingeschränkt Tricks möglich.
+
+Anwendungsfälle hat dieser Flugmodus trotzdem. Alles was in Innenräumen mit einer entsprechenden Präzision geflogen werden will (TinyWhoops, CineWoops) wird oft mit diesem Modus geflogen.
+
+Zudem legen einige Piloten sich diesen Flugmodus als "Panikschalter" auf einen Knopf ihrer Funkfernbedienung um die Drohne noch irgendwie abzufangen.
+
+#### 5.2.3. Horizon
+
+Ein Bastard aus Acro und Angle. Die Drohne ist an sich stabil, kann aber trotzdem Überschläge nach rechts, links, vorne und hinten machen wenn du mit den Sticks auf Anschlag gehst.
+
+#### 5.2.4. 3D
+
+Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst.
+
+#### 5.2.5. Airmode
+
+Gelegentlich stolperst du über den Begriff "Airmode". DAS. IST. KEIN. FLUGMODUS. Der Airmode sorgt in Betaflight z.B. dafür, dass deine Drohne auch ganz ohne dass du den Gashebel betätigst immer ein ganz kleines bisschen Gas gibt um die Lage zu halten und nicht unkontroliert herum zu wobbeln.
 
 ## 6. Videosystem
 
