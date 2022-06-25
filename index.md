@@ -237,7 +237,7 @@ Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in d
 
 Funkprotokolle verwenden die Frequenzen 2.4Ghz und 900Mhz.
 
-900Mhz hat eine höhere Reichweite/bessere Penetration, wenn du hinter Bäumen, in Gebäuden oder wirklich wirklich weit weg fliegst. 2.4Ghz erlaubt mehr Piloten gleichzeitig in der Luft und hat eine höhere Update-Rate, heißt, deine Eingaben werden häufiger zur Drohne geschickt.
+900Mhz hat eine höhere Reichweite/bessere Penetration, wenn du hinter Bäumen, in Gebäuden oder wirklich wirklich weit weg fliegst. 2.4Ghz erlaubt mehr Piloten gleichzeitig in der Luft und eine höhere Update-Rate, heißt, deine Eingaben werden häufiger zur Drohne geschickt.
 
 Falls du ein nicht von deiner Funke abgedecktes Protokoll fliegen willst, kannst du dieses mit Modulen nachrüsten. Die beiden Formfaktoren nutzen unterschiedliche Modulgrößen, `JR` bei Vollformat, `Lite` bei Gamepad.
 
