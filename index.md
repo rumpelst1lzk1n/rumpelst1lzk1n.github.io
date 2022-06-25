@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# Einsteigerguide FPV (Anfang/Mitte 2022)
+# Einsteigerguide FPV
 
-**WORK IN PROGRESS!!!**
+**Stand: Mitte 2022**
 
 Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Daten einigermaßen aktuell zu halten.
 
