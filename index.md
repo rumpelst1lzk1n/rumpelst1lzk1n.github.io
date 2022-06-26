@@ -30,7 +30,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [6.1. Allgemein](#61-allgemein)
   - [6.2. Analog](#62-analog)
   - [6.3. DJI](#63-dji)
-  - [6.4. HDZero (früher Sharkbyte)](#64-hdzero-früher-sharkbyte)
+  - [6.4. HDZero (früher SharkByte)](#64-hdzero-früher-sharkbyte)
   - [6.5. Walksnail](#65-walksnail)
   - [6.6. HD Aufnahmen](#66-hd-aufnahmen)
   - [6.7. unter ferner liefen](#67-unter-ferner-liefen)
@@ -784,7 +784,7 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ![DJI Cams](./img/DJI/dji_cams.png)
 
-### 6.4. HDZero (früher Sharkbyte)
+### 6.4. HDZero (früher SharkByte)
 
 HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
 
