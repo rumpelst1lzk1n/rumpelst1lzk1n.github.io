@@ -685,40 +685,52 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 - ca. 80€
 - DVR
 - Antennen-Diversity
-- wird mit einer Patch-Antenne und einer omni-direktionalen Antenne geliefert
+- wird mit einer Patch-Antenne und einer omnidirektionalen Antenne geliefert
 - integrierter Receiver mit Diversity, was in dieser Preisklasse nicht selbstverständlich ist
 
 ###### 6.2.2.3.2. Skyzone Cobra X (v2)
 
 - ca. 250€
-- gutes DVR (v2 hat 60FPS)
+- gutes DVR, 60FPS (ab V2, V1 hat nur 30FPS DVR)
+- Auflösung 720p
 - gutes eingebautes Receiver-Modul
 - HDMI-in
+
+Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese haben Displays mit deutlich geringerer Auflösung.
 
 ###### 6.2.2.3.3. Fatshark Attitude V6
 
 - ca 350-400€
 - DVR
+- Auflösung 720p
 - integrierter Receiver
 - HDMI-in
+
+Fatshark konzentriert sich zunehmend auf den digitalen Markt. Wie viel Zukunft ihre analogen Produkte noch haben ist zur Zeit fraglich.
 
 ###### 6.2.2.3.4. Fatshark Dominator HDO 2
 
 - ca. 600€
 - DVR
-- **KEIN** Receiver
+- Auflösung 720p
+- **KEIN** mitgelieferter Receiver
 - HDMI-in
 - OLED-Display (knackscharfe Farben)
 
 Auf dem Gebrauchtmarkt gibt es öfter auch Pakete mit Receiver.
 
+> *Anm. rumpelst1lzk1n*: Ich würde mir von Fatshark kein analoges System mehr neu kaufen ...
+
 ###### 6.2.2.3.5. Skyzone Sky04X (v2)
 
 - ca. 600€
 - gutes DVR, 60FPS (ab V2, V1 hat nur 30FPS DVR)
-- gutes eingebautes Receiver-Modul
+- Auflösung 720p
+- gutes mitgeliefertes Receiver-Modul
 - HDMI-in
 - OLED-Display (knackscharfe Farben)
+
+> *Anm. rumpelst1lzk1n*: In meiner Wahrnehmung die beste analoge Brille.
 
 #### 6.2.3. Empfänger (Analog)
 
