@@ -839,7 +839,7 @@ Neben den oben erwähnten Empfängern und Sendern gibt es noch ältere Hardware.
 
 Zu der betreffenden Hardware zählen Videosender in teilweise etwas unüblichen Formfaktoren.
 
-Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZero-Modul und ein separates Modul. Das Modul wurde nahtlos durch den oben bereits genannten Empfänger ersetzt. Für die Brille gibt es bisher noch keine Alternative. 
+Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZero-Modul und ein separates Modul. Das Modul wurde nahtlos durch den oben bereits genannten Empfänger ersetzt. Für die Brille gibt es bisher noch keine Alternative.
 
 | Fatshark Scout HD | SharkByte Empfänger |
 | -------- | -------- |
