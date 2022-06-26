@@ -1827,15 +1827,16 @@ Folgende Ships sind in meinem Soziotop bekannt und eigentlich verlässlich:
 - [rctech.de](https://www.rctech.de/), Deutschland
 - [rotorama.de](https://www.rotorama.de/), Tschechien
 - [shop.rc-hangar15.de](https://shop.rc-hangar15.de/), Deutschland
+- [team-blacksheep.com](https://www.team-blacksheep.com/shop), Honkong **(!)**
 
 #### 18.6.2. Akkus
 
-- [Tattu (Gensace)](https://www.gensace.de/)
-- [China Hobby Line (CNHL)](https://bit.ly/3uUdpjt)
+- [Tattu (Gensace)](https://www.gensace.de/), deutscher Shop
+- [China Hobby Line (CNHL)](https://bit.ly/3uUdpjt), europäisches Warenlager
 
 #### 18.6.3. Antennen
 
-- [shop.prodrone.pl](https://shop.prodrone.pl/)
+- [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
 
 ## 19. Sonstiges
 
