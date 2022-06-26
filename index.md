@@ -536,33 +536,37 @@ Betreibe den Videosender **NIEMALS** ohne Antenne. Andernfalls kann die Energie 
 
 Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Leistung des Senders zu erhöhen.
 
-Bei Antennen unterscheidet man zwischen 3 Typen:
-
-- Dipol
-- RHCP
-- LHCP
-
-Wenn du auf einer Seite (z.B. des Senders) einen Dipol verwendest, ist es relativ egal, was du auf der anderen Seite (z.B. des Empfängers) hast.
-
-Verwendest du `RHCP` oder `LHCP`, so solltest du aufpassen, dass dies sowohl auf Sende- wie auch auf Empfangsseite der Fall ist.
-
-Zudem unterscheidet man zwischen gerichteten und ungerichteten Antennen.
-
 Für den Einstieg sind auf Brille und Drohne ungerichtete Antennen vom Typ "Lollipop", "Stubby" oder "Pagoda" zu bevorzugen.
 
 Wenn du an deiner Brille mehrere Inputs für Antennen hast und dein Videosystem z.B. Diversity unterstützt, kann eine Kombination aus gerichteter und ungerichteter Antenne Sinn machen. Dabei ist die Annahme, dass du meistens in dem Bereich vor dir fliegst. Für diesen Bereich sorgt dann die gerichtete Antenne für und da die Patch für den besseren Empfang sorgt.
 
+##### 6.1.3.1. Polarisation
+
+Die Polarisation sagt etwas darüber aus, wie sich die Funkwellen aus der Antenne heraus ausbreiten bzw. auf den Empfang welcher Ausbreitungsform eine Antenne ausgelegt ist.
+
+Dabei sind im FPV 3 unterschiedliche Polarisation üblich:
+
+- Linear (oft auch als "Dipol" bezeichnet)
+- RHCP (right hand circular polarized)
+- LHCP (left hand circular polarized)
+
+Wenn du auf einer Seite (z.B. des Senders) einen Dipol verwendest, ist es relativ egal, was du auf der anderen Seite (z.B. des Empfängers) hast. Linear und LHCP oder RHCP kann man relativ gut mischen.
+
+Verwendest du auf beiden Seiten Antennen mir zirkularer Polarisation, so solltest du aufpassen, dass dies sowohl auf Sende- wie auch auf Empfangsseite der Fall ist. Also entweder nur `RHCP` oder nur `LHCP`.
+
+##### 6.1.3.2. Ungerichtet / Omnidirektional
+
+Ungerichtete Antennen senden und empfangen (vereinfacht gesagt) in jede Richtung gleichmäßig.
+
+Auf deinem Copter willst eigentlich immer eine omnidirektionale Antenne, da du dich mit dem Teil meistens rundherum im Kreis drehst.
+
 Bei sehr kleinen und leichten Drohnen (TinyWhoops, siehe unten) kann aus Gewichtsgründen auch eine lineare Antenne Sinn machen.
-
-##### 6.1.3.1. Ungerichtet / Omnidirektional
-
-Ungerichtete Antennen empfangen (vereinfacht gesagt) in jede Richtung gleichmäßig.
 
 | linear | lollipop | stubby | pagoda |
 | --- | --- | --- | --- |
 | ![linear](https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-ufl-dipole-1_1800x1800.jpg?v=1626819202) |![lollipop](https://inew.foxeer.com//upload/s/goods/201904/1555920368858975547.images.800x800.jpg) | ![Stubby](https://inew.foxeer.com//upload/s/goods/201904/1556076590073295056.images.800x800.jpg) | ![Pagoda](https://inew.foxeer.com//upload/s/goods/201711/1511447592626441098.images.800x800.jpg) |
 
-##### 6.1.3.2. Gerichtet
+##### 6.1.3.3. Gerichtet
 
 Gerichtete Antennen erkaufen sich einen besseren Empfang (höheren Gain) dadurch, dass sie sich auf einen bestimmten Empfangsbereich relativ zur Antenne beschränken. In diesem Bereich ist der Empfang besser als bei einer ungerichteten Antenne. In allen anderen Bereichen ist der Empfang dafür schlechter.
 
@@ -574,7 +578,7 @@ Helical findet sich auch vereinzelt als Bauform, wird aber eher für Flüge übe
 | --- | --- |
 | ![Patch](https://www.team-blacksheep.com/img/gallery/A7300742.JPG) |![Helical](https://www.team-blacksheep.com/img/gallery/A7300958.JPG) |
 
-##### 6.1.3.3. SMA & RP-SMA
+##### 6.1.3.4. SMA & RP-SMA
 
 Ein gängiger Anschluss für Antennen ist SMA. Dabei gibt es SMA und RP-SMA. Beide unterscheiden sich dadurch, ob der Stift an der Schraube oder and der Mutter sitzt.
 
