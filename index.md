@@ -1710,26 +1710,34 @@ Der Themenbereich FPV ist voller Anglizismen
 
 #### 18.1.1. Einsteigerfreundlich / Tutorials / legitime Produktbewertungen
 
-- [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)
-- [Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg)
-- [Gal Kremer](https://www.youtube.com/user/galkremer11)
-- [Pawel Spychalski](https://www.youtube.com/user/dzikuvx)
-- [Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ)
-- [Oscar Liang](https://www.youtube.com/user/289359752)
-- [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)
-- [Painless360](https://www.youtube.com/c/Painless360)
-- [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)
+|Kanal|Beschreibung|
+|---|---|
+|[Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)| Der Drohnen-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Drohnen zu helfen.|
+|[Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg)|Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.|
+|[Gal Kremer](https://www.youtube.com/user/galkremer11)|Produktbewertungen|
+|[Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ)|Produktbewertungen|
+|[Oscar Liang](https://www.youtube.com/user/289359752)|Produktbewertungen|
+|[AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)|Produktbewertungen, nicht nur Quads, auch Flugzeuge|
+|[Pawel Spychalski](https://www.youtube.com/user/dzikuvx)|Tutorials um iNAV|
+|[Painless360](https://www.youtube.com/c/Painless360)|Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge|
 
 #### 18.1.2. Marktschreier
 
-- [UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)
-- [Drone Camps RC](https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA)
+Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist immer das größte, beste, neueste, tollste...
+
+|Kanal|Beschreibung|
+|---|---|
+|[UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)|Marktschreier mit eigenwillig witziger australischer Art|
+|[Drone Camps RC](https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA)|Ja ... Marktschreier halt|
 
 #### 18.1.3. Hi tech, low life
 
-- [UAV Tech](https://www.youtube.com/user/spatzengr)
-- [Chris Rosser](https://www.youtube.com/user/neucleotide)
-- [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA)
+|Kanal|Beschreibung|
+|---|---|
+|[Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)|Nachrichten und Produktbewertungen auf einem höheren technischen Niveau|
+|[UAV Tech](https://www.youtube.com/user/spatzengr)|Fokus auf Tuning, aktiver Betaflight-Entwickler|
+|[Chris Rosser](https://www.youtube.com/user/neucleotide)|Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig|
+|[Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA)|Produkttests auf höherem technischen Niveau, Foku auf Funksysteme|
 
 #### 18.1.4. Fanboy-Kanäle / Entertainment
 
@@ -1744,8 +1752,8 @@ Der Themenbereich FPV ist voller Anglizismen
 #### 18.1.5. Nicht eindeutig zuordenbar
 
 - [QRP](https://www.youtube.com/user/voxtelnismo)
-- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV)
-- [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ)
+- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Drohnenflug
+- [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
 
 ### 18.2. Websites
 
