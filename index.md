@@ -11,6 +11,8 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [1.1. SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE](#11-super-short-cut-für-mega-ungeduldige)
   - [1.2. Was ist das für 1 Guide?](#12-was-ist-das-für-1-guide)
 - [2. Hilfe bekommen](#2-hilfe-bekommen)
+  - [2.1. Ich hab da mal ne Frage](#21-ich-hab-da-mal-ne-frage)
+  - [2.2. Hilfe geben](#22-hilfe-geben)
 - [3. Einkaufen](#3-einkaufen)
   - [3.1. China-Shops](#31-china-shops)
   - [3.2. Europäische Shops](#32-europäische-shops)
@@ -112,6 +114,8 @@ Für HowTos findet ihr unten in den Links umfangreich Anlaufstellen.
 
 ## 2. Hilfe bekommen
 
+### 2.1. Ich hab da mal ne Frage
+
 TL;DR: Erst selbst versuchen, eine Antwort zu finden, dann eine intelligente Frage stellen.
 
 Es gibt für die meisten Themen umfangreiche Dokumentation, seien es Websites oder Video-Anleitungen. Siehe Linksammlung ganz unten.
@@ -121,6 +125,14 @@ Die meisten Online-Communities, die sich mit FPV beschäftigen, sind zudem sehr 
 Wenn du bei Fragen ausschließlich ein RTFM oder einfach einen Link bekommst, ist das der dezente Hinweis, dass du die Antwort auf deine Frage auch sehr leicht selbst gefunden hättest.
 
 Passiert dir das häufiger? Dann solltest du dir vielleicht die Anleitung ["How To Ask Questions The Smart Way"](http://www.catb.org/~esr/faqs/smart-questions.html) durchlesen.
+
+### 2.2. Hilfe geben
+
+Hilf nachhaltig, gib ggf. noch einen Link zu einer Dokumentation mit dazu.
+
+Sei kein Troll.
+
+Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon.
 
 ## 3. Einkaufen
 
@@ -522,6 +534,8 @@ Betreibe den Videosender **NIEMALS** ohne Antenne. Andernfalls kann die Energie 
 
 #### 6.1.3. Antennen
 
+Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Leistung des Senders zu erhöhen.
+
 Bei Antennen unterscheidet man zwischen 3 Typen:
 
 - Dipol
@@ -536,13 +550,38 @@ Zudem unterscheidet man zwischen gerichteten und ungerichteten Antennen.
 
 Für den Einstieg sind auf Brille und Drohne ungerichtete Antennen vom Typ "Lollipop", "Stubby" oder "Pagoda" zu bevorzugen.
 
-Bei sehr kleinen und leichten Drohnen (TinyWhoops, siehe unten) kann aus Gewichtsgründen auch ein Dipol Sinn machen.
+Wenn du an deiner Brille mehrere Inputs für Antennen hast und dein Videosystem z.B. Diversity unterstützt, kann eine Kombination aus gerichteter und ungerichteter Antenne Sinn machen. Dabei ist die Annahme, dass du meistens in dem Bereich vor dir fliegst. Für diesen Bereich sorgt dann die gerichtete Antenne für und da die Patch für den besseren Empfang sorgt.
 
-| dipol | lollipop | stubby | pagoda |
-|----- | -------- | -------- | -------- |
-| ![dipol](https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-ufl-dipole-1_1800x1800.jpg?v=1626819202) |![lollipop](https://inew.foxeer.com//upload/s/goods/201904/1555920368858975547.images.800x800.jpg) | ![Stubby](https://inew.foxeer.com//upload/s/goods/201904/1556076590073295056.images.800x800.jpg) | ![Pagoda](https://inew.foxeer.com//upload/s/goods/201711/1511447592626441098.images.800x800.jpg) |
+Bei sehr kleinen und leichten Drohnen (TinyWhoops, siehe unten) kann aus Gewichtsgründen auch eine lineare Antenne Sinn machen.
 
-Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Leistung des Senders zu erhöhen.
+##### 6.1.3.1. Ungerichtet / Omnidirektional
+
+Ungerichtete Antennen empfangen (vereinfacht gesagt) in jede Richtung gleichmäßig.
+
+| linear | lollipop | stubby | pagoda |
+| --- | --- | --- | --- |
+| ![linear](https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-ufl-dipole-1_1800x1800.jpg?v=1626819202) |![lollipop](https://inew.foxeer.com//upload/s/goods/201904/1555920368858975547.images.800x800.jpg) | ![Stubby](https://inew.foxeer.com//upload/s/goods/201904/1556076590073295056.images.800x800.jpg) | ![Pagoda](https://inew.foxeer.com//upload/s/goods/201711/1511447592626441098.images.800x800.jpg) |
+
+##### 6.1.3.2. Gerichtet
+
+Gerichtete Antennen erkaufen sich einen besseren Empfang (höheren Gain) dadurch, dass sie sich auf einen bestimmten Empfangsbereich relativ zur Antenne beschränken. In diesem Bereich ist der Empfang besser als bei einer ungerichteten Antenne. In allen anderen Bereichen ist der Empfang dafür schlechter.
+
+Die gängigste Bauform ist eine sog. Patch-Antenne. Dabei handelt es sich meistens nur um eine Platine, welche die Antenne bildet und einen Anschluss für deine Brille.
+
+Helical findet sich auch vereinzelt als Bauform, wird aber eher für Flüge über längere Distanzen über mehrere Kilometer Entfernung verwendet.
+
+| Patch | Helical |
+| --- | --- |
+| ![Patch](https://www.team-blacksheep.com/img/gallery/A7300742.JPG) |![Helical](https://www.team-blacksheep.com/img/gallery/A7300958.JPG) |
+
+##### 6.1.3.3. SMA & RP-SMA
+
+Ein gängiger Anschluss für Antennen ist SMA. Dabei gibt es SMA und RP-SMA. Beide unterscheiden sich dadurch, ob der Stift an der Schraube oder and der Mutter sitzt.
+
+| Typ | Schraube | Mutter |
+| --- | --- | --- |
+| SMA | ![SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sma-einbaubuchse.jpg/1920px-Sma-einbaubuchse.jpg) | ![SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/9/9c/SMA_Stecker.jpg) |
+| RP-SMA | ![RP-SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/d/dd/RP-SMA_Buchse.jpg) | ![RP-SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/3/3d/RP-SMA_Stecker.jpg) |
 
 #### 6.1.4. OSD / On-Screen-Display
 
