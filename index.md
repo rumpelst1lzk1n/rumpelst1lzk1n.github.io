@@ -1835,7 +1835,7 @@ Folgende Ships sind in meinem Soziotop bekannt und eigentlich verlässlich:
 
 #### 18.6.3. Antennen
 
-- [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
+- [shop.prodrone.pl](https://shop.prodrone.pl/)
 
 ## 19. Sonstiges
 
