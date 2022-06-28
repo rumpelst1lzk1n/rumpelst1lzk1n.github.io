@@ -1817,7 +1817,7 @@ Bei manchen den Links *kann* es sich um Affiliate Links handeln.
 
 #### 18.6.1. Allgemein
 
-Folgende Ships sind in meinem Soziotop bekannt und eigentlich verlässlich:
+Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 
 - [drone-fpv-racer.com](https://www.drone-fpv-racer.com/), Frankreich
 - [droneit.se](https://droneit.se/), Schweden
