@@ -22,7 +22,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
   - [5.1. Üben](#51-üben)
   - [5.2. Flugmodi](#52-flugmodi)
@@ -48,7 +48,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS & FETtec](#102-kiss--fettec)
+  - [10.2. KISS \& FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -478,7 +478,7 @@ Ein Bastard aus Acro und Angle. Die Drohne ist an sich stabil, kann aber trotzde
 
 #### 5.2.4. 3D
 
-Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst. Hoch ist gas, runter ist Rückwärtsgang.
+Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst. Hoch ist gas, runter ist Rückwärtsgang. Dafür solltest du spezielle Propeller verwenden. Die meisten "normalen" Propeller sind für eine Drehrichtung optimiert.
 
 Damit sind richtig abgespacte Manöver möglich. Kopfüber schweben? Kein Problem.
 
