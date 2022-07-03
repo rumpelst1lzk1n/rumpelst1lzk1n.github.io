@@ -132,7 +132,7 @@ Hilf nachhaltig, gib ggf. noch einen Link zu einer Dokumentation mit dazu.
 
 Sei kein Troll.
 
-Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon.
+Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren und es keine Anzeichen dafür gibt, dass er konstruktiv auf andere Ansätze reagiert, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon, insbesondere in diversen Facebook-Gruppen.
 
 ## 3. Einkaufen
 
