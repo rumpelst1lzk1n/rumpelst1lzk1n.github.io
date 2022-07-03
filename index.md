@@ -468,7 +468,7 @@ Achtung: Dass die Drohne sich in die Horizontale begibt heißt NICHT, dass sie a
 
 Damit sind nur eingeschränkt Tricks möglich.
 
-Anwendungsfälle hat dieser Flugmodus trotzdem. Alles was in Innenräumen mit einer entsprechenden Präzision geflogen werden will (TinyWhoops, CineWoops) wird oft mit diesem Modus geflogen.
+Anwendungsfälle hat dieser Flugmodus trotzdem. Alles was in Innenräumen mit einer entsprechenden Präzision geflogen werden will (TinyWhoops, CineWoops) verwendet oft mit diesem Modus.
 
 Zudem legen einige Piloten sich diesen Flugmodus als "Panikschalter" auf einen Knopf ihrer Funkfernbedienung um die Drohne noch irgendwie abzufangen.
 
