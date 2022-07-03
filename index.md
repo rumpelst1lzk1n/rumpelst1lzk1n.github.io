@@ -474,19 +474,23 @@ Zudem legen einige Piloten sich diesen Flugmodus als "Panikschalter" auf einen K
 
 #### 5.2.3. Horizon
 
-Ein Bastard aus Acro und Angle. Die Drohne ist an sich stabil, kann aber trotzdem Überschläge nach rechts, links, vorne und hinten machen wenn du mit den Sticks auf Anschlag gehst.
+Ein Bastard aus Acro und Angle. Die Drohne verhält sich prinzipiell so wie im Angle Modus. Wenn du die Sticks für Pitch und Roll über einen gewissen Punkt hinaus bewegst, überschlägt sich die Drohne trotzdem in die entsprechende Richtung.
+
+Der Modus ermöglicht einfache Tricks, vornehmlich Flips und Rolls.
 
 #### 5.2.4. 3D
 
-Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst. Hoch ist gas, runter ist Rückwärtsgang. Dafür solltest du spezielle Propeller verwenden. Die meisten "normalen" Propeller sind für eine Drehrichtung optimiert.
+Wie der Acro-Modus, aber bei deiner Gas-Achse der Funke ist das Zentrum die Position, bei der du kein Gas gibst. Hoch ist Gas, runter ist Rückwärtsgang. Dafür solltest du spezielle Propeller verwenden. Die meisten "normalen" Propeller sind für eine Drehrichtung optimiert.
 
-Damit sind richtig abgespacte Manöver möglich. Kopfüber schweben? Kein Problem.
+Damit sind richtig verrückte Manöver möglich. Kopfüber schweben? Kein Problem.
 
-Allerdings erfordert dieser Flugmodus nochmal deutlich mehr Übung und auch oft andere Einstellungen in den Tiefen der Drohne. Die wenigsten Piloten fliegen diesen Modus. Und wie bei allem, das wenig verwendet wird, findest du dafür auch entsprechend weniger Hilfestellung online. Fang erstmal mit dem Acro-Modus an, bevor du dich an so einen Exoten wagst.
+Allerdings erfordert dieser Flugmodus nochmal deutlich mehr Übung und auch oft andere Einstellungen in den Tiefen der Drohne. Die wenigsten Piloten fliegen diesen Modus. Und wie bei allem, das wenig verwendet wird, findest du dafür auch entsprechend weniger Hilfestellung online.
+
+Mach dich besser erst sehr gut mit dem Acro-Modus vertraut, bevor du dich an so einen Exoten wagst.
 
 #### 5.2.5. Airmode
 
-Gelegentlich stolperst du über den Begriff "Airmode". DAS. IST. KEIN. FLUGMODUS. Der Airmode sorgt in Betaflight z.B. dafür, dass deine Drohne auch ganz ohne dass du den Gashebel betätigst immer ein ganz kleines bisschen Gas gibt um die Lage zu halten und nicht unkontroliert herum zu wobbeln.
+Gelegentlich stolperst du über den Begriff "Airmode". DAS. IST. KEIN. FLUGMODUS. Der Airmode sorgt in Betaflight z.B. dafür, dass deine Drohne auch ganz ohne dass du den Gashebel betätigst immer ein ganz kleines bisschen Gas gibt um die Lage zu halten und nicht unkontroliert herum zu eiern.
 
 ## 6. Videosystem
 
