@@ -444,7 +444,7 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 
 Übe viel. Du solltest etwa 10 Stunden auf der Uhr haben, bevor du dich an das Fliegen einer richtigen Drohne im Außenbereich wagst.
 
-Die Zeit ist bahres Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
+Die Zeit ist bares Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
 
 Zudem gibt es auch in den Simulatoren kompetitive Wettbewerbe, seien es Wettrennen oder Zeitrennen. Viele spielen die Simulatoren nicht nur zum üben, sondern tatsächlich zum Zeitvertreib als Spiel.
 
