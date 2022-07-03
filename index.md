@@ -490,7 +490,7 @@ Mach dich besser erst sehr gut mit dem Acro-Modus vertraut, bevor du dich an so 
 
 #### 5.2.5. Airmode
 
-Gelegentlich stolperst du über den Begriff "Airmode". DAS. IST. KEIN. FLUGMODUS. Der Airmode sorgt in Betaflight z.B. dafür, dass deine Drohne auch ganz ohne dass du den Gashebel betätigst immer ein ganz kleines bisschen Gas gibt um die Lage zu halten und nicht unkontroliert herum zu eiern.
+Gelegentlich stolperst du über den Begriff "Airmode". DAS. IST. KEIN. FLUGMODUS. Der Airmode sorgt in Betaflight z.B. dafür, dass deine Drohne auch ganz ohne dass du den Gashebel betätigst immer ein ganz kleines bisschen Gas gibt um die Lage zu halten und nicht unkontrolliert herum zu eiern.
 
 ## 6. Videosystem
 
