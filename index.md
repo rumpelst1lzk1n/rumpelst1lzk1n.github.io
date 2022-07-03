@@ -811,8 +811,9 @@ Bei der Bildqualität ist DJI klar das bessere System.
 Für die Nutzung von HDZero gibt es normal folgende Gründe:
 
 - Du willst kein DJI aber trotzdem besseres Bild als Analog.
-- Du bist Racer und willst weniger Gewicht auf der Drohne.
-- Du bist Racer und willst eine fixe Latenz.
+- Du bist Racer und willst Digital aber
+  - das DJI-System wiegt dir zu viel.
+  - die variable Latenz anderer digitaler Systeme stört dich.
 - Du hast bereits eine gute Analog-Brille (mit HDMI-Eingang) und möchtest diese weiter verwenden.
 
 Das System kann inzwischen (Mitte 2022) als relativ ausgereift betrachtet werden.
@@ -851,9 +852,34 @@ Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZer
 
 ### 6.5. Walksnail
 
-Im Mai 2022 wurde ein neues System von Fatshark/Walksnail vorgestellt. Das System soll sich ähnlich wie DJI verhalten, ist aber nicht kompatibel. Obwohl es Ende Juni 2022 herauskommen soll ist noch nicht viel über dieses System bekannt. Um das Vorgehen der Veröffentlichung gab es eine größere Kontroverse, da Fatshark nicht offen legen wollte, wer hinter dem System steht.
+Seit Anfang Juli ist ein neues System von Fatshark/Walksnail erhältlich.
 
-> *Anm. rumpelst1lzk1n*: Einem Anfänger würde ich noch davon abraten. Das System sollte sich mindestens 1-2 Monate auf dem Markt befunden haben und einmal durch die Hände der größeren Reviewer gegangen sein.
+Das System verhält sich ähnlich wie DJI, ist aber nicht damit kompatibel.
+
+Um das Vorgehen der Veröffentlichung gab es größere Kontroversen:
+
+- Seitens der offiziellen Hersteller (Fatshark) wurde viel Geheimniskrämerei darum betreiben, wer hinter dem System steht.
+- Viele Informationen sind aufgrund von unprofessionellen bzw. nicht vorhandenen Absprachen mit Händlern und Herstellern trotzdem sehr schnell ans Licht gekommen.
+- Die Community wurde mit Anmerkungen, dass sie diverse Infos nichts angingen, verärgert.
+
+> *Anm. Drew "Le Drib" Camden*: You don't get to know.
+
+- Der Ursprung der Hardware ist nicht klar bzw. gibt es Hinweise darauf, dass dieser aktiv verschleiert werden sollte.
+- Das System wurde mit unfertiger Software ausgeliefert.
+
+> *Anm. rumpelst1lzk1n*: Einem Anfänger würde ich noch davon abraten. Das System sollte sich mindestens 1-2 Monate auf dem Markt befunden haben, einmal durch die Hände der größeren Reviewer gegangen sein und der Hersteller sollte das erste Community-Feedback in die Firmware haben einfließen lassen.
+
+Die Hardware-Auswahl ist überschaubar, es gibt:
+
+- 2 Brillen
+- einen VTX (Formfaktor 25,6x25,6)
+- 2 Kameras (Formfaktor micro und nano)
+
+|Sender|Brille (Walksnail)| Brille (Fatshark)|
+|---|---|---|
+|![Walksnail VTX](./img/walksnail/avatar_vtx_micro_cam.webp)|![Walksnail goggle](./img/walksnail/avatar_goggles.webp)|![Fatshark goggle](./img/fatshark/fatshark_dominator.webp)|
+
+**WENN** du dich für das System entscheiden solltest, nimm die Walksnail-Brille. Diese kann direkt über die üblichen Flug-Akkus betrieben werden.
 
 ### 6.6. HD Aufnahmen
 
