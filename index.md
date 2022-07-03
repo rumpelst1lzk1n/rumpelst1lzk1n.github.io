@@ -454,7 +454,7 @@ Man unterscheidet im weitesten zwischen 3 Flugmodi.
 
 #### 5.2.1. Acro
 
-Der herausfordernste Modus. Gleichezeitig auch der Modus, den du dir direkt angewöhnen solltest.
+Der herausfordernste Modus. Gleichzeitig auch der Modus, den du dir direkt angewöhnen solltest.
 
 Beim Acro-Modus stellst du nur die Fluglage ein. Die Drohne verbleibt dann in dieser Fluglage. Jegliche Änderung der Fluglage MUSS vom Piloten vorgegeben werden.
 
@@ -462,9 +462,9 @@ Nur mit diesem Flugmodus sind die wirklich coolen Tricks möglich und die meiste
 
 #### 5.2.2. Angle / Level
 
-Die Drohne wird stabil gehalten und folgt bis zu einem gewissen Grad deinen Sticks, kippt aber nicht um. Wenn du die Sticks für Pitch, Roll und Yaw in die Neutralposition bringst, begibt sich die Drohne wieder in die Horizontale.
+Die Drohne wird stabil gehalten und folgt bis zu einem gewissen Grad deinen Sticks, kippt aber nicht um. Wenn du die Sticks für Pitch, Roll und Yaw in die Mittelstellung bringst, begibt sich die Drohne wieder in die Horizontale.
 
-Achtung: Dass die Drohne sich in die Horizontale begibt heißt NICHT, dass sie anhält. Wenn die Drohne schwung drauf hat, nimmt sie diesen trotzdem mit und schwebt in die entsprechende Richtung weiter.
+Achtung: Dass die Drohne sich in die Horizontale begibt heißt NICHT, dass sie anhält. Wenn die Drohne Schwung drauf hat, nimmt sie diesen trotzdem mit und schwebt in die entsprechende Richtung weiter.
 
 Damit sind nur eingeschränkt Tricks möglich.
 
