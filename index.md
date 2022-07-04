@@ -22,7 +22,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
   - [5.1. Üben](#51-üben)
   - [5.2. Flugmodi](#52-flugmodi)
@@ -48,7 +48,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS & FETtec](#102-kiss--fettec)
+  - [10.2. KISS \& FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -71,6 +71,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [14. Rechtliches](#14-rechtliches)
   - [14.1. Führerscheine](#141-führerscheine)
   - [14.2. Vereine](#142-vereine)
+  - [14.3. Versicherung](#143-versicherung)
 - [15. 3D-Druck](#15-3d-druck)
   - [15.1. Drucker](#151-drucker)
   - [15.2. Materialien](#152-materialien)
@@ -940,7 +941,7 @@ Die besten Racer sind so schnell unterwegs, dass es dem ungeübten Auge schwer f
 
 Fliegen um des Fliegens Willen. Du fliegst irgendwelche akrobatischen Kunststückchen, Loopings, durch Lost Places (Bandos).
 
-Egal ob hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem Affenzahn einem Looping durch eine enge Lücke fliegst. Es gibt mehrere Stilrichtungen des Freestyles.
+Egal ob du entspannt durch die Gegend fliegst, hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem Affenzahn einen Looping durch eine enge Lücke fliegst. Es gibt mehrere Stilrichtungen des Freestyles.
 
 | Stilrichtung | Merkmale |
 | -------- | -------- |
@@ -1677,7 +1678,7 @@ Zum anderen hast du ein offizielles Dokument, dass du jemandem unter die Nase ha
 
 #### 14.1.2. der große Drohnenführerschein
 
-Den großen Drohnenführerschein (Kategorie "A2") brauchst du als Anfänger definitiv nicht.
+Den großen Drohnenführerschein (Kategorie "A2") brauchst du als Anfänger definitiv nicht. Zudem ist der Nutzen für FPV fraglich, da unsere Fluggeräte meistens keine `CE`-Kennzeichnung haben, die für diese Kategorie vorausgesetzt wird.
 
 Der Schein kostet abhängig vom Anbieter der Schulung 200-300€. Gegebenenfalls noch mehr, wenn die Schulung mehr ist als ein Online-Kurs und z.B. auch noch Präsenzunterricht beinhaltet.
 
@@ -1688,6 +1689,22 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 Die wenigsten Drohnen-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden. Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
 
 > *Anm. rumpelst1lzk1n*: Die Leute in den Modellbauvereinen haben häufig die Entwicklung mindestens der letzen 5 wenn nicht gar 10 Jahre verschlafen. Motor und Servo, mehr brauchen sie nicht, mehr verstehen sie nicht. Aber: wo unsere Fluggeräte mit Elektronik glänzen, glänzen die alten Modellbauer bei der Mechanik.
+
+### 14.3. Versicherung
+
+**MACHEN!!!**
+
+Häufig sind private Flüge mit Drohnen bei einer allgemeinen Haftpflichtversicherungen mit enthalten, die man als erwachsener Mensch sowieso haben sollte. Wenn du eine hast, schau trotzdem nach, ob das abgedeckt ist.
+
+Wenn es nicht abgedeckt ist, lohnt sich eine explizite Drohnen-Haftpflicht. Auch die Mitgliedschaft in einem Modellbauverein kann so eine Versicherung bereits beinhalten.
+
+Beispielhafte Vereine sind hier:
+
+- [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/rund-ums-fliegen/versicherung/)
+- [Österreichischer Aeroclub](https://aeroclub.at/de/service/versicherungen)
+- [Schweizerische Modellflugverband](https://www.modellflug.ch/DE/cont/280)
+
+Wenn du professionell arbeitest, solltest du nochmal zu deinem Versicherungsmenschen des Vertrauens gehen und prüfen, ob dein Versicherungsschutz auch für gewerbliche Arbeiten gilt.
 
 ## 15. 3D-Druck
 
