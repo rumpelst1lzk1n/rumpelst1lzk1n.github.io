@@ -962,7 +962,7 @@ Wenn eine gute Kamera an Bord ist, entstehen dabei oft beeindruckende Landschaft
 
 Hier geht es um unser liebstes unbemanntes Fluggerät. Es gibt viele Nahmen dafür, Drohne, Quad, Quadrocopter, Copter, ...
 
-> *Anm. Cpt. Sum Ting Wong*: Rumpel, warum les ich da so oft Drohne in deinem Guid?
+> *Anm. Cpt. Sum Ting Wong*: Rumpel, warum les ich da so oft Drohne in deinem Guide?
 
 Technisch betrachtet sind die Geräte als Multicopter oder mit 4 Propellern entsprechend genauer als Quadrocopter klassifiziert. Häufig ist der Begriff "Drohne" bei nicht im Hobby involvierten Personen negativ besetzt. Daher fällt es oft leichter, wenn man von einem "Quad" oder einem "Copter" spricht.
 
