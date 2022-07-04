@@ -22,7 +22,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
   - [5.1. Üben](#51-üben)
   - [5.2. Flugmodi](#52-flugmodi)
@@ -48,7 +48,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS \& FETtec](#102-kiss--fettec)
+  - [10.2. KISS & FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -59,15 +59,15 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [11.4. Laden/Entladenn](#114-ladenentladenn)
   - [11.5. paralleles Laden](#115-paralleles-laden)
   - [11.6. Entsorgung](#116-entsorgung)
-- [12. Drohne Teil 2](#12-drohne-teil-2)
-  - [12.1. Fertige Drohne kaufen](#121-fertige-drohne-kaufen)
+- [12. Der erste eigene Copter](#12-der-erste-eigene-copter)
+  - [12.1. Fertigen Copter kaufen](#121-fertigen-copter-kaufen)
   - [12.2. Eigenbau](#122-eigenbau)
   - [12.3. Build on Demand](#123-build-on-demand)
 - [13. Zusatzausrüstung](#13-zusatzausrüstung)
   - [13.1. Bit-Set](#131-bit-set)
   - [13.2. Prop-Tool](#132-prop-tool)
   - [13.3. Löten](#133-löten)
-  - [13.4. Drohnenrucksack](#134-drohnenrucksack)
+  - [13.4. Rucksack](#134-rucksack)
 - [14. Rechtliches](#14-rechtliches)
   - [14.1. Führerscheine](#141-führerscheine)
   - [14.2. Vereine](#142-vereine)
@@ -75,7 +75,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
 - [15. 3D-Druck](#15-3d-druck)
   - [15.1. Drucker](#151-drucker)
   - [15.2. Materialien](#152-materialien)
-- [16. Jenseits der Drohne](#16-jenseits-der-drohne)
+- [16. Jenseits von Multicoptern](#16-jenseits-von-multicoptern)
 - [17. Glossar](#17-glossar)
 - [18. Linkliste](#18-linkliste)
   - [18.1. Youtube-Channel](#181-youtube-channel)
@@ -962,11 +962,15 @@ Wenn eine gute Kamera an Bord ist, entstehen dabei oft beeindruckende Landschaft
 
 Hier geht es um unser liebstes unbemanntes Fluggerät. Es gibt viele Nahmen dafür, Drohne, Quad, Quadrocopter, Copter, ...
 
-Häufig ist der Begriff "Drohne" bei nicht im Hobby involvierten Personen negativ besetzt. Dann fällt es oft leichter, wenn man von einem "Quad" oder einem "Copter" spricht.
+> *Anm. Cpt. Sum Ting Wong*: Rumpel, warum les ich da so oft Drohne in deinem Guid?
+
+Technisch betrachtet sind die Geräte als Multicopter oder mit 4 Propellern entsprechend genauer als Quadrocopter klassifiziert. Häufig ist der Begriff "Drohne" bei nicht im Hobby involvierten Personen negativ besetzt. Daher fällt es oft leichter, wenn man von einem "Quad" oder einem "Copter" spricht.
+
+Entsprechend werden wir das ab diesem Abschnitt weitestgehend auch so handhaben.
 
 ### 8.1. Klassen
 
-In diesem Abschnitt geht es um gängige Bauformen von Drohnen.
+In diesem Abschnitt geht es um gängige Klassen von Coptern. Diese dienen im Gespräch unter Piloten als erster Anhaltspunkt, um was für eine Größe von Coptern es überhaupt geht.
 
 #### 8.1.1. TinyWhoop
 
@@ -994,17 +998,17 @@ Die Propellergröße kann von 2.5" bis 5" reichen. Gerade die Größeren verzeih
 
 Meistens ein Frame in klassischer Bauform. Der Name bezieht sich auf die Propellergröße.
 
-Beim 3 Zoll Copter handelt es sich um den kleinen Bruder des 5 Zoll (siehe unten). Das Gewicht einer üblichen 3" Drohne liegt irgendwo zwischen 200 und 300 Gramm.
+Beim 3 Zoll Copter handelt es sich um den kleinen Bruder des 5 Zoll (siehe unten). Das Gewicht eines üblichen 3" Quads liegt irgendwo zwischen 200 und 300 Gramm.
 
 Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst im Park fliegen ohne den Leuten zu sehr Angst einzujagen? Dann bist du hier richtig. Unterschätze den kleinen aber nicht. Auch die kleinen Propeller können oberflächliche Fleischwunden verursachen.
 
 #### 8.1.5. 5 Zoll
 
-**DER** Standard. Das Gewicht einer üblichen 5" Drohne liegt irgendwo zwischen 500 und 700 Gramm. Die Höchstgeschwindigkeit liegt bei circa 120km/h.
+**DER** Standard. Das Gewicht eines üblichen 5" Quads liegt irgendwo zwischen 500 und 700 Gramm. Die Höchstgeschwindigkeit liegt bei circa 120km/h.
 
 Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht gleich einen Finger ab säbeln, aber sie werden es nachhaltig versuchen, wenn du dumm genug bist, in sie zu greifen. Schnittwunden und Prellungen inbegriffen.
 
-90% der Videos, die du auf Youtube findest, entstanden mit einer 5" Drohne, da diese leicht eine GoPro tragen kann. Für diese Größe findest du die meisten Motoren, Propeller, etc.
+90% der Videos, die du auf Youtube findest, entstanden mit einem 5" Copter, da diese leicht eine GoPro tragen kann. Für diese Größe findest du die meisten Motoren, Propeller, etc.
 
 #### 8.1.6. 7 Zoll
 
@@ -1014,7 +1018,7 @@ Unauffällig ist anders. Wenn so ein Gerät auf dich zu kommt, geh in Deckung. U
 
 Das Gerät erreicht höhere Geschwindigkeiten als ein 5" und tut sich bei Verfolgungsjagden mit Autos z.B. deutlich leichter, die Geschwindigkeit mit zu halten.
 
-Auch kann eine 7"-Drohne deutlich mehr Gewicht zusätzlich tragen wie z.B. ein schweres Akku-Pack um mehrere Kilometer weit auf Berge zu fliegen.
+Auch kann ein Copter mit 7"-Propellern deutlich mehr Gewicht zusätzlich tragen wie z.B. ein schweres Akku-Pack um mehrere Kilometer weit auf Berge zu fliegen.
 
 #### 8.1.7. Cinelifter
 
@@ -1028,9 +1032,13 @@ Das Gerät trägt professionelle Filmkameras im Wert eines Kleinwagens.
 
 Propellergröße zwischen 11 und 13 Zoll. Ähnlich wie Cinelifter definitiv nichts für Neueinsteiger ins Hobby.
 
+#### 8.1.9. sonst noch was?
+
+Alle Klassen verstehen sich normal erstmal als Quadrocopter mit 4 Motoren. Darüber hinaus gibt es noch weitere Bauformen, damit solltest du dich aber erst beschäftigen, wenn du mit einem normalen Quadrocopter vertraut bist.
+
 ### 8.2. Komponenten
 
-Wenn du deine Drohne reparieren, umbauen oder komplett selbst bauen möchtest, solltest du darüber Bescheid wissen, aus welchen Bauteilen diese überhaupt besteht.
+Wenn du dein Fluggerät reparieren, umbauen oder komplett selbst bauen möchtest, solltest du darüber Bescheid wissen, aus welchen Bauteilen diese überhaupt besteht.
 
 #### 8.2.1. Rahmen / Frame
 
@@ -1074,9 +1082,9 @@ Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen 
 
 #### 8.2.2. Flugsteuerung / Flight Controller / FC
 
-Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektronischen Komponenten deiner Drohne zusammenbringt.
+Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektronischen Komponenten deines Quads zusammenbringt.
 
-Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit die Drohne in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.
+Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit der Copter in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.
 
 Die mit Abstand häufigste Steuersoftware ist Betaflight. Es gibt noch andere Software, der Themenkomplex hat aber weiter unten ein eigenes Kapitel.
 
@@ -1104,7 +1112,7 @@ Bei analogen Systemen kannst du die Kamera zwar auch direkt an den Videosender a
 
 #### 8.2.6. Motorsteuerung / Electronic Speed Controller / ESC
 
-Die Motorsteuerung erfolgt über den ESC. Er ist zudem die zentrale Stromversorgung der Drohne, der Akku hängt direkt am ESC.
+Die Motorsteuerung erfolgt über den ESC. Er ist zudem die zentrale Stromversorgung des Copters, der Akku hängt direkt am ESC.
 
 Bis vor einigen Jahren war diese Komponente noch aufgeteilt in einen Chip für die Stromverteilung (Power Distribution Board, PDB) sowie 4 einzelne ESCs pro Motor.
 
@@ -1132,7 +1140,7 @@ Der Antrieb unseres Copters. Hier gibt es einige Zahlen, die man kennen sollte, 
 
 Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaften. Flache, breite Motoren bleiben kühler, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden wärmer, reagieren aber schneller. Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet.
 
-Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für die üblichen 5"-Drohnen haben sich die Größen 2207 und 2306 etabliert.
+Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für die üblichen 5"-Quads haben sich die Größen 2207 und 2306 etabliert.
 
 Nachfolgende Grafik gibt eine Empfehlung, welche Motoren sich für welche Propellergröße eignen.
 ![motor volume vs prop diameter by Chris Rosser](img/chris_rosser_motor_size_vs_prop_diameter.png)
@@ -1141,13 +1149,13 @@ Nachfolgende Grafik gibt eine Empfehlung, welche Motoren sich für welche Propel
 
 KV bezeichnet die sogenannte "Drehzahlkonstante". Damit sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Propeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
 
-Für 5"-Drohnen haben sich Werte zwischen 1700 und 2500 KV für Akkus mit 14,8 bis 22,4 Volt etabliert. Die Motoren haben in ihren Beschreibungen häufig auch, für wie viele Akkuzellen sie ausgelegt sind. Dazu später mehr.
+Für 5"-Copter haben sich Werte zwischen 1700 und 2500 KV für Akkus mit 14,8 bis 22,4 Volt etabliert. Die Motoren haben in ihren Beschreibungen häufig auch, für wie viele Akkuzellen sie ausgelegt sind. Dazu später mehr.
 
 Die KV werden über Anzahlen an Wicklungen um den Stator erreicht. Häufig wirst du die äußerlich identischen Motoren finden, die mit einer unterschiedlichen Anzahl an KV angeboten werden.
 
 Vermeide eine zu hohe KV bei zu viel Spannung, da sonst die Geschwindigkeit an den Spitzen der Propeller größer als die Schallgeschwindigkeit wird (kein Witz!). Das willst du vermeiden.
 
-Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es bei Drohnen üblich ist.
+Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es bei Coptern üblich ist.
 Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt Strom. KV bezeichnet die Anzahl der Umdrehungen pro Minute, ab welcher der Motor 1 Volt Spannung ausgibt.
 
 ##### 8.2.7.3. Stator und Magneten
@@ -1156,9 +1164,9 @@ Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt St
 
 #### 8.2.8. Propeller
 
-Die Propeller sind mit das markanteste Merkmal einer Drohne. Ihre Größe wird in angloamerikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
+Die Propeller sind mit das markanteste Merkmal eines Quads. Ihre Größe wird in angloamerikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
 
-Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß die Drohne ist, über die gesprochen wird.
+Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß der Multicopter ist, über die gesprochen wird.
 
 ##### 8.2.8.1. Kennzahlen
 
@@ -1178,11 +1186,17 @@ Die Propeller müssen auf der Drohne so montiert sein, dass sich die 2 Diagonal 
 
 ##### 8.2.9.1. XT30 / XT60 / XT90
 
-Der am weitesten verbreitete Anschlusstyp für Drohnen-Akkus. Es gibt ihn in 3 Größen. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.
+Der am weitesten verbreitete Anschlusstyp für die im FPV verwendeten Akkus.
+
+Es gibt ihn in 3 Größen. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.
 
 Es handelt sich dabei um den Wert für die dauerhafte Belastung. Die kurzzeitige Spitzenbelastung beträgt leicht das doppelte.
 
-Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir deine Drohne anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.
+Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir dein Copter anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.
+
+Bei Coptern bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Coptern ist XT60 üblich.
+
+Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ.
 
 ##### 8.2.9.2. Kondensator
 
@@ -1192,7 +1206,7 @@ Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. 
 
 GPS ist für den Anfang als optional zu betrachten.
 
-Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr der Drohne zum Startpunkt (RTH / Return To Home).
+Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr des Fluggeräts zum Startpunkt (RTH / Return To Home).
 
 ##### 8.2.9.4. Magnetometer / Kompass
 
@@ -1202,7 +1216,7 @@ Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung 
 
 ##### 8.2.9.5. Heckspoiler
 
-Vielleicht gerätst du in die Verlockung, optische Anbauteile an der Drohne zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
+Vielleicht gerätst du in die Verlockung, optische Anbauteile an dem Copter zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
 
 ## 9. Software (Funkfernbedienung)
 
@@ -1230,11 +1244,11 @@ Ebenfalls eine Abspaltung von OpenTX, die von TBS speziell auf ihre eigenen Funk
 
 ## 10. Software (Flight Controller)
 
-Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als FPV-Drohnen, wir fokussieren uns hier aber auf unsere FPV-Drohnen.
+Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als die im FPV üblichen Quadrocopter, wir fokussieren uns hier aber auf unsere FPV-Quads.
 
 Neben der nachfolgend genannten Software gibt es noch weitere meistens proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
-In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Drohnen) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller.
+In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Coptern) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller.
 
 Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
 
@@ -1250,7 +1264,7 @@ Mit **Abstand** die populärste Software für Flight Controller.
 
 Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flightcontroller nennt sich *Betaflight Configurator*.
 
-Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Drohnen nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
+Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Copter nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
 
 Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Treiber du für das Flashen von neuer Firmware benötigst.
 
@@ -1296,7 +1310,7 @@ Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku
 
 #### 11.1.1. Zellen
 
-Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Drohnen fliegen mit mehrzelligen Akkus.
+Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Copter fliegen mit mehrzelligen Akkus.
 
 Zellen in Reihe geschalten erhöhen die Spannung. Zellen parallel geschalten erhöhen die Kapazität.
 
@@ -1308,7 +1322,7 @@ Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich is
 
 #### 11.1.2. Zell-Spannung & -Chemie
 
-Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Drohnen auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.
+Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Coptern auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.
 
 Bei einem LiPo-Akku beträgt die Nominalspannung **einer Zelle** 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.
 
@@ -1326,17 +1340,7 @@ Sollte eine Zelle einen extremen Ausreißer bei diesem Wert haben (z.B. das dopp
 
 #### 11.1.4. Stromanschluss
 
-Dieser Stecker versorgt deine Drohne mit Strom.
-
-Der am weitesten verbreitete Anschlusstyp für Drohnen-Akkus ist `XT`. Es gibt ihn in 3 Größen, XT30, XT60 und XT90. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.
-
-Es handelt sich dabei um den Wert für die dauerhafte Belastung. Die kurzzeitige Spitzenbelastung beträgt leicht das doppelte.
-
-Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir deine Drohne anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.
-
-Bei Drohnen bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Coptern ist XT60 üblich.
-
-Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ.
+Dieser Stecker versorgt deinen Copter mit Strom. Der am weitesten verbreitete Anschlusstyp für Akkus ist `XT`. Siehe oben.
 
 #### 11.1.5. Balancer-Kabel
 
@@ -1356,13 +1360,13 @@ Du hast einen Akku mit 500 Milliamperestunden. 1C entspricht also 0.5 Ampere. St
 
 #### 11.1.7. Empfehlungen (Akkus)
 
-Welche Akkus für deine Drohne die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles davon ab, auf welche Spannung die verbaute Hardware ausgelegt ist wie viel die Drohne selbst wiegt und ob bestimmte Ziele erreicht werden sollen (z.B. Abfluggewicht unter 250 Gramm). Daher werde ich hier auch keine konkreten Empfehlungen aussprechen.
+Welche Akkus für deinen Copter die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles davon ab, auf welche Spannung die verbaute Hardware ausgelegt ist wie viel der Copter selbst wiegt und ob bestimmte Ziele erreicht werden sollen (z.B. Abfluggewicht unter 250 Gramm). Daher werde ich hier auch keine konkreten Empfehlungen aussprechen.
 
-Wenn du dir einen fertigen Copter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus die Drohne ausgelegt ist. Wenn du deinen Copter selbst baust, schau dir ähnliche Fertig-Copter an, was für diese empfohlen wird.
+Wenn du dir einen fertigen Copter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus der Copter ausgelegt ist. Wenn du deinen Copter selbst baust, schau dir ähnliche Fertig-Copter an, was für diese empfohlen wird.
 
 Ein größerer Akku heißt nicht automatisch längere Flugzeit. Irgendwann ist der Sweetspot überschritten, dann kostet das zusätzliche Gewicht des Akkus wieder Flugzeit. Siehe "Raketengleichung". Außerdem macht sich ein schwerer Akku auch beim Flugverhalten bemerkbar.
 
-Als Faustformel für eine sinnvolle Akku-Größe kannst du bei einer Standard-Drohne eine Gewichtsverteilung von zwei Dritteln des Gewichts für die Drohne selbst und einem Drittel für den Akku annehmen.
+Als Faustformel für eine sinnvolle Akku-Größe kannst du bei einem Standard-Copter eine Gewichtsverteilung von zwei Dritteln des Gewichts für den Copter selbst und einem Drittel für den Akku annehmen.
 
 Rechenbeispiel:
 Nehmen wir einen Copter mit 400 Gramm Gewicht an (ohne Akku, `dry weight`). Ich möchte mit 6S-Akkus fliegen. Also suche ich mir einen 6S Akku, der in etwa 200Gramm wiegt. Folgst du dieser Rechnung, landest du vermutlich landest du bei einem Akku zwischen 1000 und 1300 mAh. Gewicht pro mAh kann je nach Hersteller variieren.
@@ -1469,15 +1473,15 @@ Andere Methoden beinhalten das konrollierte Entladen mittels einer Glühbirne, d
 
 Wenn dein Akku leer ist, kannst du ihn bei einer Batterie-Sammelstelle abgeben. Häufig findest du solche in Supermärkten oder Baumärkten.
 
-## 12. Drohne Teil 2
+## 12. Der erste eigene Copter
 
-In diesem Abschnitt geht es darum, tatsächlich eine Drohne zu kaufen oder zu bauen. Jetzt gehts ans eingemachte.
+In diesem Abschnitt geht es darum, tatsächlich einen Copter zu kaufen oder zu bauen. Jetzt gehts ans eingemachte.
 
-### 12.1. Fertige Drohne kaufen
+### 12.1. Fertigen Copter kaufen
 
-Wenn du eine fertige Drohne kaufst, sparst du jede Menge Zeit mit der Auswahl der Komponenten und dem Zusammenbau und Einstellen der Drohne. Häufig bekommst du eine fertig gebaute Drohne günstiger als wenn du ihre Einzelteile separat kaufen würdest. Zudem kannst du erwarten, dass die Drohne bereits akzeptabel eingestellt ist, was das Flugverhalten angeht.
+Wenn du eine fertigem Copter kaufst, sparst du jede Menge Zeit mit der Auswahl der Komponenten und dem Zusammenbau und Einstellen. Häufig bekommst du eine fertig gebaute Copter günstiger als wenn du ihre Einzelteile separat kaufen würdest. Zudem kannst du erwarten, dass der Copter bereits akzeptabel eingestellt ist, was das Flugverhalten angeht.
 
-Für viele gehört das selbst bauen der Drohne einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, eine fertige Drohne zu kaufen.
+Für viele gehört das selbst bauen des Copters einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, ein fertiges Gerät zu kaufen.
 
 > *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigtl. auch nix wert. Aber schön, dass du da bist!
 
@@ -1485,27 +1489,27 @@ Für viele gehört das selbst bauen der Drohne einfach zum Hobby dazu. Ich will 
 
 RTF wird für 2 leicht unterschiedliche Produkte verwendet.
 
-Zum einen bezeichnet es komplette Kits, bestehend aus Brille, Funkfernbedienung und Drohne. Ggf. sogar noch mit Akkus und Ladegerät. Auspacken, Akkus laden, losfliegen. Theoretisch das Rundum-Sorglos-Paket. Meistens kommen hier aber billigste Komponenten zum Einsatz, daher sind solche Kits mit Vorsicht zu genießen.
+Zum einen bezeichnet es komplette Kits, bestehend aus Brille, Funkfernbedienung und Copter. Ggf. sogar noch mit Akkus und Ladegerät. Auspacken, Akkus laden, losfliegen. Theoretisch das Rundum-Sorglos-Paket. Meistens kommen hier aber billigste Komponenten zum Einsatz, daher sind solche Kits mit Vorsicht zu genießen.
 
 Zum anderen wird der Begriff als Synonym für "Bind and Fly" verwendet.
 
 #### 12.1.2. Bind and Fly / BNF
 
-Die Drohne ist flugfertig zusammengebaut, verfügt über ein Videosystem und einen Funkempfänger. Du musst diesen eigentlich nur noch an die Funkefernbedienung binden.
+Der Copter ist flugfertig zusammengebaut, verfügt über ein Videosystem und einen Funkempfänger. Du musst diesen eigentlich nur noch an die Funkefernbedienung binden.
 
 #### 12.1.3. Plug'n'Play / PNP
 
-Die Drohne ist flugfertig zusammengebaut, verfügt über ein Videosystem, hat aber im Gegensatz zum BNF *KEINEN* Funkempfänger an Bord. Du musst diesen selbst nachrüsten. Praktisch, wenn man sowieso noch einen Funkempfänger daheim rum liegen hat.
+Der Copter ist flugfertig zusammengebaut, verfügt über ein Videosystem, hat aber im Gegensatz zum BNF *KEINEN* Funkempfänger an Bord. Du musst diesen selbst nachrüsten. Praktisch, wenn man sowieso noch einen Funkempfänger daheim rum liegen hat.
 
 #### 12.1.4. Powertrain
 
-Powertrain bezeichnet die Drohne ohne Videosender und Empfänger. Das Paket besteht also nur aus dem Frame, Flight Controller, ESC und den Motoren.
+Powertrain bezeichnet den Copter ohne Videosender und Empfänger. Das Paket besteht also nur aus dem Frame, Flight Controller, ESC und den Motoren.
 
-Gibt es ganz selten bei Drohnen von namenhaften Herstellern, ist eher auf dem Gebrauchtmarkt zu finden.
+Gibt es ganz selten bei Coptern von namenhaften Herstellern, ist eher auf dem Gebrauchtmarkt zu finden.
 
-#### 12.1.5. Empfehlungen (Drohne kaufen)
+#### 12.1.5. Empfehlungen (Copter kaufen)
 
-Für fertige Drohnen gilt immer die Empfehlung, sich Testberichte dazu auf Youtube anzusehen.
+Für fertige Copter gilt immer die Empfehlung, sich Testberichte dazu auf Youtube anzusehen.
 
 ##### 12.1.5.1. Eachine Trashcan
 
@@ -1525,7 +1529,7 @@ Schöne kleine Toothpicks mit gut Power. Anfängerfreundlich, verzeihen aufgrund
 
 ##### 12.1.5.4. iFlight Nazgul 5 (Evoque)
 
-Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Drohne mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
+Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Copter mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
 
 ##### 12.1.5.5. Diatone Roma F5 (V2)
 
@@ -1533,7 +1537,7 @@ Einer der bekanntesten Einsteiger-Copter. Das Produkt hat inzwischen mehrere Ite
 
 ### 12.2. Eigenbau
 
-Wenn du deine Drohne selbst baust, lernst du dabei sehr viel über ihre Zusammensetzung und die Komponenten. Das hilft ungemein, wenn du die Drohne nach einer Bruchlandung reparieren musst.
+Wenn du deinen Copter selbst baust, lernst du dabei sehr viel über ihre Zusammensetzung und die Komponenten. Das hilft ungemein, wenn du dein Fluggerät nach einer Bruchlandung reparieren musst.
 
 > *Anm. Puffi*: Für den Kauf von Einzelteilen gilt: Bei Motoren und Armen immer 2 mehr bestellen.
 
@@ -1600,15 +1604,15 @@ Kostenpunkt dieses Builds sind in etwa 500€.
 
 #### 12.2.2. Tune
 
-Nach dem Zusammenbauen der Drohne solltest du auch noch in Betaflight das Flugverhalten einstellen. Das kann man auf die Spitze treiben, für die ersten paar Monate im Hobby reicht aber ein Standard-Tune. Links zu unterschiedlichen Quellen für Tunes findest du in der [Linkliste](#linkliste).
+Nach dem Zusammenbauen des Copters solltest du auch noch in Betaflight das Flugverhalten einstellen. Das kann man auf die Spitze treiben, für die ersten paar Monate im Hobby reicht aber ein Standard-Tune. Links zu unterschiedlichen Quellen für Tunes findest du in der [Linkliste](#linkliste).
 
 > *Anm. Puffi*: Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
 
 ### 12.3. Build on Demand
 
-Neben dem Kaufen und selbst bauen gibt es noch die Möglichkeit, dass du dir eine Drohne nach Wunsch bauen lässt. Entweder von einem Kumpel, der schon im Hobby drin ist, von einem kommerziellen Dienstleister, oder von jemandem, der diesen Dienst hobbymäßig im Netz anbietet.
+Neben dem Kaufen und selbst bauen gibt es noch die Möglichkeit, dass du dir einen Copter nach Wunsch bauen lässt. Entweder von einem Kumpel, der schon im Hobby drin ist, von einem kommerziellen Dienstleister, oder von jemandem, der diesen Dienst hobbymäßig im Netz anbietet.
 
-Bei jemandem, den du für den Zusammenbau bezahlst, kannst du mit ca. 200€ für diese Dienstleistung rechnen. Mehr oder weniger. Das ist abhängig davon, was er sonst noch so alles an der Drohne macht, ob z.B. die Elektronik der Drohne bereits getuned sein soll.
+Bei jemandem, den du für den Zusammenbau bezahlst, kannst du mit ca. 200€ für diese Dienstleistung rechnen. Mehr oder weniger. Das ist abhängig davon, was er sonst noch so alles am Copter macht, ob z.B. die Elektronik bereits getuned sein soll.
 
 Bei einem Kumpel ist *mindestens* ein Kasten Bier fällig.
 
@@ -1630,7 +1634,7 @@ Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit
 
 ### 13.3. Löten
 
-Zum Bauen und Reparieren deiner Drohne wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
+Zum Bauen und Reparieren deines Quads wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
@@ -1644,15 +1648,15 @@ Gute kompakte Lötkolben sind z.B.
 
 Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben um unterwegs zu löten. Alternativ haben die Netzteile, die dir hier im Guide empfohlen werden auch eine DC-Power-Funktion, mit der die Lötkolben betrieben werden können.
 
-### 13.4. Drohnenrucksack
+### 13.4. Rucksack
 
-Es gibt spezielle Rucksäcke für Drohnen. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Drohnen außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
+Es gibt spezielle Rucksäcke für Copter. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
 
 ## 14. Rechtliches
 
 In diesem Abschnitt geht es um die rechtliche Situation als FPV-Pilot.
 
-Juristisch betrachtet bist du mit einem unbemannten Fluggerät ("unmanned aerial vehicle", UAV, oder "unmanned aircraft system", UAS) unterwegs. Das umfasst Modellflieger und -hubschrauber genauso wie unsere Drohnen.
+Juristisch betrachtet bist du mit einem unbemannten Fluggerät ("unmanned aerial vehicle", UAV, oder "unmanned aircraft system", UAS) unterwegs. Das umfasst Modellflieger und -hubschrauber genauso wie unsere Multicopter.
 
 Grundsätzlich gilt: Sei kein Arschloch, dann wird in den allermeisten Fällen darüber hinweg gesehen, wenn du mal nicht ganz so legal unterwegs bist.
 
@@ -1686,7 +1690,7 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 ### 14.2. Vereine
 
-Die wenigsten Drohnen-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden. Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
+Die wenigsten Copter-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden. Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
 
 > *Anm. rumpelst1lzk1n*: Die Leute in den Modellbauvereinen haben häufig die Entwicklung mindestens der letzen 5 wenn nicht gar 10 Jahre verschlafen. Motor und Servo, mehr brauchen sie nicht, mehr verstehen sie nicht. Aber: wo unsere Fluggeräte mit Elektronik glänzen, glänzen die alten Modellbauer bei der Mechanik.
 
@@ -1724,7 +1728,7 @@ Falls du selbst überlegst, dir einen Drucker zu kaufen, hast du effektiv die Wa
 
 2) einen guten aber teuren Drucker kaufen, der direkt funktioniert.
 
-Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker halten. Beispielsweise einen Ender 3. Wie auch bei Drohnen gilt: Für häufig genutzte Sachen findest du online viel Doku für weitere Modifikation.
+Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker halten. Beispielsweise einen Ender 3. Wie auch bei Coptern gilt: Für häufig genutzte Sachen findest du online viel Doku für weitere Modifikation.
 
 Für das zweite Szenario empfehle ich einen Drucker von Prussia. Nicht so teuer wie die hochprofesionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
 
@@ -1732,11 +1736,11 @@ Für das zweite Szenario empfehle ich einen Drucker von Prussia. Nicht so teuer 
 
 Die meisten Teile sollten in TPU gedruckt werden. Dieses verfügt über eine gewisse Flexibilität, was dafür sorgt, dass es Stürze besser aushält.
 
-## 16. Jenseits der Drohne
+## 16. Jenseits von Multicoptern
 
-FPV ist nicht auf Drohnen beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen, ob Auto oder Boot.
+FPV ist nicht auf Copter beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen, ob Auto oder Boot.
 
-Flugzeuge erfreuen sich bei vielen Copter-Piloten ebenfalls einer großen Beliebtheit. Dort kommt oft eine ähnliche oder sogar die gleiche Steuersoftware wie bei Coptern zum Einsatz.
+Flugzeuge erfreuen sich bei vielen Copter-Piloten ebenfalls einer großen Beliebtheit. Dort kommt oft eine ähnliche oder sogar die gleiche Steuersoftware wie bei Multicoptern zum Einsatz.
 
 ## 17. Glossar
 
@@ -1761,7 +1765,7 @@ Der Themenbereich FPV ist voller Anglizismen
 
 |Kanal|Beschreibung|
 |---|---|
-|[Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)| Der Drohnen-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Drohnen zu helfen.|
+|[Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)| Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Coptern zu helfen.|
 |[Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg)|Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.|
 |[Gal Kremer](https://www.youtube.com/user/galkremer11)|Produktbewertungen|
 |[Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ)|Produktbewertungen|
@@ -1801,7 +1805,7 @@ Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist
 #### 18.1.5. Nicht eindeutig zuordenbar
 
 - [QRP](https://www.youtube.com/user/voxtelnismo)
-- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Drohnenflug
+- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Copter
 - [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
 
 ### 18.2. Websites
