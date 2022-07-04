@@ -1734,7 +1734,9 @@ Die meisten Teile sollten in TPU gedruckt werden. Dieses verfügt über eine gew
 
 ## 16. Jenseits der Drohne
 
-FPV ist nicht auf Drohnen beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen. Vom Flugzeug übers Rennauto bis hin zum Boot.
+FPV ist nicht auf Drohnen beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen, ob Auto oder Boot.
+
+Flugzeuge erfreuen sich bei vielen Copter-Piloten ebenfalls einer großen Beliebtheit. Dort kommt oft eine ähnliche oder sogar die gleiche Steuersoftware wie bei Coptern zum Einsatz.
 
 ## 17. Glossar
 
