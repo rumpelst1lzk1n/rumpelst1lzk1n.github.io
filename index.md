@@ -404,7 +404,7 @@ Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die 
 
 #### 4.5.2. Crossfire & Tracer
 
-Eigentlich gibt es bei den Systemen von TBS nicht viel zu sagen. Crossfire ist 900 MHz, Tracer ist 2.4 GHz. Es gibt nur einen Hersteller und dieser hat sein Produktportfolio ganz gut unter Kontrolle.
+Eigentlich gibt es bei den Systemen von TBS nicht viel zu sagen. Crossfire ist 900 MHz, Tracer ist 2.4 GHz. Das System wird nur von TBS hergestellt und die haben ihr Produktportfolio ganz gut unter Kontrolle.
 
 ##### 4.5.2.1. Sender
 
