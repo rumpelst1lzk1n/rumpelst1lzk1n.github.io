@@ -1596,13 +1596,13 @@ Du willst also gleich zu Anfang ein Premium-Build haben? Überleg dir das gut. G
 
 > *Anm. Puffi*: Teuer ist erst gut, wenn man lang genug fliegt um Unterschiede erkennen zu können.
 
-Kostenpunkt dieses Builds sind in etwa 500€.
+Kostenpunkt dieses Builds sind in etwa 500-600€.
 
 - Frame: ImpulseRC Apex 5 (ca. 100€)
-- Motor: ETHIX Mr Steele Stout (ca. 110€)
+- Motor: ETHIX Mr Steele Stout (110-120€)
 - ESC & FC: Diatone Mamba F722 App Stack oder iFlight SucceX-D F7 (ca. 130€)
 - Receiver: ELRS, Tracer oder Crossfire (ca. 15-35€)
-- Videosystem: passend zum Videoempfänger (ca. 110-140€)
+- Videosystem: passend zum Videoempfänger (ca. 110-180€)
 
 #### 12.2.2. Tune
 
