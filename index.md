@@ -22,7 +22,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
   - [5.1. Üben](#51-üben)
   - [5.2. Flugmodi](#52-flugmodi)
@@ -48,7 +48,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS \& FETtec](#102-kiss--fettec)
+  - [10.2. KISS & FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -57,7 +57,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [11.2. Sicherheit](#112-sicherheit)
   - [11.3. Ladegeräte](#113-ladegeräte)
   - [11.4. Laden/Entladenn](#114-ladenentladenn)
-  - [11.5. paralleles Laden](#115-paralleles-laden)
+  - [11.5. Paralleles Laden](#115-paralleles-laden)
   - [11.6. Entsorgung](#116-entsorgung)
 - [12. Der erste eigene Copter](#12-der-erste-eigene-copter)
   - [12.1. Fertigen Copter kaufen](#121-fertigen-copter-kaufen)
@@ -169,6 +169,8 @@ Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und
 Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen.
 
 > *Anm. remove_me*: Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
+
+Sowohl AliExpress wie auch Banggood haben ein Gutschein-System. Häufig kann man hier nochmal ein bisschen Geld sparen.
 
 #### 3.1.2. Direktvertrieb
 
@@ -1350,7 +1352,7 @@ Wenn du einen 1S-Akku hast, entfällt der Balancer-Anschluss natürlich.
 
 #### 11.1.6. Input & Output
 
-Wie viel Strom ein Akku auf einmal abgeben kann, wird in der Einheit Coulomb (C) angegeben. Auf Akkus findest du Angaben wie 70C, 100C oder 120C. Diese Zahl steht für das vielfache der Kapazität. Ein Akku mit 1000 Milliamperestunden, für den der Hersteller 100C angibt, kann bis zu 100 Ampere auf einmal abgeben.
+Wie viel Strom ein Akku auf eipro Sekunde abgeben kann, wird in Vielfachen seiner Kapazität (C) angegeben. Auf Akkus findest du Angaben wie 70C, 100C oder 120C. Ein Akku mit 1000 Milliamperestunden, für den der Hersteller 100C angibt, kann bis zu 100 Ampere belastet werden. Dabei ist häufig die Dauerlast gemeint, für kurze Spitzen wird meistens eine zweite Zahl angegeben, diese liegt dann nochmal deutlich höher.
 
 Gleichzeitig gilt als Richtwert für das Laden von Akkus: Lädst du sie mit 1C halten sie am längsten, lädst du mit mehr, geht das auf die Lebendsdauer. Lädst du mit viel mehr (z.B. 5C oder mehr) besteht akute Brandgefahr!
 
@@ -1429,15 +1431,15 @@ Das günstigste Ladegerät, dass sich zu kaufen lohnt.
 
 Neue Akkus sollten "eingeflogen" werden. Also die ersten 2-3 Zyklen langsam mit maximal 1C geladen und bei Flug mit maximal 2/3 Gas geflogen (und damit entladen) werden. Wenn du sofort mit 2C den Strom rein pumpst und mit Vollgas los ballerst, geht das massiv auf die Leistungsfähigkeit der Akkus. Es gibt Menschen, die ihre Akkus direkt beim ersten Flug dadurch getötet haben, dass Sie permanent Vollgas geflogen sind.
 
-### 11.5. paralleles Laden
+### 11.5. Paralleles Laden
 
 Wenn du mehr Akkus mit der gleichen Spannung und grob der gleichen Kapazität hast, kannst du dir überlegen, ob du dir ein sog. "parallel charging board" oder "Para-Board" zulegst. Das ist eine Platine, die mehrere Akkus miteinander verbindet, sodass sie für das Ladegerät wie ein einziger Akku aussehen. Das heißt, du kannst dein Ladegerät auf mehr Ampere einstellen.
 
 Rechenbeispiel:
 
-Du hast 5 Akkus ja 1000 mah. Lädst du diese einzeln mit je einem Coulomb, musst du dein Ladegerät auf 1 Ampere einstellen. Der Ladevorgang wird etwa eine Stunde pro Akku brauchen, also 5 Stunden insgesamt.
+Du hast fünf Akkus je 1000 mAh. Lädst du diese einzeln mit je 1C, musst du dein Ladegerät auf 1 Ampere einstellen. Der Ladevorgang wird etwa eine Stunde pro Akku brauchen, also 5 Stunden insgesamt.
 
-Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1 Coulomb zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.
+Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1C zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.
 
 Wenn du dir ein Para-Board holst, achte auf folgende Punkte
 
