@@ -1758,7 +1758,7 @@ Der Themenbereich FPV ist voller Anglizismen
 | Bando | Verlassenes Gebäude, alte Industrieanlage, Lost Place |
 | DVR | Digital Video Recording, Videoaufzeichnung üblicherweise auf SD-Karte in der FPV-Brille |
 | FPV | First Person View, Bildübertragung aus dem Fluggerät um eine Pilotensicht zu erzeugen |
-| Funke | Funkfernsteuerung, Funkfernsteuerung |
+| Funke | Funkfernsteuerung, Funkfernbedienung |
 | LOS | Line of Sight, Sichtflug, der Pilot beobachtet das Fluggerät |
 | Radio | siehe Funke |
 | Receiver, RX | Empfänger, abhängig vom Kontext ist der Empfänger für Steuersignale am Fluggerät oder der Videoempfänger an der Brille gemeint |
