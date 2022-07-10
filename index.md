@@ -133,7 +133,7 @@ Hilf nachhaltig, gib ggf. noch einen Link zu einer Dokumentation mit dazu.
 
 Sei kein Troll.
 
-Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren und es keine Anzeichen dafür gibt, dass er konstruktiv auf andere Ansätze reagiert, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon, insbesondere in diversen Facebook-Gruppen.
+Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren und es keine Anzeichen dafür gibt, dass er konstruktiv auf andere Ansätze reagiert, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon, insbesondere in diversen Facebook-Gruppen. Facebook noch aktuell? 0o Geht da noch was?
 
 ## 3. Einkaufen
 
@@ -218,11 +218,11 @@ Wenn du ein Gamepad hast, kannst du direkt dir auf Steam einen der vielen Simula
 
 Moderne Funkfernbedienungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.
 
-Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfernbedienung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird. Es geht auch noch teurer, aber das bedeutet nicht zwangsläufig bessere oder modernere Technik.
+Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfernsteuerung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird. Es geht auch noch teurer, aber das bedeutet nicht zwangsläufig bessere oder modernere Technik.
 
 ### 4.1. Formfaktor
 
-Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.
+Als vorherrschende Formfaktoren bei Fernsteuerungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.
 
 Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
@@ -232,9 +232,9 @@ Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
 ### 4.2. Modi
 
-Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernbedienung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernbedienungen im Gamepad-Formfaktor.
+Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernsteuerung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernsteuerungen im Gamepad-Formfaktor.
 
-Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernbedienung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.
+Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.
 
 ![radio_modes](./img/radio_modes.drawio.png)
 
@@ -306,9 +306,9 @@ Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie C
 
 ### 4.4. Empfehlungen (Funke)
 
-Wenn du dir eine Funkfernbedienung holst, solltest du darauf achten, dass diese mit OpenTX oder einem Derivat davon läuft.
+Wenn du dir eine Funkfernsteuerung holst, solltest du darauf achten, dass diese mit OpenTX oder einem Derivat davon läuft.
 
-OpenTX ist ein Betriebssystem für Funkfernbedienungen und hat sich bei FPV-Drohnen als Quasi-Standard etabliert. Für Funken mit diesem Betriebssystem wirst du online jede Menge Hilfestellungen finden.
+OpenTX ist ein Betriebssystem für Funkfernsteuerungen und hat sich bei FPV-Drohnen als Quasi-Standard etabliert. Für Funken mit diesem Betriebssystem wirst du online jede Menge Hilfestellungen finden.
 
 Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.
 
@@ -327,7 +327,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
 
-Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
+Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe. Zudem hat die Eachine Version die Möglichkeit die Federn der Sticks von außen einzustellen. Bei der Radiomaster muss man die Funke hingegen aufschrauben. 
 
 #### 4.4.2. Radiomaster Zorro
 
@@ -392,6 +392,8 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 | --- | --- |
 |![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg)|![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg)|
 
+Wenn du FPV unbedingt ausprobieren möchtest aber gerade knapp bei Kasse bist, gibt es die Möglichkeit eine Funke im Discord zu leihen. Einfach nett fragen und verantwortungsvoll damit umgehen. 
+
 ##### 4.5.1.2. ELRS-Empfänger
 
 Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezialfälle z.B. mit Antennen-Diversity oder PWM ausgenommen.
@@ -441,7 +443,11 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 - [Liftoff (Steam, std. für alles andere)](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/)
 - [DRL (Steam)](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
 - [Uncrashed (Steam)](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
-- [AI Drone Simulator (Steam)](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)
+- [TRYP FPV : The Drone Racer Simulator (Steam)](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/)
+AI ist Müll mmn. TRYP taugt da mehr.
+
+Hier würde ich noch anmerken, dass man einen recht guten Computer braucht. Denn desto weniger FPS desto höher ist der Inputlag. Alle Simulatoren sind Hardwarehungrig und man sollte sich ggf. mit schlechter Grafik oder niedriger Auflösung abfinden. FPS>Optik
+Beispiel: GTX1060 6Gig, i5-4670 CPU @3.40GHz, 8Gig RAM reicht für Velocidrone mit minimalen Grafikeinstellungen und einer Auflösung von 800x600 bei >120FPS
 
 ### 5.1. Üben
 
@@ -449,7 +455,7 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 
 Die Zeit ist bares Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
 
-Zudem gibt es auch in den Simulatoren kompetitive Wettbewerbe, seien es Wettrennen oder Zeitrennen. Viele spielen die Simulatoren nicht nur zum üben, sondern tatsächlich zum Zeitvertreib als Spiel.
+Zudem gibt es auch in den Simulatoren kompetitive Wettbewerbe, seien es Wettrennen oder Zeitrennen. Viele spielen die Simulatoren nicht nur zum Üben, sondern tatsächlich zum Zeitvertreib als Spiel.
 
 ### 5.2. Flugmodi
 
@@ -505,7 +511,7 @@ Die Auswahl des Videosystems bestimmt die Auswahl der FPV-Brille und der Videose
 
 FPV unterscheidet sich von klassischem Modellbau-Flug dadurch, dass du von deinem Fluggerät das Live-Videobild an einen Empfänger überträgst und somit eine Art Pilotenansicht hast. Die Wiedergabe kann dabei auf einem Monitor oder einer Videobrille erfolgen. Wir konzentrieren uns im nachfolgenden auf den Empfang mittels Videobrille.
 
-In der Videobrille hast du normalerweise einen Empfänger, entweder fest verbaut oder als Modul. Zudem hast du in der Brille die Möglichkeit, das angezeigte Bild auf SD-Karte aufzunehmen. Stichwort `DVR`. **NUTZE ES!** Die Bildqualität eignet sich eher nicht zum Angeben auf Youtube. Aber wenn du deine Drohne irgendwo auf weiter Flur verloren hast, wirst du die Möglichkeit zu schätzen wissen, dass du den Flug rekonstruieren kannst und weißt, wo das Gerät abgestürzt ist.
+In der Videobrille hast du normalerweise einen Empfänger, entweder fest verbaut oder als Modul. Zudem hast du in der Brille die Möglichkeit, das angezeigte Bild auf SD-Karte aufzunehmen. Stichwort `DVR`(Digital Video Recorder). **NUTZE ES!** Die Bildqualität eignet sich eher nicht zum Angeben auf Youtube. Aber wenn du deine Drohne irgendwo auf weiter Flur verloren hast, wirst du die Möglichkeit zu schätzen wissen, dass du den Flug rekonstruieren kannst und weißt, wo das Gerät abgestürzt ist.
 
 #### 6.1.1. Frequenz und Kanal
 
@@ -691,7 +697,7 @@ Wenn du mehr als 200€ für die Brille ausgibst, sollte diese über einen HDMI-
 
 Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Geld auszugeben.
 
-- ca. 80€
+- ca. 100€
 - DVR
 - Antennen-Diversity
 - wird mit einer Patch-Antenne und einer omnidirektionalen Antenne geliefert
@@ -759,16 +765,18 @@ DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein golde
 
 > *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler und kommt so in etwa bei 720p raus.
 
-Das System hat einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
+Das System hat einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig à la Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
+Viele fliegen dennoch Rennen mit dem DJI-System.
 
 Es gibt Anzeichen dafür, dass DJI das System weiterentwickelt. Ob diese Weiterentwicklung mit der aktuell verfügbaren Hardware kompatibel sein wird, oder ob DJI ein neues System auf den Markt bringt, ist bisher noch nicht bekannt.
+Über Digiview lässt sich das Livebild auf ein Smartphone streamen. Interessant für Zuschauer.  https://github.com/fpvout/DigiView-Android
 
 Zudem wurde die Firmware des Systems [inzwischen geknackt](https://github.com/fpv-wtf/margerine), was auf eine Weiterentwicklung des Systems durch die Community hoffen lässt.
 
 #### 6.3.1. Brillen
 
 Bei den Brillen unterscheidet man zwischen V1 und V2. V2 ist nur relevant, wenn du die DJI-FPV-Drohne fliegen willst. Sonst tut es V1 auch.
-
+V2 hat eine höhere Refreshrate der Bildschirme 120Hz vs 144Hz.
 Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht crasht. Wo du klassische FPV-Drohne gegen Bäume donnern und (falls überhaupt mal etwas kaputt geht) selbst reparieren kannst, ist die DJI-FPV-Drohne ein Plastikbomber, den du für teuer Geld zu DJI in die Reparatur schicken musst.
 
 > *Anm. remove_me*: Scheiß auf die!
@@ -916,7 +924,7 @@ Bevor es um die tatsächliche Drohne geht, solltest du dir bewusst machen, was d
 
 ### 7.1. Cinematic
 
-Als Cinematic bezeichnet man allgemein einen entspannten Flugstil ohne große akrobatische Einlagen. Epische Flüge durch Berge, Verfolgungsjagden mit Autos, irgend was anderes kinoreif in Szene setzen.
+Als Cinematic bezeichnet man allgemein einen entspannten Flugstil ohne große akrobatische Einlagen. Epische Flüge über Berge, Verfolgungsjagden von Autos, irgendwas anderes kinoreif in Szene setzen.
 
 Üblicherweise sind entsprechende Videos auf Youtube die Einstiegsdroge ins FPV-Hobby.
 
@@ -974,15 +982,15 @@ Entsprechend werden wir das ab diesem Abschnitt weitestgehend auch so handhaben.
 
 In diesem Abschnitt geht es um gängige Klassen von Coptern. Diese dienen im Gespräch unter Piloten als erster Anhaltspunkt, um was für eine Größe von Coptern es überhaupt geht.
 
-#### 8.1.1. TinyWhoop
+#### 8.1.1. Whoop (TinyWhoop ist ein Markenname?)
 
-Klein und leicht. Sehr leicht. Inklusive Akku 60-80 Gramm. Verfügt meistens über Propellerschutz. Wer denkt, es handelt sich um Spielzeug hat noch kein Whoop-Rennen gesehen.
+Klein und leicht. Sehr leicht. Inklusive Akku 30-80 Gramm. Verfügt meistens über Propellerschutz. Wer denkt, es handelt sich um Spielzeug hat noch kein Whoop-Rennen gesehen.
 
-Der Rahmen besteht üblicherweise aus Plastik (Spritzdruckguss) und hält schon einiges aus. Bruchstellen kann man kleben. Bestell aber besser trotzdem gleich einen Ersatzframe mit, wenn du dir einen TinyWhoop holst.
+Der Rahmen besteht üblicherweise aus Kunststoff (Spritzdruckguss) und hält schon einiges aus. Bruchstellen kann man kleben. Bestell aber besser trotzdem gleich einige Ersatzframes mit, wenn du dir einen Whoop holst.
 
 Ideal für Innen oder kleinere Gärten.
 
-Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine echte Überlegung wert, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren vorausgesetzt.
+Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein Whoop eine echte Überlegung wert, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren vorausgesetzt.
 
 #### 8.1.2. Cinewhoop
 
@@ -1008,7 +1016,7 @@ Deutlich unauffälliger als ein 5". Du hast einen größeren Garten oder willst 
 
 **DER** Standard. Das Gewicht eines üblichen 5" Quads liegt irgendwo zwischen 500 und 700 Gramm. Die Höchstgeschwindigkeit liegt bei circa 120km/h.
 
-Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht gleich einen Finger ab säbeln, aber sie werden es nachhaltig versuchen, wenn du dumm genug bist, in sie zu greifen. Schnittwunden und Prellungen inbegriffen.
+Entsprechende Vorsicht solltest du walten lassen. Die Propeller werden dir nicht gleich einen Finger absäbeln, aber sie werden es nachhaltig versuchen, wenn du dumm genug bist, in sie zu greifen. Schnittwunden und Prellungen inbegriffen und keine Seltenheit.
 
 90% der Videos, die du auf Youtube findest, entstanden mit einem 5" Copter, da diese leicht eine GoPro tragen kann. Für diese Größe findest du die meisten Motoren, Propeller, etc.
 
@@ -1044,10 +1052,11 @@ Wenn du dein Fluggerät reparieren, umbauen oder komplett selbst bauen möchtest
 
 #### 8.2.1. Rahmen / Frame
 
-Der Frame besteht aus in Epoxidharz eingelegten Karbonfasern. Wie ein Tuning-Bauteil beim Auto, leicht aber trotzdem sehr stabil. Die Karbonfasern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
+Der Frame besteht aus in Epoxidharz eingelegten Kohlenstofffasern. Wie ein Tuning-Bauteil beim Auto, leicht aber trotzdem sehr stabil. Die Kohlenstofffasern kommen in Platten, aus denen die einzelnen Teile des Frames geschnitten werden.
 
 Die meisten Frames bestehen aus 4 Armen, einer Top-Plate, einer Bottom-Plate und ggf. noch einem Gegenstück, welches die Arme gegen die Bottom-Plate fixiert. Dazu kommt noch eine Halterung für die Kamera, die entweder aus Karbon oder Kunststoff (meistens TPU) gefertigt sind.
-Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) verbunden.
+Top- und Bottom-Plate sind mittels Abstandsbolzen (Standoffs) verbunden.
+Nicht selten bekommt man auch 3D gedruckten Teile mitgeliefert, auch bei Premiumframes. 
 
 | ![Source One](https://www.team-blacksheep.com/img/gallery/A7301673.JPG) |
 | -------- |
@@ -1076,9 +1085,9 @@ Alle oben genannten Hersteller fertigen **eigene** Designs. Insbesondere auf Ban
 
 Bei den Mittelklasse- und Premium-Herstellern kann man davon ausgehen, dass eigentlich jedes Teil des Frames bis hin zu den Schrauben auch separat als Ersatzteil erhältlich ist.
 
-Bei einem Premium-Hersteller kann man zudem erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt.
+Bei einem Premium-Hersteller kann man zudem erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt. (z.B.: Armattan)
 
-Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen. Sei kein Arsch, kauf keine Klone.
+Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen. Sei kein Arsch, kauf keine Klone. Zudem wirkt sich schlechte Qualität negativ auf das Flugverhalten aus. 
 
 Wenn du keine 50€ für einen Mittelklasse-5"-Frame übrig hast, hol dir einen "TBS Source One". Die Schnittmuster dieses Frames sind hochoffiziell OpenSource und frei erhältlich. Jeder kann (und darf) den Frame herstellen.
 
