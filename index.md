@@ -1888,6 +1888,7 @@ Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 - [rotorama.de](https://www.rotorama.de/), Tschechien
 - [shop.rc-hangar15.de](https://shop.rc-hangar15.de/), Deutschland
 - [team-blacksheep.com](https://www.team-blacksheep.com/shop), Honkong **(!)**
+- [xnova Motors](https://www.xnovamotors.biz/), Deutschland, hauptsächlich Motoren
 
 #### 18.6.2. Akkus
 
