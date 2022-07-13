@@ -22,7 +22,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [4.2. Modi](#42-modi)
   - [4.3. Funkprotokoll](#43-funkprotokoll)
   - [4.4. Empfehlungen (Funke)](#44-empfehlungen-funke)
-  - [4.5. Empfehlungen (Sendemodul & Empfänger)](#45-empfehlungen-sendemodul--empfänger)
+  - [4.5. Empfehlungen (Sendemodul \& Empfänger)](#45-empfehlungen-sendemodul--empfänger)
 - [5. Simulatoren](#5-simulatoren)
   - [5.1. Üben](#51-üben)
   - [5.2. Flugmodi](#52-flugmodi)
@@ -48,7 +48,7 @@ Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Date
   - [9.3. FreedomTX](#93-freedomtx)
 - [10. Software (Flight Controller)](#10-software-flight-controller)
   - [10.1. Betaflight](#101-betaflight)
-  - [10.2. KISS & FETtec](#102-kiss--fettec)
+  - [10.2. KISS \& FETtec](#102-kiss--fettec)
   - [10.3. Emuflight](#103-emuflight)
   - [10.4. iNAV](#104-inav)
   - [10.5. Ardupilot](#105-ardupilot)
@@ -171,6 +171,8 @@ Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie dr
 > *Anm. remove_me*: Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
 
 Sowohl AliExpress wie auch Banggood haben ein Gutschein-System. Häufig kann man hier nochmal ein bisschen Geld sparen.
+
+Bei den "Angeboten" solltest du allerdings aufpassen. Beide Shops nennen gerne mal Fantasiepreise als Originalpreis und zeigen dann utopische Rabatte an.
 
 #### 3.1.2. Direktvertrieb
 
