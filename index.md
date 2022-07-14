@@ -263,7 +263,7 @@ Bei den modernen Übertragungsprotokollen (siehe unten) ist die Frequenz nahezu 
 ##### 4.3.1.1. 900 MHz
 
 - höhere Reichweite
-- bessere Penetration durch Bäume/in Gebäude
+- bessere Penetration durch Bäume und in Gebäuden
 
 ##### 4.3.1.2. 2.4 GHz
 
