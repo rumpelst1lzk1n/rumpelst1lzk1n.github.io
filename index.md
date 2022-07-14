@@ -363,6 +363,8 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - winziges Monochrom-Display
 - Multi-Protokoll-Modul muss nach gekauft werden
 
+Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
+
 #### 4.4.6. TBS Mambo
 
 - ca. 160€
