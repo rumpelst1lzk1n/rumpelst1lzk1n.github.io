@@ -262,13 +262,13 @@ Bei den modernen Übertragungsprotokollen (siehe unten) ist die Frequenz nahezu 
 
 ##### 4.3.1.1. 900 MHz
 
-- höhere Reichweite
+- höhere Reichweite bei gleicher Sendeleistung (im Vergleich zu 2.4 GHz)
 - bessere Penetration durch Bäume und in Gebäuden
 
 ##### 4.3.1.2. 2.4 GHz
 
 - mehr Piloten gleichzeitig in der Luft
-- höhere Update-Rate als 900 MHz (deine Eingaben werden häufiger zur Drohne geschickt)
+- höhere Update-Rate als bei 900 MHz möglich (deine Eingaben werden häufiger zur Drohne geschickt)
 - kleinere Antennen als 900 MHz
 
 Seit 2021 haben die Hersteller 2.4 GHz auch für moderne Funkprotokolle entdeckt, früher wurde diese Frequenz vor allem von den unten als "Legacy" bezeichneten Protokollen verwendet.
