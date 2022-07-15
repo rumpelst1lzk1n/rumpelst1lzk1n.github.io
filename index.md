@@ -1659,7 +1659,7 @@ Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben um unterwegs zu
 
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
-Du musst keine SMD-Komponenten Löten können, aber mit Lötflächen im Bereich um 4 mm² solltest du klarkommen, ohne dass du eine unförmige Spur aus Lötzinn und ein Masaker von Komponenten quer über die Platine verteilt hinterlässt.
+Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich um 4 mm² solltest du klarkommen, ohne dass du eine unförmige Spur aus Lötzinn und ein Masaker von Komponenten quer über die Platine verteilt hinterlässt.
 
 |Diatone Übungsplatine|MuteFPV Übungsplatine|
 |---|---|
