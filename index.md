@@ -1647,8 +1647,6 @@ Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit
 
 Zum Bauen und Reparieren deines Quads wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
-> *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
-
 Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel enthalten.
 
 Gute kompakte Lötkolben sind z.B.
@@ -1658,6 +1656,12 @@ Gute kompakte Lötkolben sind z.B.
 - Sequre Mini D60
 
 Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben um unterwegs zu löten. Alternativ haben die Netzteile, die dir hier im Guide empfohlen werden auch eine DC-Power-Funktion, mit der die Lötkolben betrieben werden können.
+
+> *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
+
+|Diatone Übungsplatine|MuteFPV Übungsplatine|
+|---|---|
+|![Beispiel Trainingsplatine Diatone](img/diatone/soldering_practice_board.webp)|![Beispiel Trainingsplatine MuteFPV](img/misc/mute_fpv_soldering_practice_board.png)|
 
 ### 13.4. Rucksack
 
