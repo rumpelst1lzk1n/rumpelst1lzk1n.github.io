@@ -228,8 +228,8 @@ Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollform
 
 Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
-| Vollformat | Gamepad | Zwischending |
-| -------- | -------- | -------- |
+| Vollformat                                        | Gamepad                                          | Zwischending                                  |
+| ------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
 | ![Radiomaster TX16S](./img/radiomaster_tx16s.png) | ![TBS Tango 2](./img/team_blacksheep/tango2.jpg) | ![TBS Mambo](./img/team_blacksheep/mambo.jpg) |
 
 ### 4.2. Modi
@@ -392,9 +392,9 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 
 > *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass man das Modul für Zugriff auf den USB-Port aufschrauben muss. Ist aber nicht unbedingt notwendig, flashen kann man das Modul auch über die Funke oder über WiFi.
 
-|Happymodel ES24TX Pro|Happymodel ES24TX Pro Slim|
-| --- | --- |
-|![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg)|![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg)|
+| Happymodel ES24TX Pro                            | Happymodel ES24TX Pro Slim                              |
+| ------------------------------------------------ | ------------------------------------------------------- |
+| ![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg) |
 
 ##### 4.5.1.2. ELRS-Empfänger
 
@@ -402,8 +402,8 @@ Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezial
 
 Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-Antenne verwenden, die direkt auf dem Receiver drauf ist. Heißt, du musst dir keine Gedanken machen, wie du eine Antenne auf deinem Fluggerät unter bringst. Eine richtige Antenne hat mehr Reichweite. Für kleine Fluggeräte, mit denen du dich in einem Umkreis von etwa einen Kilometer bewegst, reicht das trotzdem. Das Grundprinzip, dass bei gleicher Sendeleistung dein Steuersignal weiter geht als dein Videosignal wird auch damit erfüllt.
 
-|Happymodel EP1| Happymodel EP2|BetaFPV EP2|
-| --- | --- | --- |
+| Happymodel EP1                                 | Happymodel EP2                                 | BetaFPV EP2                                            |
+| ---------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
 | ![Happymodel EP1](./img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](./img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](./img/betafpv/EP2_RX_flat_ceramic.webp) |
 
 Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
@@ -418,8 +418,8 @@ Lediglich bei Crossfire gibt es 2 unterschiedliche Sende-Module für den JR-Scha
 
 Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modulschacht.
 
-| Crossfire Micro TX | Crossfire Nano TX | Tracer Micro TX | Tracer Nano TX |
-| --- | --- | --- | --- |
+| Crossfire Micro TX                                             | Crossfire Nano TX                                                  | Tracer Micro TX                                          | Tracer Nano TX                                               |
+| -------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
 | ![Crossfire Micro TX](./img/team_blacksheep/Crossfire_Mtx.jpg) | ![Crossfire Nano TX](./img/team_blacksheep/Crossfire_Mtx_lite.jpg) | ![Tracer Micro TX](./img/team_blacksheep/Tracer_Mtx.jpg) | ![Tracer Nano TX](./img/team_blacksheep/Tracer_Mtx_lite.jpg) |
 
 ##### 4.5.2.2. Empfänger
@@ -573,9 +573,9 @@ Auf deinem Copter willst eigentlich immer eine omnidirektionale Antenne, da du d
 
 Bei sehr kleinen und leichten Drohnen (TinyWhoops, siehe unten) kann aus Gewichtsgründen auch eine lineare Antenne Sinn machen.
 
-| linear | lollipop | stubby | pagoda |
-| --- | --- | --- | --- |
-| ![linear](https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-ufl-dipole-1_1800x1800.jpg?v=1626819202) |![lollipop](https://inew.foxeer.com//upload/s/goods/201904/1555920368858975547.images.800x800.jpg) | ![Stubby](https://inew.foxeer.com//upload/s/goods/201904/1556076590073295056.images.800x800.jpg) | ![Pagoda](https://inew.foxeer.com//upload/s/goods/201711/1511447592626441098.images.800x800.jpg) |
+| linear                                                                                                      | lollipop                                                                                           | stubby                                                                                           | pagoda                                                                                           |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| ![linear](https://cdn.shopify.com/s/files/1/1285/4651/products/rdq-ufl-dipole-1_1800x1800.jpg?v=1626819202) | ![lollipop](https://inew.foxeer.com//upload/s/goods/201904/1555920368858975547.images.800x800.jpg) | ![Stubby](https://inew.foxeer.com//upload/s/goods/201904/1556076590073295056.images.800x800.jpg) | ![Pagoda](https://inew.foxeer.com//upload/s/goods/201711/1511447592626441098.images.800x800.jpg) |
 
 ##### 6.1.3.3. Gerichtet
 
@@ -585,18 +585,18 @@ Die gängigste Bauform ist eine sog. Patch-Antenne. Dabei handelt es sich meiste
 
 Helical findet sich auch vereinzelt als Bauform, wird aber eher für Flüge über längere Distanzen über mehrere Kilometer Entfernung verwendet.
 
-| Patch | Helical |
-| --- | --- |
-| ![Patch](https://www.team-blacksheep.com/img/gallery/A7300742.JPG) |![Helical](https://www.team-blacksheep.com/img/gallery/A7300958.JPG) |
+| Patch                                                              | Helical                                                              |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![Patch](https://www.team-blacksheep.com/img/gallery/A7300742.JPG) | ![Helical](https://www.team-blacksheep.com/img/gallery/A7300958.JPG) |
 
 ##### 6.1.3.4. SMA & RP-SMA
 
 Ein gängiger Anschluss für Antennen ist SMA. Dabei gibt es SMA und RP-SMA. Beide unterscheiden sich dadurch, ob der Stift an der Schraube oder and der Mutter sitzt.
 
-| Typ | Schraube | Mutter |
-| --- | --- | --- |
-| SMA | ![SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sma-einbaubuchse.jpg/1920px-Sma-einbaubuchse.jpg) | ![SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/9/9c/SMA_Stecker.jpg) |
-| RP-SMA | ![RP-SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/d/dd/RP-SMA_Buchse.jpg) | ![RP-SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/3/3d/RP-SMA_Stecker.jpg) |
+| Typ    | Schraube                                                                                                                    | Mutter                                                                                   |
+| ------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| SMA    | ![SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sma-einbaubuchse.jpg/1920px-Sma-einbaubuchse.jpg) | ![SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/9/9c/SMA_Stecker.jpg)       |
+| RP-SMA | ![RP-SMA Schraube](https://upload.wikimedia.org/wikipedia/commons/d/dd/RP-SMA_Buchse.jpg)                                   | ![RP-SMA Mutter](https://upload.wikimedia.org/wikipedia/commons/3/3d/RP-SMA_Stecker.jpg) |
 
 #### 6.1.4. OSD / On-Screen-Display
 
@@ -657,8 +657,8 @@ Bei den Analog-Brillen gibt es die größte Varianz in Sachen Preis. Es gibt Bri
 
 Man unterscheidet bei den Brillen zwischen Box- und Binocular-Style.
 
-| Box | Binocular |
-| -------- | -------- |
+| Box                                                                                 | Binocular                                      |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------- |
 | ![Box](https://img.eachine.com//eachine/products/original/201710/1508810670_22.JPG) | ![Binocular](./img/skyzone/skyzone_sky04X.png) |
 
 ##### 6.2.2.1. Box-Style
@@ -781,8 +781,8 @@ Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht cra
 Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also egal, ob du die Brille v1 oder v2 kaufst.
 
 | <img src="https://stormsend1.djicdn.com/tpc/uploads/photo/image/e36e694054678b94101837d14ea4fbb3@large.jpg" alt="DJI FPV Brille" width="500"/> |
-| --- |
-| DJI FPV Brille |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| DJI FPV Brille                                                                                                                                 |
 
 Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
 
@@ -792,8 +792,8 @@ Es gibt auch Adapter, um ein Receiver-Modul (siehe oben) mit der DJI-Brille zu v
 
 Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann. Die Vista Unit ist zu bevorzugen und passt auch leichter in die meisten Frames.
 
-| AirUnit | Vista Unit |
-| -------- | -------- |
+| AirUnit                                                                                     | Vista Unit                                                                                                                |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![AirUnit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/DJIairunit1_2000x.jpg) | ![Vista Unit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/2_45ba11d1-79c7-441d-a81f-287561bb5f59_2000x.jpg) |
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
@@ -832,8 +832,8 @@ Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sen
 
 Aktuell gibt es 3 relevante Videosender.
 
-| Race V2 (20x20) | Whoop (25x25) | Freestyle (30x30) |
-| -------- | -------- | -------- |
+| Race V2 (20x20)                                                                                                                                                             | Whoop (25x25)                                                                                                                                                              | Freestyle (30x30)                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | ![HDZero Race v2 VTX](https://static.wixstatic.com/media/967e02_0e44ce977be64add96eeeed77389581e~mv2.png/v1/fill/w_204,h_201,al_c,usm_0.66_1.00_0.01,enc_auto/top1_tou.png) | ![TX5S.1](https://static.wixstatic.com/media/967e02_388c829d11164f7abd2429a625bdc93e~mv2.png/v1/fill/w_223,h_162,al_c,usm_0.66_1.00_0.01,enc_auto/%E5%8D%95%E6%9D%BF1.png) | ![HDZero 1Watt freestyle VTX](./img/divimath/HDzero_freestyle_vtx.png) |
 
 Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
@@ -854,8 +854,8 @@ Zu der betreffenden Hardware zählen Videosender in teilweise etwas unüblichen 
 
 Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZero-Modul und ein separates Modul. Das Modul wurde nahtlos durch den oben bereits genannten Empfänger ersetzt. Für die Brille gibt es bisher noch keine Alternative.
 
-| Fatshark Scout HD | SharkByte Empfänger |
-| -------- | -------- |
+| Fatshark Scout HD                                          | SharkByte Empfänger                                            |
+| ---------------------------------------------------------- | -------------------------------------------------------------- |
 | ![Fatshark Scout HD](./img/fatshark/fatshark_scout_hd.jpg) | ![Shark Byte RX5.1](./img/fatshark/fatshark_sharkbyte_vrx.jpg) |
 
 ### 6.5. Walksnail
@@ -883,9 +883,9 @@ Die Hardware-Auswahl ist überschaubar, es gibt:
 - einen VTX (Formfaktor 25,6x25,6)
 - 2 Kameras (Formfaktor micro und nano)
 
-|Sender|Brille (Walksnail)| Brille (Fatshark)|
-|---|---|---|
-|![Walksnail VTX](./img/walksnail/avatar_vtx_micro_cam.webp)|![Walksnail goggle](./img/walksnail/avatar_goggles.webp)|![Fatshark goggle](./img/fatshark/fatshark_dominator.webp)|
+| Sender                                                      | Brille (Walksnail)                                       | Brille (Fatshark)                                          |
+| ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
+| ![Walksnail VTX](./img/walksnail/avatar_vtx_micro_cam.webp) | ![Walksnail goggle](./img/walksnail/avatar_goggles.webp) | ![Fatshark goggle](./img/fatshark/fatshark_dominator.webp) |
 
 Die beiden Brillen unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
 
@@ -952,12 +952,12 @@ Fliegen um des Fliegens Willen. Du fliegst irgendwelche akrobatischen Kunststüc
 
 Egal ob du entspannt durch die Gegend fliegst, hektisch Saltos und Rollen aneinander gereiht werden oder du mit einem Affenzahn einen Looping durch eine enge Lücke fliegst. Es gibt mehrere Stilrichtungen des Freestyles.
 
-| Stilrichtung | Merkmale |
-| -------- | -------- |
-| FlippyFloppy | Schnelle Richtungswechsel, viele Rollen und Überschläge |
-| Flow | Sehr gleichmäßiger Flugstil, Tendenz zum Cinematic |
-| Juicy | Sehr gleichmäßiger Flugstil mit kurzen, scharfen Manövern, die sanft ausklingen |
-| Sbang | Scharfe Manöver, die häufig dazu führen, dass die zweite Hälfte des Tricks aussieht, als hätte man die erste Hälfte rückwärts abgespielt |
+| Stilrichtung | Merkmale                                                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| FlippyFloppy | Schnelle Richtungswechsel, viele Rollen und Überschläge                                                                                  |
+| Flow         | Sehr gleichmäßiger Flugstil, Tendenz zum Cinematic                                                                                       |
+| Juicy        | Sehr gleichmäßiger Flugstil mit kurzen, scharfen Manövern, die sanft ausklingen                                                          |
+| Sbang        | Scharfe Manöver, die häufig dazu führen, dass die zweite Hälfte des Tricks aussieht, als hätte man die erste Hälfte rückwärts abgespielt |
 
 ### 7.4. Longrange
 
@@ -1059,8 +1059,8 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckten Teile. Teilweise mitgeliefert, teilweise stellen die Hersteller die Dateien zum selbst drucken online.
 
 | ![Source One](https://www.team-blacksheep.com/img/gallery/A7301673.JPG) |
-| -------- |
-| klassisches Frame-Design, TBS Source One |
+| ----------------------------------------------------------------------- |
+| klassisches Frame-Design, TBS Source One                                |
 
 Die Motoren werden an den Armen montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.
 
@@ -1070,12 +1070,12 @@ Frames gibt es in allen möglichen Größen und Preisklassen.
 
 Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 
-| Budget | Mittelklasse | Premium |
-| -------- | -------- | -------- |
-| TBS | iFlight | ImpulseRC |
-| | Diatone | Armattan |
-| | Flywoo | Lumenier |
-| | GepRC | Ummagawd |
+| Budget | Mittelklasse | Premium   |
+| ------ | ------------ | --------- |
+| TBS    | iFlight      | ImpulseRC |
+|        | Diatone      | Armattan  |
+|        | Flywoo       | Lumenier  |
+|        | GepRC        | Ummagawd  |
 
 Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 
@@ -1135,8 +1135,8 @@ BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Upd
 
 Die Motorsteuerung gibt die Drehrichtung der Motoren vor. Die 2 jeweils diagonal gelegenen Motoren sollten sich in die gleiche Richtung drehen. Dabei unterscheidet man zwischen "props in" und "props out".
 
-| props in | props out |
-| -------- | -------- |
+| props in                                                                                                                       | props out                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | ![props in](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg) | ![props out](https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg) |
 
 Welche der beiden Varianten besser ist, darüber scheiden sich die Geister.
@@ -1225,7 +1225,13 @@ Ebenso wie GPS als optional zu betrachten.
 
 Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Copters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rücker zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.
 
-##### 8.2.9.5. Heckspoiler
+##### 8.2.9.5. Battery Eliminating Circuit / BEC
+
+Ein Battery Eliminating Circuit (BEC) wandelt die Akkuspannung in eine definierte andere Spannung (meist 5 oder 9 Volt) um, mit der die elektronischen Komponenten auf dem Fluggerät besser (oder überhaupt erst ohne Schaden zu nehmen) arbeiten können.
+
+Meistens hat der Flight Controller bereits eines oder mehrere BECs. Wenn eine Komponente eine zu hohe Leistungsaufnahme hat (z.B. bei einem leistungsstarken Videosender), kann dieses aber einen eigenen BEC benötigen.
+
+##### 8.2.9.6. Heckspoiler
 
 Vielleicht gerätst du in die Verlockung, optische Anbauteile an dem Copter zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
 
@@ -1390,8 +1396,8 @@ Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten
 
 Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behlätnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.
 
-| Munitionskiste | BatSafe | Blumentopf |
-| ------ |------- | -------|
+| Munitionskiste                                                                                                       | BatSafe                                                                                                                                                 | Blumentopf                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ammunition_box.jpg" alt="Munitionskiste" width="200"/> | <img src="https://modster.at/media/image/ba/b7/bb/285566_MODSTER_BAT_Safe_Lipo_Tresor_Mini_MODSTER_Bat_Safe_Mini292011.jpg" alt="BatSafe" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flowerpot_1.jpg" alt="Blumentopf" width="200"/> |
 
 Wichtig bei der Aufbewahrung ist, die Akkus **NIEMALS** druckdicht zu verpacken. Sonst hast du eine Rohrbombe. Wenn dir Munitionskiste Luftdichtigkeit verspricht, bohr ein paar Löcher oder entferne die Dichtung an einigen Stellen, damit im Fall eines Brandes der Druck geziehlt entweichen kann. LiPo-Brände sind selbstversorgend. Wenn dein LiPo brennt, dann brennt er, egal wie viel Wasser du drauf kippst. Du brauchst nicht darauf hoffen, dass durch die Luftdichtigkeit die Luft im Behälter irgendwann verbraucht ist und das Feuer von selbst ausgeht. Der Brand erzeugt weiter Gase und wenn der Behälter druckdicht ist machts irgendwann BUM.
@@ -1400,8 +1406,8 @@ Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist di
 
 Zudem empfiehlt es sich, einen kleinen Akku-Tester griffbereit zu haben. Auch unterwegs.
 
-| LiPo-Tester (Premium) | LiPo-Tester (einfach) |
-| ------ |------- |
+| LiPo-Tester (Premium)                                                                              | LiPo-Tester (einfach)                                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://www.isdt.co/wp-content/uploads/2018/11/bg-8s.jpg" alt="ISDT BG-8S" width="200"/> | <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/l/o/low-voltage-alarm-black-color-91011000001-0-2.jpg" alt="LiPo Tester" width="200"/> |
 
 ### 11.3. Ladegeräte
@@ -1461,8 +1467,8 @@ Durch die Sicherungen vermeidest du zumindest grobe Akkuschäden und Brände, we
 
 Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weitere Vorteile. Ein gutes Board dient gleichzeitig als Adapter von XT60 (den die meisten Ladegeräte als Ausgang haben) auf XT30. Zudem schützt du die Anschlüsse deines Ladegeräts vor dem Ausleiern; ein Para-Board steckst du deutlich weniger oft an als die Akkus, die du in das Para-Board selbst steckst.
 
-|HGLRC Thor Pro| Uruav Blacklight|
-| ----- | ----- |
+| HGLRC Thor Pro                                                         | Uruav Blacklight                                                           |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | <img src="./img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/> | <img src="./img/uruav_blacklight.png" alt="URUAV Blacklight" width="300"/> |
 
 **!!ACHTUNG!!**
@@ -1641,9 +1647,9 @@ Ein universales Set, dass dir sicher auch außerhalb von FPV gute Dienste leiste
 
 Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
 
-| Prop-Tool | Ringratsche |
-| ------- | ------- |
-|![Ethix Prop Tool](./img/ethix/prop_tool.jpg)|![Wera Ringratsche](./img/misc/wera_ratchet_wrench.jpg)|
+| Prop-Tool                                     | Ringratsche                                             |
+| --------------------------------------------- | ------------------------------------------------------- |
+| ![Ethix Prop Tool](./img/ethix/prop_tool.jpg) | ![Wera Ringratsche](./img/misc/wera_ratchet_wrench.jpg) |
 
 ### 13.3. Löten
 
@@ -1663,9 +1669,9 @@ Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben um unterwegs zu
 
 Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich um 4 mm² solltest du klarkommen, ohne dass du eine unförmige Spur aus Lötzinn und ein Masaker von Komponenten quer über die Platine verteilt hinterlässt.
 
-|Diatone Übungsplatine|MuteFPV Übungsplatine|
-|---|---|
-|![Beispiel Trainingsplatine Diatone](img/diatone/soldering_practice_board.webp)|![Beispiel Trainingsplatine MuteFPV](img/misc/mute_fpv_soldering_practice_board.png)|
+| Diatone Übungsplatine                                                           | MuteFPV Übungsplatine                                                                |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![Beispiel Trainingsplatine Diatone](img/diatone/soldering_practice_board.webp) | ![Beispiel Trainingsplatine MuteFPV](img/misc/mute_fpv_soldering_practice_board.png) |
 
 ### 13.4. Rucksack
 
@@ -1765,15 +1771,15 @@ Flugzeuge erfreuen sich bei vielen Copter-Piloten ebenfalls einer großen Belieb
 
 Der Themenbereich FPV ist voller Anglizismen
 
-| | |
-| -------- | -------- |
-| Bando | Verlassenes Gebäude, alte Industrieanlage, Lost Place |
-| DVR | Digital Video Recording, Videoaufzeichnung üblicherweise auf SD-Karte in der FPV-Brille |
-| FPV | First Person View, Bildübertragung aus dem Fluggerät um eine Pilotensicht zu erzeugen |
-| Funke | Funkfernsteuerung, Funkfernbedienung |
-| LOS | Line of Sight, Sichtflug, der Pilot beobachtet das Fluggerät |
-| Radio | siehe Funke |
-| Receiver, RX | Empfänger, abhängig vom Kontext ist der Empfänger für Steuersignale am Fluggerät oder der Videoempfänger an der Brille gemeint |
+|                 |                                                                                                                                  |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Bando           | Verlassenes Gebäude, alte Industrieanlage, Lost Place                                                                            |
+| DVR             | Digital Video Recording, Videoaufzeichnung üblicherweise auf SD-Karte in der FPV-Brille                                          |
+| FPV             | First Person View, Bildübertragung aus dem Fluggerät um eine Pilotensicht zu erzeugen                                            |
+| Funke           | Funkfernsteuerung, Funkfernbedienung                                                                                             |
+| LOS             | Line of Sight, Sichtflug, der Pilot beobachtet das Fluggerät                                                                     |
+| Radio           | siehe Funke                                                                                                                      |
+| Receiver, RX    | Empfänger, abhängig vom Kontext ist der Empfänger für Steuersignale am Fluggerät oder der Videoempfänger an der Brille gemeint   |
 | Transmitter, TX | Sender, abhängig vom Kontext ist der Sender für Steuersignale in der Funkfernsteuerung oder der Videosender am Fluggerät gemeint |
 
 ## 18. Linkliste
@@ -1782,34 +1788,34 @@ Der Themenbereich FPV ist voller Anglizismen
 
 #### 18.1.1. Einsteigerfreundlich / Tutorials / legitime Produktbewertungen
 
-|Kanal|Beschreibung|
-|---|---|
-|[Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)| Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Coptern zu helfen.|
-|[Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg)|Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.|
-|[Gal Kremer](https://www.youtube.com/user/galkremer11)|Produktbewertungen|
-|[Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ)|Produktbewertungen|
-|[Oscar Liang](https://www.youtube.com/user/289359752)|Produktbewertungen|
-|[AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)|Produktbewertungen, nicht nur Quads, auch Flugzeuge|
-|[Pawel Spychalski](https://www.youtube.com/user/dzikuvx)|Tutorials um iNAV|
-|[Painless360](https://www.youtube.com/c/Painless360)|Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge|
+| Kanal                                                                  | Beschreibung                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Coptern zu helfen. |
+| [Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg) | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
+| [Gal Kremer](https://www.youtube.com/user/galkremer11)                 | Produktbewertungen                                                                                                                                                                                                                   |
+| [Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ) | Produktbewertungen                                                                                                                                                                                                                   |
+| [Oscar Liang](https://www.youtube.com/user/289359752)                  | Produktbewertungen                                                                                                                                                                                                                   |
+| [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)     | Produktbewertungen, nicht nur Quads, auch Flugzeuge                                                                                                                                                                                  |
+| [Pawel Spychalski](https://www.youtube.com/user/dzikuvx)               | Tutorials um iNAV                                                                                                                                                                                                                    |
+| [Painless360](https://www.youtube.com/c/Painless360)                   | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
 
 #### 18.1.2. Marktschreier
 
 Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist immer das größte, beste, neueste, tollste...
 
-|Kanal|Beschreibung|
-|---|---|
-|[UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)|Marktschreier mit eigenwillig witziger australischer Art|
-|[Drone Camps RC](https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA)|Ja ... Marktschreier halt|
+| Kanal                                                                      | Beschreibung                                             |
+| -------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)    | Marktschreier mit eigenwillig witziger australischer Art |
+| [Drone Camps RC](https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA) | Ja ... Marktschreier halt                                |
 
 #### 18.1.3. Hi tech, low life
 
-|Kanal|Beschreibung|
-|---|---|
-|[Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)|Nachrichten und Produktbewertungen auf einem höheren technischen Niveau|
-|[UAV Tech](https://www.youtube.com/user/spatzengr)|Fokus auf Tuning, aktiver Betaflight-Entwickler|
-|[Chris Rosser](https://www.youtube.com/user/neucleotide)|Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig|
-|[Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA)|Produkttests auf höherem technischen Niveau, Foku auf Funksysteme|
+| Kanal                                                                    | Beschreibung                                                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau          |
+| [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                  |
+| [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig |
+| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Foku auf Funksysteme                |
 
 #### 18.1.4. Fanboy-Kanäle / Entertainment
 
