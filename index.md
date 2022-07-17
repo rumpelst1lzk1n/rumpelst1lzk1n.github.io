@@ -887,7 +887,9 @@ Die Hardware-Auswahl ist überschaubar, es gibt:
 |---|---|---|
 |![Walksnail VTX](./img/walksnail/avatar_vtx_micro_cam.webp)|![Walksnail goggle](./img/walksnail/avatar_goggles.webp)|![Fatshark goggle](./img/fatshark/fatshark_dominator.webp)|
 
-**WENN** du dich für das System entscheiden solltest, nimm die Walksnail-Brille. Diese kann direkt über die üblichen Flug-Akkus betrieben werden.
+Die beiden Brillen unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
+
+Beide Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Drohnenakku an!!!
 
 ### 6.6. HD Aufnahmen
 
