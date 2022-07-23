@@ -18,10 +18,11 @@
   - [Akkus](010_battery.md)
   - [Mein erster Copter](011_my_first_copter.md)
   - [Weitere Ausrüstung](012_additional_equipment.md)
-- [3D Druck](013_3d_printing.md)
-- [Jenseits des Copters](014_beyond_multi_rotors.md)
-- [Linkliste](015_linklist.md)
-- [Sonstiges](016_miscealous.md)
+- [Rechtliches](013_legal_stuff.md)
+- [3D Druck](014_3d_printing.md)
+- [Jenseits des Copters](015_beyond_multi_rotors.md)
+- [Linkliste](016_linklist.md)
+- [Sonstiges](017_miscealous.md)
 
 -----------
 
