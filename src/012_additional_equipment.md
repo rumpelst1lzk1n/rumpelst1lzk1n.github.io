@@ -12,7 +12,7 @@ Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit
 
 | Prop-Tool                                     | Ringratsche                                             |
 | --------------------------------------------- | ------------------------------------------------------- |
-| ![Ethix Prop Tool](./img/ethix/prop_tool.jpg) | ![Wera Ringratsche](./img/misc/wera_ratchet_wrench.jpg) |
+| ![Ethix Prop Tool](./img/ethix/prop_tool.png) | ![Wera Ringratsche](./img/misc/wera_ratchet_wrench.jpg) |
 
 ## Löten
 
