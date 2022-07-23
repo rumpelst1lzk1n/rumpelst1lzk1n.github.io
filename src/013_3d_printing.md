@@ -8,6 +8,8 @@ Es ist nützlich, einen 3D-Drucker zu haben, oder jemand zu kennen, der einem Te
 
 Wenn man selbst keinen Zugriff auf einen Drucker hat, gibt es online eine Vielzahl an Diensten, die einem die gewünschten Teile für mehr oder weniger Geld drucken.
 
+Auch bei einem örtlichen [FabLab](https://de.wikipedia.org/wiki/FabLab)-Verein vorbei zu schauen kann sich lohnen. Diese haben meistens 3D-Drucker und auch eine Vielzahl anderer Werkzeuge.
+
 ## Drucker
 
 Falls du selbst überlegst, dir einen Drucker zu kaufen, hast du effektiv die Wahl zwischen folgenden Szenarien:
