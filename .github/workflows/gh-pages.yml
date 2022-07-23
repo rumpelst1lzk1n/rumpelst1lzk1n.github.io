@@ -23,7 +23,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/switch_to_mdbook_rendering' }}
 
-
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
@@ -34,4 +33,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           folder: book
