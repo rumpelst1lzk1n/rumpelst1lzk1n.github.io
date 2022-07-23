@@ -19,10 +19,6 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/switch_to_mdbook_rendering' }}
-
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
