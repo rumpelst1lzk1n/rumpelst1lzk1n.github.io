@@ -1,0 +1,347 @@
+<!DOCTYPE HTML>
+<html lang="de" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Funkfernsteuerung - Einsteigerguide FPV</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <img src="/img/misc/spurdo_fbv.png"></img>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="000_introduction.html">Einleitung</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="001_getting_help.html"><strong aria-hidden="true">1.</strong> Hilfe bekommen</a></li><li class="chapter-item expanded "><a href="002_buying_stuff.html"><strong aria-hidden="true">2.</strong> Einkaufen</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Entscheidungen</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="003_radio.html" class="active"><strong aria-hidden="true">3.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="004_simulators.html"><strong aria-hidden="true">3.2.</strong> Simulatoren</a></li><li class="chapter-item expanded "><a href="005_video_systems.html"><strong aria-hidden="true">3.3.</strong> Videosysteme</a></li></ol></li><li class="chapter-item expanded "><a href="006_flight_styles.html"><strong aria-hidden="true">4.</strong> Flugstile</a></li><li class="chapter-item expanded "><a href="007_copters.html"><strong aria-hidden="true">5.</strong> Drohne / Quad / Copter</a></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">5.1.</strong> Software</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="008_radio_software.html"><strong aria-hidden="true">5.1.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="009_software_flight_controller.html"><strong aria-hidden="true">5.1.2.</strong> Flight Controller</a></li></ol></li><li class="chapter-item expanded "><a href="010_battery.html"><strong aria-hidden="true">5.2.</strong> Akkus</a></li><li class="chapter-item expanded "><a href="011_my_first_copter.html"><strong aria-hidden="true">5.3.</strong> Mein erster Copter</a></li><li class="chapter-item expanded "><a href="012_additional_equipment.html"><strong aria-hidden="true">5.4.</strong> Weitere Ausrüstung</a></li></ol></li><li class="chapter-item expanded "><a href="013_3d_printing.html"><strong aria-hidden="true">6.</strong> 3D Druck</a></li><li class="chapter-item expanded "><a href="014_beyond_multi_rotors.html"><strong aria-hidden="true">7.</strong> Jenseits des Copters</a></li><li class="chapter-item expanded "><a href="015_linklist.html"><strong aria-hidden="true">8.</strong> Linkliste</a></li><li class="chapter-item expanded "><a href="016_miscealous.html"><strong aria-hidden="true">9.</strong> Sonstiges</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="CONTRIBUTORS.html">Mitwirkende</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Einsteigerguide FPV</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="fernbedienung"><a class="header" href="#fernbedienung">Fernbedienung</a></h1>
+<p>Du willst fliegen? <strong>Nein</strong>, willst du nicht.</p>
+<p>Du willst erst mal im Simulator üben.</p>
+<blockquote>
+<p><em>Anm. remove_me</em>: <strong>GLAUB ALLEN! ERST SIMULATOR! DANN DROHNE!!</strong></p>
+</blockquote>
+<p>Wenn du ein Gamepad hast, kannst du direkt dir auf Steam einen der vielen Simulatoren holen. Ein Gamepad ist besser als nichts, aber eigentlich willst du eine echte Funkfernsteuerung. Diese verhält sich von den Sticks anders als ein Gamepad.</p>
+<p>Moderne Funkfernsteuerungen kannst du an deinen Rechner anschließen und dort als Controller verwenden.</p>
+<p>Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfernsteuerung ist normalerweise eine einmalige Anschaffung, die dich sehr lange begleiten wird. Es geht auch noch teurer, aber das bedeutet nicht zwangsläufig bessere oder modernere Technik.</p>
+<h2 id="formfaktor"><a class="header" href="#formfaktor">Formfaktor</a></h2>
+<p>Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.</p>
+<p>Nachfolgend 3 populäre Vertreter dieser Formfaktoren.</p>
+<div class="table-wrapper"><table><thead><tr><th>Vollformat</th><th>Gamepad</th><th>Zwischending</th></tr></thead><tbody>
+<tr><td><img src="./img/radiomaster_tx16s.png" alt="Radiomaster TX16S" /></td><td><img src="./img/team_blacksheep/tango2.jpg" alt="TBS Tango 2" /></td><td><img src="./img/team_blacksheep/mambo.jpg" alt="TBS Mambo" /></td></tr>
+</tbody></table>
+</div>
+<h2 id="modi"><a class="header" href="#modi">Modi</a></h2>
+<p>Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernsteuerung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernsteuerungen im Gamepad-Formfaktor.</p>
+<p>Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung eingestellt ist. Der gängigste Modus ist &quot;Mode 2&quot;, aber nimm, womit du am besten klar kommst.</p>
+<p><img src="./img/radio_modes.drawio.png" alt="radio_modes" /></p>
+<blockquote>
+<p><em>Anm. Philm0</em>: Als Links/Rechtshänder solltest du dich zwischen Mode 1 und 2  entscheiden, Mode 3 und 4 ist im Regelfall nur dumme scheiße lernen.</p>
+</blockquote>
+<p>Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.</p>
+<p>Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.</p>
+<p>Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst.</p>
+<h2 id="funkprotokoll"><a class="header" href="#funkprotokoll">Funkprotokoll</a></h2>
+<p>Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkfernsteuerung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.</p>
+<p>Falls du ein nicht von deiner Funke abgedecktes Protokoll fliegen willst, kannst du dieses mit Modulen nachrüsten. Die beiden Formfaktoren nutzen unterschiedliche Modulgrößen, <code>JR</code> bei Vollformat, <code>Lite</code> bei Gamepad.</p>
+<h3 id="frequenzen"><a class="header" href="#frequenzen">Frequenzen</a></h3>
+<p>Funkprotokolle verwenden die Frequenzen 2.4GHz und 900MHz.</p>
+<p>Bei den modernen Übertragungsprotokollen (siehe unten) ist die Frequenz nahezu irrelevant. Du wirst die Unterschiede nur in Extremsituationen und mit viel Erfahrung spüren. Beide Frequenzen gehen mit den modernen Protokollen bei gleicher Sendeleistung weiter als deine Videoverbindung. Das ist wichtig, damit dir nicht bei bestem Bild plötzlich die Funkverbindung abreißt und die Drohne aus der Luft stürzt.</p>
+<h4 id="900-mhz"><a class="header" href="#900-mhz">900 MHz</a></h4>
+<ul>
+<li>höhere Reichweite bei gleicher Sendeleistung (im Vergleich zu 2.4 GHz)</li>
+<li>bessere Penetration durch Bäume und in Gebäuden</li>
+</ul>
+<h4 id="24-ghz"><a class="header" href="#24-ghz">2.4 GHz</a></h4>
+<ul>
+<li>mehr Piloten gleichzeitig in der Luft</li>
+<li>höhere Update-Rate als bei 900 MHz möglich (deine Eingaben werden häufiger zur Drohne geschickt)</li>
+<li>kleinere Antennen als 900 MHz</li>
+</ul>
+<p>Seit 2021 haben die Hersteller 2.4 GHz auch für moderne Funkprotokolle entdeckt, früher wurde diese Frequenz vor allem von den unten als &quot;Legacy&quot; bezeichneten Protokollen verwendet.</p>
+<h4 id="andere"><a class="header" href="#andere">Andere</a></h4>
+<p>Es gibt noch gänzlich andere Frequenzen auf 27, 40 oder 433 MHz. Diese sind entweder etwas für die Modellbau-Opas (aka gnadenlos veraltet) oder spielen für das FPV-Hobby zumindest keine Rolle.</p>
+<h3 id="alt-vs-neu"><a class="header" href="#alt-vs-neu">Alt vs. Neu</a></h3>
+<p>Bei den Funkprotokollen unterscheide ich zwischen Legacy und Modern.</p>
+<h4 id="legacy"><a class="header" href="#legacy">Legacy</a></h4>
+<p>Diese Protokolle sind irrelevant.
+Sei es von FrSky, Graupner, Futaba oder wie sie alle heißen. Ihnen gemein ist, dass sie eigentlich alle mit einem Multi-Protokoll-Modul abgedeckt werden. Vergiss sie. Wenn du welche hast, verkaufe sie.</p>
+<p>Wenn du unbedingt eine Drohne fliegen willst, die einen Empfänger mit einem dieser Protokolle verwendet, ist ein Multi-Protokoll-Modul der richtige Weg. Oder ein Upgrade des Fluggeräts auf ein modernes Protokoll.</p>
+<h4 id="modern"><a class="header" href="#modern">Modern</a></h4>
+<p>Folgende Funksysteme können als &quot;modern&quot; betrachtet werden:</p>
+<ul>
+<li>TBS Crossfire (900MHz)</li>
+<li>TBS Tracer (2.4GHz)</li>
+<li>ExpressLRS (aka. ELRS) (900MHz und 2.4GHz)</li>
+<li>ImmersionRC Ghost (2.4GHz)</li>
+</ul>
+<p>TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine komfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.</p>
+<p>TBS Tracer ist wie Crossfire nur auf 2.4GHz. Die TBS Mambo hat Tracer bereits eingebaut. Alles andere funktioniert wie bei Crossfire.</p>
+<p>ELRS ist OpenSource und wird von unterschiedlichen Herstellern angeboten.
+Es gibt Sender/Empfänger für 2.4GHz und 900MHz. Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber die gleiche Frequenz nutzen. Das System ist noch relativ jung, aber es springen zunehmend Hersteller auf den Zug auf. Es gibt inzwischen auch vereinzelt Drohnen fertig damit zu kaufen. Das günstigste der 4 Systeme. Es ist davon auszugehen, dass ELRS mittelfristig die noch verbliebenen Legacy-Protokolle auch im Budget-Bereich verdrängen wird.</p>
+<p>Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.</p>
+<h2 id="empfehlungen-funke"><a class="header" href="#empfehlungen-funke">Empfehlungen (Funke)</a></h2>
+<p>Wenn du dir eine Funkfernsteuerung holst, solltest du darauf achten, dass diese mit OpenTX oder einem Derivat davon läuft.</p>
+<p>OpenTX ist ein Betriebssystem für Funkfernsteuerungen und hat sich bei FPV-Drohnen als Quasi-Standard etabliert. Für Funken mit diesem Betriebssystem wirst du online jede Menge Hilfestellungen finden.</p>
+<p>Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.</p>
+<blockquote>
+<p><em>Anm. rumpelst1lzk1n</em>: Funken ohne OpenTX (oder Derivat davon) sind irrelevant.</p>
+</blockquote>
+<p>Bei den genannten Funken ist das Display nachrangig.
+Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.</p>
+<p>Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Copter, die früher mit einem der Legacy-Protokolle angeboten wurden, gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.</p>
+<h3 id="radiomaster-tx16s-mk-2"><a class="header" href="#radiomaster-tx16s-mk-2">Radiomaster TX16S (Mk 2)</a></h3>
+<ul>
+<li>ca. 230€</li>
+<li>Vollformat</li>
+<li>Multi-Protokoll-Modul, MK2 wahlweise mit ELRS</li>
+<li>OpenTX oder EdgeTX</li>
+<li>großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt</li>
+</ul>
+<p>Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.</p>
+<h3 id="radiomaster-zorro"><a class="header" href="#radiomaster-zorro">Radiomaster Zorro</a></h3>
+<ul>
+<li>ca. 140€</li>
+<li>Gamepad</li>
+<li>Mehrere Protokoll-Varianten. Nimm die mit ELRS.</li>
+<li>Monochrom-Display</li>
+<li>sehr kleiner interner Akku</li>
+</ul>
+<h3 id="radiomaster-tx12"><a class="header" href="#radiomaster-tx12">Radiomaster TX12</a></h3>
+<ul>
+<li>ca. 120€</li>
+<li>etwas kleiner als Vollformat</li>
+<li>eingebautes Multi-Protokoll-Modul</li>
+<li>OpenTX oder EdgeTX</li>
+<li>Monochrom-Display</li>
+</ul>
+<h3 id="jumper-t-pro"><a class="header" href="#jumper-t-pro">Jumper T-Pro</a></h3>
+<ul>
+<li>ca. 150€</li>
+<li>Gamepad</li>
+<li>Mehrere Protokoll-Varianten. Nimm die mit ELRS.</li>
+<li>winziges Monochrom-Display</li>
+</ul>
+<h3 id="tbs-tango-2"><a class="header" href="#tbs-tango-2">TBS Tango 2</a></h3>
+<ul>
+<li>ca. 160-200€</li>
+<li>Gamepad</li>
+<li>eingebautes Crossfire</li>
+<li>ständig ausverkauft</li>
+<li>winziges Monochrom-Display</li>
+<li>Multi-Protokoll-Modul muss nach gekauft werden</li>
+</ul>
+<p>Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.</p>
+<h3 id="tbs-mambo"><a class="header" href="#tbs-mambo">TBS Mambo</a></h3>
+<ul>
+<li>ca. 160€</li>
+<li>etwas kleiner als Vollformat</li>
+<li>eingebautes Tracer</li>
+<li>kleines Monochrom-Display</li>
+</ul>
+<h2 id="empfehlungen-sendemodul--empfänger"><a class="header" href="#empfehlungen-sendemodul--empfänger">Empfehlungen (Sendemodul &amp; Empfänger)</a></h2>
+<p>Wenn deine Funke nicht das Protokoll kann, das du möchtest, gibt es bei den meisten Funken die Möglichkeit, ein Modul nachzurüsten.</p>
+<h3 id="elrs"><a class="header" href="#elrs">ELRS</a></h3>
+<p>Bei ELRS konzentrieren wir uns auf 2.4 GHz. 900 MHz-Systeme würde ich für einen Neueinsteiger nicht empfehlen. Bzw. wenn, dann Crossfire.</p>
+<h4 id="happymodel-es24tx-pro"><a class="header" href="#happymodel-es24tx-pro">Happymodel ES24TX Pro</a></h4>
+<ul>
+<li>ca. 45€</li>
+<li>ELRS auf 2.4GHz</li>
+<li>1W maximale Sendeleistung</li>
+<li>WiFi/Bluetooth</li>
+<li>Versionen für JR- und Lite-Modulschacht (&quot;Slim&quot;)</li>
+</ul>
+<p>Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt gebracht hat. Die Produkte genießen einen guten Ruf, auch, weil der Hersteller gut mit den Entwicklern zusammen arbeitet.</p>
+<blockquote>
+<p><em>Anm. rumpelst1lzk1n</em>: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass man das Modul für Zugriff auf den USB-Port aufschrauben muss. Ist aber nicht unbedingt notwendig, flashen kann man das Modul auch über die Funke oder über WiFi.</p>
+</blockquote>
+<div class="table-wrapper"><table><thead><tr><th>Happymodel ES24TX Pro</th><th>Happymodel ES24TX Pro Slim</th></tr></thead><tbody>
+<tr><td><img src="./img/happymodel/ES24TX_Pro.jpg" alt="JR-Bay Modul" /></td><td><img src="./img/happymodel/ES24TX_Pro_slim.jpg" alt="Lite-Bay Modul" /></td></tr>
+</tbody></table>
+</div>
+<h4 id="elrs-empfänger"><a class="header" href="#elrs-empfänger">ELRS-Empfänger</a></h4>
+<p>Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezialfälle z.B. mit Antennen-Diversity oder PWM ausgenommen.</p>
+<p>Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-Antenne verwenden, die direkt auf dem Receiver drauf ist. Heißt, du musst dir keine Gedanken machen, wie du eine Antenne auf deinem Fluggerät unter bringst. Eine richtige Antenne hat mehr Reichweite. Für kleine Fluggeräte, mit denen du dich in einem Umkreis von etwa einen Kilometer bewegst, reicht das trotzdem. Das Grundprinzip, dass bei gleicher Sendeleistung dein Steuersignal weiter geht als dein Videosignal wird auch damit erfüllt.</p>
+<div class="table-wrapper"><table><thead><tr><th>Happymodel EP1</th><th>Happymodel EP2</th><th>BetaFPV EP2</th></tr></thead><tbody>
+<tr><td><img src="./img/happymodel/EP1_RX.jpg" alt="Happymodel EP1" /></td><td><img src="./img/happymodel/EP2_RX.jpg" alt="Happymodel EP2" /></td><td><img src="./img/betafpv/EP2_RX_flat_ceramic.webp" alt="BetaFPV EP2" /></td></tr>
+</tbody></table>
+</div>
+<p>Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers &quot;Matek&quot;.</p>
+<h3 id="crossfire--tracer"><a class="header" href="#crossfire--tracer">Crossfire &amp; Tracer</a></h3>
+<p>Eigentlich gibt es bei den Systemen von TBS nicht viel zu sagen. Crossfire ist 900 MHz, Tracer ist 2.4 GHz. Das System wird nur von TBS hergestellt und die haben ihr Produktportfolio ganz gut unter Kontrolle.</p>
+<h4 id="sender"><a class="header" href="#sender">Sender</a></h4>
+<p>Lediglich bei Crossfire gibt es 2 unterschiedliche Sende-Module für den JR-Schacht. Das Micro (v2) reicht vollkommen aus.</p>
+<p>Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modulschacht.</p>
+<div class="table-wrapper"><table><thead><tr><th>Crossfire Micro TX</th><th>Crossfire Nano TX</th><th>Tracer Micro TX</th><th>Tracer Nano TX</th></tr></thead><tbody>
+<tr><td><img src="./img/team_blacksheep/Crossfire_Mtx.jpg" alt="Crossfire Micro TX" /></td><td><img src="./img/team_blacksheep/Crossfire_Mtx_lite.jpg" alt="Crossfire Nano TX" /></td><td><img src="./img/team_blacksheep/Tracer_Mtx.jpg" alt="Tracer Micro TX" /></td><td><img src="./img/team_blacksheep/Tracer_Mtx_lite.jpg" alt="Tracer Nano TX" /></td></tr>
+</tbody></table>
+</div>
+<h4 id="empfänger"><a class="header" href="#empfänger">Empfänger</a></h4>
+<p>Es gibt 3 Empfänger-Typen, die für den FPV-Bereich relevant sind.</p>
+<ul>
+<li>Crossfire Nano Diversity</li>
+<li>Nano (jeweils Crossfire &amp; Tracer, bei Tracer gleichzeitig Diversity)</li>
+<li>Sixty9 (jeweils Crossfire &amp; Tracer)</li>
+</ul>
+<p>Wenn du Analog fliegst, empfehle ich dir, einen Blick auf den Sixty9 zu werfen. Das ist eine Kombination aus Empfänger und Video-Sender. Ansonsten nimm den Nano. Der Crossfire Nano Diversity ist eher für LongRange-Systeme gedacht.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="002_buying_stuff.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="004_simulators.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="002_buying_stuff.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="004_simulators.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

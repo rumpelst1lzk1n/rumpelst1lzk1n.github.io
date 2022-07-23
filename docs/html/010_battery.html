@@ -1,0 +1,289 @@
+<!DOCTYPE HTML>
+<html lang="de" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Akkus - Einsteigerguide FPV</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <img src="/img/misc/spurdo_fbv.png"></img>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="000_introduction.html">Einleitung</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="001_getting_help.html"><strong aria-hidden="true">1.</strong> Hilfe bekommen</a></li><li class="chapter-item expanded "><a href="002_buying_stuff.html"><strong aria-hidden="true">2.</strong> Einkaufen</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Entscheidungen</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="003_radio.html"><strong aria-hidden="true">3.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="004_simulators.html"><strong aria-hidden="true">3.2.</strong> Simulatoren</a></li><li class="chapter-item expanded "><a href="005_video_systems.html"><strong aria-hidden="true">3.3.</strong> Videosysteme</a></li></ol></li><li class="chapter-item expanded "><a href="006_flight_styles.html"><strong aria-hidden="true">4.</strong> Flugstile</a></li><li class="chapter-item expanded "><a href="007_copters.html"><strong aria-hidden="true">5.</strong> Drohne / Quad / Copter</a></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">5.1.</strong> Software</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="008_radio_software.html"><strong aria-hidden="true">5.1.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="009_software_flight_controller.html"><strong aria-hidden="true">5.1.2.</strong> Flight Controller</a></li></ol></li><li class="chapter-item expanded "><a href="010_battery.html" class="active"><strong aria-hidden="true">5.2.</strong> Akkus</a></li><li class="chapter-item expanded "><a href="011_my_first_copter.html"><strong aria-hidden="true">5.3.</strong> Mein erster Copter</a></li><li class="chapter-item expanded "><a href="012_additional_equipment.html"><strong aria-hidden="true">5.4.</strong> Weitere Ausrüstung</a></li></ol></li><li class="chapter-item expanded "><a href="013_3d_printing.html"><strong aria-hidden="true">6.</strong> 3D Druck</a></li><li class="chapter-item expanded "><a href="014_beyond_multi_rotors.html"><strong aria-hidden="true">7.</strong> Jenseits des Copters</a></li><li class="chapter-item expanded "><a href="015_linklist.html"><strong aria-hidden="true">8.</strong> Linkliste</a></li><li class="chapter-item expanded "><a href="016_miscealous.html"><strong aria-hidden="true">9.</strong> Sonstiges</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="CONTRIBUTORS.html">Mitwirkende</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Einsteigerguide FPV</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="akkus"><a class="header" href="#akkus">Akkus</a></h1>
+<p>Akkus sind die Stromlieferanten unserer Fluggeräte.</p>
+<p>Man unterscheidet sie nach Anzahl der Zellen sowie nach ihrer Kapazität.</p>
+<p>Häufig wirst du beispielsweise &quot;6S&quot; hören. Dies bezeichnet die Anzahl der Akku-Zellen, die in Reihe geschalten wurden.</p>
+<h2 id="akku-aufbau"><a class="header" href="#akku-aufbau">Akku-Aufbau</a></h2>
+<h3 id="zellen"><a class="header" href="#zellen">Zellen</a></h3>
+<p>Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Copter fliegen mit mehrzelligen Akkus.</p>
+<p>Zellen in Reihe geschalten erhöhen die Spannung. Zellen parallel geschalten erhöhen die Kapazität.</p>
+<p>Ein 2S Akku hat 2 Zellen in Reihe (seriell) geschalten. Am Stromanschluss liegt die Summe der Spannung der einzelnen Akkus an.</p>
+<p>Ein 2P Akku hat 2 Zellen parallel geschalten. Der Akku kann Summe der Kapazität der einzelnen Akkus als Leistung zur Verfügung stellen.</p>
+<p>Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich ist dabei, dass die Zellen erst parallel verbunden werden und anschließend die so entstandenen Akkus in Reihe geschalten werden.</p>
+<h3 id="zell-spannung---chemie"><a class="header" href="#zell-spannung---chemie">Zell-Spannung &amp; -Chemie</a></h3>
+<p>Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Coptern auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.</p>
+<p>Bei einem LiPo-Akku beträgt die Nominalspannung <strong>einer Zelle</strong> 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.</p>
+<p>Wird ein Akku geladen, erhöht sich die Spannung zwischen Plus- und Minuspol. Bei einem vollen LiPo-Akku beträgt die Spannung circa 4,2 Volt. Es gibt spezielle Akkus mit der Kennzeichnung HV (für &quot;High-Voltage&quot;), diese können bis 4,35 Volt geladen werden.</p>
+<p>Wird ein Akku entladen, verringert sich nach und nach die Spannung. Weiter herunter als 3,3 Volt solltest du eine Akku-Zelle nicht fliegen, sonst kannst du den Akku nachhaltig beschädigen.</p>
+<h3 id="innenwiederstand"><a class="header" href="#innenwiederstand">Innenwiederstand</a></h3>
+<p>Die einzelnen Zellen eines Akkus haben wie alle elektronischen Komponenten einen Wiederstand. Dieser bestimmt, wie gut sie Energie aufnehmen und abgeben können.</p>
+<p>Viele Ladegeräte können dir nach dem Ladevorgang den Innenwiederstand der einzelnen Zellen anzeigen.</p>
+<p>Sollte eine Zelle einen extremen Ausreißer bei diesem Wert haben (z.B. das doppelte), solltest du den Akku nicht mehr zusammen mit anderen parallel laden und allgemein darüber nachdenken, ob du ihn nicht bald in die Rente schickst.</p>
+<h3 id="stromanschluss"><a class="header" href="#stromanschluss">Stromanschluss</a></h3>
+<p>Dieser Stecker versorgt deinen Copter mit Strom. Der am weitesten verbreitete Anschlusstyp für Akkus ist <code>XT</code>. Siehe oben.</p>
+<h3 id="balancer-kabel"><a class="header" href="#balancer-kabel">Balancer-Kabel</a></h3>
+<p>An diesem Kabel findet sich ein Stecker vom Typ JST-XH. Der Balancer erlaubt bei mehrzelligen Akkus Zugriff auf die Verbindung zwischen den einzelnen Zellen. Dieser ist wichtig, damit das Ladegerät Unterschiede zwischen den einzelnen Zellen ausgleichen kann. Während das Ladegerät über den Stromanschluss die Kapazität mit der groben Kelle verteilt, übernimmt es über das Balancer-Kabel die Feinabstimmung.</p>
+<p>Wenn du einen 1S-Akku hast, entfällt der Balancer-Anschluss natürlich.</p>
+<h3 id="input--output"><a class="header" href="#input--output">Input &amp; Output</a></h3>
+<p>Wie viel Strom ein Akku auf eipro Sekunde abgeben kann, wird in Vielfachen seiner Kapazität (C) angegeben. Auf Akkus findest du Angaben wie 70C, 100C oder 120C. Ein Akku mit 1000 Milliamperestunden, für den der Hersteller 100C angibt, kann bis zu 100 Ampere belastet werden. Dabei ist häufig die Dauerlast gemeint, für kurze Spitzen wird meistens eine zweite Zahl angegeben, diese liegt dann nochmal deutlich höher.</p>
+<p>Gleichzeitig gilt als Richtwert für das Laden von Akkus: Lädst du sie mit 1C halten sie am längsten, lädst du mit mehr, geht das auf die Lebendsdauer. Lädst du mit viel mehr (z.B. 5C oder mehr) besteht akute Brandgefahr!</p>
+<p>Rechenbeispiel:</p>
+<p>Du hast einen Akku mit 500 Milliamperestunden. 1C entspricht also 0.5 Ampere. Stell dein Ladegerät so ein, dass es den Akku mit 0.5 Ampere lädt. Der Ladevorgang wird etwa eine Stunde dauern. Lädst du den Akku stattdessen mit 1 Ampere, wird der Ladevorgang nur etwa eine halbe Stunde dauer. Dies geht aber zulasten der Lebensdauer des Akkus.</p>
+<h3 id="empfehlungen-akkus"><a class="header" href="#empfehlungen-akkus">Empfehlungen (Akkus)</a></h3>
+<p>Welche Akkus für deinen Copter die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles davon ab, auf welche Spannung die verbaute Hardware ausgelegt ist wie viel der Copter selbst wiegt und ob bestimmte Ziele erreicht werden sollen (z.B. Abfluggewicht unter 250 Gramm). Daher werde ich hier auch keine konkreten Empfehlungen aussprechen.</p>
+<p>Wenn du dir einen fertigen Copter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus der Copter ausgelegt ist. Wenn du deinen Copter selbst baust, schau dir ähnliche Fertig-Copter an, was für diese empfohlen wird.</p>
+<p>Ein größerer Akku heißt nicht automatisch längere Flugzeit. Irgendwann ist der Sweetspot überschritten, dann kostet das zusätzliche Gewicht des Akkus wieder Flugzeit. Siehe &quot;Raketengleichung&quot;. Außerdem macht sich ein schwerer Akku auch beim Flugverhalten bemerkbar.</p>
+<p>Als Faustformel für eine sinnvolle Akku-Größe kannst du bei einem Standard-Copter eine Gewichtsverteilung von zwei Dritteln des Gewichts für den Copter selbst und einem Drittel für den Akku annehmen.</p>
+<p>Rechenbeispiel:
+Nehmen wir einen Copter mit 400 Gramm Gewicht an (ohne Akku, <code>dry weight</code>). Ich möchte mit 6S-Akkus fliegen. Also suche ich mir einen 6S Akku, der in etwa 200Gramm wiegt. Folgst du dieser Rechnung, landest du vermutlich landest du bei einem Akku zwischen 1000 und 1300 mAh. Gewicht pro mAh kann je nach Hersteller variieren.</p>
+<p>Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in &quot;chinesischen Einheiten&quot; geworben. Die tatsächliche Leistungsfähigkeit wird mit der aktuellen Temperatur, dem Datum oder der Anzahl der Kinder des Vorarbeiters multipliziert. Renommierte Hersteller, auf deren Angaben du dich eigentlich verlassen kannst sind Tattu, China Hobby Line (CNHL) und GnB.</p>
+<h2 id="sicherheit"><a class="header" href="#sicherheit">Sicherheit</a></h2>
+<img src="./img/pictograms/flame.png" alt="Entflammbar" width="200"/>
+<p>Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behlätnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.</p>
+<div class="table-wrapper"><table><thead><tr><th>Munitionskiste</th><th>BatSafe</th><th>Blumentopf</th></tr></thead><tbody>
+<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ammunition_box.jpg" alt="Munitionskiste" width="200"/></td><td><img src="https://modster.at/media/image/ba/b7/bb/285566_MODSTER_BAT_Safe_Lipo_Tresor_Mini_MODSTER_Bat_Safe_Mini292011.jpg" alt="BatSafe" width="200"/></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flowerpot_1.jpg" alt="Blumentopf" width="200"/></td></tr>
+</tbody></table>
+</div>
+<p>Wichtig bei der Aufbewahrung ist, die Akkus <strong>NIEMALS</strong> druckdicht zu verpacken. Sonst hast du eine Rohrbombe. Wenn dir Munitionskiste Luftdichtigkeit verspricht, bohr ein paar Löcher oder entferne die Dichtung an einigen Stellen, damit im Fall eines Brandes der Druck geziehlt entweichen kann. LiPo-Brände sind selbstversorgend. Wenn dein LiPo brennt, dann brennt er, egal wie viel Wasser du drauf kippst. Du brauchst nicht darauf hoffen, dass durch die Luftdichtigkeit die Luft im Behälter irgendwann verbraucht ist und das Feuer von selbst ausgeht. Der Brand erzeugt weiter Gase und wenn der Behälter druckdicht ist machts irgendwann BUM.</p>
+<p>Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPos beträgt diese Spannung 3,8 Volt. Dein Ladegerät sollte über einen Modus verfügen, über den du die Akkus auf Lagerspannung bringen kannst.</p>
+<p>Zudem empfiehlt es sich, einen kleinen Akku-Tester griffbereit zu haben. Auch unterwegs.</p>
+<div class="table-wrapper"><table><thead><tr><th>LiPo-Tester (Premium)</th><th>LiPo-Tester (einfach)</th></tr></thead><tbody>
+<tr><td><img src="https://www.isdt.co/wp-content/uploads/2018/11/bg-8s.jpg" alt="ISDT BG-8S" width="200"/></td><td><img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/l/o/low-voltage-alarm-black-color-91011000001-0-2.jpg" alt="LiPo Tester" width="200"/></td></tr>
+</tbody></table>
+</div>
+<h2 id="ladegeräte"><a class="header" href="#ladegeräte">Ladegeräte</a></h2>
+<p>Das Ladegerät bringt deine Akkus auf die gewünschte Spannung. Heißt, es lädt sie oder entlädt sie nach Bedarf. Beim Entladen wird die Energie meistens in Wärme umgewandelt. Da diese irgendwie aus dem Netzteil raus muss, läuft der Lüfter meists auf Volllast. Die Geschwindigkeit des Entladens ist durch die Menge der abführbaren Wärme begrenzt, normalerweise geht daher Entladen deutlich langsamer.</p>
+<p>Bei Ladegeräten unterscheidet man zwischen jenen mit und ohne integriertes Netzteil. Hat das Ladegerät ein integriertes Netzteil, kannst du das Ladegerät direkt an die Steckdose hängen, aus der Wechselspannung (AC) kommt.</p>
+<p>Hat dein Ladegerät kein integriertes Netzteil, musst du es an ein Netzteil anschließen, dass die Wechselspannung aus der Steckdose zuvor in Gleichspannung (DC) konvertiert. Für den Anfang willst du ein Ladegerät mit integriertem Netzteil.</p>
+<h3 id="empfehlungen-ladegerät"><a class="header" href="#empfehlungen-ladegerät">Empfehlungen (Ladegerät)</a></h3>
+<h4 id="isdt-608ac"><a class="header" href="#isdt-608ac">ISDT 608AC</a></h4>
+<p>Das günstigste Ladegerät, dass sich zu kaufen lohnt.</p>
+<ul>
+<li>circa 65€</li>
+<li>50W über integriertes Netzteil</li>
+<li>200W über externes Netzteil</li>
+</ul>
+<h4 id="hota-d6-pro"><a class="header" href="#hota-d6-pro">HOTA D6 Pro</a></h4>
+<ul>
+<li>circa 100€</li>
+<li>200W über integriertes Netzteil (nur Pro-Version)</li>
+<li>650W über externes Netzteil</li>
+<li>2 Ausgänge</li>
+</ul>
+<h4 id="skyrc-q200"><a class="header" href="#skyrc-q200">SkyRC Q200</a></h4>
+<ul>
+<li>circa 150€</li>
+<li>200W über integriertes Netzteil</li>
+<li>300W über externes Netzteil</li>
+<li>4 Ausgänge</li>
+</ul>
+<h2 id="ladenentladenn"><a class="header" href="#ladenentladenn">Laden/Entladenn</a></h2>
+<p>Neue Akkus sollten &quot;eingeflogen&quot; werden. Also die ersten 2-3 Zyklen langsam mit maximal 1C geladen und bei Flug mit maximal 2/3 Gas geflogen (und damit entladen) werden. Wenn du sofort mit 2C den Strom rein pumpst und mit Vollgas los ballerst, geht das massiv auf die Leistungsfähigkeit der Akkus. Es gibt Menschen, die ihre Akkus direkt beim ersten Flug dadurch getötet haben, dass Sie permanent Vollgas geflogen sind.</p>
+<h2 id="paralleles-laden"><a class="header" href="#paralleles-laden">Paralleles Laden</a></h2>
+<p>Wenn du mehr Akkus mit der gleichen Spannung und grob der gleichen Kapazität hast, kannst du dir überlegen, ob du dir ein sog. &quot;parallel charging board&quot; oder &quot;Para-Board&quot; zulegst. Das ist eine Platine, die mehrere Akkus miteinander verbindet, sodass sie für das Ladegerät wie ein einziger Akku aussehen. Das heißt, du kannst dein Ladegerät auf mehr Ampere einstellen.</p>
+<p>Rechenbeispiel:</p>
+<p>Du hast fünf Akkus je 1000 mAh. Lädst du diese einzeln mit je 1C, musst du dein Ladegerät auf 1 Ampere einstellen. Der Ladevorgang wird etwa eine Stunde pro Akku brauchen, also 5 Stunden insgesamt.</p>
+<p>Verwendest du ein Para-Board, verhalten sich die 5 Akkus wie ein einziger Akku mit 5000 mah. Das heißt, du kannst mit 5 Ampere laden, ohne den Richtwert von 1C zu überschreiten. Der Ladevorgang wird circa eine Stunde insgesamt benötigen.</p>
+<p>Wenn du dir ein Para-Board holst, achte auf folgende Punkte</p>
+<ul>
+<li>Die XT-Anschlüsse sollten mit Auto-Sicherungen abgesichert sein.</li>
+<li>Die Balancer-Anschlüsse sollten mit selbst-zurücksetzenden Polymer-Sicherungen abgesichert sein.</li>
+<li>Das Board sollte Anschlüsse für XT60 und XT30 haben.</li>
+<li>Die verfügbaren Balancer-Ports sollten für unterschiedliche Akku-Größen (idR 2-6S) ausgelegt sein.</li>
+</ul>
+<p>Durch die Sicherungen vermeidest du zumindest grobe Akkuschäden und Brände, wenn du etwas falsch steckst.</p>
+<p>Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weitere Vorteile. Ein gutes Board dient gleichzeitig als Adapter von XT60 (den die meisten Ladegeräte als Ausgang haben) auf XT30. Zudem schützt du die Anschlüsse deines Ladegeräts vor dem Ausleiern; ein Para-Board steckst du deutlich weniger oft an als die Akkus, die du in das Para-Board selbst steckst.</p>
+<div class="table-wrapper"><table><thead><tr><th>HGLRC Thor Pro</th><th>Uruav Blacklight</th></tr></thead><tbody>
+<tr><td><img src="./img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/></td><td><img src="./img/uruav_blacklight.png" alt="URUAV Blacklight" width="300"/></td></tr>
+</tbody></table>
+</div>
+<p><strong>!!ACHTUNG!!</strong></p>
+<p>Beim parallelen Laden ist besondere Vorsicht geboten.</p>
+<ul>
+<li>Du kannst ausschließlich Akkus mit gleicher Zell-Anzahl parallel laden.</li>
+<li>Die Akkus sollten annähernd gleiche Kapazität haben.</li>
+<li>Die Akkus sollten einen annähernd gleichen Ladezustand haben. Die einzelnen Zellen sollten höchstens 0.1 Volt Abweichung zueinander haben. <strong>VOR DEM ANSTECKEN PRÜFEN!</strong></li>
+<li>Keiner der Akkus sollte eine beschädigte Zelle haben, andernfalls kann es sein, dass du Zelle an gleicher Stelle in den anderen Akkus ebenfalls beschädigst.</li>
+</ul>
+<h2 id="entsorgung"><a class="header" href="#entsorgung">Entsorgung</a></h2>
+<p>Über kurz oder lang wird dein Akku das Zeitliche segnen. Akkus sind genau wie Propeller Verbrauchsgegenstände. Gewöhn dich daran.</p>
+<p>Bevor du einen Akku entsorgst, solltest du ihn so weit wie möglich entladen. Manche Ladegeräte bieten dazu spezielle Modi an, um den Akku zu &quot;zerstören&quot;.</p>
+<p>Andere Methoden beinhalten das konrollierte Entladen mittels einer Glühbirne, die einfach so lange angeschlossen wird, bis sie nicht mehr brennt. Auch andere Widerstände, die einfach nur Energie verbrennen, eignen sich dafür.</p>
+<p>Wenn dein Akku leer ist, kannst du ihn bei einer Batterie-Sammelstelle abgeben. Häufig findest du solche in Supermärkten oder Baumärkten.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="009_software_flight_controller.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="011_my_first_copter.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="009_software_flight_controller.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="011_my_first_copter.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>

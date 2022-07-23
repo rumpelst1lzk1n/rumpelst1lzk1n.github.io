@@ -1,0 +1,301 @@
+<!DOCTYPE HTML>
+<html lang="de" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Linkliste - Einsteigerguide FPV</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <img src="/img/misc/spurdo_fbv.png"></img>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="000_introduction.html">Einleitung</a></li><li class="spacer"></li><li class="chapter-item expanded "><a href="001_getting_help.html"><strong aria-hidden="true">1.</strong> Hilfe bekommen</a></li><li class="chapter-item expanded "><a href="002_buying_stuff.html"><strong aria-hidden="true">2.</strong> Einkaufen</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Entscheidungen</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="003_radio.html"><strong aria-hidden="true">3.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="004_simulators.html"><strong aria-hidden="true">3.2.</strong> Simulatoren</a></li><li class="chapter-item expanded "><a href="005_video_systems.html"><strong aria-hidden="true">3.3.</strong> Videosysteme</a></li></ol></li><li class="chapter-item expanded "><a href="006_flight_styles.html"><strong aria-hidden="true">4.</strong> Flugstile</a></li><li class="chapter-item expanded "><a href="007_copters.html"><strong aria-hidden="true">5.</strong> Drohne / Quad / Copter</a></li><li><ol class="section"><li class="chapter-item expanded "><div><strong aria-hidden="true">5.1.</strong> Software</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="008_radio_software.html"><strong aria-hidden="true">5.1.1.</strong> Funkfernsteuerung</a></li><li class="chapter-item expanded "><a href="009_software_flight_controller.html"><strong aria-hidden="true">5.1.2.</strong> Flight Controller</a></li></ol></li><li class="chapter-item expanded "><a href="010_battery.html"><strong aria-hidden="true">5.2.</strong> Akkus</a></li><li class="chapter-item expanded "><a href="011_my_first_copter.html"><strong aria-hidden="true">5.3.</strong> Mein erster Copter</a></li><li class="chapter-item expanded "><a href="012_additional_equipment.html"><strong aria-hidden="true">5.4.</strong> Weitere Ausrüstung</a></li></ol></li><li class="chapter-item expanded "><a href="013_3d_printing.html"><strong aria-hidden="true">6.</strong> 3D Druck</a></li><li class="chapter-item expanded "><a href="014_beyond_multi_rotors.html"><strong aria-hidden="true">7.</strong> Jenseits des Copters</a></li><li class="chapter-item expanded "><a href="015_linklist.html" class="active"><strong aria-hidden="true">8.</strong> Linkliste</a></li><li class="chapter-item expanded "><a href="016_miscealous.html"><strong aria-hidden="true">9.</strong> Sonstiges</a></li><li class="spacer"></li><li class="chapter-item expanded affix "><a href="CONTRIBUTORS.html">Mitwirkende</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Einsteigerguide FPV</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="linkliste"><a class="header" href="#linkliste">Linkliste</a></h1>
+<h2 id="youtube-channel"><a class="header" href="#youtube-channel">Youtube-Channel</a></h2>
+<h3 id="einsteigerfreundlich--tutorials--legitime-produktbewertungen"><a class="header" href="#einsteigerfreundlich--tutorials--legitime-produktbewertungen">Einsteigerfreundlich / Tutorials / legitime Produktbewertungen</a></h3>
+<div class="table-wrapper"><table><thead><tr><th>Kanal</th><th>Beschreibung</th></tr></thead><tbody>
+<tr><td><a href="https://www.youtube.com/c/JoshuaBardwell">Joshua Bardwell</a></td><td>Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&amp;A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Coptern zu helfen.</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg">Nick Burns</a></td><td>Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.</td></tr>
+<tr><td><a href="https://www.youtube.com/user/galkremer11">Gal Kremer</a></td><td>Produktbewertungen</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ">Albert Kim</a></td><td>Produktbewertungen</td></tr>
+<tr><td><a href="https://www.youtube.com/user/289359752">Oscar Liang</a></td><td>Produktbewertungen</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw">AndyRC</a></td><td>Produktbewertungen, nicht nur Quads, auch Flugzeuge</td></tr>
+<tr><td><a href="https://www.youtube.com/user/dzikuvx">Pawel Spychalski</a></td><td>Tutorials um iNAV</td></tr>
+<tr><td><a href="https://www.youtube.com/c/Painless360">Painless360</a></td><td>Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge</td></tr>
+</tbody></table>
+</div>
+<h3 id="marktschreier"><a class="header" href="#marktschreier">Marktschreier</a></h3>
+<p>Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist immer das größte, beste, neueste, tollste...</p>
+<div class="table-wrapper"><table><thead><tr><th>Kanal</th><th>Beschreibung</th></tr></thead><tbody>
+<tr><td><a href="https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g">UAV Futures</a></td><td>Marktschreier mit eigenwillig witziger australischer Art</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA">Drone Camps RC</a></td><td>Ja ... Marktschreier halt</td></tr>
+</tbody></table>
+</div>
+<h3 id="hi-tech-low-life"><a class="header" href="#hi-tech-low-life">Hi tech, low life</a></h3>
+<div class="table-wrapper"><table><thead><tr><th>Kanal</th><th>Beschreibung</th></tr></thead><tbody>
+<tr><td><a href="https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg">Mad's Tech</a></td><td>Nachrichten und Produktbewertungen auf einem höheren technischen Niveau</td></tr>
+<tr><td><a href="https://www.youtube.com/user/spatzengr">UAV Tech</a></td><td>Fokus auf Tuning, aktiver Betaflight-Entwickler</td></tr>
+<tr><td><a href="https://www.youtube.com/user/neucleotide">Chris Rosser</a></td><td>Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig</td></tr>
+<tr><td><a href="https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA">Wezley Varty</a></td><td>Produkttests auf höherem technischen Niveau, Foku auf Funksysteme</td></tr>
+</tbody></table>
+</div>
+<h3 id="fanboy-kanäle--entertainment"><a class="header" href="#fanboy-kanäle--entertainment">Fanboy-Kanäle / Entertainment</a></h3>
+<ul>
+<li><a href="https://www.youtube.com/user/MrSteeledavis">Mr Steve</a></li>
+<li><a href="https://www.youtube.com/user/nastycop420">TBS</a></li>
+<li><a href="https://www.youtube.com/channel/UChNaTfgpiQRIeJiGrP1fOOQ">TBS Lounge</a></li>
+<li><a href="https://www.youtube.com/channel/UC7O8KgJdsE_e9op3vG-p2dg">JohnnyFPV</a></li>
+<li><a href="https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw">RotorRiot</a></li>
+<li><a href="https://www.youtube.com/channel/UCFJdwOewIZBv3dDJmhtVn1g">MCK</a></li>
+<li><a href="https://www.youtube.com/c/BOTGRINDERFPV">Botgrinder</a></li>
+</ul>
+<h3 id="nicht-eindeutig-zuordenbar"><a class="header" href="#nicht-eindeutig-zuordenbar">Nicht eindeutig zuordenbar</a></h3>
+<ul>
+<li><a href="https://www.youtube.com/user/voxtelnismo">QRP</a></li>
+<li><a href="https://www.youtube.com/c/FalconRadFPV">FalconRad FPV</a> Fokus auf Long Range Copter</li>
+<li><a href="https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ">rctestflight</a> Verrückte Modellbauprojekte</li>
+</ul>
+<h2 id="websites"><a class="header" href="#websites">Websites</a></h2>
+<h3 id="rechtsgrundlagen"><a class="header" href="#rechtsgrundlagen">Rechtsgrundlagen</a></h3>
+<ul>
+<li><a href="https://lba-openuav.de/einstieg/">Deutsches Luftfahrtbundesamt</a></li>
+<li><a href="https://www.gesetze-im-internet.de/luftvo_2015/BJNR189410015.html#BJNR189410015BJNG001201360">LuftVO (Gesetze zu unbemannten Fluggeräten)</a></li>
+</ul>
+<h3 id="tutorials--blogger"><a class="header" href="#tutorials--blogger">Tutorials / Blogger</a></h3>
+<ul>
+<li><a href="https://oscarliang.com/">https://oscarliang.com/</a> (FPV allgemein, viele Tutorials, Bilder von seiner Website in diesem Guide mit freundlicher Genehmigung)</li>
+<li><a href="https://blog.seidel-philipp.de/">https://blog.seidel-philipp.de/</a> (FPV allgemein)</li>
+<li><a href="https://kamikatze-fpv.de/">https://kamikatze-fpv.de/</a> (Fokus auf Team Blacksheep)</li>
+<li><a href="https://www.fpvknowitall.com/">https://www.fpvknowitall.com/</a> (Joshua Bardwell Einkaufsliste)</li>
+<li><a href="https://betaflight.de/docs/knowledge-base/">https://betaflight.de/docs/knowledge-base/</a></li>
+</ul>
+<h3 id="tune-presets"><a class="header" href="#tune-presets">Tune Presets</a></h3>
+<ul>
+<li><a href="https://theuavtech.com/presets/">UAV Tech Presets</a></li>
+<li><a href="https://github.com/betaflight/betaflight/wiki/Community-Presets">Betaflight Community Presets</a></li>
+</ul>
+<h2 id="discord-server"><a class="header" href="#discord-server">Discord Server</a></h2>
+<ul>
+<li><a href="https://discord.gg/uBh3QsnqF5">pr0-FPV</a></li>
+<li><a href="https://discord.gg/dS6ReFY">ELRS Community</a></li>
+<li><a href="https://discord.gg/kGsnEDMb2V">HDZero</a></li>
+<li><a href="https://discord.gg/gV4XSq3fus">BetaFlight</a></li>
+<li><a href="https://discord.gg/wF9wUKnZ6H">EdgeTX</a></li>
+</ul>
+<h2 id="opensource-projekte"><a class="header" href="#opensource-projekte">OpenSource Projekte</a></h2>
+<p><a href="https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io">Github-Seite dieses Guides.</a></p>
+<h3 id="flight-controller-software"><a class="header" href="#flight-controller-software">Flight Controller Software</a></h3>
+<ul>
+<li><a href="https://github.com/ArduPilo/">Ardupilot</a></li>
+<li><a href="https://github.com/betaflight">Betaflight</a></li>
+<li><a href="https://github.com/emuflight">Emuflight</a></li>
+<li><a href="https://github.com/iNavFlight">iNAV</a></li>
+</ul>
+<h3 id="esc-software"><a class="header" href="#esc-software">ESC Software</a></h3>
+<ul>
+<li><a href="https://esc-configurator.com/">ESC Configurator</a> (nur in Crome-basierten Browsern unterstützt)</li>
+<li><a href="https://github.com/bitdump/BLHeli/releases">BLHeli_32 Suite</a></li>
+</ul>
+<h3 id="funkfernsteuerungs-software"><a class="header" href="#funkfernsteuerungs-software">Funkfernsteuerungs-Software</a></h3>
+<ul>
+<li><a href="https://github.com/EdgeTX">EdgeTX</a></li>
+<li><a href="https://github.com/opentx">OpenTX</a></li>
+<li><a href="https://github.com/tbs-fpv/freedomtx">FreedomTX</a></li>
+</ul>
+<h2 id="hersteller-dokumentationen"><a class="header" href="#hersteller-dokumentationen">Hersteller Dokumentationen</a></h2>
+<ul>
+<li><a href="https://www.diatone.us/apps/help-center">Diatone</a></li>
+<li><a href="https://drive.google.com/drive/folders/1r3MNTBNYSzGeRXQg45j4IJVoW1Xjk7Y0">iFlight</a></li>
+<li><a href="https://www.hglrc.com/pages/download">HGLRC</a></li>
+</ul>
+<h2 id="shops"><a class="header" href="#shops">Shops</a></h2>
+<p>Bei manchen den Links <em>kann</em> es sich um Affiliate Links handeln.</p>
+<h3 id="allgemein"><a class="header" href="#allgemein">Allgemein</a></h3>
+<p>Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:</p>
+<ul>
+<li><a href="https://www.drone-fpv-racer.com/">drone-fpv-racer.com</a>, Frankreich</li>
+<li><a href="https://droneit.se/">droneit.se</a>, Schweden</li>
+<li><a href="https://www.fpv24.com/de/">fpv24.com</a>, Deutschland</li>
+<li><a href="https://www.modell-hubschrauber.at/">modell-hubschrauber.at</a>, Österreich</li>
+<li><a href="https://n-factory.de/">n-factory.de</a>, Deutschland</li>
+<li><a href="https://www.rctech.de/">rctech.de</a>, Deutschland</li>
+<li><a href="https://www.rotorama.de/">rotorama.de</a>, Tschechien</li>
+<li><a href="https://shop.rc-hangar15.de/">shop.rc-hangar15.de</a>, Deutschland</li>
+<li><a href="https://www.team-blacksheep.com/shop">team-blacksheep.com</a>, Honkong <strong>(!)</strong></li>
+<li><a href="https://www.xnovamotors.biz/">xnova Motors</a>, Deutschland, hauptsächlich Motoren</li>
+</ul>
+<h3 id="akkus"><a class="header" href="#akkus">Akkus</a></h3>
+<ul>
+<li><a href="https://www.gensace.de/">Tattu (Gensace)</a>, deutscher Shop</li>
+<li><a href="https://bit.ly/3uUdpjt">China Hobby Line (CNHL)</a>, europäisches Warenlager</li>
+</ul>
+<h3 id="antennen"><a class="header" href="#antennen">Antennen</a></h3>
+<ul>
+<li><a href="https://shop.prodrone.pl/">shop.prodrone.pl</a>, Polen</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="014_beyond_multi_rotors.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="016_miscealous.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="014_beyond_multi_rotors.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="016_miscealous.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
