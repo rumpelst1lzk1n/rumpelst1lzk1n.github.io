@@ -32,5 +32,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           folder: book
-          target-folder: docs
+          target-folder: /
           clean: true
