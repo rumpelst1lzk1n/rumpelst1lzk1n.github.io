@@ -355,7 +355,7 @@ Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZer
 
 | Fatshark Scout HD                                          | SharkByte Empfänger                                            |
 | ---------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Fatshark Scout HD](./img/fatshark/fatshark_scout_hd.jpg) | ![Shark Byte RX5.1](./img/fatshark/fatshark_sharkbyte_vrx.jpg) |
+| ![Fatshark Scout HD](./img/fatshark/fatshark_scout_hd.png) | ![Shark Byte RX5.1](./img/fatshark/fatshark_sharkbyte_vrx.png) |
 
 ## Walksnail
 
