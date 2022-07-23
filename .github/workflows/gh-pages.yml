@@ -25,7 +25,6 @@ jobs:
           mdbook-version: 'latest'
 
       - run: mdbook build
-      - run: ls -lac
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
