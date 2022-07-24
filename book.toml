@@ -4,6 +4,7 @@ language = "de"
 multilingual = false
 src = "src"
 title = "Einsteigerguide FPV"
+description = "Orientierungshilfe für Einsteiger in das Thema 'FPV' mit Multikoptern/'Drohnen'"
 
 [output.wordcount]
 optional = true
