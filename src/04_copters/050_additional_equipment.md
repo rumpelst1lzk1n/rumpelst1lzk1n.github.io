@@ -34,7 +34,7 @@ Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich 
 
 | Diatone Übungsplatine                                                           | MuteFPV Übungsplatine                                                                |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Beispiel Trainingsplatine Diatone](img/diatone/soldering_practice_board.webp) | ![Beispiel Trainingsplatine MuteFPV](img/misc/mute_fpv_soldering_practice_board.png) |
+| ![Beispiel Trainingsplatine Diatone](/img/diatone/soldering_practice_board.webp) | ![Beispiel Trainingsplatine MuteFPV](/img/misc/mute_fpv_soldering_practice_board.png) |
 
 ## Rucksack
 

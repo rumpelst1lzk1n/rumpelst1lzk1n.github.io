@@ -10,7 +10,7 @@ Halte Abstand zu Unbeteiligten, damit sie sich von deiner kinderfressenden Kille
 
 Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Zudem setzt bei manchen auch einfach das Hirn aus, wenn sie den Begriff "Drohne" hören. Der einfachste Weg ist, zu gehen.
 
-![drone retard](img/pictograms/drone_retard.png)
+![drone retard](/img/pictograms/drone_retard.png)
 
 ## Führerscheine
 
@@ -36,7 +36,7 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 ### Übersicht
 
-![UAV Kategorien](img/legal/categories.png)
+![UAV Kategorien](/img/legal/categories.png)
 
 ## Vereine
 

@@ -30,7 +30,7 @@ Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 20
 
 Für HDZero gibt es einen Empfänger, der etwa 250€ kostet. Dieser setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
 
-![HDZero VRX](img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png)
+![HDZero VRX](/img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png)
 
 Eine neue Brille mit nativer HDZero-Unterstützung befindet sich aktuell in der Entwicklung, diese wird aber voraussichtlich nicht vor Ende 2022 verfügbar sein.
 

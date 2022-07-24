@@ -185,7 +185,7 @@ Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaft
 Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für die üblichen 5"-Quads haben sich die Größen 2207 und 2306 etabliert.
 
 Nachfolgende Grafik gibt eine Empfehlung, welche Motoren sich für welche Propellergröße eignen.
-![motor volume vs prop diameter by Chris Rosser](img/chris_rosser_motor_size_vs_prop_diameter.png)
+![motor volume vs prop diameter by Chris Rosser](/img/chris_rosser_motor_size_vs_prop_diameter.png)
 
 #### KV
 
