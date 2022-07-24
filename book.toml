@@ -9,7 +9,6 @@ title = "Einsteigerguide FPV"
 optional = true
 
 [output.html]
-default-theme = "ayu"
 git-repository-url = "https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io"
 
 [output.html.fold]
