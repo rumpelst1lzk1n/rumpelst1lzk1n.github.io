@@ -38,4 +38,4 @@ Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich 
 
 ## Rucksack
 
-Es gibt spezielle Rucksäcke für Copter. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
+Es gibt spezielle Rucksäcke für Kopter. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.

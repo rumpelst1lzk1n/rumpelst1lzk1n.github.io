@@ -8,6 +8,20 @@ Wir schlittern seit 2020 von einer Krise in die nächste. Das trifft auch das Ho
 
 Viele Shops zeigen manche Artikel permanent als ausverkauft an. Das hängt oft damit zusammen, dass die Vorbestellungen die Lieferungen übersteigen. Die Vorbestellungen werden bedient, aber der Artikel ist nie "verfügbar".
 
+## Europäische Shops
+
+Die einschlägigen deutschen Shops über die du immer wieder stolperst sind:
+
+- [n-factory.de](https://n-factory.de/)
+- [shop.rc-hangar15.de](https://shop.rc-hangar15.de/)
+- [rctech.de](https://www.rctech.de/)
+- [fpv24.com](https://www.fpv24.com/de/)
+- ...
+
+Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
+
+Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
+
 ## China-Shops
 
 Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
@@ -44,20 +58,6 @@ Bekannte FPV-Marken wie [Diatone](https://www.diatone.us/), [iFlight](https://if
 Manchmal kommt man auch da bei Rabattaktionen günstig an Hardware.
 
 Anders als Banggood und AliExpress führen diese Shops Einfuhrumsatzsteuer und Zoll nicht direkt ab. Du musst hier also nochmal ~20% auf die Bestellung drauf rechnen und es kann ein Gang zum nächsten Zollamt oder zur Poststelle notwendig sein. Manchmal hat man aber auch Glück.
-
-## Europäische Shops
-
-Die einschlägigen deutschen Shops über die du immer wieder stolperst sind:
-
-- [n-factory.de](https://n-factory.de/)
-- [shop.rc-hangar15.de](https://shop.rc-hangar15.de/)
-- [rctech.de](https://www.rctech.de/)
-- [fpv24.com](https://www.fpv24.com/de/)
-- ...
-
-Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
-
-Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
 
 ## Gebrauchtmarkt
 

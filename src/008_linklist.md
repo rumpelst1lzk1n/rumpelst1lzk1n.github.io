@@ -1,24 +1,3 @@
-# Jenseits von Multicoptern
-
-FPV ist nicht auf Copter beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen, ob Auto oder Boot.
-
-Flugzeuge erfreuen sich bei vielen Copter-Piloten ebenfalls einer großen Beliebtheit. Dort kommt oft eine ähnliche oder sogar die gleiche Steuersoftware wie bei Multicoptern zum Einsatz.
-
-# Glossar
-
-Der Themenbereich FPV ist voller Anglizismen
-
-|                 |                                                                                                                                  |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Bando           | Verlassenes Gebäude, alte Industrieanlage, Lost Place                                                                            |
-| DVR             | Digital Video Recording, Videoaufzeichnung üblicherweise auf SD-Karte in der FPV-Brille                                          |
-| FPV             | First Person View, Bildübertragung aus dem Fluggerät um eine Pilotensicht zu erzeugen                                            |
-| Funke           | Funkfernsteuerung, Funkfernbedienung                                                                                             |
-| LOS             | Line of Sight, Sichtflug, der Pilot beobachtet das Fluggerät                                                                     |
-| Radio           | siehe Funke                                                                                                                      |
-| Receiver, RX    | Empfänger, abhängig vom Kontext ist der Empfänger für Steuersignale am Fluggerät oder der Videoempfänger an der Brille gemeint   |
-| Transmitter, TX | Sender, abhängig vom Kontext ist der Sender für Steuersignale in der Funkfernsteuerung oder der Videosender am Fluggerät gemeint |
-
 # Linkliste
 
 ## Youtube-Channel
@@ -27,7 +6,7 @@ Der Themenbereich FPV ist voller Anglizismen
 
 | Kanal                                                                  | Beschreibung                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Coptern zu helfen. |
+| [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
 | [Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg) | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
 | [Gal Kremer](https://www.youtube.com/user/galkremer11)                 | Produktbewertungen                                                                                                                                                                                                                   |
 | [Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ) | Produktbewertungen                                                                                                                                                                                                                   |
@@ -67,7 +46,7 @@ Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist
 ### Nicht eindeutig zuordenbar
 
 - [QRP](https://www.youtube.com/user/voxtelnismo)
-- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Copter
+- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Kopter
 - [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
 
 ## Websites
@@ -153,14 +132,3 @@ Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 ### Antennen
 
 - [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
-
-# Sonstiges
-
-## Puffis gesammelte Weisheiten
-
-Hier noch ein paar weitere Weisheiten, die einfach noch nicht ihren richtigen Platz als Anmerkung im Fließtext gefunden haben:
-
-- Lern deinen Kopter am besten beim ersten Aufbau kennen.
-- Deinen ersten Kopter kannst du auch fertig kaufen. Doch bedenke: Wenn du ihn crasht musst du ihn selber reparieren wenn du schnell wieder in der Luft sein willst.
-- Umso schlechter du deine eigenen Kopter kennst desto weniger wirst du fliegen.
-- Betrachte deinen Kopter nach dem Erstflug als verloren! Du wirst sonst nie dein komplettes Potenzial nutzen.

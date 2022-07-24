@@ -16,7 +16,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 - **Schritt 2**: Kaufe einen Simulator (Steam: Liftoff oder Velocidrone).
 - **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter.
 - **Schritt 3.1**: Lies den Rest in diesem Dokument. Kläre Fragen und werde schlauer.
-- **Schritt 4**: Kaufe weitere Hardware, entweder einen Fertig-Copter (BNF) oder aber Einzelteile.
+- **Schritt 4**: Kaufe weitere Hardware, entweder einen Fertig-Kopter (BNF) oder aber Einzelteile.
 - **Schritt 4.1**: Ein Ladegerät (ISDT 608AC oder Hota D6 Pro).
 - **Schritt 4.2**: Passende Akkus für die Drohne (4 Stück sollten es schon sein).
 - **Schritt 5**: übe übe übe - bis alles da ist.

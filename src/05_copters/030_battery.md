@@ -10,7 +10,7 @@ Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku
 
 ### Zellen
 
-Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Copter fliegen mit mehrzelligen Akkus.
+Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Kopter fliegen mit mehrzelligen Akkus.
 
 Zellen in Reihe geschalten erhöhen die Spannung. Zellen parallel geschalten erhöhen die Kapazität.
 
@@ -22,7 +22,7 @@ Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich is
 
 ### Zell-Spannung & -Chemie
 
-Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Coptern auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.
+Die Spannung, die zwischen Plus- und Minuspol eines Akkus anliegt, wird von ihrem Ladezustand und der Zell-Chemie bestimmt. Als Zell-Chemie kommt bei unseren Fluggeräten normalerweise Lithium-Polymer (LiPo) zum Einsatz. Bei Long-Range-Koptern auch Lithium-Ionen (LiIon), aber darüber musst du dir für den Anfang keinen Kopf machen.
 
 Bei einem LiPo-Akku beträgt die Nominalspannung **einer Zelle** 3,7 Volt. Allerdings unterscheidet sich die Spannung eines Akkus im tatsächlichen Betrieb abhängig vom Ladezustand.
 
@@ -40,7 +40,7 @@ Sollte eine Zelle einen extremen Ausreißer bei diesem Wert haben (z.B. das dopp
 
 ### Stromanschluss
 
-Dieser Stecker versorgt deinen Copter mit Strom. Der am weitesten verbreitete Anschlusstyp für Akkus ist `XT`. Siehe oben.
+Dieser Stecker versorgt deinen Kopter mit Strom. Der am weitesten verbreitete Anschlusstyp für Akkus ist `XT`. Siehe oben.
 
 ### Balancer-Kabel
 
@@ -60,16 +60,16 @@ Du hast einen Akku mit 500 Milliamperestunden. 1C entspricht also 0.5 Ampere. St
 
 ### Empfehlungen (Akkus)
 
-Welche Akkus für deinen Copter die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles davon ab, auf welche Spannung die verbaute Hardware ausgelegt ist wie viel der Copter selbst wiegt und ob bestimmte Ziele erreicht werden sollen (z.B. Abfluggewicht unter 250 Gramm). Daher werde ich hier auch keine konkreten Empfehlungen aussprechen.
+Welche Akkus für deinen Kopter die richtigen sind, lässt sich nicht pauschal sagen. Da hängt vieles davon ab, auf welche Spannung die verbaute Hardware ausgelegt ist wie viel der Kopter selbst wiegt und ob bestimmte Ziele erreicht werden sollen (z.B. Abfluggewicht unter 250 Gramm). Daher werde ich hier auch keine konkreten Empfehlungen aussprechen.
 
-Wenn du dir einen fertigen Copter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus der Copter ausgelegt ist. Wenn du deinen Copter selbst baust, schau dir ähnliche Fertig-Copter an, was für diese empfohlen wird.
+Wenn du dir einen fertigen Kopter kaufst, ist meistens eine Empfehlung angegeben, für welche Akkus der Kopter ausgelegt ist. Wenn du deinen Kopter selbst baust, schau dir ähnliche Fertig-Kopter an, was für diese empfohlen wird.
 
 Ein größerer Akku heißt nicht automatisch längere Flugzeit. Irgendwann ist der Sweetspot überschritten, dann kostet das zusätzliche Gewicht des Akkus wieder Flugzeit. Siehe "Raketengleichung". Außerdem macht sich ein schwerer Akku auch beim Flugverhalten bemerkbar.
 
-Als Faustformel für eine sinnvolle Akku-Größe kannst du bei einem Standard-Copter eine Gewichtsverteilung von zwei Dritteln des Gewichts für den Copter selbst und einem Drittel für den Akku annehmen.
+Als Faustformel für eine sinnvolle Akku-Größe kannst du bei einem Standard-Kopter eine Gewichtsverteilung von zwei Dritteln des Gewichts für den Kopter selbst und einem Drittel für den Akku annehmen.
 
 Rechenbeispiel:
-Nehmen wir einen Copter mit 400 Gramm Gewicht an (ohne Akku, `dry weight`). Ich möchte mit 6S-Akkus fliegen. Also suche ich mir einen 6S Akku, der in etwa 200Gramm wiegt. Folgst du dieser Rechnung, landest du vermutlich landest du bei einem Akku zwischen 1000 und 1300 mAh. Gewicht pro mAh kann je nach Hersteller variieren.
+Nehmen wir einen Kopter mit 400 Gramm Gewicht an (ohne Akku, `dry weight`). Ich möchte mit 6S-Akkus fliegen. Also suche ich mir einen 6S Akku, der in etwa 200Gramm wiegt. Folgst du dieser Rechnung, landest du vermutlich landest du bei einem Akku zwischen 1000 und 1300 mAh. Gewicht pro mAh kann je nach Hersteller variieren.
 
 Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten" geworben. Die tatsächliche Leistungsfähigkeit wird mit der aktuellen Temperatur, dem Datum oder der Anzahl der Kinder des Vorarbeiters multipliziert. Renommierte Hersteller, auf deren Angaben du dich eigentlich verlassen kannst sind Tattu, China Hobby Line (CNHL) und GnB.
 

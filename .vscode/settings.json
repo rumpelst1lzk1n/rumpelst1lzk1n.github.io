@@ -7,9 +7,13 @@
     "Eachine",
     "Fatshark",
     "Happymodel",
+    "Kopter",
+    "Koptern",
+    "Kopters",
     "LHCP",
     "Matek",
     "Milliamperestunden",
+    "Multikopter",
     "omnidirektional",
     "omnidirektionale",
     "Propellerblätter",
@@ -19,7 +23,8 @@
     "Raceband",
     "Rapidfire",
     "RHCP",
-    "Skyzone"
+    "Skyzone",
+    "Walksnail"
   ],
   "markdown.extension.toc.levels": "2..3"
 }

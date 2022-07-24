@@ -1,16 +1,16 @@
-# Software (Flight Controller)
+# Flight Controller
 
-Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als die im FPV üblichen Quadrocopter, wir fokussieren uns hier aber auf unsere FPV-Quads.
+Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als die im FPV üblichen Quadrokopter, wir fokussieren uns hier aber auf unsere FPV-Quads.
 
 Neben der nachfolgend genannten Software gibt es noch weitere meistens proprietäre Software, diese hat aber einen eher zwiespältigen Ruf.
 
-In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Coptern) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller.
+In den allermeisten Fällen kommen Flight Controller (einzeln und in fertigen Koptern) bereits mit einer Software darauf. Welche das ist, erfährst du vom Hersteller.
 
 Um weitere Sachen an der Software einstellen zu können oder um Aktualisierungen durchführen zu können, brauchst du allerdings die dazugehörige Software (+ Treiber) auf dem PC.
 
 In manchen Fällen kannst du auch zwischen unterschiedlicher Software hin und her wechseln. Ob eine bestimmte Software deinen Flight Controller unterstützt, findest du meistens auf der Seite der Software.
 
-Bevor du mit der Software herum spielst, stell sicher, dass du vorher ein Backup der Einstellungen deines Copters gemacht hast.
+Bevor du mit der Software herum spielst, stell sicher, dass du vorher ein Backup der Einstellungen deines Kopters gemacht hast.
 
 > *Anm. rumpelst1lzk1n*: Kein Backup, kein Mitleid.
 
@@ -20,7 +20,7 @@ Mit **Abstand** die populärste Software für Flight Controller.
 
 Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flightcontroller nennt sich *Betaflight Configurator*.
 
-Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Copter nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
+Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Kopter nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
 
 Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Treiber du für das Flashen von neuer Firmware benötigst.
 
