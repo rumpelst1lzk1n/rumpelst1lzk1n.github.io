@@ -1,0 +1,17 @@
+[book]
+authors = ["rumpelst1lzk1n"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Einsteigerguide FPV"
+
+[output.wordcount]
+optional = true
+
+[output.html]
+default-theme = "ayu"
+git-repository-url = "https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io"
+
+[output.html.fold]
+enable = true
+level = 1
