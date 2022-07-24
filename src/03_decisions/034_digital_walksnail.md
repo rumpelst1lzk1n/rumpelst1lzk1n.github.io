@@ -25,7 +25,7 @@ Die Hardware-Auswahl ist überschaubar, es gibt:
 
 | Sender                                                      | Brille (Walksnail)                                       | Brille (Fatshark)                                          |
 | ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Walksnail VTX](./img/walksnail/avatar_vtx_micro_cam.webp) | ![Walksnail goggle](./img/walksnail/avatar_goggles.webp) | ![Fatshark goggle](./img/fatshark/fatshark_dominator.webp) |
+| ![Walksnail VTX](/img/walksnail/avatar_vtx_micro_cam.webp) | ![Walksnail goggle](/img/walksnail/avatar_goggles.webp) | ![Fatshark goggle](/img/fatshark/fatshark_dominator.webp) |
 
 Die beiden Brillen unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
 

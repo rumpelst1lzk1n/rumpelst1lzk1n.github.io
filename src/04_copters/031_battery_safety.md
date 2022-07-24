@@ -1,6 +1,6 @@
 # Sicherheit
 
-<img src="./img/pictograms/flame.png" alt="Entflammbar" width="200"/>
+<img src="/img/pictograms/flame.png" alt="Entflammbar" width="200"/>
 
 Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behältnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.
 

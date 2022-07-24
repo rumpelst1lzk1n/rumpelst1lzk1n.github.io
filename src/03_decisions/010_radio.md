@@ -20,7 +20,7 @@ Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
 | Vollformat                                        | Gamepad                                          | Zwischending                                  |
 | ------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
-| ![Radiomaster TX16S](./img/radiomaster_tx16s.png) | ![TBS Tango 2](./img/team_blacksheep/tango2.jpg) | ![TBS Mambo](./img/team_blacksheep/mambo.jpg) |
+| ![Radiomaster TX16S](/img/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.jpg) | ![TBS Mambo](/img/team_blacksheep/mambo.jpg) |
 
 ## Modi
 
@@ -28,7 +28,7 @@ Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernsteu
 
 Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.
 
-![radio_modes](./img/radio_modes.drawio.png)
+![radio_modes](/img/radio_modes.drawio.png)
 
 > *Anm. Philm0*: Als Links/Rechtshänder solltest du dich zwischen Mode 1 und 2  entscheiden, Mode 3 und 4 ist im Regelfall nur dumme scheiße lernen.
 
@@ -184,7 +184,7 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 
 | Happymodel ES24TX Pro                            | Happymodel ES24TX Pro Slim                              |
 | ------------------------------------------------ | ------------------------------------------------------- |
-| ![JR-Bay Modul](./img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](./img/happymodel/ES24TX_Pro_slim.jpg) |
+| ![JR-Bay Modul](/img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](/img/happymodel/ES24TX_Pro_slim.jpg) |
 
 #### ELRS-Empfänger
 
@@ -194,7 +194,7 @@ Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-A
 
 | Happymodel EP1                                 | Happymodel EP2                                 | BetaFPV EP2                                            |
 | ---------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
-| ![Happymodel EP1](./img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](./img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](./img/betafpv/EP2_RX_flat_ceramic.webp) |
+| ![Happymodel EP1](/img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](/img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](/img/betafpv/EP2_RX_flat_ceramic.webp) |
 
 Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
 
@@ -210,7 +210,7 @@ Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modul
 
 | Crossfire Micro TX                                             | Crossfire Nano TX                                                  | Tracer Micro TX                                          | Tracer Nano TX                                               |
 | -------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Crossfire Micro TX](./img/team_blacksheep/Crossfire_Mtx.jpg) | ![Crossfire Nano TX](./img/team_blacksheep/Crossfire_Mtx_lite.jpg) | ![Tracer Micro TX](./img/team_blacksheep/Tracer_Mtx.jpg) | ![Tracer Nano TX](./img/team_blacksheep/Tracer_Mtx_lite.jpg) |
+| ![Crossfire Micro TX](/img/team_blacksheep/Crossfire_Mtx.jpg) | ![Crossfire Nano TX](/img/team_blacksheep/Crossfire_Mtx_lite.jpg) | ![Tracer Micro TX](/img/team_blacksheep/Tracer_Mtx.jpg) | ![Tracer Nano TX](/img/team_blacksheep/Tracer_Mtx_lite.jpg) |
 
 #### Empfänger
 

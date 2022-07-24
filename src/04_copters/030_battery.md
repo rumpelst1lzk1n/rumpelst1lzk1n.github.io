@@ -75,7 +75,7 @@ Vermeide Ultra-Billig-Akkus. Hier wird oft mit Zahlen in "chinesischen Einheiten
 
 ## Sicherheit
 
-<img src="./img/pictograms/flame.png" alt="Entflammbar" width="200"/>
+<img src="/img/pictograms/flame.png" alt="Entflammbar" width="200"/>
 
 Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend solltest du Akkus in einem sicheren Behlätnis lagern. Etwas aus Metall oder Ton bietet sich dafür an. Beispielsweise eine alte Munitionskiste aus Metall oder ein Blumentopf.
 
@@ -152,7 +152,7 @@ Neben dem Laden von mehreren Akkus auf einmal bietet eine Para-Board noch weiter
 
 | HGLRC Thor Pro                                                         | Uruav Blacklight                                                           |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <img src="./img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/> | <img src="./img/uruav_blacklight.png" alt="URUAV Blacklight" width="300"/> |
+| <img src="/img/hglrc_thor_pro.png" alt="HGLRC Thor Pro" width="300"/> | <img src="/img/uruav_blacklight.png" alt="URUAV Blacklight" width="300"/> |
 
 **!!ACHTUNG!!**
 

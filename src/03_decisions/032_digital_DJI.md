@@ -49,4 +49,4 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-![DJI Cams](./img/DJI/dji_cams.png)
+![DJI Cams](/img/DJI/dji_cams.png)
