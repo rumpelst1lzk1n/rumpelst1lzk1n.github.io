@@ -3,7 +3,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - switch_to_mdbook_rendering
+      - master
   pull_request:
 
 jobs:
