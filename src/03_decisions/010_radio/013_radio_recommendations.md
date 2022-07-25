@@ -1,12 +1,6 @@
 # Empfehlungen
 
-Wenn du dir eine Funkfernsteuerung holst, solltest du darauf achten, dass diese mit OpenTX oder einem Derivat davon läuft.
-
-OpenTX ist ein Betriebssystem für Funkfernsteuerungen und hat sich bei FPV-Drohnen als Quasi-Standard etabliert. Für Funken mit diesem Betriebssystem wirst du online jede Menge Hilfestellungen finden.
-
 Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.
-
-> *Anm. rumpelst1lzk1n*: Funken ohne OpenTX (oder Derivat davon) sind irrelevant.
 
 Bei den genannten Funken ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
