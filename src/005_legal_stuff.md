@@ -40,9 +40,15 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 ## Vereine
 
-Die wenigsten Kopter-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden. Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
+Die wenigsten Kopter-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden.
 
-> *Anm. rumpelst1lzk1n*: Die Leute in den Modellbauvereinen haben häufig die Entwicklung mindestens der letzen 5 wenn nicht gar 10 Jahre verschlafen. Motor und Servo, mehr brauchen sie nicht, mehr verstehen sie nicht. Aber: wo unsere Fluggeräte mit Elektronik glänzen, glänzen die alten Modellbauer bei der Mechanik.
+Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
+
+Viele Modellbau-Vereine betreiben eigene Modellflugplätze, an denen Sonderregelungen gelten. So dürften Fluggeräte dort oft höher aufsteigen als die üblicherweise erlaubten 120 Meter.
+
+Das Fliegen auf den Modellflugplätzen ist meistens Vereinsmitgliedern vorbehalten. Wenn du nicht Mitglied in dem entsprechenden Verein bist, kannst du meistens trotzdem dort fliegen wenn du eine sog. Tagesmitgliedschaft abschließt. Diese kostet normalerweise etwa zwischen 3-5 Euro.
+
+Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit deinem Copter fliegen zu lassen.
 
 ## Versicherung
 
