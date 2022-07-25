@@ -42,7 +42,7 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 Die wenigsten Kopter-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden.
 
-Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten haben, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
+Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten und bis 1.1.2023 noch Schonfrist haben, in der die Mitglieder nach den alten Regeln fliegen dürfen, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
 
 Viele Modellbau-Vereine betreiben eigene Modellflugplätze, an denen Sonderregelungen gelten. So dürften Fluggeräte dort oft höher aufsteigen als die üblicherweise erlaubten 120 Meter.
 
