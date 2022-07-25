@@ -1,4 +1,4 @@
-# Flight Controller
+# Flight Controller Software
 
 Es gibt mehrere an unterschiedlicher Steuersoftware für Flight Controller. Teilweise OpenSource, teilweise proprietär. Manche Software unterstützt auch andere Gerätschaften als die im FPV üblichen Quadrokopter, wir fokussieren uns hier aber auf unsere FPV-Quads.
 
