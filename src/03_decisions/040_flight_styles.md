@@ -2,6 +2,8 @@
 
 Bevor es um die tatsächliche Drohne geht, solltest du dir bewusst machen, was du damit überhaupt machen willst.
 
+Am ehesten lassen sich die unterschiedlichen Anwendungsbereiche als Flugstil definieren.
+
 ## Cinematic
 
 Als Cinematic bezeichnet man allgemein einen entspannten Flugstil ohne große akrobatische Einlagen. Epische Flüge über Berge, Verfolgungsjagden von Autos, irgendwas anderes kinoreif in Szene setzen.
