@@ -1,4 +1,4 @@
-# Funkfernsteuerung
+# Software
 
 In diesem Abschnitt schauen wir uns die Software deiner Funkfernsteuerung näher an.
 
