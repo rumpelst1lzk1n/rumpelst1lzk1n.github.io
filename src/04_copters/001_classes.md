@@ -10,7 +10,7 @@ Der Rahmen besteht üblicherweise aus Kunststoff (Spritzdruckguss) und hält sch
 
 Ideal für Innen oder kleinere Gärten.
 
-Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine echte Überlegung wert, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren vorausgesetzt.
+Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine gute Option, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren der Motoren vorausgesetzt.
 
 ## Cinewhoop
 
