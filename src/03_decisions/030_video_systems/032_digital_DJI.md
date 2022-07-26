@@ -21,9 +21,7 @@ Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht cra
 
 Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also egal, ob du die Brille v1 oder v2 kaufst.
 
-| <img src="https://stormsend1.djicdn.com/tpc/uploads/photo/image/e36e694054678b94101837d14ea4fbb3@large.jpg" alt="DJI FPV Brille" width="500"/> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| DJI FPV Brille                                                                                                                                 |
+![DJI FPV Brille](/img/DJI/dji_goggle.png)
 
 Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
 
