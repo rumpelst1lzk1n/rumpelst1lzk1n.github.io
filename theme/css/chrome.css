@@ -375,7 +375,7 @@ ul#searchresults span.teaser em {
     line-height: 2em;
 }
 .sidebar .sidebar-scrollbox {
-    overflow-y: auto;
+    overflow-y: scroll;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -385,6 +385,7 @@ ul#searchresults span.teaser em {
 }
 
 .sidebar .sidebar-scrollbox img {
+    margin: 0 10%;
     width: 80%;
     height: auto;
 }
@@ -429,16 +430,21 @@ ul#searchresults span.teaser em {
 
 .chapter ol {
     width: 100%;
+    max-height: 100vh;
+    overflow: hidden;
+    transition: all 0.5s ease;
 }
 
 .chapter li {
     display: flex;
     color: var(--sidebar-non-existant);
+    transition: all 0.5s ease;
 }
 .chapter li a {
     display: block;
     padding: 0;
     text-decoration: none;
+    transition: color 0.35s ease;
     color: var(--sidebar-fg);
 }
 
@@ -465,7 +471,10 @@ ul#searchresults span.teaser em {
 
 /* collapse the section */
 .chapter li:not(.expanded) + li > ol {
-    display: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s ease;
+    
 }
 
 .chapter li.chapter-item {
