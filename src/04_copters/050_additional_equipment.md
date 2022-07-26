@@ -52,4 +52,4 @@ Das sind aber alles Feinheiten, wenn du wirklich das letzte Quäntchen raus kitz
 
 > *Anm. Tefl0n.D0n*: Ja also dann... Was noch im Guide fehlt ist Nyogel
 
-Bekannt sind hier z.B. Nyogel als Dämpfungsfett, von TBS "Gimbal Sensation and Intimacy" als Kombo aus Schmiermittel und Dämpfungsfett oder das gute alte Teflon-Band aus dem Baumarkt.
+Gerne genommen werden hier z.B. Nyogel als Dämpfungsfett, von TBS "Gimbal Sensation and Intimacy" als Kombo aus Schmiermittel und Dämpfungsfett oder das gute alte Teflon-Band aus dem Baumarkt.
