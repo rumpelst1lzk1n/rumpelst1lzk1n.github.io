@@ -42,14 +42,14 @@ Es gibt spezielle Rucksäcke für Kopter. Herausragenstes Merkmal sind die Spann
 
 ## Schmiermittel & Dämpfungsfett
 
-Fette mit unterschiedlichen Eigenschaften, schmierend oder dämpfend, finden im Hobby ebenfalls Anwendung.
+Im verleich zum klassischen Modellbau hat man im FPV mit Coptern deutlich weniger Bewegtteile. Dennoch gibt es einige Sachen, die sich bewegen und die man entsprechend behandeln möchte.
 
-Wenn man möchte, dass die Sticks in der Funkfernsteuerung besonders geschmeidig laufen, kann man diese mit einem Schmiermittel behandeln.
-
-Möchte man dass der Gashebel schwergängiger läuft (und damit die eingestellte Position leichter hält), kann man ihn mit Dämpfungsfett behandeln.
+Wenn man möchte, dass die Sticks in der Funkfernsteuerung besonders geschmeidig laufen oder weniger nachschwingen, kann man mit Schmiermittel, Dämpfungsfett oder Teflon-Band nachhelfen.
 
 Auf den Verbundstellen eines FPV-Frames aufgebracht nimmt ein Dämpfungsfett Vibrationen raus.
 
 Das sind aber alles Feinheiten, wenn du wirklich das letzte Quäntchen raus kitzeln möchtest.
 
-Bekannt sind hier z.B. Nyogel als Dämpfungsfett oder von TBS "Gimbal Sensation and Intimacy" als Kombo aus Schmiermittel und Dämpfungsfett.
+> *Anm. Tefl0n.D0n*: Ja also dann... Was noch im Guide fehlt ist Nyogel
+
+Bekannt sind hier z.B. Nyogel als Dämpfungsfett, von TBS "Gimbal Sensation and Intimacy" als Kombo aus Schmiermittel und Dämpfungsfett oder das gute alte Teflon-Band aus dem Baumarkt.
