@@ -17,7 +17,7 @@
 
 ### Marktschreier
 
-Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist immer das größte, beste, neueste, tollste...
+Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist immer das größte, beste, neueste, tollste...
 
 | Kanal                                                                      | Beschreibung                                             |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -31,7 +31,7 @@ Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist
 | [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau          |
 | [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                  |
 | [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig |
-| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Foku auf Funksysteme                |
+| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme                |
 
 ### Fanboy-Kanäle / Entertainment
 
@@ -90,7 +90,7 @@ Die Produktbewertungen dieser Youtuber sind mit vorsicht zu genießen. Alles ist
 
 ### ESC Software
 
-- [ESC Configurator](https://esc-configurator.com/) (nur in Crome-basierten Browsern unterstützt)
+- [ESC Configurator](https://esc-configurator.com/) (nur in Chrome-basierten Browsern unterstützt)
 - [BLHeli_32 Suite](https://github.com/bitdump/BLHeli/releases)
 
 ### Funkfernsteuerungs-Software
@@ -121,7 +121,7 @@ Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 - [rctech.de](https://www.rctech.de/), Deutschland
 - [rotorama.de](https://www.rotorama.de/), Tschechien
 - [shop.rc-hangar15.de](https://shop.rc-hangar15.de/), Deutschland
-- [team-blacksheep.com](https://www.team-blacksheep.com/shop), Honkong **(!)**
+- [team-blacksheep.com](https://www.team-blacksheep.com/shop), Hongkong **(!)**
 - [xnova Motors](https://www.xnovamotors.biz/), Deutschland, hauptsächlich Motoren
 
 ### Akkus
