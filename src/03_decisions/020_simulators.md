@@ -12,6 +12,7 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 - [DRL (Steam)](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
 - [Uncrashed (Steam)](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
 - [AI Drone Simulator (Steam)](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)
+- [TryP (Steam)](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/)
 
 ## Üben
 
