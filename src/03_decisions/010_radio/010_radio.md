@@ -20,7 +20,7 @@ Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
 
 | Vollformat                                        | Gamepad                                          | Zwischending                                  |
 | ------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
-| ![Radiomaster TX16S](/img/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.jpg) | ![TBS Mambo](/img/team_blacksheep/mambo.jpg) |
+| ![Radiomaster TX16S](/img/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![TBS Mambo](/img/team_blacksheep/mambo.png) |
 
 ## Modi
 

@@ -106,7 +106,7 @@ Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modul
 
 | Crossfire Micro TX                                             | Crossfire Nano TX                                                  | Tracer Micro TX                                          | Tracer Nano TX                                               |
 | -------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Crossfire Micro TX](/img/team_blacksheep/Crossfire_Mtx.jpg) | ![Crossfire Nano TX](/img/team_blacksheep/Crossfire_Mtx_lite.jpg) | ![Tracer Micro TX](/img/team_blacksheep/Tracer_Mtx.jpg) | ![Tracer Nano TX](/img/team_blacksheep/Tracer_Mtx_lite.jpg) |
+| ![Crossfire Micro TX](/img/team_blacksheep/Crossfire_Mtx.png) | ![Crossfire Nano TX](/img/team_blacksheep/Crossfire_Mtx_lite.png) | ![Tracer Micro TX](/img/team_blacksheep/Tracer_Mtx.png) | ![Tracer Nano TX](/img/team_blacksheep/Tracer_Mtx_lite.png) |
 
 #### Empfänger
 
