@@ -89,7 +89,7 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 
 Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckten Teile. Teilweise mitgeliefert, teilweise stellen die Hersteller die Dateien zum selbst drucken online.
 
-| ![Source One](https://www.team-blacksheep.com/img/gallery/A7301673.JPG) |
+| ![Source One](/img/team_blacksheep/source_one.png) |
 | ----------------------------------------------------------------------- |
 | klassisches Frame-Design, TBS Source One                                |
 
