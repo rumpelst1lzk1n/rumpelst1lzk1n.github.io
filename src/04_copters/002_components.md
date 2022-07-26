@@ -11,9 +11,9 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 
 Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckten Teile. Teilweise mitgeliefert, teilweise stellen die Hersteller die Dateien zum selbst drucken online.
 
-| ![Source One](https://www.team-blacksheep.com/img/gallery/A7301673.JPG) |
-| ----------------------------------------------------------------------- |
 | klassisches Frame-Design, TBS Source One                                |
+| ----------------------------------------------------------------------- |
+| ![Source One](/img/team_blacksheep/source_one.png) |
 
 Die Motoren werden an den Armen montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.
 
