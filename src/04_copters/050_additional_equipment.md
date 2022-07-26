@@ -39,3 +39,17 @@ Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich 
 ## Rucksack
 
 Es gibt spezielle Rucksäcke für Kopter. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
+
+## Schmiermittel & Dämpfungsfett
+
+Fette mit unterschiedlichen Eigenschaften, schmierend oder dämpfend, finden im Hobby ebenfalls Anwendung.
+
+Wenn man möchte, dass die Sticks in der Funkfernsteuerung besonders geschmeidig laufen, kann man diese mit einem Schmiermittel behandeln.
+
+Möchte man dass der Gashebel schwergängiger läuft (und damit die eingestellte Position leichter hält), kann man ihn mit Dämpfungsfett behandeln.
+
+Auf den Verbundstellen eines FPV-Frames aufgebracht nimmt ein Dämpfungsfett Vibrationen raus.
+
+Das sind aber alles Feinheiten, wenn du wirklich das letzte Quäntchen raus kitzeln möchtest.
+
+Bekannt sind hier z.B. Nyogel als Dämpfungsfett oder von TBS "Gimbal Sensation and Intimacy" als Kombo aus Schmiermittel und Dämpfungsfett.
