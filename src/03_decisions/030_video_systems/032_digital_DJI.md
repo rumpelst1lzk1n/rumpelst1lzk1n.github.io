@@ -29,13 +29,15 @@ Es gibt auch Adapter, um ein Receiver-Modul (siehe oben) mit der DJI-Brille zu v
 
 ## Videosender (DJI)
 
-Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann. Die Vista Unit ist zu bevorzugen und passt auch leichter in die meisten Frames.
+Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann.
 
-| AirUnit                                                                                     | Vista Unit                                                                                                                |
+Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gleiche, mutmaßlich hergestellt von DJI) ist zu bevorzugen und passt auch leichter in die meisten Frames.
+
+| AirUnit                                                                                     | AirUnit Lite / Caddx Vista / Runcam Link                                                                          |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![AirUnit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/DJIairunit1_2000x.jpg) | ![Vista Unit](https://cdn.shopify.com/s/files/1/0036/3921/4169/products/2_45ba11d1-79c7-441d-a81f-287561bb5f59_2000x.jpg) |
+| ![AirUnit](/img/DJI/dji_air_unit.jpg) | ![AirUnit Lite](/img/DJI/dji_air_unit_lite.webp) |
 
-Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
+Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
 ## Kamera
 
@@ -44,6 +46,8 @@ Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 
 - DJI Air Unit Cam
 - Caddx Vista Unit Cam
 - Caddx Nebula **Pro** (nano)
+
+Die Runcam Falcon ist auch vielversprechend, allerdings hat man von dieser zum aktuellen Zeitpunkt (Juli/August 2022) noch nichts gesehen.
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
