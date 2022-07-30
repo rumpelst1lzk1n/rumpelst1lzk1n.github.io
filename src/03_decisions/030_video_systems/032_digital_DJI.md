@@ -35,7 +35,7 @@ Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gl
 
 | AirUnit                                                                                     | AirUnit Lite / Caddx Vista / Runcam Link                                                                          |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![AirUnit](/img/DJI/dji_air_unit.jpg) | ![AirUnit Lite](/img/DJI/dji_air_unit_lite.webp) |
+| ![AirUnit](/img/DJI/dji_air_unit.jpg) | ![AirUnit Lite](/img/DJI/dji_air_unit_lite.png) |
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
