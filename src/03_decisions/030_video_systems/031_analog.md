@@ -33,7 +33,7 @@ Man unterscheidet bei den Brillen zwischen Box- und Binocular-Style.
 
 | Box                                                                                 | Binocular                                      |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------- |
-| ![Box](https://img.eachine.com//eachine/products/original/201710/1508810670_22.JPG) | ![Binocular](/img/skyzone/skyzone_sky04X.png) |
+| ![Box](/img/eachine/eachine_ev800d.png) | ![Binocular](/img/skyzone/skyzone_sky04X.png) |
 
 ### Box-Style
 
