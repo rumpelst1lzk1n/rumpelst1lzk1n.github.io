@@ -166,7 +166,13 @@ Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist
 
 ### Kondensator
 
-Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. Dieser gleicht Schwankungen bei der Spannungsversorgung aus, sorgt bei analoger Video-Übertragung für ein saubereres Bild und kann dabei helfen, die Elektronik-Komponenten vor Schaden zu schützen.
+Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. Bewährt hat sich ein 1000µF Low-ESR Elektrolytkondensator. Dieser gleicht Schwankungen in der Spannungsversorgung aus, sorgt dadurch bei analoger Video-Übertragung für ein saubereres Bild und kann dabei helfen, die Elektronikkomponenten vor Schaden zu schützen.
+
+Insbesondere beim Abbremsen der Motoren entstehen Rückspeisungen in die anderen elektronischen Komponenten. Diese können lokal sehr hohe Spannungen verursachen und dadurch beim ESC oder andere Komponenten Überspannungsschäden verursachen.
+
+| Beispiel eines explodierenden ESCs |
+| --- |
+| [![ESC goes boom](/img/g3gg0/esc_goes_boom.png)](https://www.youtube.com/watch?v=tTln5ggb0FE&t=29s) |
 
 ### GPS
 
