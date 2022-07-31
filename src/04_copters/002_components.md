@@ -162,6 +162,10 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 Bei Koptern bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Koptern ist XT60 üblich.
 
+| XT60 mit Endkappe | XT60 | XT30 |
+| --- | --- | --- |
+| ![XT60 mit Endkappe](/img/amass/amass_XT60H-M.png) | ![XT60 mit Endkappe](/img/amass/amass_XT60.png) | ![XT60 mit Endkappe](/img/amass/amass_XT30U.png) |
+
 Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ hierfür.
 
 ### Kondensator
