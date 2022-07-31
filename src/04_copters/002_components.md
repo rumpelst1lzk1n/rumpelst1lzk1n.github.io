@@ -162,7 +162,7 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 Bei Koptern bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Koptern ist XT60 üblich.
 
-Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ.
+Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ hierfür.
 
 ### Kondensator
 
@@ -174,17 +174,37 @@ GPS ist für den Anfang als optional zu betrachten.
 
 Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr des Fluggeräts zum Startpunkt (RTH / Return To Home).
 
+Je nach GPS-Modul kann es mehr oder weniger lange dauern, bis genügend GPS-Satelliten für eine ausreichende Genauigkeit der Navigations-Funktionen erkannt wurden. Oft lässt einen die Flugsteuersoftware nicht abheben, wenn nicht genügend Satelliten erkannt wurden.
+
+Manche GPS-Module verfügen über einen Batterie-gestützten Speicher, der eine schnelleres Wiederfinden der Satelliten ermöglicht.
+
+![Matek GPS mit Kompass und Batterie](/img/matek/matek_GPS-M8Q-5883-1.png)
+
 ### Magnetometer / Kompass
 
 Ebenso wie GPS als optional zu betrachten.
 
 Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Kopters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rückkehr zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.
 
+Bei höherwertigen GPS-Modulen ist oft ein Kompass mit integriert.
+
+### Barometer
+
+Ebenso wie GPS als optional zu betrachten.
+
+Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um Höhe des Fluggerätes durch die Veränderung des Luftdrucks genauer als mit GPS alleine einschätzen zu können.
+
 ### Battery Eliminating Circuit / BEC
 
 Ein Battery Eliminating Circuit (BEC) wandelt die Akkuspannung in eine definierte andere Spannung (meist 5 oder 9 Volt) um, mit der die elektronischen Komponenten auf dem Fluggerät besser (oder überhaupt erst ohne Schaden zu nehmen) arbeiten können.
 
 Meistens hat der Flight Controller bereits eines oder mehrere BECs. Wenn eine Komponente eine zu hohe Leistungsaufnahme hat (z.B. bei einem leistungsstarken Videosender), kann dieses aber einen eigenen BEC benötigen.
+
+### Weitere Sensoren
+
+Darüber hinaus gibt es noch weitere Sensoren wie Lidar, Optical Flow, Airspeed, Variometer, ...
+
+Diese sind im FPV eher unüblich und finden in anderen RC-Modellbau-Bereichen wie Segelfliegern oder professionellen Multikoptern Anwendung.
 
 ### Heckspoiler
 
