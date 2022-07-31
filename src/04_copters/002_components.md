@@ -178,6 +178,8 @@ Insbesondere beim Abbremsen der Motoren entstehen Rückspeisungen in die anderen
 | --- |
 | [![ESC goes boom](/img/g3gg0/esc_goes_boom.png)](https://www.youtube.com/watch?v=tTln5ggb0FE&t=29s) |
 
+Achte beim anbringen des Kondensators auf die richtige Polarisation (+ zu +, - zu -), sonst sprengst du den Kondensator.
+
 ### GPS
 
 GPS ist für den Anfang als optional zu betrachten.
