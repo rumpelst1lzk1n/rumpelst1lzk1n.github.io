@@ -178,7 +178,7 @@ Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückk
 
 Ebenso wie GPS als optional zu betrachten.
 
-Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Kopters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rücker zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.
+Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Kopters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rückkehr zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.
 
 ### Battery Eliminating Circuit / BEC
 
