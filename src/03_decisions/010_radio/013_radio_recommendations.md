@@ -11,6 +11,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 
 - ca. 230€
 - Vollformat
+- JR-Modulschacht
 - Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
@@ -21,6 +22,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 - ca. 140€
 - Gamepad
+- Lite-Modulanschluss
 - Mehrere Protokoll-Varianten. Nimm die mit ELRS.
 - Monochrom-Display
 - sehr kleiner interner Akku
@@ -29,6 +31,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 - ca. 120€
 - etwas kleiner als Vollformat
+- JR-Modulschacht
 - Multi-Protokoll-Modul, MK2 mit ELRS
 - OpenTX oder EdgeTX
 - Monochrom-Display
@@ -37,6 +40,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 - ca. 150€
 - Gamepad
+- Lite-Modulanschluss
 - Mehrere Protokoll-Varianten. Nimm die mit ELRS.
 - winziges Monochrom-Display
 
@@ -44,6 +48,7 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 - ca. 160-200€
 - Gamepad
+- Lite-Modulanschluss
 - eingebautes Crossfire
 - ständig ausverkauft
 - winziges Monochrom-Display
@@ -55,6 +60,7 @@ Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
 
 - ca. 160€
 - etwas kleiner als Vollformat
+- JR-Modulschacht
 - eingebautes Tracer
 - kleines Monochrom-Display
 
