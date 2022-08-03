@@ -11,7 +11,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 
 - ca. 230€
 - Vollformat
-- Multi-Protokoll-Modul, MK2 wahlweise mit ELRS
+- Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
 
@@ -25,11 +25,11 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - Monochrom-Display
 - sehr kleiner interner Akku
 
-## Radiomaster TX12
+## Radiomaster TX12 (MK2)
 
 - ca. 120€
 - etwas kleiner als Vollformat
-- eingebautes Multi-Protokoll-Modul
+- Multi-Protokoll-Modul, MK2 mit ELRS
 - OpenTX oder EdgeTX
 - Monochrom-Display
 
