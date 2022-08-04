@@ -26,15 +26,33 @@ Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Tr
 
 > *Anm. rumpelst1lzk1n*: READ THE FUCKING MANUAL!
 
-## KISS & FETtec
+## KISS 
 
-Die einzigen beiden nennenswerten proprietären Repräsentanten von Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+Die eizige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Unter anderem, weil die Hersteller eigenen Entwicklungsaufwand bei der Software haben und nicht in China sondern in Deutschland sitzen.
+
+Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+
+Inzwischen sind viele Beteiligte am ursprünglichen KISS eigene Wege gegangen. Dennoch verwenden einige Piloten noch "KISS" als Bezeichnung für Hardware, deren Entwicklung hier ihren Ursprung hat. Und auch wenn im Rahmen der unterschiedlichen Aufteilungen viele Komponenten unabhängig voneinander neu entwickelt wurden, finden sich durch den gemeinsamen Ursprung Ähnlichkeiten.
+
+### Flyduino
+
+Der Hersteller der ursprünglichen KISS-Hardware.
+
+### KISS Ultra
+
+Weiterentwicklung von KISS durch Alexander Fedorov, einem der am ursprünglichen KISS beteiligten Entwickler mit dem Segen von Flyduino. Es gibt nur einen Flight Controller damit und der ist ziemlich schwierig zu bekommen.
+
+Ein-Mann-Show, hat eher den Charakter eines gehypten Hobby-Projekts.
+
+### FETtec
+
+Die Entwickler von FETtec waren ebenfalls an der Entwicklung des ursprünglichen KISS beteiligt.
 
 > *Anm. Puffi*: KISS/FETTec is super!!11!
 
 > *Anm. Panda.FPV*: Bei Puffi muss man immer aufpassen. Der versucht einen auf die dunkle Seite zu ziehen. Ruckzuck fliegst du KISS wenn du nicht aufpasst.
 
-Sowohl KISS als auch FETtec haben den gleichen Ursprung. Teilweise waren die gleichen Entwickler sowohl an der Firmware von KISS als auch an der von FETtec beteiligt. Zwar wurden viele Komponenten inzwischen unabhängig voneinander neu entwickelt, durch den gemeinsamen Ursprung gibt es aber dennoch Ähnlichkeiten.
+Ganz gute Mischung aus Hardware-Verfügbarkeit und schneller Entwicklung.
 
 ## Emuflight
 
@@ -53,3 +71,9 @@ Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Ko
 Wie iNAV nur noch umfangreicher auf den autonomen Betrieb des Geräts ausgerichtet. Unterstützt neben diversen Fluggeräten auch U-Boote, Rover, ...
 
 Als Konfigurationssoftware kommt meistens *Mission Planer* oder *QGroundControl* zum Einsatz.
+
+## FalcoX
+
+Proprietäre Flight Controller Software, konnte mit Lizenz auch auf andere Hardware aufgespielt werden. Wurde Mitte 2021 unfreiwillig OpenSource. Dabei stellte sich heraus, dass viele der versprochenen Features Bullshit oder einfach umbenannte Funktionen waren, die in anderer Flight Controller Software zum Standardrepertoire gehört.
+
+> *Anm. rumpelst1lzk1n*: Finger weg von dem Schrott.
