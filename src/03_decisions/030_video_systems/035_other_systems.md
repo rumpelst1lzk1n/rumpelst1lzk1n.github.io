@@ -1,18 +1,8 @@
-## HD Aufnahmen
+# unter ferner liefen
 
-Wer wirklich gutes Bildmaterial von seinem Flug haben will, packt eine Action-Cam auf die Drohne.
+Die nachfolgenden Systeme sind entweder noch nicht über eine Ankündigung hinaus gekommen oder passen nicht ins Anforderungsprofil von FPV.
 
-Am verbreitetsten sind die unterschiedlichen Modelle der GoPro Hero-Reihe.
-
-Andere populäre HD-Kameras sind:
-
-- GoPro Session
-- Insta360 Go(2)
-- Runcam Orange
-
-## unter ferner liefen
-
-### Orqa HD
+## Orqa HD
 
 Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
 
@@ -20,6 +10,8 @@ Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-B
 
 Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
 
-### OpenHD
+## OpenHD
 
 [OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
+
+Für andere Einsatzzwecke eines Multicopters, bei denen es nicht so stark auf die Latenz ankommt, z.B. bei Foto-Drohnen ist der Einsatz durchaus vorstellbar.

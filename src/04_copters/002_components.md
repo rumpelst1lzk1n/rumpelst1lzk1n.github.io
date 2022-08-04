@@ -218,6 +218,10 @@ Darüber hinaus gibt es noch weitere Sensoren wie Lidar, Optical Flow, Airspeed,
 
 Diese sind im FPV eher unüblich und finden in anderen RC-Modellbau-Bereichen wie Segelfliegern oder professionellen Multikoptern Anwendung.
 
+### Turtle Fin
+
+Insbesondere Renn-Drohnen haben oft eine sog. `Turtle Fin`. Dieser nach oben gerichtet Fortsatz sorgt dafür, dass zumindest 2 Propeller des Copters bei einem Crash und einer Landung auf dem Kopf in der Luft bleiben. Das erleichtert das sog. `turteln`. Dabei drehen sich je nach Lage nur 2 bestimmte Motoren um die Drohne aus der mehr oder weniger stabilen Seitenlage zu befreien und wieder abflugbereit aufzurichten.
+
 ### Heckspoiler
 
 Vielleicht gerätst du in die Verlockung, optische Anbauteile an dem Kopter zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
