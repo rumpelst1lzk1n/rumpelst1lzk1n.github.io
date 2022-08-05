@@ -30,8 +30,6 @@ Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung
 
 ![radio_modes](/img/radio_modes.drawio.png)
 
-> *Anm. Philm0*: Als Links/Rechtshänder solltest du dich zwischen Mode 1 und 2  entscheiden, Mode 3 und 4 ist im Regelfall nur dumme scheiße lernen.
-
 Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.
 
 Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.
