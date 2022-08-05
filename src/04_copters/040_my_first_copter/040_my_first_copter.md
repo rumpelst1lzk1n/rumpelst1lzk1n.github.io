@@ -2,4 +2,4 @@
 
 In diesem Abschnitt geht es darum, sich seinen ersten eigenen Kopter anzuschaffen. Dafür gibt es mehrere Möglichkeiten.
 
-Jetzt gehts ans eingemachte.
+Jetzt gehts ans Eingemachte.
