@@ -47,7 +47,7 @@ Im Nachfolgenden 3 Spitzen, die sich für Lötkolben in der Bauart des TS100 bew
 |DS24|C4|BC2|
 |---|---|---|
 |![DS24 Lötspitze](/img/ts100/ts100_d24_solder_tip.jpg)|![C4 Lötspitze](/img/ts100/ts100_c4_solder_tip.jpg)|![BC2 Lötspitze](/img/ts100/ts100_bc2_solder_tip.jpg)|
-|Universallösung, reicht eigentlich für alles|Für große Lötstellen, beispielsweise auf dem ESC|Der kleine Bruder der C4-Spitze für filigranere Löststellen wie auf einem Flight Controller|
+|Universallösung, reicht eigentlich für alles|Für große Lötstellen, beispielsweise auf dem ESC|Der kleine Bruder der C4-Spitze|
 
 ## Rucksack
 
