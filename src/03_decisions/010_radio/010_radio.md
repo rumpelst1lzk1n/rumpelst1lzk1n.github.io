@@ -30,6 +30,10 @@ Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung
 
 ![radio_modes](/img/radio_modes.drawio.png)
 
+Hier nochmal zur Verdeutlichung, wie du dir die Bewegung der einzelnen Achsen vorstellen darfst:
+
+![Steuer-Achsen](/img/misc/control_axis.png)
+
 Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.
 
 Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.
