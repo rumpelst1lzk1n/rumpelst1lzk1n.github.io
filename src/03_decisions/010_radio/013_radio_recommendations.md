@@ -46,10 +46,11 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 
 ## TBS Tango 2
 
-- ca. 160-200€
+- ca. 180-200€ (normale Version) oder 220-240€ (Pro-Version)
 - Gamepad
 - Lite-Modulanschluss
 - eingebautes Crossfire
+- Pro-Version mit klappbaren Gimbals
 - ständig ausverkauft
 - winziges Monochrom-Display
 - Multi-Protokoll-Modul muss nach gekauft werden
