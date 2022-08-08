@@ -128,6 +128,7 @@ Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 
 - [Tattu (Gensace)](https://www.gensace.de/), deutscher Shop
 - [China Hobby Line (CNHL)](https://bit.ly/3uUdpjt), europäisches Warenlager
+- [NKON](https://www.nkon.nl/), Niederlande, hauptsächlich einzelne Akku-Zellen
 
 ### Antennen
 
