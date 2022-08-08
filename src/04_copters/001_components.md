@@ -1,6 +1,6 @@
 # Komponenten
 
-Wenn du dein Fluggerät reparieren, umbauen oder komplett selbst bauen möchtest, solltest du darüber Bescheid wissen, aus welchen Bauteilen diese überhaupt besteht.
+Wenn du dein Fluggerät reparieren, umbauen oder komplett selbst bauen möchtest, solltest du darüber Bescheid wissen, welche wichtigen Bauteile es überhaupt gibt. Nicht immer sind alle hier erwähnten Bauteile bei einem Kopter vorhanden respektive notwendig.
 
 ## Rahmen / Frame
 
@@ -15,7 +15,9 @@ Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckt
 | ----------------------------------------------------------------------- |
 | ![Source One](/img/team_blacksheep/source_one.png) |
 
-Die Motoren werden an den Armen montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.
+Die Länge der Arme bestimmt, wie groß die Propeller sein können, die auf dem Frame verbaut sind.
+
+Die Motoren werden an den Enden der Arme montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.
 
 Der Akku wird abhängig vom Frame mit oben auf die Top-Plate oder unter die Bottom-Plate geschnallt.
 
