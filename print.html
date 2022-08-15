@@ -798,6 +798,7 @@ Da sich die Drohne aber im dreidimensionalen Raum bewegen kann, findest du hier 
 <p>Die meisten Frames bestehen aus 4 Armen, einer Top-Plate, einer Bottom-Plate und ggf. noch einem Gegenstück, welches die Arme gegen die Bottom-Plate fixiert. Dazu kommt noch eine Halterung für die Kamera, die entweder aus CFK oder Kunststoff (meistens TPU) gefertigt sind.
 Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) verbunden.</p>
 <p>Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckten Teile. Teilweise mitgeliefert, teilweise stellen die Hersteller die Dateien zum selbst drucken online.</p>
+<h3 id="aufbau"><a class="header" href="#aufbau">Aufbau</a></h3>
 <div class="table-wrapper"><table><thead><tr><th>klassisches Frame-Design, TBS Source One</th></tr></thead><tbody>
 <tr><td><img src="04_copters//img/team_blacksheep/source_one.png" alt="Source One" /></td></tr>
 </tbody></table>
@@ -805,6 +806,7 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 <p>Die Länge der Arme bestimmt, wie groß die Propeller sein können, die auf dem Frame verbaut sind.</p>
 <p>Die Motoren werden an den Enden der Arme montiert. Im vorderen Teil des Hauptkörpers wird die Kamera montiert. Im mittleren und hinteren Teil des Frames findet die Elektronik platz. Dort sind je nach Frame Befestigungen in den Formaten 16x16, 20x20, 25x25 oder 30x30. Die Zahl bezieht sich jeweils auf den Lochabstand für die Schrauben, mit denen die Elektronik am Frame befestigt wird.</p>
 <p>Der Akku wird abhängig vom Frame mit oben auf die Top-Plate oder unter die Bottom-Plate geschnallt.</p>
+<h3 id="hersteller"><a class="header" href="#hersteller">Hersteller</a></h3>
 <p>Frames gibt es in allen möglichen Größen und Preisklassen.</p>
 <p>Hier der Versuch, einige bekanntere Hersteller einzuordnen:</p>
 <div class="table-wrapper"><table><thead><tr><th>Budget</th><th>Mittelklasse</th><th>Premium</th></tr></thead><tbody>
@@ -818,7 +820,7 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 <blockquote>
 <p><em>Anm. rumpelst1lzk1n</em>: Zudem gibt es im Preissegment über den Premium-Herstellern noch die Exoten. Diese können nochmal deutlich mehr kosten, weil sie in kleineren Stückzahlen gefertigt werden oder sehr spezielle Eigenschaften/Formen aufweisen. Insbesondere z.B. Cinelifter. Bleib für den Einstieg bei bewährtem.</p>
 </blockquote>
-<p>Alle oben genannten Hersteller fertigen <strong>eigene</strong> Designs. Insbesondere auf Banggood und AliExpress gibt oft auch Klone der Premium-Hersteller in mehr oder weniger guter Qualität und mit mehr oder weniger gutem Support.</p>
+<p>Alle oben genannten Hersteller fertigen <strong>eigene</strong> Designs. Vor allem chinesischen Händlern wie Banggood und AliExpress haben oft auch Klone der Premium-Hersteller in mehr oder weniger guter Qualität und mit mehr oder weniger gutem Support.</p>
 <p>Bei den Mittelklasse- und Premium-Herstellern kann man davon ausgehen, dass eigentlich jedes Teil des Frames bis hin zu den Schrauben auch separat als Ersatzteil erhältlich ist.</p>
 <p>Bei einem Premium-Hersteller kann man zudem erwarten, dass die Garantie auch Crashes abdeckt und man z.B. kostenlos Ersatzarme bekommt.</p>
 <p>Bei den Klonen kann es passieren, dass bei der Lieferung Teile fehlen. Sei kein Arsch, kauf keine Klone. Zudem ist auch CFK nicht gleich CFK und minderwertige Qualität wirkt sich negativ auf das Flugverhalten aus.</p>
@@ -828,7 +830,7 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 <p>Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit der Kopter in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.</p>
 <p>Die mit Abstand häufigste Steuersoftware ist Betaflight. Es gibt noch andere Software, der Themenkomplex hat aber weiter unten ein eigenes Kapitel.</p>
 <p>Das Herzstück der Flugsteuerung ist der Prozessor. Dabei handelt es sich normalerweise um einen STM32-Chip des Herstellers STMicroelectronics. Den Chip gibt es in unterschiedlichen Ausführungen, üblicherweise kommen Prozessoren vom Typ F4, F7 oder (neuerdings) H7 zum Einsatz. Diese unterscheiden sich in Geschwindigkeit und verfügbaren Anschlüssen. F4-Prozessoren sind inzwischen als Budget-Variante zu sehen, F7 oder H7 dagegen eher als Premium. </p>
-<p>Weitere mögliche Charakteristiken, die einen Flight-Controller in Richtung Premium schieben sind Onboad SD-Kartenslot für Blackbox-Logs oder ein zweites Gyroskop um genauere Daten zu erhalten.</p>
+<p>Weitere mögliche Charakteristiken, die einen Flight-Controller in Richtung Premium schieben sind z.B. ein SD-Kartenslot für Blackbox-Logs oder ein zweites Gyroskop um genauere Daten zu erhalten.</p>
 <p>F3 wurde ebenfalls verwendet, ist aber lange überholt. Neuere Versionen von Betaflight setzen mindestens F4 voraus. Lass dir keine alte Hardware mit F3-Prozessoren aufschwatzen.</p>
 <p>Es gibt auch Flight Controller mit integriertem ESC, hier spricht man von einem &quot;All in One&quot; (AIO).</p>
 <h2 id="empfänger--receiver--rx"><a class="header" href="#empfänger--receiver--rx">Empfänger / Receiver / RX</a></h2>
@@ -842,9 +844,9 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 <h2 id="motorsteuerung--electronic-speed-controller--esc"><a class="header" href="#motorsteuerung--electronic-speed-controller--esc">Motorsteuerung / Electronic Speed Controller / ESC</a></h2>
 <p>Die Motorsteuerung erfolgt über den ESC. Er ist zudem die zentrale Stromversorgung des Kopters, der Akku hängt direkt am ESC.</p>
 <p>Bis vor einigen Jahren war diese Komponente noch aufgeteilt in einen Chip für die Stromverteilung (Power Distribution Board, PDB) sowie 4 einzelne ESCs pro Motor.</p>
-<p>Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ESC, AIO-ESC) oder ist zusammen mit dem Flightcontroller auf dem gleichen Board.</p>
+<p>Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ESC, AIO-ESC) oder ist zusammen mit dem Flight Controller auf dem gleichen Board.</p>
 <p>Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S oder BLHeli_32 zum Einsatz. Auch, wenn die ESCs alle auf einem Chip sind, hast du technisch betrachtet mehrere unabhängige ESCs, die du einzeln flashen und konfigurieren musst.</p>
-<p>BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bzw. alternative Firmwares (insbesondere &quot;Bluejay&quot;) bekommen, welche das die annähernd gleichen Fähigkeiten im Vergleich zu BLHeli_32 bieten.</p>
+<p>BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bzw. alternative Firmware (insbesondere &quot;Bluejay&quot;) bekommen, welche das die annähernd gleichen Fähigkeiten im Vergleich zu BLHeli_32 bieten.</p>
 <p>Die Motorsteuerung gibt die Drehrichtung der Motoren vor. Die 2 jeweils diagonal gelegenen Motoren sollten sich in die gleiche Richtung drehen. Dabei unterscheidet man zwischen &quot;props in&quot; und &quot;props out&quot;.</p>
 <div class="table-wrapper"><table><thead><tr><th>props in</th><th>props out</th></tr></thead><tbody>
 <tr><td><img src="https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg" alt="props in" /></td><td><img src="https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg" alt="props out" /></td></tr>
@@ -937,7 +939,7 @@ Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt St
 <p>Die Frames bieten relativ viel Platz für Flight Controller und ESC und sind darauf ausgelegt, auch mal unsanft den Boden zu küssen ohne sofort kaputt zu gehen.</p>
 <h3 id="racer"><a class="header" href="#racer">Racer</a></h3>
 <p>Ähnlich dem Freestyler aber deutlich kompaktere Bauweise.</p>
-<p>Meistens kommt Hardware mit kleineren Abmessungen als bei einem Freestyler zum EInsatz, die aber genauso viel leisten kann/muss. Entsprechend mehr kostet die Hardware (ESC &amp; Flight Controller) normalerweise. Zudem ist der Aufbau eines Racers durch den kompakteren Frame meistens deutlich fummeliger als bei einem Freestyler.</p>
+<p>Meistens kommt Hardware mit kleineren Abmessungen als bei einem Freestyler zum Einsatz, die aber genauso viel leisten kann/muss. Entsprechend mehr kostet die Hardware (ESC &amp; Flight Controller) normalerweise. Zudem ist der Aufbau eines Racers durch den kompakteren Frame meistens deutlich fummeliger als bei einem Freestyler.</p>
 <p>Für Einsteiger eher weniger zu empfehlen. Wenn du wirklich Rennen fliegen möchtest, kannst du das Anfangs auch mit einem Freestyler machen. Das wir sicher nicht der limitierende Faktor sein.</p>
 <h3 id="cinewhoop"><a class="header" href="#cinewhoop">Cinewhoop</a></h3>
 <p>Eher behäbig. Für die verwendeten Propeller relativ große Motoren. Verfügt über einen Propellerschutz, der zudem oft mit Schaumstoff gepolstert ist.</p>
@@ -1140,7 +1142,12 @@ Nehmen wir einen Kopter mit 400 Gramm Gewicht an (ohne Akku, <code>dry weight</c
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="der-erste-eigene-kopter"><a class="header" href="#der-erste-eigene-kopter">Der erste eigene Kopter</a></h1>
 <p>In diesem Abschnitt geht es darum, sich seinen ersten eigenen Kopter anzuschaffen. Dafür gibt es mehrere Möglichkeiten.</p>
-<p>Jetzt gehts ans Eingemachte.</p>
+<p>Für welche du dich auch immer entscheidest, eine <strong>dringende</strong> Empfehlung für den Anfang:</p>
+<p><strong>BLEIB VERDAMMT NOCHMAL BEI BEWÄHRTER HARDWARE!</strong></p>
+<p>Das kann man gar nicht oft und lautstark genug betonen.</p>
+<p>Irgendwelche Exoten-Kopter mit faltbaren Armen und sonstigen Sperenzchen kannst du dir zulegen, wenn du ein Jahr im Hobby Erfahrung gesammelt hast. Ansonsten wirst du mit Spezialfällen keinen Spaß beim Fliegen haben. Wirklich nicht. <em>Keinen</em>. Wirklich <em><strong>keinen</strong></em>!</p>
+<p>TinyWhoop, 3&quot; oder 5&quot; mit Standard-Frame sind deine Freunde.</p>
+<p>Und damit gehts jetzt ans Eingemachte.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="fertigen-kopter-kaufen"><a class="header" href="#fertigen-kopter-kaufen">Fertigen Kopter kaufen</a></h1>
 <p>Wenn du eine fertigem Kopter kaufst, sparst du jede Menge Zeit mit der Auswahl der Komponenten und dem Zusammenbau und Einstellen. Häufig bekommst du eine fertig gebaute Kopter günstiger als wenn du ihre Einzelteile separat kaufen würdest. Zudem kannst du erwarten, dass der Kopter bereits akzeptabel eingestellt ist, was das Flugverhalten angeht.</p>
 <p>Für viele gehört das selbst bauen des Kopters einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, ein fertiges Gerät zu kaufen.</p>
