@@ -110,11 +110,11 @@ Der Antrieb unseres Kopters. Hier gibt es einige Zahlen, die man kennen sollte, 
 
 1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
 
-Durch die unterschiedliche Größe ergeben sich unterschiedliche Laufeigenschaften. Flache, breite Motoren bleiben kühler, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden wärmer, reagieren aber schneller. Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet.
+Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet. Durch die unterschiedliche Größe können sich allerdings unterschiedliche Laufeigenschaften ergeben. Flache, breite Motoren bleiben kühler, können ggf. größere Kugellager tragen, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden heißer, reagieren aber schneller.
 
-Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für die üblichen 5"-Quads haben sich die Größen 2207 und 2306 etabliert.
+Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für Standard-5"-Quads haben sich die Größen 2207 und 2306 etabliert.
 
-Nachfolgende Grafik gibt eine Empfehlung, welche Motoren sich für welche Propellergröße eignen.
+Nachfolgende Grafik gibt eine Empfehlung, welches Motor-Volumen sich für welche Propellergröße eignen und wo einige populäre Motorgrößen einzuordnen sind.
 ![motor volume vs prop diameter by Chris Rosser](/img/chris_rosser_motor_size_vs_prop_diameter.png)
 
 ### KV
