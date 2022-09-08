@@ -24,7 +24,7 @@ Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 | HAKRC      | GepRC        | Flywoo             | Lumenier  |
 | Happymodel | HGLRC        | Foxeer             | SpeedyBee |
 | JHEMCU     | iFlight      | TBS                |           |
-|            |              | T-Motor            |           |
+| Skystars   |              | T-Motor            |           |
 
 Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 
