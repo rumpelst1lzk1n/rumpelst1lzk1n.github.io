@@ -18,17 +18,17 @@ Bevor du mit der Software herum spielst, stell sicher, dass du vorher ein Backup
 
 Mit **Abstand** die populärste Software für Flight Controller.
 
-Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flightcontroller nennt sich *Betaflight Configurator*.
+Die Begleitsoftware zum Anpassen der Konfiguration und Flashen von Firmware auf den Flight Controller nennt sich *Betaflight Configurator*.
 
-Als Einsteiger wirst du sehr wahrscheindlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Kopter nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
+Als Einsteiger wirst du sehr wahrscheinlich als erstes mit dieser Firmware Kontakt haben. Die meisten fertigen Kopter nutzen sie. Auch die meisten gängigen Flight Controller kommen mit dieser Software vorab installiert.
 
 Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Treiber du für das Flashen von neuer Firmware benötigst.
 
 > *Anm. rumpelst1lzk1n*: READ THE FUCKING MANUAL!
 
-## KISS 
+## KISS
 
-Die eizige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Unter anderem, weil die Hersteller eigenen Entwicklungsaufwand bei der Software haben und nicht in China sondern in Deutschland sitzen.
+Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Unter anderem, weil die Hersteller eigenen Entwicklungsaufwand bei der Software haben und nicht in China sondern in Deutschland sitzen.
 
 Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
 
@@ -58,13 +58,13 @@ Ganz gute Mischung aus Hardware-Verfügbarkeit und schneller Entwicklung.
 
 Ähnlich Betaflight aber mehr auf TinyWhoops ausgelegt.
 
-Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *Emuflight Configurator*.
+Die Begleitsoftware zum Flashen von Firmware auf den Flight Controller und die Konfiguration nennt sich *Emuflight Configurator*.
 
 ## iNAV
 
 Ähnlich Betaflight aber mit mehr Fokus auf Navigations-Features, wie das Halten der Position, automatische Rückkehr zum Startort, Abfliegen von Wegpunkten, ...
 
-Die Begleitsoftware zum Flashen von Firmware auf den Flightcontroller und die Konfiguration nennt sich *iNAV Configurator*.
+Die Begleitsoftware zum Flashen von Firmware auf den Flight Controller und die Konfiguration nennt sich *iNAV Configurator*.
 
 ## Ardupilot
 
