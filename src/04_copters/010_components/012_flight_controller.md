@@ -18,15 +18,13 @@ Flight Controller gibt es von allen möglichen Herstellern. Die größeren Herst
 
 Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 
-| Budget     | Mittelklasse | Premium   |
-| ---------- | ------------ | --------- |
-| JHEMCU     | iFlight      | Lumenier  |
-| HAKRC      | Diatone      | TBS       |
-| Happymodel | Flywoo       | FETtec    |
-| Betaflight | GepRC        | SpeedyBee |
-|            | Aikon        | Foxeer    |
-|            | T-Motor      |           |
-|            | HGLRC        |           |
+| Budget     | Mittelklasse | Obere Mittelklasse | Premium   |
+| ---------- | ------------ | ------------------ | --------- |
+| Betaflight | Diatone      | Aikon              | FETtec    |
+| HAKRC      | GepRC        | Flywoo             | Lumenier  |
+| Happymodel | HGLRC        | Foxeer             | SpeedyBee |
+| JHEMCU     | iFlight      | TBS                |           |
+|            |              | T-Motor            |           |
 
 Die Liste erhebt keinen Anspruch auf Vollständigkeit.
 
