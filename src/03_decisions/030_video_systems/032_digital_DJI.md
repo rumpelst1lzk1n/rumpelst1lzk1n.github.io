@@ -57,7 +57,7 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 Ende August hat DJI mit der Avata einen CineWhoop als Komplettsystem mit neuer Brille herausgebracht.
 
-![DJI Avata Set](/img/DJI/dji_avata_set.jpg)
+![DJI Avata Set](/img/DJI/dji_avata_set.png)
 
 Die neue Brille ist bisher **NICHT** mit den alten AirUnits/VistaUnits kompatibel. Im September wird eine neue AirUnit mit dem Videosystem erwartet, wie es auch die Avata-Drohne verbaut hat. Dieses soll mit der neuen Brille und der alten "v2"-Brille kompatibel sein. Die neue AirUnit soll in etwa den Formfaktor einer VistaUnit haben.
 
