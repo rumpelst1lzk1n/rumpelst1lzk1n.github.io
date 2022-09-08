@@ -24,7 +24,7 @@
     - [Rahmen / Frame](04_copters/010_components/011_frame.md)
     - [Flight Controller](04_copters/010_components/012_flight_controller.md)
     - [RX](04_copters/010_components/013_radio_receiver.md)
-    - [VTX](04_copters/010_components/014_video_transmitter)
+    - [VTX](04_copters/010_components/014_video_transmitter.md)
     - [ESC](04_copters/010_components/015_electronic_speed_controller.md)
     - [Motor](04_copters/010_components/016_motor.md)
     - [Propeller](04_copters/010_components/017_propeller.md)
