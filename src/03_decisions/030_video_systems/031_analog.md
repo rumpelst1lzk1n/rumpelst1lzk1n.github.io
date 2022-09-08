@@ -10,7 +10,7 @@ Brille 80€, Videosender 10€, Kamera 15€ wäre so ein Minimal-Setup.
 
 Neben dem Geld ist auch noch das Gewicht ein Argument für einen Analog-Setup. Die leichtesten anlogen Videosender wiegen circa 1 Gramm.
 
-## Videosender (Analog)
+## Videosender
 
 Es gibt eine Vielzahl unterschiedlicher Videosendern von unterschiedlichen Herstellern.
 
@@ -59,7 +59,7 @@ Vorteile:
 
 In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille. Lass dich nicht täuschen, es gibt günstigere Brillen im Binocular-Style. Die sind Müll.
 
-### Empfehlungen (Analog-Brillen)
+### Empfehlungen
 
 Schau dich auf dem Gebrauchtmarkt um. Viele der unten genannten Modelle kriegst du auf eBay-Kleinanzeigen recht günstig gebraucht.
 

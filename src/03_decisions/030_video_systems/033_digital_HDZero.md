@@ -16,7 +16,7 @@ Das System kann inzwischen (Mitte 2022) als relativ ausgereift betrachtet werden
 
 Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sender herausbringen. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
 
-## Videosender (HDZero)
+## Videosender
 
 Aktuell gibt es 3 relevante Videosender.
 
@@ -26,7 +26,7 @@ Aktuell gibt es 3 relevante Videosender.
 
 Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
 
-## Empfänger (HDZero)
+## Empfänger
 
 Für HDZero gibt es einen Empfänger, der etwa 250€ kostet. Dieser setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
 
