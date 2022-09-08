@@ -30,7 +30,6 @@
     - [Propeller](04_copters/010_components/017_propeller.md)
     - [Sonstige Komponenten](04_copters/010_components/018_miscellaneous.md)
   - [Klassen / Unterteilung](04_copters/002_classes.md)
-  - [Flight Controller Software](04_copters/002_flight_controller_software.md)
   - [Akkus](04_copters/030_battery/030_battery.md)
     - [Sicherheit](04_copters/030_battery/031_battery_safety.md)
     - [Ladegerät](04_copters/030_battery/032_battery_charger.md)
