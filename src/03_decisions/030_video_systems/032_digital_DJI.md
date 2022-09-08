@@ -52,3 +52,13 @@ Die Runcam Falcon ist auch vielversprechend, allerdings hat man von dieser zum a
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
 ![DJI Cams](/img/DJI/dji_cams.png)
+
+## Avata
+
+Ende August hat DJI mit der Avata einen CineWhoop als Komplettsystem mit neuer Brille herausgebracht.
+
+![DJI Avata Set](/img/DJI/dji_avata_set.jpg)
+
+Die neue Brille ist bisher **NICHT** mit den alten AirUnits/VistaUnits kompatibel. Im September wird eine neue AirUnit mit dem Videosystem erwartet, wie es auch die Avata-Drohne verbaut hat. Dieses soll mit der neuen Brille und der alten "v2"-Brille kompatibel sein. Die neue AirUnit soll in etwa den Formfaktor einer VistaUnit haben.
+
+Als Einstieg in die Welt des FPV ist die Avata bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Bei der Drohne ist ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht. Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert aber NUR mit der DJI FPV Drohne und der DJI Avata ...
