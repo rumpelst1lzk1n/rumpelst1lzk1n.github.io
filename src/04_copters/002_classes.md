@@ -88,11 +88,11 @@ Entsprechende Vorsicht solltest du walten lassen.
 
 ### 7 Zoll
 
-Wenn 3" der kleine Bruder ist, so sind 7"-Propeller der große Bruder. Hier wird die Auswahl merklich kleiner, sowohl was die Propeller selbst angeht, wie auch die Hardware druherum, also Motoren, ESCs welche genug Strom aushalten, etc.
+Wenn 3" der kleine Bruder ist, so sind 7"-Propeller der große Bruder. Hier wird die Auswahl merklich kleiner, sowohl was die Propeller selbst angeht, wie auch die Hardware drumherum, also Motoren, ESCs welche genug Strom aushalten, etc.
 
 Unauffällig ist anders. Wenn ein Gerät mit solchen Propellern auf dich zu kommt, geh in Deckung. Und wenn du es steuerst, bleib verdammt nochmal weg von den Leuten.
 
-Mit 7"-Propellern erreichst du höhere Geschwindigkeiten als ein 5" und hälst diese auch leichter. Das macht sich z.B. bei Verfolgungsjagden mit Autos bemerkbar.
+Mit 7"-Propellern erreichst du höhere Geschwindigkeiten als ein 5" und hältst diese auch leichter. Das macht sich z.B. bei Verfolgungsjagden mit Autos bemerkbar.
 
 Auch kann ein Kopter mit 7"-Propellern deutlich mehr zusätzliches Gewicht tragen. Wie z.B. ein schweres Akku-Pack tragen.
 
