@@ -136,7 +136,49 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="sonstige-komponenten"><a class="header" href="#sonstige-komponenten">Sonstige Komponenten</a></h1>
+                        <h1 id="sonstige-komponenten"><a class="header" href="#sonstige-komponenten">sonstige Komponenten</a></h1>
+<h2 id="xt30--xt60--xt90"><a class="header" href="#xt30--xt60--xt90">XT30 / XT60 / XT90</a></h2>
+<p>Der am weitesten verbreitete Anschlusstyp für die im FPV verwendeten Akkus.</p>
+<p>Es gibt ihn in 3 Größen. Die Zahl im Namen gibt zudem die Stromstärke (in Ampere) an, für die der Anschluss spezifiziert wurde.</p>
+<p>Es handelt sich dabei um den Wert für die dauerhafte Belastung. Die kurzzeitige Spitzenbelastung beträgt leicht das doppelte.</p>
+<p>Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen machen, wenn dir dein Kopter anzeigt, dass sie gerade 120 Ampere über einen XT60 zieht.</p>
+<p>Bei Koptern bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Koptern ist XT60 üblich.</p>
+<div class="table-wrapper"><table><thead><tr><th>XT60 mit Endkappe</th><th>XT60</th><th>XT30</th></tr></thead><tbody>
+<tr><td><img src="/img/amass/amass_XT60H-M.png" alt="XT60 mit Endkappe" /></td><td><img src="/img/amass/amass_XT60.png" alt="XT60 mit Endkappe" /></td><td><img src="/img/amass/amass_XT30U.png" alt="XT60 mit Endkappe" /></td></tr>
+</tbody></table>
+</div>
+<p>Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ hierfür.</p>
+<h2 id="kondensator"><a class="header" href="#kondensator">Kondensator</a></h2>
+<p>Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. Bewährt hat sich ein 1000µF Low-ESR Elektrolytkondensator. Dieser gleicht Schwankungen in der Spannungsversorgung aus, sorgt dadurch bei analoger Video-Übertragung für ein saubereres Bild und kann dabei helfen, die Elektronikkomponenten vor Schaden zu schützen.</p>
+<p>Insbesondere beim Abbremsen der Motoren entstehen Rückspeisungen in die anderen elektronischen Komponenten. Diese können lokal sehr hohe Spannungen verursachen und dadurch beim ESC oder andere Komponenten Überspannungsschäden verursachen.</p>
+<div class="table-wrapper"><table><thead><tr><th>Beispiel eines explodierenden ESCs</th></tr></thead><tbody>
+<tr><td><a href="https://www.youtube.com/watch?v=tTln5ggb0FE&amp;t=29s"><img src="/img/g3gg0/esc_goes_boom.png" alt="ESC goes boom" /></a></td></tr>
+</tbody></table>
+</div>
+<p>Achte beim anbringen des Kondensators auf die richtige Polarisation (+ zu +, - zu -), sonst sprengst du den Kondensator.</p>
+<h2 id="gps"><a class="header" href="#gps">GPS</a></h2>
+<p>GPS ist für den Anfang als optional zu betrachten.</p>
+<p>Es ermöglicht abhängig von der Flugsteuersoftware z.B. die automatische Rückkehr des Fluggeräts zum Startpunkt (RTH / Return To Home).</p>
+<p>Je nach GPS-Modul kann es mehr oder weniger lange dauern, bis genügend GPS-Satelliten für eine ausreichende Genauigkeit der Navigations-Funktionen erkannt wurden. Oft lässt einen die Flugsteuersoftware nicht abheben, wenn nicht genügend Satelliten erkannt wurden.</p>
+<p>Manche GPS-Module verfügen über einen Batterie-gestützten Speicher, der eine schnelleres Wiederfinden der Satelliten ermöglicht.</p>
+<p><img src="/img/matek/matek_GPS-M8Q-5883-1.png" alt="Matek GPS mit Kompass und Batterie" /></p>
+<h2 id="magnetometer--kompass"><a class="header" href="#magnetometer--kompass">Magnetometer / Kompass</a></h2>
+<p>Ebenso wie GPS als optional zu betrachten.</p>
+<p>Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um die Ausrichtung des Kopters zu erkennen. iNAV und Ardupilot schalten beispielsweise diverse GPS-Funktionen wie Rückkehr zum Startpunkt erst frei, wenn GPS UND Kompass vorhanden sind.</p>
+<p>Bei höherwertigen GPS-Modulen ist oft ein Kompass mit integriert.</p>
+<h2 id="barometer"><a class="header" href="#barometer">Barometer</a></h2>
+<p>Ebenso wie GPS als optional zu betrachten.</p>
+<p>Wird von einiger Flugsteuersoftware (siehe unten) benötigt, um Höhe des Fluggerätes durch die Veränderung des Luftdrucks genauer als mit GPS alleine einschätzen zu können.</p>
+<h2 id="battery-eliminating-circuit--bec"><a class="header" href="#battery-eliminating-circuit--bec">Battery Eliminating Circuit / BEC</a></h2>
+<p>Ein Battery Eliminating Circuit (BEC) wandelt die Akkuspannung in eine definierte andere Spannung (meist 5 oder 9 Volt) um, mit der die elektronischen Komponenten auf dem Fluggerät besser (oder überhaupt erst ohne Schaden zu nehmen) arbeiten können.</p>
+<p>Meistens hat der Flight Controller bereits eines oder mehrere BECs. Wenn eine Komponente eine zu hohe Leistungsaufnahme hat (z.B. bei einem leistungsstarken Videosender), kann dieses aber einen eigenen BEC benötigen.</p>
+<h2 id="weitere-sensoren"><a class="header" href="#weitere-sensoren">Weitere Sensoren</a></h2>
+<p>Darüber hinaus gibt es noch weitere Sensoren wie Lidar, Optical Flow, Airspeed, Variometer, ...</p>
+<p>Diese sind im FPV eher unüblich und finden in anderen RC-Modellbau-Bereichen wie Segelfliegern oder professionellen Multikoptern Anwendung.</p>
+<h2 id="turtle-fin"><a class="header" href="#turtle-fin">Turtle Fin</a></h2>
+<p>Insbesondere Renn-Drohnen haben oft eine sog. <code>Turtle Fin</code>. Dieser nach oben gerichtet Fortsatz sorgt dafür, dass zumindest 2 Propeller des Copters bei einem Crash und einer Landung auf dem Kopf in der Luft bleiben. Das erleichtert das sog. <code>turteln</code>. Dabei drehen sich je nach Lage nur 2 bestimmte Motoren um die Drohne aus der mehr oder weniger stabilen Seitenlage zu befreien und wieder abflugbereit aufzurichten.</p>
+<h2 id="heckspoiler"><a class="header" href="#heckspoiler">Heckspoiler</a></h2>
+<p>Vielleicht gerätst du in die Verlockung, optische Anbauteile an dem Kopter zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. <strong>LASS ES SEIN!</strong> Außer du machst es for the lulz.</p>
 
                     </main>
 

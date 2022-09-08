@@ -136,7 +136,14 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="flight-controller"><a class="header" href="#flight-controller">Flight Controller</a></h1>
+                        <h1 id="flugsteuerung--flight-controller--fc"><a class="header" href="#flugsteuerung--flight-controller--fc">Flugsteuerung / Flight Controller / FC</a></h1>
+<p>Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektronischen Komponenten deines Quads zusammenbringt.</p>
+<p>Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit der Kopter in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.</p>
+<p>Die mit Abstand häufigste Steuersoftware ist Betaflight. Es gibt noch andere Software, der Themenkomplex hat aber weiter unten ein eigenes Kapitel.</p>
+<p>Das Herzstück der Flugsteuerung ist der Prozessor. Dabei handelt es sich normalerweise um einen STM32-Chip des Herstellers STMicroelectronics. Den Chip gibt es in unterschiedlichen Ausführungen, üblicherweise kommen Prozessoren vom Typ F4, F7 oder (neuerdings) H7 zum Einsatz. Diese unterscheiden sich in Geschwindigkeit und verfügbaren Anschlüssen. F4-Prozessoren sind inzwischen als Budget-Variante zu sehen, F7 oder H7 dagegen eher als Premium.</p>
+<p>Weitere mögliche Charakteristiken, die einen Flight-Controller in Richtung Premium schieben sind z.B. ein SD-Kartenslot für Blackbox-Logs oder ein zweites Gyroskop um genauere Daten zu erhalten.</p>
+<p>F3 wurde ebenfalls verwendet, ist aber lange überholt. Neuere Versionen von Betaflight setzen mindestens F4 voraus. Lass dir keine alte Hardware mit F3-Prozessoren aufschwatzen.</p>
+<p>Es gibt auch Flight Controller mit integriertem ESC, hier spricht man von einem &quot;All in One&quot; (AIO).</p>
 
                     </main>
 
