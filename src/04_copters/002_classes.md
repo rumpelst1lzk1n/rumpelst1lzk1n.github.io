@@ -62,7 +62,7 @@ Propellergröße zwischen 11 und 13 Zoll. Ähnlich wie Cinelifter definitiv nich
 
 ## ... nach Propellergröße
 
-Die Propeller sind eines der charakteristischen Merkmale eines Kopters. Die röße (Durchmesser) wird in den allermeisten Fällen in angloamerikanischen Zoll (Inch) angegeben.
+Die Propeller sind eines der charakteristischen Merkmale eines Kopters. Die Größe (Durchmesser) wird in den allermeisten Fällen in angloamerikanischen Zoll (Inch) angegeben.
 
 Nachfolgend einige der gängigsten Propellergrößen.
 
