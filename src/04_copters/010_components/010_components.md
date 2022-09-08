@@ -1,4 +1,4 @@
-# Komponenten
+# Hardware-Bestandteile
 
 Wenn du dein Fluggerät reparieren, umbauen oder komplett selbst bauen möchtest, solltest du darüber Bescheid wissen, welche wichtigen Bauteile es überhaupt gibt. Nicht immer sind alle hier erwähnten Bauteile bei einem Kopter vorhanden respektive notwendig.
 
