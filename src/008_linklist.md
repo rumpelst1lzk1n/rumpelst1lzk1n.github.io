@@ -26,12 +26,12 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 ### Hi tech, low life
 
-| Kanal                                                                    | Beschreibung                                                                     |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau          |
-| [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                  |
-| [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salongfähig |
-| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme                |
+| Kanal                                                                    | Beschreibung                                                                    |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
+| [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
+| [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
+| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme              |
 
 ### Fanboy-Kanäle / Entertainment
 
@@ -47,6 +47,7 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 - [QRP](https://www.youtube.com/user/voxtelnismo)
 - [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Kopter
+- [Giant Ant Cowboy](https://www.youtube.com/c/GiantAntCowboy) Long Range, HDZero
 - [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
 
 ## Websites
