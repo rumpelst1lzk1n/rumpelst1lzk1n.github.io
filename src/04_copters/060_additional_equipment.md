@@ -16,11 +16,11 @@ Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit
 
 ## Rucksack
 
-Es gibt spezielle Rucksäcke für Kopter. Herausragenstes Merkmal sind die Spannriehmen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
+Es gibt spezielle Rucksäcke für Kopter. Herausragendes Merkmal sind die Spannriemen, mit denen du Quads außen am Rucksack befestigen kannst. Ansonsten tut es auch jeder Rucksack. Nützlich ist, wenn du den Rucksack fest unterteilen kannst in Fächer für Akkus, die FPV-Brille, Funke, ... Das findest du häufig als Eigenschaft bei jedem X-beliebigen Foto-Rucksack.
 
 ## Schmiermittel & Dämpfungsfett
 
-Im verleich zum klassischen Modellbau hat man im FPV mit Coptern deutlich weniger Bewegtteile. Dennoch gibt es einige Sachen, die sich bewegen und die man entsprechend behandeln möchte.
+Im Vergleich zum klassischen Modellbau hat man im FPV mit Koptern deutlich weniger Bewegtteile. Dennoch gibt es einige Sachen, die sich bewegen und die man entsprechend behandeln möchte.
 
 Wenn man möchte, dass die Sticks in der Funkfernsteuerung besonders geschmeidig laufen oder weniger nachschwingen, kann man mit Schmiermittel, Dämpfungsfett oder Teflon-Band nachhelfen.
 
