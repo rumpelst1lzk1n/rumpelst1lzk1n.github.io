@@ -8,10 +8,10 @@ Ein universales Set, dass dir sicher auch außerhalb von FPV gute Dienste leiste
 
 ## Prop-Tool
 
-Propeller werden meistens mit einer M5-Mutter befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
+Propeller werden meistens mit einer M5-Mutter (8er-Schlüssel) befestigt. Das willst du nicht mit einem normalen Schraubenschlüssel fest ziehen. Eine Ratsche, ein Ringratschen-Schlüssel oder ein sogenanntes Prop-Tool helfen ungemein.
 
-| Prop-Tool                                     | Ringratsche                                             |
-| --------------------------------------------- | ------------------------------------------------------- |
+| Prop-Tool                                    | Ringratsche                                            |
+| -------------------------------------------- | ------------------------------------------------------ |
 | ![Ethix Prop Tool](/img/ethix/prop_tool.png) | ![Wera Ringratsche](/img/misc/wera_ratchet_wrench.png) |
 
 ## Rucksack
