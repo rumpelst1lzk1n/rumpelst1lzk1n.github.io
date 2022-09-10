@@ -11,7 +11,7 @@
     - [Protokolle](03_decisions/010_radio/011_radio_protocols.md)
     - [Software](03_decisions/010_radio/012_radio_software.md)
     - [Empfehlungen](03_decisions/010_radio/013_radio_recommendations.md)
-  - [Simulatoren](03_decisions/020_simulator/020_simulators.md)
+  - [Simulatoren](03_decisions/020_simulator/020_simulator.md)
     - [Flugmodi](03_decisions/020_simulator/021_flight_modes.md)
     - [Velocidrone Racing Einstieg](03_decisions/020_simulator/022_racing_getting_started.md)
   - [Videosysteme](03_decisions/030_video_systems/030_video_systems.md)
