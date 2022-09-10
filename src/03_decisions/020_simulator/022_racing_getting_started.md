@@ -16,25 +16,31 @@ Für das Spiel gibt es ein [umfangreiches Handbuch](https://www.velocidrone.com/
 
 ### Controller-Konfiguration
 
-Zunächst einmal solltest du deine
+Zunächst solltest du deine Funkfernsteuerung in Velocidrone konfigurieren, damit du mit dieser fliegen kannst. Dafür klickst du im Hauptmenü auf **Controller**.
 
-### Auswahl
+### Drohnen-Auswahl
 
 Zunächst gilt es, eine Drohne aus den vorhandenen Modellen anzulegen.
 
 Dazu gehst in einen der Spielmodi *Nemesis* oder *Single Player* oder *Multiplayer*.
 
+![add quad](/img/velocidrone/velocidrone_main_menu_game_modes.png)
+
 Dort wählst du in der oberen linken Ecke *Add Quad* aus.
 
-Die Drohnen kannst du nach den unterschiedlichen Klassen filtern. Wähle ein Modell aus, vergib einen Namen, klicke auf *Save* und die Drohne sollte mit dem Namen in der Liste deiner auswählbaren Quads erscheinen.
+![add quad](/img/velocidrone/velocidrone_add_quad.png)
 
-Für den Anfang empfehle ich dir, 2 Quads anzulegen. Einen aus der Klasse *ToothPick* und einen aus der Klasse *5" Racer*.
+Die Drohnen kannst du nach den unterschiedlichen Klassen filtern.
+
+![add quad](/img/velocidrone/velocidrone_drone_selection.png)
+
+Für den Anfang empfehle ich dir, 2 Quads anzulegen. Einen aus der Klasse *ToothPick* und einen aus der Klasse *5" Racer*. Welches Modell davon konkret ist dir überlassen.
+
+Wähle ein Modell aus, vergib einen Namen, klicke auf *Save* und die Drohne sollte mit dem Namen in der Liste deiner auswählbaren Quads erscheinen.
 
 ### Basiseinstellungen
 
 Nach dem Anlegen der beiden Quads, passen wir die ersten Einstellungen der beiden an. Dazu wählen wir in der Liste auf der Linken Seite die Drohne aus und klicken danach auf der rechten Seite auf *Edit Settings*.
-
-Relevante Einstellungen sind hier:
 
 #### Propeller Size
 
