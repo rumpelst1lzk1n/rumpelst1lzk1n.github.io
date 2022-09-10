@@ -70,7 +70,7 @@ Gibt die Größe und Steigung des Propellers vor.
 
 Der Anstellwinkel der Kamera.
 
-> **Anm. stackola**: Du brauchst mehr Winkel!
+> *Anm. stackola*: Du brauchst mehr Winkel!
 
 Je höher, desto schneller kannst/musst du fliegen, um nicht in den Himmel zu glotzen, sondern das zu sehen, was tatsächlich vor dir liegt.
 
