@@ -14,13 +14,23 @@ Velocidrone ist NICHT auf Steam erhältlich sondern lediglich über [velocidrone
 
 Für das Spiel gibt es ein [umfangreiches Handbuch](https://www.velocidrone.com/downloads/VelociDroneManual.pdf). Das brauchst du aber nicht unbedingt. Im Folgenden umreißen wir die wichtigsten Einstellungen.
 
-### Controller-Konfiguration
+### Im Hauptmenü
+
+#### Controller
 
 Zunächst solltest du deine Funkfernsteuerung in Velocidrone konfigurieren, damit du mit dieser fliegen kannst. Also zunächst mal die Funke mit dem Rechner verbinden und den Simulator-Modus auswählen. Anschließend im Hauptmenü von Velocidrone auf **Controller** klicken. Dort dann zunächst **Assign Controller** anklicken und Sticks an der Funke bewegen. Anschließend auf **Assign Sticks** klicken und die Sticks laut Anweisung befolgen.
 
 ![assign sticks](/img/velocidrone/velocidrone_controller_assign_sticks.png)
 
 Anschließend empfehle ich noch, den **Race Start** auf einen Switch an deiner Funke zu legen. Damit kannst du dann ein Rennen mittels Schalter an deiner Funke neu starten, ohne auf die Tastatur wechseln zu müssen. Bewege den Switch an deiner Funke und schau, welches Quadrat in der Matrix rechts aufleuchtet. Anschließend klickst du auf **Race Start** und dann auf das Quadrat, welches aufgeleuchtet hat. Nun solltest du im Spiel die entsprechende Aktion mittels Schalter an deiner Funke auslösen können.
+
+#### Settings -> Main Settings
+
+Unter **Settings** -> **Main Settings** empfehle ich, **Camera VTX Noise** ganz runter zu setzen. Ist unnütz, frisst Leistung und sieht dazu noch scheiße aus.
+
+#### Settings -> Screen Settings
+
+Unter **Settings** -> **Screen Settings** empfehle ich **Auto Adjust Quality** zu aktivieren und bei **Minimum FPS** einen Wert zwischen 100 und 150 anzugeben. Sonstige Grafikeinstellungen nach Gusto und Leistungsfähigkeit deines Rechners.
 
 ### Drohnen-Auswahl
 
@@ -109,6 +119,10 @@ Die Zahlen sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Rac
 > *Anm. DaDesasta*: Du brauchst einfach mehr PrÄzIsIoN.
 
 Das **Rates Profile** ist eigentlich egal, hier kannst du nur mehrere unterschiedliche Rates hinterlegen um schneller zwischen ihnen zu wechseln.
+
+### Field of View
+
+Das FOV empfehle ich auf das Maximum einzustellen. Normalerweise sollte eine Anpassung über die Tasten **einfg** und **entf** möglich sein. Ein hohes Field of View hilft dir, Hindernisse in Kurven früher zu sehen und besser im Blick zu behalten.
 
 ### neue Maps herunterladen
 
