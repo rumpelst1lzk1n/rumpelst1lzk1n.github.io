@@ -16,7 +16,7 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 
 ## Üben
 
-Ich empfehle dir, dass du mindestens 10 Stunden auf der Uhr haben solltest, bevor du dich an das Fliegen einer richtigen Drohne im Außenbereich wagst.
+Ich empfehle dir, dass du mindestens 10 Stunden auf der Uhr haben solltest, bevor du dich an das Fliegen einer richtigen Drohne im Außenbereich wagst. Auch, wenn du schon mit Drohnen ala DJI Mavic vertraut bist. FPV ist anders.
 
 Die Zeit ist bares Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
 
