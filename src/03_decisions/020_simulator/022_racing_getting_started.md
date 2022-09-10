@@ -16,7 +16,11 @@ Für das Spiel gibt es ein [umfangreiches Handbuch](https://www.velocidrone.com/
 
 ### Controller-Konfiguration
 
-Zunächst solltest du deine Funkfernsteuerung in Velocidrone konfigurieren, damit du mit dieser fliegen kannst. Dafür klickst du im Hauptmenü auf **Controller**.
+Zunächst solltest du deine Funkfernsteuerung in Velocidrone konfigurieren, damit du mit dieser fliegen kannst. Also zunächst mal die Funke mit dem Rechner verbinden und den Simulator-Modus auswählen. Anschließend im Hauptmenü von Velocidrone auf **Controller** klicken. Dort dann zunächst **Assign Controller** anklicken und Sticks an der Funke bewegen. Anschließend auf **Assign Sticks** klicken und die Sticks laut Anweisung befolgen.
+
+![assign sticks](/img/velocidrone/velocidrone_controller_assign_sticks.png)
+
+Anschließend empfehle ich noch, den **Race Start** auf einen Switch an deiner Funke zu legen. Damit kannst du dann ein Rennen mittels Schalter an deiner Funke neu starten, ohne auf die Tastatur wechseln zu müssen. Bewege den Switch an deiner Funke und schau, welches Quadrat in der Matrix rechts aufleuchtet. Anschließend klickst du auf **Race Start** und dann auf das Quadrat, welches aufgeleuchtet hat. Nun solltest du im Spiel die entsprechende Aktion mittels Schalter an deiner Funke auslösen können.
 
 ### Drohnen-Auswahl
 
@@ -24,7 +28,7 @@ Zunächst gilt es, eine Drohne aus den vorhandenen Modellen anzulegen.
 
 Dazu gehst in einen der Spielmodi *Nemesis* oder *Single Player* oder *Multiplayer*.
 
-![add quad](/img/velocidrone/velocidrone_main_menu_game_modes.png)
+![game modes](/img/velocidrone/velocidrone_main_menu_game_modes.png)
 
 Dort wählst du in der oberen linken Ecke *Add Quad* aus.
 
@@ -32,7 +36,7 @@ Dort wählst du in der oberen linken Ecke *Add Quad* aus.
 
 Die Drohnen kannst du nach den unterschiedlichen Klassen filtern.
 
-![add quad](/img/velocidrone/velocidrone_drone_selection.png)
+![drone selection](/img/velocidrone/velocidrone_drone_selection.png)
 
 Für den Anfang empfehle ich dir, 2 Quads anzulegen. Einen aus der Klasse *ToothPick* und einen aus der Klasse *5" Racer*. Welches Modell davon konkret ist dir überlassen.
 
@@ -64,7 +68,7 @@ Wenn der Winkel zu flach ist, neigen Piloten dazu, ihr volle Potential in Sachen
 
 Wenn du feststellst, dass du beim vorwärts fliegen trotz Vollgas ständig die Grasnarbe küsst, kann es helfen, den Winkel wieder etwas zu reduzieren.
 
-Beachte bitte, dass die hier verwenden Anstellwinkel fürs Racing gedacht sind. Im Freestyle- und Cinematic-Bereich wird mit **deutlich** niedrigeren Winkeln geflogen.
+Beachte bitte, dass die hier verwenden Anstellwinkel der Kamera fürs Racing gedacht sind. Im Freestyle- und Cinematic-Bereich wird mit **deutlich** niedrigeren Winkeln geflogen.
 
 #### Empfehlungen
 
@@ -78,4 +82,34 @@ Für den Einstieg empfehle ich für die beiden angelegten Drohnen folgende Werte
 
 ### Eine Map starten
 
+Wähle einen der Spielmodi *Nemesis* oder *Single Player* oder *Multiplayer* aus.
+
+![game modes](/img/velocidrone/velocidrone_main_menu_game_modes.png)
+
+Wähle das Quad deiner Wahl aus.
+
+Wähle eine Karte und setze **Arming** auf **Auto**. Starte die Karte mit **Select Scenery**.
+
 ### Rates
+
+Rates beeinflussen die Geschwindigkeit, mit der du Drehungen auf der entsprechenden Achse vornimmst.
+
+Die Rates einer Drohne kannst du in Velocidrone einstellen, nachdem du eine Karte gestartet hast.
+
+Klicke dazu dann auf der rechten Seite auf **Advanced Drone Settings**
+
+![advanced drone settings](/img/velocidrone/velocidrone_ingame_menue_advanced_drone_settings.png)
+
+Folgende Einstellungen empfehle ich für den Anfang um Rennen zu fliegen:
+
+![rate menu](/img/velocidrone/velocidrone_ingame_rate_menu.png)
+
+Die Zahlen sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Racer langsamere Rates wie die oben gezeigt, da man mit diesen präziser manövrieren kann.
+
+> *Anm. DaDesasta*: Du brauchst einfach mehr PrÄzIsIoN.
+
+Das **Rates Profile** ist eigentlich egal, hier kannst du nur mehrere unterschiedliche Rates hinterlegen um schneller zwischen ihnen zu wechseln.
+
+### neue Maps herunterladen
+
+Gehe auf **Track Editor** und dort auf **Download Track**. Dort kannst du nach dem Namen eines Spielers, der die Map erstellt hat oder den Namen einer Map suchen.
