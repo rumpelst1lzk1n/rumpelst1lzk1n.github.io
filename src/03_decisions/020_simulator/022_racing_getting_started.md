@@ -102,11 +102,11 @@ Wähle eine Karte und setze **Arming** auf **Auto**. Starte die Karte mit **Sele
 
 ### Rates
 
-Rates beeinflussen die Geschwindigkeit, mit der du Drehungen auf der entsprechenden Achse vornimmst.
+Mit den Rates beeinflusst du die Geschwindigkeit, mit der sich deine Drohne bei einem bestimmten Stick-Input auf der entsprechenden Achse dreht.
 
 Die Rates einer Drohne kannst du in Velocidrone einstellen, nachdem du eine Karte gestartet hast.
 
-Klicke dazu dann auf der rechten Seite auf **Advanced Drone Settings**
+Klicke dazu dann auf der rechten Seite auf **Advanced Drone Settings**.
 
 ![advanced drone settings](/img/velocidrone/velocidrone_ingame_menue_advanced_drone_settings.png)
 
@@ -114,9 +114,15 @@ Folgende Einstellungen empfehle ich für den Anfang um Rennen zu fliegen:
 
 ![rate menu](/img/velocidrone/velocidrone_ingame_rate_menu.png)
 
-Die Zahlen sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Racer langsamere Rates wie die oben gezeigt, da man mit diesen präziser manövrieren kann.
+Der Graph oben rechts hilft dir, das Verhalten einzuschätzen. Die X-Achse ist dabei dein Stick-Input. Die meisten Rate-Typen bestehen aus 2-3 Variablen mit denen du das Aussehen der Kurve beeinflussen kannst.
+
+Die Zahlen aus dem Screenshot oben sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Racer langsamere Rates mit sehr geraden Kurven wie die oben gezeigt. Dies ermöglicht es, den Platz, den die Sticks auf deiner Funke dir bieten optimal zu nutzen, kleinste Korrekturbewegungen vorzunehmen und entsprechend präzise zu manövrieren.
+
+Für Freestyle werden meistens Rates mit höheren Werten ("höhere Rates") geflogen. Dazu wird dann auch gerne noch der Exponent erhöht, damit sich die Drohne bei maximalem Stick-Input schnell dreht. Dies hilft beim Ausführen vieler Tricks.
 
 > *Anm. DaDesasta*: Du brauchst einfach mehr PrÄzIsIoN.
+
+Der **Rate Type** beeinflusst, wie die Variablen die Kurve beeinflussen. *Actual* ist bei Racern sehr beliebt, da man leicht sehr gerade Linien für die Rates erreicht.
 
 Das **Rates Profile** ist eigentlich egal, hier kannst du nur mehrere unterschiedliche Rates hinterlegen um schneller zwischen ihnen zu wechseln.
 
