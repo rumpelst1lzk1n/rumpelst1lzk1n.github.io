@@ -56,11 +56,11 @@ Der Betaflight Configurator liefert umfangreiche Hilfestellungen, z.B. welche Tr
 
 > *Anm. rumpelst1lzk1n*: READ THE FUCKING MANUAL!
 
-### KISS
+### KISS & Derivate
 
 Die einzige nennenswerte proprietäre Flight Controller Software. Geht mit proprietärer Hardware einher, die oft auch etwas teurer ist als vergleichbare BetaFlight Hardware. Unter anderem, weil die Hersteller eigenen Entwicklungsaufwand bei der Software haben und nicht in China sondern in Deutschland sitzen.
 
-Hat aber allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein.
+Hat allgemein einen guten Ruf und soll sehr einfach zu konfigurieren sein. Mr. Steele, einer der bekanntesten FPV-Piloten, ist einer der prominentesten Promoter von KISS.
 
 > *Anm. Puffi*: KISS FTW
 
@@ -72,19 +72,23 @@ Inzwischen sind viele Beteiligte am ursprünglichen KISS eigene Wege gegangen. D
 
 > *Anm. Puffi*: KISS/FETTec is super!!11!
 
-#### Flyduino
+#### KISS
 
-Der Hersteller der ursprünglichen KISS-Hardware.
+Die Hardware mit dem ursprünglichen KISS ist immer noch erhältlich und erfreut sich auch noch immer einer gewissen Beliebtheit. Allerdings scheint die Weiterentwicklung etwas zu stagnieren.
 
 #### KISS Ultra
 
-Weiterentwicklung von KISS durch Alexander Fedorov, einem der am ursprünglichen KISS beteiligten Entwickler mit dem Segen von Flyduino. Es gibt nur einen Flight Controller damit und der ist ziemlich schwierig zu bekommen.
+Weiterentwicklung von KISS durch einen der am ursprünglichen KISS beteiligten Entwickler.
 
-Ein-Mann-Show, hat eher den Charakter eines gehypten Hobby-Projekts.
+Aktuell ist das hauptsächlich einen Ein-Mann-Show.
 
-#### FETtec
+Es gibt nur einen Flight Controller damit und der ist ziemlich schwierig zu bekommen.
 
-Die Entwickler von FETtec waren ebenfalls an der Entwicklung des ursprünglichen KISS beteiligt.
+> *Anm. rumpelst1lzk1n*: Hat mMn eher den Charakter eines über-hypten Hobby-Projekts.
+
+#### FETtec Alpha
+
+Die Entwickler von FETtec waren ebenfalls an der Entwicklung des ursprünglichen KISS beteiligt. Gegen Ende 2021 haben sie ihre eigene neu-geschriebene Flight-Controller-Software veröffentlicht. Diese lässt aber erkennen, dass die gleichen Core-Entwickler am Werk waren.
 
 > *Anm. Puffi*: FETtec != KISS
 
