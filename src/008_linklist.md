@@ -114,7 +114,7 @@ Bei manchen den Links *kann* es sich um Affiliate Links handeln.
 
 Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 
-- [drone-fpv-racer.com](https://www.drone-fpv-racer.com/), Frankreich
+- [drone-fpv-racer.com](https://www.drone-fpv-racer.com/?aff=77), Frankreich
 - [droneit.se](https://droneit.se/), Schweden
 - [fpv24.com](https://www.fpv24.com/de/), Deutschland
 - [modell-hubschrauber.at](https://www.modell-hubschrauber.at/), Österreich
