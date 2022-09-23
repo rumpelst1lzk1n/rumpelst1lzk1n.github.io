@@ -20,12 +20,13 @@ Um das Vorgehen der Veröffentlichung gab es größere Kontroversen:
 Die Hardware-Auswahl ist überschaubar, es gibt:
 
 - 2 Brillen
-- einen VTX (Formfaktor 25,6x25,6)
+- zwei VTX (Formfaktor 25,6x25,6), einmal mit 1W Sendeleistung und Kühlkörper, einmal mit 200mw Sendeleistung und 1S-fähig für TinyWhoops
 - 2 Kameras (Formfaktor micro und nano)
 
-| Sender                                                      | Brille (Walksnail)                                       | Brille (Fatshark)                                          |
-| ----------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
+| Sender                                                     | Brille (Walksnail)                                      | Brille (Fatshark)                                         |
+| ---------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
 | ![Walksnail VTX](/img/walksnail/avatar_vtx_micro_cam.webp) | ![Walksnail goggle](/img/walksnail/avatar_goggles.webp) | ![Fatshark goggle](/img/fatshark/fatshark_dominator.webp) |
+| ![Walksnail 1S VTX](/img/walksnail/avatar_mini_vtx.png)    |                                                         |                                                           |
 
 Die beiden Brillen unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
 
