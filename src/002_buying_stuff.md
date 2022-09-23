@@ -17,7 +17,7 @@ Die einschlägigen deutschen Shops über die du immer wieder stolperst sind:
 - [rctech.de](https://www.rctech.de/)
 - [fpv24.com](https://www.fpv24.com/de/)
 - [copterfarm.de](https://www.copterfarm.de/)
-- [flyingmachines.de](flyingmachines.de/)
+- [flyingmachines.de](https://flyingmachines.de/)
 - ...
 
 Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
