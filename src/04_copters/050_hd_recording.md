@@ -41,3 +41,13 @@ Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch (kostenlose)
 - DaVinci Resolve
 
 Je nachdem wie aufwändig dein bearbeitetes Video ist, solltest du einen starken Rechner haben und die Videosoftware direkte Schnittstellen der Grafikkarte nutzen können.
+
+## Musik
+
+Wenn du Videos mit Musik unterlegen möchtest, solltest du darauf achten, dass die verwendete Musik "public domain" oder anderweitig "royalty free" ist, der Urheber also kein Geld für die Verwendung haben möchte. Häufig wird zudem eine Unterscheidung zwischen privater und kommerzieller Nutzung gemacht. Wenn du mit dem Video explizit Geld verdienen möchtest, solltest du doppelt sicher gehen, dass auch die kommerzielle Verwendung kostenlos ist.
+
+Mögliche Quellen für Musik:
+
+- [freemusicarchive.org](https://freemusicarchive.org)
+- [freepd.com](https://freepd.com/)
+- [pixabay.com](https://pixabay.com)
