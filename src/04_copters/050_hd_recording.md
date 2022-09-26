@@ -48,6 +48,7 @@ Wenn du Videos mit Musik unterlegen möchtest, solltest du darauf achten, dass d
 
 Mögliche Quellen für Musik:
 
-- [freemusicarchive.org](https://freemusicarchive.org)
-- [freepd.com](https://freepd.com/)
-- [pixabay.com](https://pixabay.com)
+- [epidemicsound.com](https://www.epidemicsound.com/), Abo-Modell
+- [freemusicarchive.org](https://freemusicarchive.org), kostenlos
+- [freepd.com](https://freepd.com/), kostenlos
+- [pixabay.com](https://pixabay.com), kostenlos
