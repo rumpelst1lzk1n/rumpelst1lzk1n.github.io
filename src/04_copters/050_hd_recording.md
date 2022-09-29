@@ -33,7 +33,7 @@ Wenn du bei deinen Videos Effekte (z.B. Übergänge) einfügen möchtest, die ü
 
 Der Goldstandard im Bereich Videoschnitt dürfe wohl Adobe Premiere sein.
 
-Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch (kostenlose) Software:
+Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch andere (kostenlose) Software:
 
 - kdenlive
 - OpenShot
