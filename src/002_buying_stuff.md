@@ -22,7 +22,11 @@ Die einschlägigen deutschen Shops über die du immer wieder stolperst sind:
 
 Oft lohnt sich auch ein Blick zu unseren europäischen Nachbarn.
 
-Eine Liste innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
+- [drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/?aff=77), Frankreich
+- [droneit.se](https://droneit.se/), Schweden
+- ...
+
+Eine Liste weiterer innereuropäischer FPV-Shops findest du [hier](https://fpvmarket.eu/european-fpv-stores/).
 
 ## China-Shops
 
