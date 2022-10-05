@@ -133,3 +133,13 @@ Das FOV empfehle ich auf das Maximum einzustellen. Normalerweise sollte eine Anp
 ### neue Maps herunterladen
 
 Gehe auf **Track Editor** und dort auf **Download Track**. Dort kannst du nach dem Namen eines Spielers, der die Map erstellt hat oder den Namen einer Map suchen.
+
+### Fehlerbilder
+
+#### Du triffst ständig den oberen Rand eines Tores
+
+**A:** Du brauchst mehr Winkel.
+
+#### Du küsst ständig den Boden
+
+**A:** Du brauchst weniger Winkel.
