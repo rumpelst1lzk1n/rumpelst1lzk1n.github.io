@@ -55,7 +55,9 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ## WTFOS
 
-Es gibt ein OpenSource-Hacker-Projekt um das FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks. Näheres auf der Website des Projekts.
+Es gibt ein OpenSource-Hacker-Projekt um das FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.
+
+![ItsBluntys DJI Firmware Chart](/img/itsblunty/itsblunty_dji_firmware_chart.png)
 
 ## Avata
 
