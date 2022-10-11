@@ -33,8 +33,8 @@ Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer
 
 Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gleiche, mutmaßlich hergestellt von DJI) ist zu bevorzugen und passt auch leichter in die meisten Frames.
 
-| AirUnit                                                                                     | AirUnit Lite / Caddx Vista / Runcam Link                                                                          |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| AirUnit                               | AirUnit Lite / Caddx Vista / Runcam Link        |
+| ------------------------------------- | ----------------------------------------------- |
 | ![AirUnit](/img/DJI/dji_air_unit.png) | ![AirUnit Lite](/img/DJI/dji_air_unit_lite.png) |
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
@@ -53,12 +53,16 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ![DJI Cams](/img/DJI/dji_cams.png)
 
+## WTFOS
+
+Es gibt ein OpenSource-Hacker-Projekt um das FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks. Näheres auf der Website des Projekts.
+
 ## Avata
 
 Ende August hat DJI mit der Avata einen CineWhoop als Komplettsystem mit neuer Brille herausgebracht.
 
 ![DJI Avata Set](/img/DJI/dji_avata_set.png)
 
-Die neue Brille ist bisher **NICHT** mit den alten AirUnits/VistaUnits kompatibel. Im September wird eine neue AirUnit mit dem Videosystem erwartet, wie es auch die Avata-Drohne verbaut hat. Dieses soll mit der neuen Brille und der alten "v2"-Brille kompatibel sein. Die neue AirUnit soll in etwa den Formfaktor einer VistaUnit haben.
+Die neue Brille ist bisher **NICHT** mit den alten AirUnits/VistaUnits kompatibel. Demnächst (Stand Mitte September 2022) wird eine neue AirUnit mit dem Videosystem erwartet, wie es auch die Avata-Drohne verbaut hat. Dieses soll mit der neuen Brille und der alten "v2"-Brille kompatibel sein. Die neue AirUnit soll in etwa den Formfaktor einer VistaUnit haben.
 
 Als Einstieg in die Welt des FPV ist die Avata bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Bei der Drohne ist ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht. Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert aber NUR mit der DJI FPV Drohne und der DJI Avata ...
