@@ -14,6 +14,7 @@
 | [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)     | Produktbewertungen, nicht nur Quads, auch Flugzeuge                                                                                                                                                                                  |
 | [Pawel Spychalski](https://www.youtube.com/user/dzikuvx)               | Tutorials um iNAV                                                                                                                                                                                                                    |
 | [Painless360](https://www.youtube.com/c/Painless360)                   | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
+| [Project Blue Falcon](https://www.youtube.com/c/ProjectBlueFalcon/)    | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
 
 ### Marktschreier
 
