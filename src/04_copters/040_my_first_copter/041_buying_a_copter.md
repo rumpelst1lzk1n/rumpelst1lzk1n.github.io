@@ -32,26 +32,38 @@ Gibt es ganz selten bei Koptern von namenhaften Herstellern, ist eher auf dem Ge
 
 Für fertige Kopter gilt immer die Empfehlung, sich Testberichte dazu auf Youtube anzusehen.
 
-### Eachine Trashcan
+### Happymodel Mobula 6 / 7
 
-Wenn du im Winter einsteigst, solltest du dir überlegen, ob du dir einen TinyWhoop holst und damit innen fliegst. Die "Trashcan" von Eachine ist ein populärer Vertreter und kann mit 1S oder 2S Akkus geflogen werden.
+Wenn du im Winter einsteigst, solltest du dir überlegen, ob du dir einen TinyWhoop holst und damit innen fliegst. Die Mobula-Serie von Happymodel liefert hier seit Jahren konstant gute Vertreter.
 
-Mit 2S kann man sie auch außen ganz gut fliegen.
+Die Mobula 7 unterscheidet sich von der Mobula 6 darin, dass die 7er geringfügig größer ist.
+
+Zudem kann man die Mobula 7 auch auf 2S umbauen.
 
 > *Anm. rumpelst1lzk1n*: Auf XT30 umlöten und dann mit 2S 350mah LiPos fliegen. Ein Traum.
 
-### Happymodel Moblite7
-
-Nochmal eine Stufe leichter als die Trashcan, kann nur mit 1S Akkus geflogen werden, hat aber aufgrund des geringen Gewichts eine vergleichsweise lange Flugzeit.
+Außen kann man beide Kopter begrenzt fliegen, wenn es windstill ist.
 
 ### GepRC Phantom / Emax Babyhawk
 
 Schöne kleine Toothpicks mit gut Power. Anfängerfreundlich, verzeihen aufgrund des geringen Gewichts Crashes und wirken nicht so bedrohlich, wenn du damit z.B. im Park cruisen möchtest.
 
-### iFlight Nazgul 5 (Evoque)
+### iFlight
+
+Kaum ein anderer Hersteller hat mehr Piloten ihren ersten fertigen Kopter verschafft.
+
+#### Nazgul 5 (Evoque)
 
 Einer der bekanntesten Einsteiger-Kopter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Kopter mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
+
+#### AOS 5 V2
+
+Die gleiche Hardware wie im iFlight Nazgul. Allerdings in einem Frame, der eher in der Kategorie "obere Mittelklasse" anzusiedeln ist, da relativ viel KnowHow in die Entwicklung geflossen ist.
 
 ### Diatone Roma F5 (V2)
 
 Ähnlich dem iFlight Nazgul. In Sachen Qualität der Komponenten steht der Roma F5 dem Nazgul in nichts nach. Die größte Frage ist, welchen man zum aktuellen Zeitpunkt günstiger bekommt und welcher Frame einem besser gefällt.
+
+### GepRC Mark 5
+
+Ähnlich dem iFlight Nazgul. Siehe Diatone Roma F5.
