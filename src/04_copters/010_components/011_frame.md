@@ -7,10 +7,12 @@ Top- und Bottom-Plate sind mittels Standoffs (kleine Stangen mit Innengewinde) v
 
 Weitere Zusatzkomponenten (z.B. Antennenhalterungen) bekommt man als 3D gedruckten Teile. Teilweise mitgeliefert, teilweise stellen die Hersteller die Dateien zum selbst drucken online.
 
+Neben den Frames aus CFK gibt es auch Frames aus Plastik. Entweder 3D-Druck oder Spritzdruckguss. Ist CFK in nahezu allen Aspekten unterlegen, sei es Steifigkeit oder Haltbarkeit. Wir nur für sehr kleine Kopter (z.B. TinyWhoops) empfohlen.
+
 ## Aufbau
 
-| klassisches Frame-Design, TBS Source One                                |
-| ----------------------------------------------------------------------- |
+| klassisches Frame-Design, TBS Source One           |
+| -------------------------------------------------- |
 | ![Source One](/img/team_blacksheep/source_one.png) |
 
 Die Länge der Arme bestimmt, wie groß die Propeller sein können, die auf dem Frame verbaut sind.
