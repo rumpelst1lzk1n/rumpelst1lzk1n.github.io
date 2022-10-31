@@ -18,7 +18,7 @@
     - [Analog](03_decisions/030_video_systems/031_analog.md)
     - [DJI](03_decisions/030_video_systems/032_digital_DJI.md)
     - [HDZero](03_decisions/030_video_systems/033_digital_HDZero.md)
-    - [Walksnail](03_decisions/030_video_systems/034_digital_walksnail.md)
+    - [Caddx / Walksnail](03_decisions/030_video_systems/034_digital_caddx.md)
     - [sonstiges](03_decisions/030_video_systems/035_other_systems.md)
   - [Flugstile](03_decisions/040_flight_styles.md)
 - [Drohne / Quad / Kopter](04_copters/000_copters.md)
