@@ -1,5 +1,3 @@
 # COC
 
-1) Don't act with malicious intent.
-2) Don't assume malicious intent by others.
-3) Don't attempt to enforce your believes upon others.
+I mostly don't give a fuck about any COC. Just don't talk to people with the intent to hurt them. And assume that others talk to you with the same intent, no matter their wording.
