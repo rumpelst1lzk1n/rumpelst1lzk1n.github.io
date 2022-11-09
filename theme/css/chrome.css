@@ -81,6 +81,10 @@ a > .hljs {
 .right-buttons a {
     text-decoration: none;
 }
+.right-buttons img {
+    width: 16px;
+    height: 16px;
+}
 
 .left-buttons {
     display: flex;
