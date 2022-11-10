@@ -4,6 +4,8 @@ Für die Auswahl einer Videobrille muss man sich bewusst machen, welche Systeme 
 
 Die Auswahl des Videosystems bestimmt die Auswahl der FPV-Brille und der Videosender. Gerade die Brille ist mit der größte Kostenfaktor beim Einstieg. Für diesen Abschnitt kannst du zwischen 110€ für einen ganz rudimentären und 800€ für einen Premium-Setup einplanen.
 
+Je nach Videosystem erhöht sich auch der Anschaffungspreis jeder neuen Drohne, bei digitalen Systemen um bis zu 150-200€ im Vergleich zu Analog. Dazu später mehr.
+
 ## Allgemein
 
 FPV unterscheidet sich von klassischem Modellbau-Flug dadurch, dass du von deinem Fluggerät das Live-Videobild an einen Empfänger überträgst und somit eine Art Pilotenansicht hast. Die Wiedergabe kann dabei auf einem Monitor oder einer Videobrille erfolgen. Wir konzentrieren uns im nachfolgenden auf den Empfang mittels Videobrille.
