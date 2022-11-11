@@ -24,3 +24,39 @@ Hilf nachhaltig, gib ggf. noch einen Link zu einer Dokumentation mit dazu.
 Sei kein Troll.
 
 Wenn du merkst, dass derjenige, dem du gerade helfen willst nur herumjammert, dass seine Lösungsansätze nicht funktionieren und es keine Anzeichen dafür gibt, dass er konstruktiv auf andere Ansätze reagiert, zögere nicht die Reißleine zu ziehen. So eine Person will eigentlich keine Hilfe sondern sich nur beschweren. Der Versuch zu helfen ist Zeitverschwendung. Es gibt erschreckend viele davon, insbesondere in diversen Facebook-Gruppen.
+
+## soziale Medien / Communities
+
+Es gibt 3 große Anlaufstellen, wenn du Anschluss an gleichgesinnte suchst.
+
+- Foren
+- Facebook
+- Discord
+
+### Foren
+
+> *Anm. rumpelst1lzk1n:* Ok Boomer ...
+
+Foren sind eine aussterbende Art des sozialen Netzwerks. Häufiger als für FPV findet man das noch für den klassischen Modellbau oder für Fotodrohnen ala DJI.
+
+Der Vollständigkeit halber seien hier aber auch größere deutschsprachige FPV-Foren erwähnt:
+
+- [fpv-community.de](https://fpv-community.de/)
+- ~[fpv-racing-forum.de](https://fpv-racing-forum.de/)~ (leider inzwischen geschlossen)
+
+### Facebook
+
+In Facebook finden sich jede Menge Gruppen, die sich mit FPV, Racing, konkreten Produkten oder Herstellern beschäftigen. Lokal wie International.
+
+Die beiden größten Gruppen sind die des Herstellers TBS sowie des Shops Rotor Riot.
+
+- [Team BlackSheep Lounge](https://www.facebook.com/groups/BlackSheepLOUNGE/)
+- [Rotor Riot Community](https://www.facebook.com/groups/rotorriot/)
+
+### Discord
+
+Discord ist wohl der dynamischste Ort, um FPVler zu treffen, Hilfe zu bekommen oder sich über Neuigkeiten auszutauschen.
+
+Viele bekannte FPVler betreiben einen eigenen Discord-Server auf dem sich die Fans tummeln um sich auszutauschen. Auch die großen OpenSource-Projekte haben meistens einen eigenen Discord-Server, über den sich die Entwickler austauschen und ggf. Hilfe geben.
+
+Auf die jeweiligen Discord-Server kommst du mit einem entsprechenden Einladungs-Link, diese findest du häufig in Kommentaren und Videobeschreibungen von weiteren sozialen Medien wie YouTube, Instagram, Facebook etc.
