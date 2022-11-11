@@ -34,11 +34,12 @@ Hardware rund um Drohnen wird fast ausschließlich in China gefertigt.
 
 Am günstigsten kommt man an die Produkte, wenn man auch direkt dort einkauft.
 
-Vorteil beim Einkaufen in China: Günstiger.
-Nachteil: Du wartest 10-30 Tage bis die Sachen da sind.
+- Vorteil: Günstiger.
+- Nachteil: Du wartest 10-30 Tage bis die Sachen da sind und musst ggf. zum Zoll.
 
 Es gibt auch Express-Versand, da sind die Sachen dann in ~5 Tagen da, aber der kostet mehr.
-Und es bleibt öfter im Zoll hängen. Dann kannst du auch gleich in Deutschland kaufen.
+
+Beachte bitte, dass du beim Einkaufen außerhalb der EU für die Ware noch Einfuhrumsatzsteuer, ggf. Zollgebühren sowie eine Handling-Pauschale seitens des Postanbieters (DHL meistens 6€) auf den Preis aufschlagen solltest, den der China-Shop ausweist. Außer es wird explizit darauf verwiesen, dass die Mehrwertsteuer (englisch `VAT`) enthalten ist und direkt abgeführt wird.
 
 ### Banggood und AliExpress
 
@@ -55,7 +56,9 @@ Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie dr
 
 Sowohl AliExpress wie auch Banggood haben ein Gutschein-System. Häufig kann man hier nochmal ein bisschen Geld sparen.
 
-Bei den "Angeboten" solltest du allerdings aufpassen. Beide Shops nennen gerne mal Fantasiepreise als Originalpreis und zeigen dann utopische Rabatte an.
+Bei den "Angeboten" solltest du allerdings aufpassen. Beide Shops nennen gerne mal Phantasiepreise als Originalpreis und zeigen dann utopische Rabatte an.
+
+> *Anm. rumpelst1lzk1n:* Was in Deutschland unlauterer Wettbewerb wäre, gehört in China zum üblichen Händler-Gebaren.
 
 ### Direktvertrieb
 
