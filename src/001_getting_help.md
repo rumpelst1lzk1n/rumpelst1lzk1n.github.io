@@ -42,7 +42,7 @@ Foren sind eine aussterbende Art des sozialen Netzwerks. Häufiger als für FPV 
 Der Vollständigkeit halber seien hier aber auch größere deutschsprachige FPV-Foren erwähnt:
 
 - [fpv-community.de](https://fpv-community.de/)
-- ~[fpv-racing-forum.de](https://fpv-racing-forum.de/)~ (leider inzwischen geschlossen)
+- [fpv-racing-forum.de](https://fpv-racing-forum.de/) (leider inzwischen geschlossen)
 
 ### Facebook
 
