@@ -101,6 +101,10 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 - [OpenTX](https://github.com/opentx)
 - [FreedomTX](https://github.com/tbs-fpv/freedomtx)
 
+### Sonstiges
+
+- [FPV Wörterbuch (WIP)](https://docs.google.com/document/d/1BGCfnv2kSAx8u5DQhsWWvEG7S7KHRSN71H0z0-NkFyw)
+
 ## Hersteller Dokumentationen
 
 - [Diatone](https://www.diatone.us/apps/help-center)
