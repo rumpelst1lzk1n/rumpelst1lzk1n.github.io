@@ -26,10 +26,11 @@ Die Hardware-Auswahl ist bei den Video-Sendern sehr überschaubar, es gibt:
 - einen VTX für größere Fluggeräte mit mehr Gewicht und bis zu 1200mw Sendeleistung
 - einen VTX für leichte Fluggeräte mit bis zu 400mw Sendeleistung
 
-| Sender                                                 |
-| ------------------------------------------------------ |
-| ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) |
-| ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png)    |
+Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6. Sie unterscheiden sich dadurch, wie viel Eingangsspannung sie vertragen sowie durch die Kühlkörper und die damit verbundene Sendeleistung
+
+| Full-Size (2-6S)                                       | Whoop (1S)                                          |
+| ------------------------------------------------------ | --------------------------------------------------- |
+| ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png) |
 
 ## Kamera
 
