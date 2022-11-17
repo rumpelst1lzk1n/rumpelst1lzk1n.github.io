@@ -8,7 +8,7 @@ Mitwirkende:
 - [Panda](https://www.youtube.com/channel/UCh5bOX3_hTCsVLJxf4cm5qA) (Discord: `Panda.#9780`)
 - [Puffi](https://www.youtube.com/channel/UCnS1f_wUUGjGD3vL1L-AKFA) (Discord: `Puffi#7127`)
 - [remove_me](https://www.youtube.com/channel/UCV0hukgWm_BdC_gvOPZSa9w) (Discord: `remove_me#4028`)
-- [ruohki](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Discord: `ruohk!#2864`)
+- ruohki (Discord: `ruohk!#2864`)
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="HC56FX97RNX8U" />
