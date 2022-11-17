@@ -19,18 +19,40 @@ Um das Vorgehen der Veröffentlichung gab es größere Kontroversen:
 
 Caddx hat die Scharade mit Walksnail inzwischen fallen gelassen und vermarktet das System offiziell unter eigenem Namen.
 
-Die Hardware-Auswahl ist überschaubar, es gibt:
+## Sender
 
-- 2 Brillen
-- zwei VTX (Formfaktor 25,6x25,6), einmal mit 1W Sendeleistung und Kühlkörper, einmal mit 200mw Sendeleistung und 1S-fähig für TinyWhoops
-- 2 Kameras (Formfaktor micro und nano)
-- Für November 2022 wurde zudem ein VRX-Modul angekündigt, dass an existierende Brillen mit HDMI-Eingang angesteckt werden kann. Ähnlich den HDZero-Empfängern.
+Die Hardware-Auswahl ist bei den Video-Sendern sehr überschaubar, es gibt:
 
-| Sender                                                 | Caddx / Walksnail                               | Fatshark                                                  |
-| ------------------------------------------------------ | ----------------------------------------------- | --------------------------------------------------------- |
-| ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Caddx Brille](/img/caddx/avatar_goggles.webp) | ![Fatshark Brille](/img/fatshark/fatshark_dominator.webp) |
-| ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png)    | ![Caddx VRX](/img/caddx/avatar_vrx.png)         |                                                           |
+- einen VTX für größere Fluggeräte mit mehr Gewicht und bis zu 1200mw Sendeleistung
+- einen VTX für leichte Fluggeräte mit bis zu 400mw Sendeleistung
 
-Die beiden Brillen unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
+| Sender                                                 |
+| ------------------------------------------------------ |
+| ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) |
+| ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png)    |
+
+## Kamera
+
+Hinsichtlich Kameras gibt es 3 Modelle:
+
+- eine im Formfaktor 19x19
+- zwei im Formfaktor 14x14, eine etwas schwerer, die andere etwas leichter für Whoops.
+
+## Empfänger
+
+Auf Empfängerseite gibt es die größte Auswahl.
+
+Es gibt:
+
+- zwei Brillen im Binocular-Style. Beide unterscheiden sich nur durch die Farbe der Hülle.
+- eine Brille im Box-Style
+- einen reinen Empfänger, der das Video über HDMI ausgibt (z.B. für Brillen mit HDMI Eingang).
+
+| Caddx / Walksnail                               | Fatshark                                                     |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| ![Caddx Brille](/img/caddx/avatar_goggles.webp) | ![Fatshark Dominator](/img/fatshark/fatshark_dominator.webp) |
+| ![Caddx VRX](/img/caddx/avatar_vrx.png)         | ![Fatshark Recon HD](/img/fatshark/fatshark_recon_hd.webp)   |
+
+Die Brille von Caddx und die Fatshark Dominator unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
 
 Beide Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Akku an!!!
