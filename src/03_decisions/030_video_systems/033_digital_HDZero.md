@@ -20,9 +20,10 @@ Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sen
 
 Aktuell gibt es 3 relevante Videosender.
 
-| Race V2 (20x20)                                                                                                                                                             | Whoop (25x25)                                                                                                                                                              | Freestyle (30x30)                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![HDZero Race v2 VTX](https://static.wixstatic.com/media/967e02_0e44ce977be64add96eeeed77389581e~mv2.png/v1/fill/w_204,h_201,al_c,usm_0.66_1.00_0.01,enc_auto/top1_tou.png) | ![TX5S.1](https://static.wixstatic.com/media/967e02_388c829d11164f7abd2429a625bdc93e~mv2.png/v1/fill/w_223,h_162,al_c,usm_0.66_1.00_0.01,enc_auto/%E5%8D%95%E6%9D%BF1.png) | ![HDZero 1Watt freestyle VTX](/img/divimath/HDzero_freestyle_vtx.png) |
+| Race V2 (20x20)                                             | Whoop (25x25)                                    | Freestyle (30x30)                                                     |
+| ----------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
+| ![HDZero Race v2 VTX](/img/divimath/hdzero_race_vtx_v2.png) | ![TX5S.1](/img/divimath/hdzero_whoop_vtx_v1.png) | ![HDZero 1Watt freestyle VTX](/img/divimath/hdzero_freestyle_vtx.png) |
+|                                                             | ![TX5S.1](/img/divimath/hdzero_whoop_vtx_v2.png) |                                                                       |
 
 Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
 
@@ -42,6 +43,6 @@ Zu der betreffenden Hardware zählen Videosender in teilweise etwas unüblichen 
 
 Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZero-Modul und ein separates Modul. Das Modul wurde nahtlos durch den oben bereits genannten Empfänger ersetzt. Für die Brille gibt es bisher noch keine Alternative.
 
-| Fatshark Scout HD                                          | SharkByte Empfänger                                            |
-| ---------------------------------------------------------- | -------------------------------------------------------------- |
+| Fatshark Scout HD                                         | SharkByte Empfänger                                           |
+| --------------------------------------------------------- | ------------------------------------------------------------- |
 | ![Fatshark Scout HD](/img/fatshark/fatshark_scout_hd.png) | ![Shark Byte RX5.1](/img/fatshark/fatshark_sharkbyte_vrx.png) |
