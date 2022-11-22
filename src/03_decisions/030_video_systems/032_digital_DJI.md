@@ -90,6 +90,8 @@ Die große DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser ni
 
 > *Anm. remove_me*: Scheiß auf die!
 
+![DJI Avata Set](/img/DJI/dji_fpv_drone.png)
+
 ### Avata
 
 Die Avata ist ein CineWhoop und hat als solcher mit Propellerschutz auch eher eine Existenzberechtigung für das klassische DJI-Publikum.
