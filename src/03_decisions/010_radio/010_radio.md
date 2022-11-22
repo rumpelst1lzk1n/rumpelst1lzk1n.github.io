@@ -16,11 +16,12 @@ Für diesen Abschnitt solltest du zwischen 90 und 300€ einplanen. Eine Funkfer
 
 Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.
 
-Nachfolgend 3 populäre Vertreter dieser Formfaktoren.
+Nachfolgend einige populäre Vertreter dieser Formfaktoren.
 
-| Vollformat                                        | Gamepad                                          | Zwischending                                  |
-| ------------------------------------------------- | ------------------------------------------------ | --------------------------------------------- |
-| ![Radiomaster TX16S](/img/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![TBS Mambo](/img/team_blacksheep/mambo.png) |
+| Vollformat                                                   | Gamepad                                         | Zwischending                                               |
+| ------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------- |
+| ![Radiomaster TX16S](/img/radiomaster/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![TBS Mambo](/img/team_blacksheep/mambo.png)               |
+|                                                              | ![Jumper T-Pro](/img/jumper/jumper_t-pro.png)   | ![Radiomaster TX12](/img/radiomaster/radiomaster_tx12.png) |
 
 ## Modi
 
