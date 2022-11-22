@@ -53,7 +53,7 @@ Die beiden größten Gruppen sind die des Herstellers TBS sowie des Shops Rotor 
 - [Team BlackSheep Lounge](https://www.facebook.com/groups/BlackSheepLOUNGE/)
 - [Rotor Riot Community](https://www.facebook.com/groups/rotorriot/)
 
-> *Anm. rumpelst1lzk1n:* Wenn du auf Drama und Unterhaltung auf RTL 2-Niveau stehst, ist Facebook definitiv der richtige Anlaufpunkt. Ebenso wenn du peinliche Pseudo-Erwachsene sehen möchtest, die sich wie Kleinkinder gebärden, weil ihnen der Support von Hersteller X oder Verkäufer Y nicht den Arsch bei selbst verschuldeten Fehlern hinterher trägt. Gelegentlich finden sich aber trotzdem hilfreiche Infos oder Hilfestellung.
+> *Anm. rumpelst1lzk1n:* Wenn du auf Drama und Unterhaltung auf RTL 2-Niveau stehst, ist Facebook definitiv der richtige Anlaufpunkt. Ebenso wenn du peinliche Pseudo-Erwachsene sehen möchtest, die sich wie Kleinkinder gebärden, weil ihnen der Support von Hersteller X oder Verkäufer Y nicht den Arsch bei selbst verschuldeten Fehlern hinterher trägt. Gelegentlich finden sich aber trotzdem nützliche Infos oder Hilfestellung.
 
 ### Discord
 
