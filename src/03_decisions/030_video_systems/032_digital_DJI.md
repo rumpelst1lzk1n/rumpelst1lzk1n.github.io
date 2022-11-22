@@ -13,21 +13,30 @@ Zudem wurde die Firmware des Systems [inzwischen geknackt](https://github.com/fp
 
 ## Brillen
 
-Bei den Brillen unterscheidet man zwischen V1 und V2. V2 hat eine höhere Refreshrate der Bildschirme, 120Hz vs 144Hz. Darüber hinaus ist V2 nur relevant, wenn du die DJI-FPV-Drohne fliegen willst. Sonst tut es V1 auch.
+Bei den Brillen ist das Namensschema von DJI vogelwild.
 
-Die DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht crasht. Wo du klassische FPV-Drohne gegen Bäume donnern und (falls überhaupt mal etwas kaputt geht) selbst reparieren kannst, ist die DJI-FPV-Drohne ein Plastikbomber, den du für teuer Geld zu DJI in die Reparatur schicken musst.
+Es gibt 4 Brillen:
 
-> *Anm. remove_me*: Scheiß auf die!
+- DJI FPV Goggles v1
+- DJI FPV Goggles v2
+- DJI Goggles 2
+- DJI Goggles 2 lite (noch nicht erschienen)
+
+Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
 
 Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also egal, ob du die Brille v1 oder v2 kaufst.
 
-![DJI FPV Brille](/img/DJI/dji_goggle.png)
+| DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                |
+| ------------------------------------------------ | -------------------------------------------- |
+| ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png) | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png) |
 
-Das DVR der Brille kann man auch schon ganz gut zum Herumzeigen verwenden.
+Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
-Es gibt auch Adapter, um ein Receiver-Modul (siehe oben) mit der DJI-Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
+Für die FPV Goggles gibt es auch Adapter, um ein analoges Receiver-Modul (siehe oben) mit der Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
 
 ## Videosender
+
+### V1
 
 Als Videosender gibt es die AirUnit und die Vista Unit. Die AirUnit ist größer und schwerer, hat aber einen SD-Kartenslot, auf dem das Videomaterial zusätzlich zum DVR in der Brille aufgezeichnet werden kann. Leider funktioniert die Videoaufzeichnung auf der AirUnit so unzuverlässig, dass man es auch sein lassen kann.
 
@@ -39,9 +48,11 @@ Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gl
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
-## Kamera
+Die Videosender der ersten Generation sind bisher NICHT mit den DJI Goggles 2 kompatibel.
 
-Bei den verfügbaren Kameras gibt es vorrangig die Auswahl zwischen Kameras mit 60FPS und Kameras mit 120FPS. Du willst eine Kamera mit 120FPS.
+### V1 Kameras
+
+Bei den verfügbaren Kameras für die V1-Videosender gibt es vorrangig die Auswahl zwischen Kameras mit 60FPS und Kameras mit 120FPS. Du willst eine Kamera mit 120FPS.
 
 - DJI Air Unit Cam
 - Caddx Vista Unit Cam
@@ -53,18 +64,36 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ![DJI Cams](/img/DJI/dji_cams.png)
 
+### V2
+
+Ende November 2022 hat DJI die neue O3 AirUnit veröffentlicht.
+
+Diese ist mit den DJI FPV Goggles v2 sowie den DJI Goggles 2 kompatibel. Mit den DJI FPV Goggles V1 ist dieser Videosender nicht kompatibel und wird das mutmaßlich auch niemals werden.
+
+![DJI O3 AirUnit](/img/DJI/dji_o3_airunit.png)
+
+Es gibt nur eine Kamera zur Auswahl. Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit einer SD-Karte erweitert werden. Zudem unterstützt das Onboard-Recording Bildstabilisierung.
+
 ## WTFOS
 
-Es gibt ein OpenSource-Hacker-Projekt um das FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.
+Es gibt ein OpenSource-Hacker-Projekt um das V1-FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.
 
 ![ItsBluntys DJI Firmware Chart](/img/itsblunty/itsblunty_dji_firmware_chart.png)
 
-## Avata
+## fertige Drohnen
 
-Ende August hat DJI mit der Avata einen CineWhoop als Komplettsystem mit neuer Brille herausgebracht.
+Neben den klassischen Kamera-Drohnen (Mavic und Co) vertreibt DJI zudem zwei fertige Drohnen mit FPV-Unterstützung.
+
+### FPV-Drohne
+
+Die große DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser nicht crasht. Wo du klassische FPV-Drohne gegen Bäume donnern und (falls überhaupt mal etwas kaputt geht) selbst reparieren kannst, ist die DJI-FPV-Drohne ein Plastikbomber, den du für teuer Geld zu DJI in die Reparatur schicken musst.
+
+> *Anm. remove_me*: Scheiß auf die!
+
+### Avata
+
+Die Avata ist ein CineWhoop und hat als solcher mit Propellerschutz auch eher eine Existenzberechtigung für das klassische DJI-Publikum.
 
 ![DJI Avata Set](/img/DJI/dji_avata_set.png)
 
-Die neue Brille ist bisher **NICHT** mit den alten AirUnits/VistaUnits kompatibel. Demnächst (Stand Mitte September 2022) wird eine neue AirUnit mit dem Videosystem erwartet, wie es auch die Avata-Drohne verbaut hat. Dieses soll mit der neuen Brille und der alten "v2"-Brille kompatibel sein. Die neue AirUnit soll in etwa den Formfaktor einer VistaUnit haben.
-
-Als Einstieg in die Welt des FPV ist die Avata bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Bei der Drohne ist ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht. Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert aber NUR mit der DJI FPV Drohne und der DJI Avata ...
+Als Einstieg in die Welt des FPV ist die Avata nur bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Beim Set der Drohne ist allerdings ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht. Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert aber NUR mit der DJI FPV Drohne, der DJI Avata und der O3 AirUnit.
