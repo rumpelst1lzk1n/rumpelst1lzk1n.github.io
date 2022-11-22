@@ -15,7 +15,7 @@ Passiert dir das häufiger? Dann solltest du dir vielleicht die Anleitung ["How 
 Insbesondere gilt es als unfein, Personen direkt anzuschreiben und um Hilfe zu bitten. Ausnahmen:
 
 - Du bist mit der entsprechenden Person wirklich dicke.
-- Die Person hat explizit gesagt, dass das OK ist sie über diesen Kanal zu kontaktieren.
+- Die Person hat explizit gesagt, dass es OK ist sie über diesen Kanal zu kontaktieren.
 
 ## Hilfe geben
 
