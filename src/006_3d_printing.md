@@ -20,7 +20,7 @@ Falls du selbst überlegst, dir einen Drucker zu kaufen, hast du effektiv die Wa
 
 Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker halten. Beispielsweise einen Ender 3. Wie auch bei Koptern gilt: Für häufig genutzte Sachen findest du online viel Doku für weitere Modifikation.
 
-Für das zweite Szenario empfehle ich einen Drucker von Prussia. Nicht so teuer wie die hochprofesionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
+Für das zweite Szenario empfehle ich einen Drucker von Prusa. Nicht so teuer wie die hochprofessionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
 
 ## Materialien
 
