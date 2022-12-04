@@ -31,8 +31,8 @@ Bei den Analog-Brillen gibt es die größte Varianz in Sachen Preis. Es gibt Bri
 
 Man unterscheidet bei den Brillen zwischen Box- und Binocular-Style.
 
-| Box                                                                                 | Binocular                                      |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Box                                     | Binocular                                     |
+| --------------------------------------- | --------------------------------------------- |
 | ![Box](/img/eachine/eachine_ev800d.png) | ![Binocular](/img/skyzone/skyzone_sky04X.png) |
 
 ### Box-Style
