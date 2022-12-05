@@ -44,7 +44,7 @@ Vorteile:
 - günstiger
 - leichter mit Brille nutzbar
 
-In dieser Kategorie bekommst du ab ca ~80€ eine halbwegs taugliche Einsteigerbrille.
+In dieser Kategorie bekommst du ab ca ~100€ eine halbwegs taugliche Einsteigerbrille.
 
 ### Binocular-Style
 
