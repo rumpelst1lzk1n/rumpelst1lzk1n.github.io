@@ -48,7 +48,7 @@ Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gl
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
-Die Videosender der ersten Generation sind bisher NICHT mit den DJI Goggles 2 kompatibel.
+Die Videosender der ersten Generation sind bisher NICHT mit den DJI Goggles 2 kompatibel. Man munkelt aber davon, dass DJI an einer Abwärtskompatibilität arbeitet.
 
 ### V1 Kameras
 
