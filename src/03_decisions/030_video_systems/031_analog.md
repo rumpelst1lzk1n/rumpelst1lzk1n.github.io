@@ -37,7 +37,7 @@ Man unterscheidet bei den Brillen zwischen Box- und Binocular-Style.
 
 ### Box-Style
 
-Box-Style ist einfach nur eine Box, die vor dem Gesicht hängt. Je nach Bauform mehr oder weniger unförmig. Die Box ein Display und ggf noch eine Linse.
+Box-Style ist einfach nur eine Box, die vor dem Gesicht hängt. Je nach Bauform mehr oder weniger unförmig. Die Box, ein Display und ggf. noch eine Linse.
 
 Vorteile:
 
