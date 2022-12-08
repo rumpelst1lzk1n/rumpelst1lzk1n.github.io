@@ -8,9 +8,9 @@ Je nach Videosystem erhöht sich auch der Anschaffungspreis jeder neuen Drohne, 
 
 ## Allgemein
 
-FPV unterscheidet sich von klassischem Modellbau-Flug dadurch, dass du von deinem Fluggerät das Live-Videobild an einen Empfänger überträgst und somit eine Art Pilotenansicht hast. Die Wiedergabe kann dabei auf einem Monitor oder einer Videobrille erfolgen. Eine Videobrille bietet deutlich mehr Immersion und ist im FPV deutlich weiter verbreitet als der Flug mittels Monitor. Wir konzentrieren uns im nachfolgenden auf den Empfang mittels Videobrille.
+FPV unterscheidet sich von klassischem Modellbau-Flug dadurch, dass du von deinem Fluggerät das Live-Videobild an einen Empfänger überträgst und somit eine Art Pilotenansicht hast. Die Wiedergabe kann dabei auf einem Monitor oder einer Videobrille erfolgen. Eine Videobrille bietet dem Piloten mehr Immersion und ist im FPV deutlich weiter verbreitet als der Flug mittels Monitor.
 
-Dennoch kann ein Monitor für Zuschauer oder für Arbeiten auf der Werkbank eine sinnvolle Ergänzung darstellen.
+Wir konzentrieren uns im nachfolgenden auf den Empfang mittels Videobrille. Dennoch kann ein Monitor irgendwann einmal für Zuschauer oder für Arbeiten auf der Werkbank eine sinnvolle Ergänzung darstellen.
 
 In der Videobrille hast du normalerweise einen Empfänger, entweder fest verbaut oder als Modul. Zudem hast du in der Brille die Möglichkeit, das angezeigte Bild auf SD-Karte aufzunehmen. Stichwort `DVR` (Digital Video Recorder). **NUTZE ES!** Die Bildqualität eignet sich eher nicht zum Angeben auf Youtube. Aber wenn du deine Drohne irgendwo auf weiter Flur verloren hast, wirst du die Möglichkeit zu schätzen wissen, dass du den Flug rekonstruieren kannst und weißt, wo das Gerät abgestürzt ist.
 
