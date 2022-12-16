@@ -27,18 +27,20 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - Monochrom-Display
 - sehr kleiner interner Akku
 
-## Radiomaster TX12 (MK2)
+## Radiomaster Boxer
 
-- ca. 120€
+- ca. 130€
 - etwas kleiner als Vollformat
 - JR-Modulschacht
-- Multi-Protokoll-Modul, MK2 mit ELRS
+- ELRS (oder Multi-Protokoll-Modul, aber lieber ELRS)
 - OpenTX oder EdgeTX
 - Monochrom-Display
 
+Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbestellung. Von dem, was man bisher gesehen hat, hat die Funke aber das Potential, eine DER Empfehlungen für Neueinsteiger zu sein.
+
 ## Jumper T-Pro
 
-- ca. 150€
+- ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
 - Lite-Modulanschluss
 - Mehrere Protokoll-Varianten. Nimm die mit ELRS.
