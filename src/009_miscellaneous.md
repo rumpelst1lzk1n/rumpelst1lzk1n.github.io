@@ -21,8 +21,6 @@ Die unvollständigen Schriften des Propheten Bardwell.
 
 #### Buch 2
 
-Diese Schrift handelt vom Auszug der FPVler aus dem Reiche FrSkys.
-
 "Es begab sich also zu der Zeit, dass FrSky DER Hersteller für Funken in FPV war. Und diese Funken waren für viele die ersten und einzigen.
 Da machte sich ein auch Trappy aus Österreich auf in die chinesische Provinz Hongkong, mit TBS, seiner vertrauten Firma, die entwickelte einen verlässlichen, weit reichenden RC-Link."
 \- Bardwell 2, 1-2
