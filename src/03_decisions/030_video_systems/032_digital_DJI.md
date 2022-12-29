@@ -80,6 +80,8 @@ Es gibt ein OpenSource-Hacker-Projekt um das V1-FPV-System von DJI namens [WTFOS
 
 ![ItsBluntys DJI Firmware Chart](/img/itsblunty/itsblunty_dji_firmware_chart.png)
 
+Wenn du eine Version auf der Brille haben solltest, mit der WTF.OS geblockt ist, kannst du mit dem Projekt [fpv-wtf/butter](https://github.com/fpv-wtf/butter) eine Firmware flashen, mit der die Installation des Hacks wieder möglich sein sollte.
+
 ## fertige Drohnen
 
 Neben den klassischen Kamera-Drohnen (Mavic und Co) vertreibt DJI zudem zwei fertige Drohnen mit FPV-Unterstützung.
