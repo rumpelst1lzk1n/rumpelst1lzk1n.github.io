@@ -113,15 +113,14 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 ## Shops
 
-Bei manchen den Links *kann* es sich um Affiliate Links handeln.
+Die im Folgenden aufgeführten Shops sind bekannt, verlässlich und haben vernünftige Preise.
+
+Bei manchen der Links *kann* es sich um Affiliate Links handeln.
 
 ### Allgemein
 
-Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
-
 - [drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/?aff=77), Frankreich
 - [droneit.se](https://droneit.se/), Schweden
-- [fpv24.com](https://www.fpv24.com/de/), Deutschland
 - [modell-hubschrauber.at](https://www.modell-hubschrauber.at/), Österreich
 - [n-factory.de](https://n-factory.de/), Deutschland
 - [rctech.de](https://www.rctech.de/), Deutschland
@@ -139,3 +138,7 @@ Folgende Shops sind in meinem Soziotop bekannt und eigentlich verlässlich:
 ### Antennen
 
 - [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
+
+### Multi-Shop-Suche
+
+[fpvmarket.eu](https://fpvmarket.eu/) bietet eine Suchfunktion, die automatisch mehrere Shops durchsucht. Nützlich, um ein Produkt zu finden, das vielleicht bei einem Shop ausverkauft, bei einem anderen Shop aber noch zu haben ist. Angaben ohne Gewähr, oft genug ist ein heiß begehrtes Produkt auch einfach überall ausverkauft.
