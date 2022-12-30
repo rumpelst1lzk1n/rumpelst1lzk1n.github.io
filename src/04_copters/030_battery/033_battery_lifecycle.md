@@ -14,7 +14,7 @@ Im Normalfall solltest du dir ab spätestens 3,5 Volt pro Zelle einen sicheren L
 
 Einzig TinyWhoop-Akkus kannst du bis ~3V runter prügeln.
 
-![voltage vs capacity used](img/oscar_liang/voltage-vs-capacity-used-percentage.jpg)
+![voltage vs capacity used](/img/oscar_liang/voltage-vs-capacity-used-percentage.jpg)
 
 ## Entsorgung
 
