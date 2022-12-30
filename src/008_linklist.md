@@ -105,6 +105,12 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 - [FPV Wörterbuch (WIP)](https://docs.google.com/document/d/1BGCfnv2kSAx8u5DQhsWWvEG7S7KHRSN71H0z0-NkFyw)
 
+### 3D-Druck
+
+- [yeggi.com](https://www.yeggi.com/), Suchmaschine für 3D-Druckteile
+- [thingiverse.com](https://www.thingiverse.com/), Community für 3D-Drucke
+- [printables.com](https://www.printables.com/), wie Thingiverse, nur kleiner aber bessere Funktionen (z.B. eine funktionierende Suche)
+
 ## Hersteller Dokumentationen
 
 - [Diatone](https://www.diatone.us/apps/help-center)

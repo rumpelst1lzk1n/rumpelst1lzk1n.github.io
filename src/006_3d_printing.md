@@ -2,13 +2,13 @@
 
 Man braucht immer wieder etwas. Halterungen für Antennen und Kameras, Landefüße, etc.
 
-Eine gute Anlaufstelle um nach Druckteilen für seinen Frame zu suchen ist [yeggi.com](https://www.yeggi.com/). Masochisten suchen auch direkt auf [thingiverse.com](https://www.thingiverse.com/), aber deren Suche ist leider wenig zuverlässig.
-
-Es ist nützlich, einen 3D-Drucker zu haben, oder jemand zu kennen, der einem Teile drucken kann.
+3D-Druck ist da der Helfer in der Not. Es ist nützlich in dem Hobby, einen 3D-Drucker zu haben, oder jemand zu kennen, der einem Teile drucken kann.
 
 Wenn man selbst keinen Zugriff auf einen Drucker hat, gibt es online eine Vielzahl an Diensten, die einem die gewünschten Teile für mehr oder weniger Geld drucken.
 
 Auch bei einem örtlichen [FabLab](https://de.wikipedia.org/wiki/FabLab)-Verein vorbei zu schauen kann sich lohnen. Diese haben meistens 3D-Drucker und auch eine Vielzahl anderer Werkzeuge.
+
+Eine gute Anlaufstelle um nach Druckteilen für seinen Frame zu suchen ist [yeggi.com](https://www.yeggi.com/). Masochisten suchen auch direkt auf [thingiverse.com](https://www.thingiverse.com/), aber deren Suche ist leider wenig zuverlässig.
 
 ## Drucker
 
