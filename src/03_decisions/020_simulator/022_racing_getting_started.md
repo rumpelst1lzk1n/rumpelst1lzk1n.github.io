@@ -28,6 +28,8 @@ Anschließend empfehle ich noch, den **Race Start** auf einen Switch an deiner F
 
 Unter **Settings** -> **Main Settings** empfehle ich, **Camera VTX Noise** ganz runter zu setzen. Ist unnütz, frisst Leistung und sieht dazu noch scheiße aus.
 
+Ebenso solltest du unter **Settings** -> **Main Settings** das automatische Hochladen via **Auto Leaderboard Time Upload** aktivieren, sonst vergisst du gegebenenfalls eine neue Bestzeit hochzuladen.
+
 #### Settings -> Screen Settings
 
 Unter **Settings** -> **Screen Settings** empfehle ich **Auto Adjust Quality** zu aktivieren und bei **Minimum FPS** einen Wert zwischen 100 und 150 anzugeben. Sonstige Grafikeinstellungen nach Gusto und Leistungsfähigkeit deines Rechners.
