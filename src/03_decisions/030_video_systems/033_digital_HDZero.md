@@ -29,11 +29,27 @@ Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 20
 
 ## Empfänger
 
-Für HDZero gibt es einen Empfänger, der etwa 250€ kostet. Dieser setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
+Für HDZero gibt es inzwischen einige unterschiedliche Empfänger
+
+### Modul
+
+Das Modul kostet etwa 250€ und setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
 
 ![HDZero VRX](/img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png)
 
-Eine neue Brille mit nativer HDZero-Unterstützung befindet sich aktuell in der Entwicklung, diese wird aber voraussichtlich nicht vor Ende 2022 verfügbar sein.
+### Brillen
+
+Daneben gibt es 2 Brillen, eine im Binocular-Design und eine im Box-Design.
+
+| HDZero Brille                                      | EMAX Transporter II HD                                        |
+| -------------------------------------------------- | ------------------------------------------------------------- |
+| ![HDZero Brille](/img/divimath/hdzero_goggles.png) | ![EMAX Transporter 2 HD](/img/emax/emax_transporter_2_hd.png) |
+
+Beide haben es bisher noch nicht in den europäischen Handel geschafft sondern sind ausschließlich auf den Websites der Hersteller vorbestellbar.
+
+Kostenpunkt für die HDzero Brille sind etwa 500$, für die EMAX-Brille etwa 240$. Beide Preise jeweils ohne Zoll und Einfuhrumsatzsteuer.
+
+Von der HDZero Brille sind bereits erste Testexemplare ausgeliefert worden, die Ressonanz bisher ist positiv bis sehr positiv.
 
 ## Alte Hardware
 
