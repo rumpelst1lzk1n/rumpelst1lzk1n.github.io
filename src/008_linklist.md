@@ -73,7 +73,6 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 ## Discord Server
 
-- [pr0-FPV](https://discord.gg/uBh3QsnqF5)
 - [ELRS Community](https://discord.gg/dS6ReFY)
 - [HDZero](https://discord.gg/kGsnEDMb2V)
 - [BetaFlight](https://discord.gg/gV4XSq3fus)

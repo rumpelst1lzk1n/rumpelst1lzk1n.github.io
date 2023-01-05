@@ -78,4 +78,6 @@ Meist braucht man für gute Käufe etwas Erfahrung, damit dir der Verkäufer nic
 
 Wenn du mit dem Guide durch bist, solltest kannst du viele Sachen aber ganz gut einschätzen können.
 
-Gerne kannst du auch Rückfragen dazu im [pr0 Discord](https://discord.gg/uBh3QsnqF5) stellen.
+## Einkaufsliste
+
+Gerade vor deiner ersten Großbestellung empfiehlt es sich, die Wunsch-Hardware nochmal auf einer Liste zusammen zu fassen und jemanden mit Erfahrung in FPV drüber gucken zu lassen.

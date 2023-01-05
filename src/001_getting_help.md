@@ -59,7 +59,7 @@ Die beiden größten Gruppen sind die des Herstellers TBS sowie des Shops Rotor 
 
 Discord ist wohl der dynamischste Ort, um FPVler zu treffen, Hilfe zu bekommen oder sich über Neuigkeiten auszutauschen.
 
-Viele bekannte FPVler betreiben einen eigenen Discord-Server auf dem sich die Fans tummeln um sich auszutauschen. Auch die großen OpenSource-Projekte haben meistens einen eigenen Discord-Server, über den sich die Entwickler austauschen und ggf. Hilfe geben.
+Viele bekannte FPVler betreiben einen eigenen Discord-Server auf dem sich die Fans tummeln um sich auszutauschen. Auch die großen OpenSource-Projekte haben meistens einen eigenen Discord-Server, über den sich die Entwickler austauschen und ggf. Hilfe geben. Und daneben gibt es auch noch eine Vielzahl an offener Server, auf denen sich einfach FPV-Menschen sammeln.
 
 Auf die jeweiligen Discord-Server kommst du mit einem entsprechenden Einladungs-Link, diese findest du häufig in Kommentaren und Videobeschreibungen von weiteren sozialen Medien wie YouTube, Instagram, Facebook etc. oder auf Github beim entsprechenden OpenSource-Projekt.
 
