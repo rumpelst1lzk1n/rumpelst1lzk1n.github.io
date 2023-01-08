@@ -18,10 +18,10 @@ Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollform
 
 Nachfolgend einige populäre Vertreter dieser Formfaktoren.
 
-| Vollformat                                                   | Gamepad                                         | Zwischending                                               |
-| ------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------------- |
-| ![Radiomaster TX16S](/img/radiomaster/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![TBS Mambo](/img/team_blacksheep/mambo.png)               |
-|                                                              | ![Jumper T-Pro](/img/jumper/jumper_t-pro.png)   | ![Radiomaster TX12](/img/radiomaster/radiomaster_tx12.png) |
+| Vollformat                                                   | Gamepad                                         | Zwischending                                                |
+| ------------------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------- |
+| ![Radiomaster TX16S](/img/radiomaster/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![Radiomaster TX12](/img/radiomaster/radiomaster_boxer.png) |
+|                                                              | ![Jumper T-Pro](/img/jumper/jumper_t-pro.png)   |                                                             |
 
 ## Modi
 

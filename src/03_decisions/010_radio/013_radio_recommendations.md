@@ -18,15 +18,6 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 
-## Radiomaster Zorro
-
-- ca. 140€
-- Gamepad
-- Lite-Modulanschluss
-- Mehrere Protokoll-Varianten. Nimm die mit ELRS.
-- Monochrom-Display
-- sehr kleiner interner Akku
-
 ## Radiomaster Boxer
 
 - ca. 130€
@@ -43,7 +34,7 @@ Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbest
 - ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
 - Lite-Modulanschluss
-- Mehrere Protokoll-Varianten. Nimm die mit ELRS.
+- Mehrere Protokoll-Varianten. Nimm die mit integriertem ELRS.
 - winziges Monochrom-Display
 
 ## TBS Tango 2
@@ -55,17 +46,9 @@ Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbest
 - Pro-Version mit klappbaren Gimbals
 - ständig ausverkauft
 - winziges Monochrom-Display
-- Multi-Protokoll-Modul muss nach gekauft werden
+- Multi-Protokoll via separat erhältlichem Modul
 
 Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
-
-## TBS Mambo
-
-- ca. 160€
-- etwas kleiner als Vollformat
-- JR-Modulschacht
-- eingebautes Tracer
-- kleines Monochrom-Display
 
 ## Sendemodul & Empfänger
 
@@ -87,8 +70,8 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 
 > *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass man das Modul für Zugriff auf den USB-Port aufschrauben muss. Ist aber nicht unbedingt notwendig, flashen kann man das Modul auch über die Funke oder über WiFi.
 
-| Happymodel ES24TX Pro                            | Happymodel ES24TX Pro Slim                              |
-| ------------------------------------------------ | ------------------------------------------------------- |
+| Happymodel ES24TX Pro                           | Happymodel ES24TX Pro Slim                             |
+| ----------------------------------------------- | ------------------------------------------------------ |
 | ![JR-Bay Modul](/img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](/img/happymodel/ES24TX_Pro_slim.jpg) |
 
 ### ELRS-Empfänger
@@ -97,8 +80,8 @@ Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezial
 
 Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-Antenne verwenden, die direkt auf dem Receiver drauf ist. Heißt, du musst dir keine Gedanken machen, wie du eine Antenne auf deinem Fluggerät unter bringst. Eine richtige Antenne hat mehr Reichweite. Für kleine Fluggeräte, mit denen du dich in einem Umkreis von etwa einen Kilometer bewegst, reicht das trotzdem. Das Grundprinzip, dass bei gleicher Sendeleistung dein Steuersignal weiter geht als dein Videosignal wird auch damit erfüllt.
 
-| Happymodel EP1                                 | Happymodel EP2                                 | BetaFPV EP2                                            |
-| ---------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ |
+| Happymodel EP1                                | Happymodel EP2                                | BetaFPV EP2                                           |
+| --------------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
 | ![Happymodel EP1](/img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](/img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](/img/betafpv/EP2_RX_flat_ceramic.webp) |
 
 Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
@@ -113,8 +96,8 @@ Lediglich bei Crossfire gibt es 2 unterschiedliche Sende-Module für den JR-Scha
 
 Ansonsten gibt es für Tracer und Crossfire je ein Modul für JR- und Lite-Modulschacht.
 
-| Crossfire Micro TX                                             | Crossfire Nano TX                                                  | Tracer Micro TX                                          | Tracer Nano TX                                               |
-| -------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Crossfire Micro TX                                            | Crossfire Nano TX                                                 | Tracer Micro TX                                         | Tracer Nano TX                                              |
+| ------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
 | ![Crossfire Micro TX](/img/team_blacksheep/Crossfire_Mtx.png) | ![Crossfire Nano TX](/img/team_blacksheep/Crossfire_Mtx_lite.png) | ![Tracer Micro TX](/img/team_blacksheep/Tracer_Mtx.png) | ![Tracer Nano TX](/img/team_blacksheep/Tracer_Mtx_lite.png) |
 
 #### Empfänger
