@@ -7,16 +7,13 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 
 Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle angeboten wurden, gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
 
-## Radiomaster TX16S (Mk 2)
+## Jumper T-Pro
 
-- ca. 230€
-- Vollformat
-- JR-Modulschacht
-- Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
-- OpenTX oder EdgeTX
-- großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
-
-Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
+- ca. 150€ (in China manchmal auf für ~100€)
+- Gamepad
+- Lite-Modulanschluss
+- Mehrere Protokoll-Varianten. Nimm die mit integriertem ELRS.
+- winziges Monochrom-Display
 
 ## Radiomaster Boxer
 
@@ -28,14 +25,6 @@ Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unters
 - Monochrom-Display
 
 Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbestellung. Von dem, was man bisher gesehen hat, hat die Funke aber das Potential, eine DER Empfehlungen für Neueinsteiger zu sein.
-
-## Jumper T-Pro
-
-- ca. 150€ (in China manchmal auf für ~100€)
-- Gamepad
-- Lite-Modulanschluss
-- Mehrere Protokoll-Varianten. Nimm die mit integriertem ELRS.
-- winziges Monochrom-Display
 
 ## TBS Tango 2
 
@@ -49,6 +38,19 @@ Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbest
 - Multi-Protokoll via separat erhältlichem Modul
 
 Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
+
+## Radiomaster TX16S (Mk 2)
+
+Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit Leder-Applikationen?
+
+- ab ca. 230€
+- Vollformat
+- JR-Modulschacht
+- Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
+- OpenTX oder EdgeTX
+- großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
+
+Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 
 ## Sendemodul & Empfänger
 
