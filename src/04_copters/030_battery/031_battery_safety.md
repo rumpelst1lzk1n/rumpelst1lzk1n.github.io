@@ -14,6 +14,6 @@ Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist di
 
 Zudem empfiehlt es sich, einen kleinen Akku-Tester griffbereit zu haben. Auch unterwegs.
 
-| LiPo-Tester (Premium)                                                                              | LiPo-Tester (einfach)                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://www.isdt.co/wp-content/uploads/2018/11/bg-8s.jpg" alt="ISDT BG-8S" width="200"/> | <img src="https://cdn-global-hk.hobbyking.com/media/catalog/product/cache/3/image/660x415/17f82f742ffe127f42dca9de82fb58b1/l/o/low-voltage-alarm-black-color-91011000001-0-2.jpg" alt="LiPo Tester" width="200"/> |
+| LiPo-Tester (Premium)                          | LiPo-Tester (einfach)                                            |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| ![ISDT LiPo Checker](/img/isdt/isdt_bg-8s.png) | ![generischer LiPo Checker](/img/misc/battery_tester_simple.png) |
