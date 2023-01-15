@@ -144,6 +144,10 @@ Bei manchen der Links *kann* es sich um Affiliate Links handeln.
 
 - [shop.prodrone.pl](https://shop.prodrone.pl/), Polen
 
+### Herstellerspezifische Shops
+
+- [Radiomaster (EU Shop)](https://www.radiomasterrc.eu/)
+
 ### Multi-Shop-Suche
 
 [fpvmarket.eu](https://fpvmarket.eu/) bietet eine Suchfunktion, die automatisch mehrere Shops durchsucht. Nützlich, um ein Produkt zu finden, das vielleicht bei einem Shop ausverkauft, bei einem anderen Shop aber noch zu haben ist. Angaben ohne Gewähr, oft genug ist ein heiß begehrtes Produkt auch einfach überall ausverkauft.
