@@ -129,4 +129,6 @@ Falls du dich für so eine Brille entschieden hast, hier eine Liste populärer E
 - Rapidfire
 - FuriousFPV Achilles
 
+![Beispielbild TBS Fusion](/img/team_blacksheep/tbs_fusion.png)
+
 Ein Empfänger sollte ähnlich wie eine Brille mit eingebautem Modul mindestens über 2 Antennen verfügen. Damit kann sich der Empfänger das beste Signal heraus picken (`Diversity`). Fortgeschrittene Module wie TBS Fusion oder Rapidfire können das Signal beider Antennen kombinieren und ein optimales Bildsignal herausrechnen.
