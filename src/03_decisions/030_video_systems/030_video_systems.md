@@ -54,7 +54,7 @@ Eine gute Antenne kann mehr zu einem stabilen Bild beitragen, als einfach die Le
 
 Für den Einstieg sind auf Brille und Drohne ungerichtete Antennen vom Typ "Lollipop", "Stubby" oder "Pagoda" zu bevorzugen.
 
-Wenn du an deiner Brille mehrere Inputs für Antennen hast und dein Videosystem z.B. Diversity unterstützt, kann eine Kombination aus gerichteter und ungerichteter Antenne Sinn machen. Dabei ist die Annahme, dass du meistens in dem Bereich vor dir fliegst. Für diesen Bereich sorgt dann die gerichtete Antenne für und da die Patch für den besseren Empfang sorgt.
+Wenn du an deiner Brille mehrere Inputs für Antennen hast und dein Videosystem z.B. Diversity unterstützt, kann eine Kombination aus gerichteter und ungerichteter Antenne Sinn machen. Dabei ist die Annahme, dass du meistens in dem Bereich vor dir fliegst. Auf diesen Bereich richtest du dann die gerichtete Antenne aus und sorgst damit für besseren Empfang.
 
 #### Polarisation
 
@@ -66,7 +66,7 @@ Dabei sind im FPV 3 unterschiedliche Polarisation üblich:
 - RHCP (right hand circular polarized)
 - LHCP (left hand circular polarized)
 
-Wenn du auf einer Seite (z.B. des Senders) einen Dipol verwendest, ist es relativ egal, was du auf der anderen Seite (z.B. des Empfängers) hast. Linear und LHCP oder RHCP kann man relativ gut mischen.
+Wenn du auf einer Seite (z.B. des Senders) einen Dipol verwendest, ist es relativ egal, was du auf der anderen Seite (z.B. des Empfängers) hast. Linear und wahlweise LHCP oder RHCP kann man relativ gut mischen.
 
 Verwendest du auf beiden Seiten Antennen mir zirkularer Polarisation, so solltest du aufpassen, dass dies sowohl auf Sende- wie auch auf Empfangsseite der Fall ist. Also entweder nur `RHCP` oder nur `LHCP`.
 
@@ -96,7 +96,7 @@ Helical findet sich auch vereinzelt als Bauform, wird aber eher für Flüge übe
 
 #### SMA & RP-SMA
 
-Ein gängiger Anschluss für Antennen ist SMA. Dabei gibt es SMA und RP-SMA. Beide unterscheiden sich dadurch, ob der Stift an der Schraube oder and der Mutter sitzt.
+Ein gängiger Anschluss für Antennen ist SMA. Dabei gibt es SMA und RP-SMA. Beide unterscheiden sich dadurch, ob der Stift an der Schraube oder an der Mutter sitzt.
 
 | Typ    | Schraube                                                                                                                    | Mutter                                                                                   |
 | ------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
