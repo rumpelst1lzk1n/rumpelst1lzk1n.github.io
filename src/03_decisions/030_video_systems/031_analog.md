@@ -85,29 +85,6 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 
 Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese haben Displays mit deutlich geringerer Auflösung.
 
-#### Fatshark Attitude V6
-
-- ca 350-400€
-- DVR
-- Auflösung 720p
-- integrierter Receiver
-- HDMI-in
-
-Fatshark konzentriert sich zunehmend auf den digitalen Markt. Wie viel Zukunft ihre analogen Produkte noch haben ist zur Zeit fraglich.
-
-#### Fatshark Dominator HDO 2
-
-- ca. 600€
-- DVR
-- Auflösung 720p
-- **KEIN** mitgelieferter Receiver
-- HDMI-in
-- OLED-Display (knackscharfe Farben)
-
-Auf dem Gebrauchtmarkt gibt es öfter auch Pakete mit Receiver.
-
-> *Anm. rumpelst1lzk1n*: Ich würde mir von Fatshark kein analoges System mehr neu kaufen ...
-
 #### Skyzone Sky04X (v2)
 
 - ca. 600€
@@ -117,7 +94,30 @@ Auf dem Gebrauchtmarkt gibt es öfter auch Pakete mit Receiver.
 - HDMI-in
 - OLED-Display (knackscharfe Farben)
 
-> *Anm. rumpelst1lzk1n*: In meiner Wahrnehmung die beste analoge Brille.
+#### HDZero Goggles
+
+- ca. 550€ (vor Zoll)
+- DVR
+- Auflösung 1080p
+- **KEIN** mitgelieferter Analog-Empfänger
+- HDMI-in / -out
+- OLED-Display (knackscharfe Farben)
+- HDZero eingebaut
+
+Eigentlich ist die Brille dazu gedacht, sie mit dem HDZero Digital-System zu verwenden. Dafür ist auch ein entsprechender Empfänger verbaut.
+Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verwenden kann.
+
+Gibt es leider nur im HDZero-Shop und der liefert nur aus China. Zudem ist die Brille aktuell ausverkauft, mit der nächsten Lieferung ist frühestens im März 2023 zu rechnen.
+
+> *Anm. rumpelst1lzk1n*: Die Eier-legende Wollmilchsau. Damit bist du für alles bis auf DJI gerüstet. Wenn du das Geld übrig hast, ist das die wohl mit Abstand beste Brille 2023.
+
+#### Fatshark
+
+Früher **DER** Hersteller für FPV-Brillen.
+
+Gibt es auf auf eBay-Kleinanzeigen gebraucht. Entweder Attitude V6, HDO oder HDO2. Alles darunter ist mehr oder weniger Grütze.
+
+> *Anm. rumpelst1lzk1n*: Neu würde ich mir von Fatshark nichts mehr kaufen.
 
 ## Empfänger (Analog)
 
