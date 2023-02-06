@@ -49,7 +49,7 @@ Beide haben es bisher noch nicht in den europäischen Handel geschafft sondern s
 
 Kostenpunkt für die HDzero Brille sind etwa 500$, für die EMAX-Brille etwa 240$. Beide Preise jeweils ohne Zoll und Einfuhrumsatzsteuer.
 
-Die Resonanz bei den Leuten, die bisher eine HDZero Brille ergattern ist positiv bis sehr positiv.
+Die Resonanz bei den Leuten, die bisher eine HDZero Brille ergattern konnten ist positiv bis sehr positiv.
 
 ## Alte Hardware
 
