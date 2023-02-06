@@ -15,8 +15,6 @@ Um das Vorgehen der Veröffentlichung gab es größere Kontroversen:
 - Der Ursprung der Hardware ist nicht klar bzw. gibt es Hinweise darauf, dass dieser aktiv verschleiert werden sollte.
 - Das System wurde mit unfertiger Software ausgeliefert.
 
-> *Anm. rumpelst1lzk1n*: Einem Anfänger würde ich noch davon abraten. Das System sollte sich mindestens 1-2 Monate auf dem Markt befunden haben, einmal durch die Hände der größeren Reviewer gegangen sein und der Hersteller sollte das erste Community-Feedback in die Firmware haben einfließen lassen.
-
 Caddx hat die Scharade mit Walksnail inzwischen fallen gelassen und vermarktet das System offiziell unter eigenem Namen.
 
 ## Sender
@@ -56,4 +54,8 @@ Es gibt:
 
 Die Brille von Caddx und die Fatshark Dominator unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
 
-Beide Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Akku an!!!
+Die Brillen haben keinerlei Möglichkeit, andere Videosystem daran anzuschließen.
+
+> *Anm. rumpelst1lzk1n*: Ich bin da lieber flexibel. Meine persönliche Empfehlung wäre, sich eine gute Brille mit HDMI-Eingang und den Empfänger zu holen.
+
+Beide Binocular-Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Akku an!!!
