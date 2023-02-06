@@ -1,15 +1,13 @@
 # DJI
 
-DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein goldener Käfig. Kameras gibt es von 2 Herstellern. Es gibt 2 Brillen und 2 Videosender von DJI.
+DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein goldener Käfig.
 
-> *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler und kommt so in etwa bei 720p raus.
+> *Anm. remove_me*: Das Bild ist dafür auch circa 10x geiler als Analog und kommt so in etwa bei 720p raus.
+
+Die Hardware gibt es nur von DJI, lediglich bei den Kameras lassen sie 1-2 andere Hersteller mit ins Boot.
 
 Das System hat einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaße (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
 Viele fliegen dennoch Rennen mit dem DJI-System, wenn es vom Rennveranstalter erlaubt ist.
-
-Es gibt Anzeichen dafür, dass DJI das System weiterentwickelt. Ob diese Weiterentwicklung mit der aktuell verfügbaren Hardware kompatibel sein wird, oder ob DJI ein neues System auf den Markt bringt, ist bisher noch nicht bekannt.
-
-Zudem wurde die Firmware des Systems [inzwischen geknackt](https://github.com/fpv-wtf/margerine), was auf eine Weiterentwicklung des Systems durch die Community hoffen lässt.
 
 ## Brillen
 
@@ -20,11 +18,9 @@ Es gibt 4 Brillen:
 - DJI FPV Goggles v1
 - DJI FPV Goggles v2
 - DJI Goggles 2
-- DJI Goggles 2 lite (noch nicht erschienen)
+- DJI Goggles 2 lite (gerüchteweise, noch nicht erschienen)
 
 Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
-
-Für das FPV, auf das wir uns hier in diesem Guide konzentrieren ist es also egal, ob du die Brille v1 oder v2 kaufst.
 
 | DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                |
 | ------------------------------------------------ | -------------------------------------------- |
