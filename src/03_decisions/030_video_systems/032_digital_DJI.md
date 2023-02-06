@@ -88,7 +88,7 @@ Die große DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser ni
 
 > *Anm. remove_me*: Scheiß auf die!
 
-![DJI Avata Set](/img/DJI/dji_fpv_drone.png)
+![DJI FPV Drohne](/img/DJI/dji_fpv_drone.png)
 
 ### Avata
 
