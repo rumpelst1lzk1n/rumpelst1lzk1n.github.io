@@ -68,7 +68,9 @@ Wenn du professionell arbeitest, solltest du nochmal zu deinem Versicherungsmens
 
 ## Gesetzestexte und Verordnungen
 
-Hier wird es juristisch. Es folgt eine Liste mit Links zu Gesetzestexten, die für das Hobby von Relevanz sind.
+> *Anm. rumpelst1lzk1n*: Hier wird es juristisch. Paragraphenreiter aufgepasst.
+
+Es folgt eine Liste mit Links zu Gesetzestexten, die für das Hobby von Relevanz sind.
 
 Alle Angaben aber ohne Gewähr.
 
