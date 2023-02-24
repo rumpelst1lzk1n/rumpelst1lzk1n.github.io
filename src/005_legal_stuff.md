@@ -73,5 +73,5 @@ Hier wird es juristisch. Es folgt eine Liste mit Links zu Gesetzestexten, die f�
 Alle Angaben aber ohne Gew채hr.
 
 - [Luftverkehrs-Ordnung](https://www.gesetze-im-internet.de/luftvo_2015/)
-- Fliegen in Kontrollzonen: [Allgemeinverf체gung zur Erteilung von Flugverkehrskontrollfreigaben f체r Fl체ge mit Flugmodellen und unbemannten Luftfahrtsystemen in Kontrollzonen mit DFS-Flugplatzkontrolle](https://www.dfs.de/homepage/de/flugsicherung/rechtlicher-rahmen/richtlinien/nfl-2023-1-2705.pdf)
+- [Fliegen in Kontrollzonen, Allgemeinverf체gung der DFS](https://www.dfs.de/homepage/de/flugsicherung/rechtlicher-rahmen/richtlinien/nfl-2023-1-2705.pdf)
 - [EU Drohnenverordnung](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0947-20220404)
