@@ -65,3 +65,12 @@ Beispielhafte Vereine sind hier:
 - [Schweizerische Modellflugverband](https://www.modellflug.ch/DE/cont/280)
 
 Wenn du professionell arbeitest, solltest du nochmal zu deinem Versicherungsmenschen des Vertrauens gehen und prüfen, ob dein Versicherungsschutz auch für gewerbliche Arbeiten gilt.
+
+## Gesetzestexte und Verordnungen
+
+Hier wird es juristisch. Es folgt eine Liste mit Links zu Gesetzestexten, die für das Hobby von Relevanz sind.
+
+Alle Angaben aber ohne Gewähr.
+
+- [Luftverkehrs-Ordnung](https://www.gesetze-im-internet.de/luftvo_2015/)
+- Fliegen in Kontrollzonen: [Allgemeinverfügung zur Erteilung von Flugverkehrskontrollfreigaben für Flüge mit Flugmodellen und unbemannten Luftfahrtsystemen in Kontrollzonen mit DFS-Flugplatzkontrolle](https://www.dfs.de/homepage/de/flugsicherung/rechtlicher-rahmen/richtlinien/nfl-2023-1-2705.pdf)
