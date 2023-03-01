@@ -20,13 +20,13 @@ Hier der Versuch, einige bekanntere Hersteller einzuordnen:
 
 | Budget     | Mittelklasse | Obere Mittelklasse | Premium   |
 | ---------- | ------------ | ------------------ | --------- |
-| Betaflight | Diatone      | Aikon              | FETtec    |
+| BetaFPV    | Diatone      | Aikon              | FETtec    |
 | HAKRC      | GepRC        | Flywoo             | Lumenier  |
 | Happymodel | HGLRC        | Foxeer             | SpeedyBee |
 | JHEMCU     | iFlight      | TBS                |           |
 | Skystars   |              | T-Motor            |           |
 
-Die Liste erhebt keinen Anspruch auf Vollständigkeit.
+Die Liste erhebt keinen Anspruch auf Vollständigkeit. Sie trifft auch keine Aussage über die Qualität sondern repräsentiert eher, wie die einzelnen Hersteller sich preislich auf dem Markt positionieren.
 
 Aufgrund der aktuellen Chip-Knappheit haben sich die Preise der meisten Hersteller inzwischen stark angeglichen.
 
