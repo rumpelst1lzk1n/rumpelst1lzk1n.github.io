@@ -28,7 +28,11 @@ Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit
 
 Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
-Für die FPV Goggles gibt es auch Adapter, um ein analoges Receiver-Modul (siehe oben) mit der Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
+Für die FPV Goggles (**nicht** für die Googles 2) gibt es auch Adapter, um ein analoges Receiver-Modul (siehe oben) mit der Brille zu verwenden, wenn du neben Digital auch noch Analog fliegen möchtest.
+
+Das bietet sich z.B. für sehr kleine Kopter an, da die Videosender von DJI mit 25+X Gramm zu schwer für diese sind. Hier ist Analog immer noch die Lösung mit dem geringsten Gewicht.
+
+![DJI FPV Googles mit Analog-Adapter](/img/DJI/dji_analog_adapter.png)
 
 ## Videosender
 
@@ -44,7 +48,7 @@ Die AirUnit Lite (auch vertrieben als Caddx Vista oder Runcam Link, alles das gl
 
 Der Videosender kann auch gleichzeitig als Funkempfänger für eine DJI-Funkfernsteuerung benutzt werden. Kann man machen, aber eigentlich willst du eine echte Funkfernsteuerung, siehe oben.
 
-Die Videosender der ersten Generation sind bisher NICHT mit den DJI Goggles 2 kompatibel. Man munkelt aber davon, dass DJI an einer Abwärtskompatibilität arbeitet.
+DJI hat ein Firmware-Upgrade veröffentlicht, mit dem die Videosender der ersten Generation mit den Goggles 2 kompatibel ist.
 
 ### V1 Kameras
 
