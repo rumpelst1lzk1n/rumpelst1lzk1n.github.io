@@ -12,6 +12,8 @@ Andere populäre HD-Kameras sind:
 - Runcam Orange
 - Runcam Thumb (Pro)
 
+[Vergleichbare Liste von Kameras, die im FPV-Bereich genutzt werden.](https://docs.google.com/spreadsheets/d/1flQCDGzn3iUM2gqrI4_A_eQeZDlQujl-d9SckiypVXU/edit?usp=sharing)
+
 ## Bildstabilisierung
 
 Damit das Bild deiner HD-Aufnahmen schön geschmeidig aussieht, gibt es elektronische Hilfsmaßnahmen, die den Bildverlauf glätten. Dazu werden neben den Bildinformationen auch noch Daten des meistens in der Kamera verbauten Gyroskops verwendet. Dann wird der Film an den entsprechenden Stellen beschnitten um den aktuellen Bildausschnitt mit dem darauf folgenden mittig zu halten.
