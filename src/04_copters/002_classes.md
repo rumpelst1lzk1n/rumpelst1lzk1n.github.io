@@ -28,6 +28,8 @@ Für viele Piloten die Grundausstattung, hier ist mehr oder weniger alles erlaub
 
 Die Frames bieten relativ viel Platz für Flight Controller und ESC und sind darauf ausgelegt, auch mal unsanft den Boden zu küssen ohne sofort kaputt zu gehen.
 
+![ImpulseRC Apex Build by GhostBranch FPV ](/img/ghostbranchfpv/impulserc_apex_build.png)
+
 ### Racer
 
 Ähnlich dem Freestyler aber deutlich kompaktere Bauweise.
