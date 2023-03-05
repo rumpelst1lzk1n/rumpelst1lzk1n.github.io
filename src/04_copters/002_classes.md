@@ -20,6 +20,8 @@ Ideal für Innen oder kleinere Gärten.
 
 Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine gute Option, da du damit auch bei nasskaltem Wetter innen fliegen kannst. Eine gewisse Toleranz tierischer und menschlicher Mitbewohner für das hochfrequente Sirren der Motoren vorausgesetzt.
 
+![Happymodel Mobula 7](/img/happymodel/mobula7.png)
+
 ### Freestyler
 
 Für viele Piloten die Grundausstattung, hier ist mehr oder weniger alles erlaubt.
@@ -46,11 +48,15 @@ Für die Propellergröße relativ geringes Gewicht und eine filigrane Bauweise.
 
 Die Propellergröße kann von 2.5" bis 5" reichen. Gerade die Größeren verzeihen harte Abstürze auf Beton o.Ä. nicht. Aber super um einfach irgendwo entspannt durch die Natur zu gondeln.
 
+![GepRC Dolphin 4"](/img/geprc/geprc_dolphin.png)
+
 ### Cinelifter
 
 Das Gerät trägt professionelle Filmkameras im Wert eines Kleinwagens.
 
 Der große Bruder des Cinewhoop. Propeller mit 6-8" Durchmesser. Meistens 8 davon um das Gewicht der Kamera tagen zu können und trotzdem noch halbwegs kompakt und agil zu sein.
+
+![iFlight Taurus X8](/img/iflight/iflight_x8_taurus.png)
 
 ### X-Class / Beast Class
 
