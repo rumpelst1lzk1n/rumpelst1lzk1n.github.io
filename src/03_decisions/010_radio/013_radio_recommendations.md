@@ -17,7 +17,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 
 ## Radiomaster Boxer
 
-- ca. 130€
+- ca. 170€
 - etwas kleiner als Vollformat
 - JR-Modulschacht
 - ELRS (oder Multi-Protokoll-Modul, aber lieber ELRS)
@@ -51,6 +51,8 @@ Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit 
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
+
+> *Anm. rumpelst1lzk1n*: TX16S nur, wenn du wirklich meinst, dass du ein farbiges Touch-Display brauchst. Und dann am besten die Version mit integriertem Multi-Protokoll-Modul. Das interne ELRS-Modul in der TX16S ist leider nur solala, kann nur 250mw und hat Hitzeprobleme. Lieber ein separates ELRS-Modul, das Eichhörnchen mit 1W grillen kann.
 
 ## Sendemodul & Empfänger
 
