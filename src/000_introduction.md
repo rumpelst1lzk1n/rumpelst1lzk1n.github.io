@@ -30,4 +30,4 @@ Die in dem Guide empfohlene Hardware wurde danach ausgesucht, dass sie zum einen
 
 Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
 
-Für HowTos findet ihr unten in den Links umfangreich Anlaufstellen.
+Für HowTos findet ihr [unten in den Links](/008_linklist.html) umfangreich Anlaufstellen.
