@@ -34,7 +34,7 @@ Die Frames bieten relativ viel Platz für Flight Controller und ESC und sind dar
 
 Ähnlich dem Freestyler aber deutlich kompaktere Bauweise.
 
-Meistens kommt Hardware mit kleineren Abmessungen als bei einem Freestyler zum Einsatz, die aber genauso viel leisten kann/muss. Entsprechend mehr kostet die Hardware (ESC & Flight Controller) normalerweise. Zudem ist der Aufbau eines Racers durch den kompakteren Frame meistens deutlich fummeliger als bei einem Freestyler.
+Meistens kommt Hardware mit kleineren Abmessungen als bei einem Freestyler zum Einsatz, die aber genauso viel leisten kann/muss. Entsprechend mehr kostet die Hardware (ESC & Flight Controller) normalerweise. Zudem ist der Aufbau eines Racers durch den kompakteren Frame meistens deutlich fummeliger als bei einem Freestyler, da fast alle Elektro-Komponenten auf einem Haufen übereinander gestapelt werden.
 
 Für Einsteiger eher weniger zu empfehlen. Wenn du wirklich Rennen fliegen möchtest, kannst du das Anfangs auch mit einem Freestyler machen. Das wir sicher nicht der limitierende Faktor sein.
 
