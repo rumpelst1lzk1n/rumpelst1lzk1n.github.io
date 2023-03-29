@@ -96,10 +96,10 @@ Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese 
 
 #### HDZero Goggles
 
-- ca. 550€ (vor Zoll)
+- 600$ (plus Zoll etwa 700€)
 - DVR
 - Auflösung 1080p
-- **KEIN** mitgelieferter Analog-Empfänger
+- **KEIN** mitgelieferter Analog-Empfänger, Analog-Adapter wird zusätzlich benötigt
 - HDMI-in / -out
 - OLED-Display (knackscharfe Farben)
 - HDZero eingebaut
