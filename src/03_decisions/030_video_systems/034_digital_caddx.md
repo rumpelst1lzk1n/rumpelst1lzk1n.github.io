@@ -4,18 +4,11 @@ Seit Anfang Juli 2022 ist ein neues System von Caddx erhältlich.
 
 Das System verhält sich ähnlich wie DJI, ist aber nicht damit kompatibel.
 
-Um das Vorgehen der Veröffentlichung gab es größere Kontroversen:
-
-- Seitens der offiziellen Hersteller (Fatshark) wurde viel Geheimniskrämerei darum betreiben, wer hinter dem System steht.
-- Viele Informationen sind aufgrund von unprofessionellen bzw. nicht vorhandenen Absprachen mit Händlern und Herstellern trotzdem sehr schnell ans Licht gekommen.
-- Die Community wurde mit Anmerkungen, dass sie diverse Infos nichts angingen, verärgert.
+Initial wollte Fatshark als Hersteller des Systems auftreten und hat viel Geheimniskrämerei darum betreiben, wer hinter dem System steht. Darum gab es eine größere Kontroverse.
 
 > *Anm. Drew "Le Drib" Camden*: You don't get to know.
 
-- Der Ursprung der Hardware ist nicht klar bzw. gibt es Hinweise darauf, dass dieser aktiv verschleiert werden sollte.
-- Das System wurde mit unfertiger Software ausgeliefert.
-
-Caddx hat die Scharade mit Walksnail inzwischen fallen gelassen und vermarktet das System offiziell unter eigenem Namen.
+Inzwischen hat Caddx die Scharade aber fallen gelassen und sich dazu bekannt, dass es unter dem Deckmantel "Walksnail" hinter dem System steckt.
 
 ## Sender
 
