@@ -8,7 +8,7 @@ Initial wollte Fatshark als Hersteller des Systems auftreten und hat viel Geheim
 
 > *Anm. Drew "Le Drib" Camden*: You don't get to know.
 
-Inzwischen hat Caddx die Scharade aber fallen gelassen und sich dazu bekannt, dass es unter dem Deckmantel "Walksnail" hinter dem System steckt.
+Inzwischen hat Caddx die Scharade aber fallen gelassen und sich dazu bekannt, dass es unter dem Deckmantel "Walksnail" das System entwickelt hat.
 
 ## Sender
 
