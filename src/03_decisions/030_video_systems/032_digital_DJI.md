@@ -18,13 +18,16 @@ Es gibt 4 Brillen:
 - DJI FPV Goggles v1
 - DJI FPV Goggles v2
 - DJI Goggles 2
-- DJI Goggles 2 lite (gerüchteweise, noch nicht erschienen)
+- DJI Goggles 2 Integra
+
+Die Integra unterscheidet sich von der normalen Version durch ein eingebautes GPS und einen eingebauten Akku.
 
 Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
 
 | DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                |
 | ------------------------------------------------ | -------------------------------------------- |
 | ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png) | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png) |
+|  | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
 
 Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
@@ -93,6 +96,7 @@ Die große DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser ni
 > *Anm. remove_me*: Scheiß auf die!
 
 ![DJI FPV Drohne](/img/DJI/dji_fpv_drone.png)
+![DJI FPV Drohne](/img/memes/dji_fpv.png)
 
 ### Avata
 
