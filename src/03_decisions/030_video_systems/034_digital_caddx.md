@@ -36,15 +36,14 @@ Hinsichtlich Kameras gibt es 5 Modelle in 2 Generationen
 
 | Formfaktor 19x19mm                                         | Formfaktor 14x14mm                                           |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png) | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano.png)     |
+| ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png) | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano.png)        |
 |                                                            | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
 
 ### Generation 2
 
-| Formfaktor 19x19mm                                           | Formfaktor 14x14mm |
-| ------------------------------------------------------------ | ------------------ |
-| ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png)   |                    |
-| ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |                    |
+| Avatar Micro Cam v2 (19x19mm)                              | Avatar Micro Cam Pro (19x19mm)                               |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png) | ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |
 
 Bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
 
