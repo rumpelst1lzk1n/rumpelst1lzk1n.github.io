@@ -21,7 +21,7 @@ Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6. 
 
 | Full-Size (2-6S)                                               | Whoop (1S)                                          |
 | -------------------------------------------------------------- | --------------------------------------------------- |
-| **v1**: ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png) |
+| **v1**: ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_vtx_mini.png) |
 | **v2**: ![Walksnail VTX v2](/img/caddx/avatar_vtx_v2.png)      |                                                     |
 
 Die beiliegenden Antennen sind Müll. Hol dir gute Antennen.
