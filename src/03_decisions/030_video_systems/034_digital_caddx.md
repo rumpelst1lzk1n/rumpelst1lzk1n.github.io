@@ -19,16 +19,34 @@ Die Hardware-Auswahl ist bei den Video-Sendern sehr überschaubar, es gibt:
 
 Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6. Sie unterscheiden sich dadurch, wie viel Eingangsspannung sie vertragen sowie durch die Kühlkörper und die damit verbundene Sendeleistung
 
-| Full-Size (2-6S)                                       | Whoop (1S)                                          |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png) |
+| Full-Size (2-6S)                                               | Whoop (1S)                                          |
+| -------------------------------------------------------------- | --------------------------------------------------- |
+| **v1**: ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_mini_vtx.png) |
+| **v2**: ![Walksnail VTX v2](/img/caddx/avatar_vtx_v2.png)      |                                                     |
+
+Die beiliegenden Antennen sind Müll. Hol dir gute Antennen.
+
+Die Versionen des Full-Size VTX unterscheiden sich vornehmlich dadurch, dass die neue Version Befestigungslöcher im Lochabstand 20x20 (M2 Gewinde) bietet. Zudem ist die neue Version nun mit 8 oder 32 GB Speicher onboard erhältlich.
 
 ## Kamera
 
-Hinsichtlich Kameras gibt es 3 Modelle:
+Hinsichtlich Kameras gibt es 5 Modelle in 2 Generationen
 
-- eine im Formfaktor 19x19
-- zwei im Formfaktor 14x14, eine etwas schwerer, die andere etwas leichter für Whoops.
+### Generation 1
+
+| Formfaktor 19x19mm                                         | Formfaktor 14x14mm                                           |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png) | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano_v1.png)     |
+|                                                            | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
+
+### Generation 2
+
+| Formfaktor 19x19mm                                           | Formfaktor 14x14mm |
+| ------------------------------------------------------------ | ------------------ |
+| ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png)   |                    |
+| ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |                    |
+
+Bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
 
 ## Empfänger
 
