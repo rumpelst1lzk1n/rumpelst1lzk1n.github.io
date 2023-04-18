@@ -102,9 +102,9 @@ Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezial
 
 Eine Besonderheit bei den ELRS-Empfängern ist, dass manche davon eine Keramik-Antenne verwenden, die direkt auf dem Receiver drauf ist. Heißt, du musst dir keine Gedanken machen, wie du eine Antenne auf deinem Fluggerät unter bringst. Eine richtige Antenne hat mehr Reichweite. Für kleine Fluggeräte, mit denen du dich in einem Umkreis von etwa einen Kilometer bewegst, reicht das trotzdem. Das Grundprinzip, dass bei gleicher Sendeleistung dein Steuersignal weiter geht als dein Videosignal wird auch damit erfüllt.
 
-| Happymodel EP1                                | Happymodel EP2                                | BetaFPV EP2                                           |
-| --------------------------------------------- | --------------------------------------------- | ----------------------------------------------------- |
-| ![Happymodel EP1](/img/happymodel/EP1_RX.jpg) | ![Happymodel EP2](/img/happymodel/EP2_RX.jpg) | ![BetaFPV EP2](/img/betafpv/EP2_RX_flat_ceramic.webp) |
+| Happymodel EP1                                        | Happymodel EP2                                        | BetaFPV EP2                                           |
+| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| ![Happymodel EP1](/img/happymodel/happymodel_ep1.png) | ![Happymodel EP2](/img/happymodel/happymodel_ep2.png) | ![BetaFPV EP2](/img/betafpv/EP2_RX_flat_ceramic.webp) |
 
 Für Spezialfälle (PWM-Ausgänge, Diversity, etc) lohnt sich ein Blick auf die Empfänger des Herstellers "Matek".
 
