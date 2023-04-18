@@ -78,6 +78,24 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 | ----------------------------------------------- | ------------------------------------------------------ |
 | ![JR-Bay Modul](/img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](/img/happymodel/ES24TX_Pro_slim.jpg) |
 
+### Radiomaster Ranger
+
+- ca. 50-55€
+- ELRS auf 2.4GHz
+- 1W maximale Sendeleistung
+- WiFi/Bluetooth
+- Versionen für JR- und Lite-Modulschacht ("Slim")
+
+Radiomaster hat ursprünglich hauptsächlich Funken hergestellt und sich von internen ELRS-Modulen auch zu externen Modulen weiter entwickelt.
+
+Die Hardware von Radiomaster genießt allgemeinen einen guten Ruf und sie arbeiten wohl auch mit den Entwicklern von ELRS zusammen.
+
+> *Anm. rumpelst1lzk1n*: Mein persönlicher Favorit, da extern zugänglicher USB-Anschluss. Das von Happymodel tuts aber genauso. Nimm, was verfügbar ist oder dir besser gefällt.
+
+| RadioMaster Ranger Micro                        | RadioMaster Ranger Nano                                |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| ![JR-Bay Modul](/img/radiomaster/radiomaster_ranger_micro.png) | ![Lite-Bay Modul](/img/radiomaster/radiomaster_ranger_nano.png) |
+
 ### ELRS-Empfänger
 
 Einen ELRS-Empfänger bekommst du für um die 15-20€. Mehr ist Wucher. Spezialfälle z.B. mit Antennen-Diversity oder PWM ausgenommen.
