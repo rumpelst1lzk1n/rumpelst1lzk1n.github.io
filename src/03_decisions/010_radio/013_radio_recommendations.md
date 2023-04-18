@@ -92,8 +92,8 @@ Die Hardware von Radiomaster genießt allgemeinen einen guten Ruf und sie arbeit
 
 > *Anm. rumpelst1lzk1n*: Mein persönlicher Favorit, da extern zugänglicher USB-Anschluss. Das von Happymodel tuts aber genauso. Nimm, was verfügbar ist oder dir besser gefällt.
 
-| RadioMaster Ranger Micro                        | RadioMaster Ranger Nano                                |
-| ----------------------------------------------- | ------------------------------------------------------ |
+| RadioMaster Ranger Micro                                       | RadioMaster Ranger Nano                                         |
+| -------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![JR-Bay Modul](/img/radiomaster/radiomaster_ranger_micro.png) | ![Lite-Bay Modul](/img/radiomaster/radiomaster_ranger_nano.png) |
 
 ### ELRS-Empfänger
