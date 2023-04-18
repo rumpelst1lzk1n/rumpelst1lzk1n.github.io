@@ -66,7 +66,7 @@ Discord ist wohl der dynamischste Ort, um FPVler zu treffen, Hilfe zu bekommen o
 
 Viele bekannte FPVler betreiben einen eigenen Discord-Server auf dem sich die Fans tummeln um sich auszutauschen.
 
-> *Anm. rumpelst1lzk1n*: Vorsicht, auch hier gibt es qualitative Unterschiede. Manche RC-Opas haben inzwischen auch den Weg ins Neuland und sogar auf Discord gefunden. Einige davon geben dort zweifelhafte Ratschläge, empfehlen veraltete Technik und fühlen sich wie sonstwas, weil sie seit drölf Jahren Modellbau betreiben, nur um dann bockig zu werden, wenn sie mit aktueller Technik und aktuellerem Wissen konfrontiert werden.
+> *Anm. rumpelst1lzk1n*: Vorsicht, auch hier gibt es qualitative Unterschiede. Manche RC-Opas haben inzwischen auch den Weg ins Neuland und sogar auf Discord gefunden. Einige davon geben dort zweifelhafte Ratschläge, empfehlen veraltete Technik und fühlen sich wie sonstwas, weil sie seit drölf Jahren Modellbau betreiben. Nur um dann bockig zu werden, wenn sie mit aktueller Technik und aktuellerem Wissen konfrontiert werden.
 
 Auch die großen OpenSource-Projekte haben meistens einen eigenen Discord-Server, über den sich die Entwickler austauschen und ggf. Hilfe geben. Und daneben gibt es auch noch eine Vielzahl an offener Server, auf denen sich einfach FPV-Menschen sammeln.
 
