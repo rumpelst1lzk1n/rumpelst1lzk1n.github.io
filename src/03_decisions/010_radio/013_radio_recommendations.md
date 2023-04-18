@@ -74,9 +74,9 @@ Happymodel war der erste Hersteller, der fertige ELRS-Produkte auf den Markt geb
 
 > *Anm. rumpelst1lzk1n*: Es gibt auch fancy ELRS-Module mit kleinem Display. Meiner Meinung nach unnötig. Einziger Wermutstropfen bei dem Modul ist, dass man das Modul für Zugriff auf den USB-Port aufschrauben muss. Ist aber nicht unbedingt notwendig, flashen kann man das Modul auch über die Funke oder über WiFi.
 
-| Happymodel ES24TX Pro                           | Happymodel ES24TX Pro Slim                             |
-| ----------------------------------------------- | ------------------------------------------------------ |
-| ![JR-Bay Modul](/img/happymodel/ES24TX_Pro.jpg) | ![Lite-Bay Modul](/img/happymodel/ES24TX_Pro_slim.jpg) |
+| Happymodel ES24TX Pro                                      | Happymodel ES24TX Pro Slim                                        |
+| ---------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![JR-Bay Modul](/img/happymodel/happymodel_es24tx_pro.png) | ![Lite-Bay Modul](/img/happymodel/happymodel_es24tx_pro_slim.png) |
 
 ### Radiomaster Ranger
 
