@@ -56,9 +56,9 @@ Anders als bei den lokalen Vereinen sind die Multikopter bei den Dachverbänden 
 
 Erwähnenswert sind hier 
 
-- [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/rund-ums-fliegen/versicherung/)
-- [Österreichischer Aeroclub](https://aeroclub.at/de/service/versicherungen)
-- [Schweizerische Modellflugverband](https://www.modellflug.ch/DE/cont/280)
+- [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/)
+- [Österreichischer Aeroclub](https://aeroclub.at/)
+- [Schweizerische Modellflugverband](https://www.modellflug.ch/)
 
 Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram. Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen.
 
