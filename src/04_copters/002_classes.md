@@ -42,7 +42,9 @@ Für Einsteiger eher weniger zu empfehlen. Wenn du wirklich Rennen fliegen möch
 
 Eher behäbig. Für die verwendeten Propeller relativ große Motoren. Verfügt über einen Propellerschutz, der zudem oft mit Schaumstoff gepolstert ist.
 
-Darauf ausgelegt, in der näheren Umgebung von Menschen geflogen zu werden und dabei eine Action-Cam zu tragen.
+Darauf ausgelegt, in der näheren Umgebung von Menschen geflogen zu werden und dabei eine Action-Cam (z.B. eine GoPro) zu tragen.
+
+![GepRC CineLog 25](/img/geprc/geprc_cinelog_25.png)
 
 ### Toothpick
 
