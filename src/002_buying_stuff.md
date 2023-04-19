@@ -78,7 +78,7 @@ Hier lohnt es die Augen offen zu halten z.B. bei aufgelösten Sammlungen. Gerade
 
 Meist braucht man für gute Käufe etwas Erfahrung, damit dir der Verkäufer nicht irgendwelche Uralt-Hardware für teuer Geld aufschwatzt.
 
-Wenn du mit dem Guide durch bist, solltest kannst du viele Sachen aber ganz gut einschätzen können.
+Wenn du mit dem Guide durch bist, solltest du die meisten Sachen aber ganz gut einschätzen können.
 
 ## Einkaufsliste
 
