@@ -74,6 +74,8 @@ Auf den einschlägigen Gebraucht-Portalen wie eBay-Kleinanzeigen oder willhaben.
 
 Hier lohnt es die Augen offen zu halten z.B. bei aufgelösten Sammlungen. Gerade wenn es auf den Winter zu geht, verkaufen die Schönwetterflieger ihre Sachen.
 
+> *Anm. rumpelst1lzk1n*: AbEr WiR sInD dOcH eInE cOmMuNiTy!!1! Auch gerne: Wir sind doch im gleichen Hobby. Hüte dich vor solchen Käufern und Verkäufern. Für die bist du nur so lange Teil der Community, wie sie einen Vorteil daraus ziehen können. z.B. einen Artikel über Wert auf- oder unter Wert abschwatzen können.
+
 Meist braucht man für gute Käufe etwas Erfahrung, damit dir der Verkäufer nicht irgendwelche Uralt-Hardware für teuer Geld aufschwatzt.
 
 Wenn du mit dem Guide durch bist, solltest kannst du viele Sachen aber ganz gut einschätzen können.
