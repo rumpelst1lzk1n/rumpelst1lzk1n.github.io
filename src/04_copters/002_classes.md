@@ -102,7 +102,7 @@ Unauffällig ist anders. Wenn ein Gerät mit solchen Propellern auf dich zu komm
 
 Mit 7"-Propellern erreichst du höhere Geschwindigkeiten als ein 5" und hältst diese auch leichter. Das macht sich z.B. bei Verfolgungsjagden mit Autos bemerkbar.
 
-Auch kann ein Kopter mit 7"-Propellern deutlich mehr zusätzliches Gewicht tragen. Wie z.B. ein schweres Akku-Pack tragen.
+Auch kann ein Kopter mit 7"-Propellern deutlich mehr zusätzliches Gewicht wie z.B. ein schweres Akku-Pack tragen.
 
 Kopter mit 7" Propellern werden gerne für Langstreckenflüge verwendet.
 
