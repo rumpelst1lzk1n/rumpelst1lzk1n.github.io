@@ -68,6 +68,12 @@ Der Frame ist hauptsächlich darauf ausgelegt, große Propeller zu verwenden. Me
 
 Propellergröße zwischen 11 und 13 Zoll. Ähnlich wie Cinelifter definitiv nichts für Neueinsteiger ins Hobby. Deutlich beschränkte Teileauswahl und alle Teile haben einen massiven Preisaufschlag als Exoten.
 
+## ... nach Gewicht
+
+### Sub 250
+
+Der Begriff bezieht sich auf Kopter mit einem Maximalgewicht von 250 Gramm. In der amerikanischen und europäischen Gesetzgebung ist das so eine "magische" Grenze, bis zu der man noch ein paar Freiheiten mehr geniest. Die Grenze ist relativ willkürlich festgelegt, aber darüber zu lamentieren hilft nichts.
+
 ## ... nach Propellergröße
 
 Die Propeller sind eines der charakteristischen Merkmale eines Kopters. Die Größe (Durchmesser) wird in den allermeisten Fällen in angloamerikanischen Zoll (Inch) angegeben.
