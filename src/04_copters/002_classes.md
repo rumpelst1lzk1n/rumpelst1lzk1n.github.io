@@ -38,6 +38,8 @@ Meistens kommt Hardware mit kleineren Abmessungen als bei einem Freestyler zum E
 
 Für Einsteiger eher weniger zu empfehlen. Wenn du wirklich Rennen fliegen möchtest, kannst du das Anfangs auch mit einem Freestyler machen. Das wir sicher nicht der limitierende Faktor sein.
 
+![Five33 Switchback Pro](/img/Five33/five33_switchback_pro.png)
+
 ### Cinewhoop
 
 Eher behäbig. Für die verwendeten Propeller relativ große Motoren. Verfügt über einen Propellerschutz, der zudem oft mit Schaumstoff gepolstert ist.
