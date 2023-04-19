@@ -52,7 +52,7 @@ Das Fliegen auf den Modellflugplätzen ist meistens Vereinsmitgliedern vorbehalt
 
 Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit deinem Kopter fliegen zu lassen.
 
-> *Anm. rumpelst1lzk1n*: Erfahrungsgemäß werden Multikopter- und FPV-Piloten in solchen lokalen Vereinen häufig diskriminiert bzw. dürfen auf deren Flugplätzen nicht mit ihrem Setup fliegen.
+> *Anm. rumpelst1lzk1n*: Erfahrungsgemäß werden Multikopter- und FPV-Piloten in solchen lokalen Vereinen häufig diskriminiert bzw. dürfen auf deren Flugplätzen nicht mit ihrem Setup fliegen. Außer du erwischst einen der seltenen Vereine, in denen es eine entsprechende Abteilung für FPV gibt.
 
 ## Dachverbände
 
