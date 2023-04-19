@@ -38,9 +38,9 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 ![UAV Kategorien](/img/legal/categories.png)
 
-## Vereine
+## lokale Vereine
 
-Die wenigsten Kopter-Piloten sind Mitglieder eines Modellbau-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden.
+Die wenigsten Kopter-Piloten sind Mitglieder eines Modellbau- oder Modellflieger-Vereins. Den Vereinen wird oft nachgesagt, dass sie nur aus Modellbau-Opas bestünden.
 
 Dass Modellbau-Vereine bei der Neuregelung der Luftfahrtgesetze im Bezug auf Modellbau und Drohnen 2021 einen Sonderstatus erhalten und bis 1.1.2023 noch Schonfrist haben, in der die Mitglieder nach den alten Regeln fliegen dürfen, wirkt sich zudem nicht sonderlich positiv auf die "Völkerverständigung" aus.
 
@@ -48,21 +48,31 @@ Viele Modellbau-Vereine betreiben eigene Modellflugplätze, an denen Sonderregel
 
 Das Fliegen auf den Modellflugplätzen ist meistens Vereinsmitgliedern vorbehalten. Wenn du nicht Mitglied in dem entsprechenden Verein bist, kannst du meistens trotzdem dort fliegen wenn du eine sog. Tagesmitgliedschaft abschließt. Diese kostet normalerweise etwa zwischen 3-5 Euro.
 
-Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit deinem Copter fliegen zu lassen.
+Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit deinem Kopter fliegen zu lassen.
+
+## Dachverbände
+
+Anders als bei den lokalen Vereinen sind die Multikopter bei den Dachverbänden schon eher angekommen und akzeptiert.
+
+Erwähnenswert sind hier 
+
+- [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/rund-ums-fliegen/versicherung/)
+- [Österreichischer Aeroclub](https://aeroclub.at/de/service/versicherungen)
+- [Schweizerische Modellflugverband](https://www.modellflug.ch/DE/cont/280)
+
+Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram. Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen.
 
 ## Versicherung
 
 **MACHEN!!!**
 
-Häufig sind private Flüge mit Drohnen bei einer allgemeinen Haftpflichtversicherungen mit enthalten, die man als erwachsener Mensch sowieso haben sollte. Wenn du eine hast, schau trotzdem nach, ob das abgedeckt ist.
+Häufig sind private Flüge mit Drohnen bei einer allgemeinen Haftpflichtversicherungen mit enthalten, die man als erwachsener Mensch sowieso haben sollte.
 
-Wenn es nicht abgedeckt ist, lohnt sich eine explizite Drohnen-Haftpflicht. Auch die Mitgliedschaft in einem Modellbauverein kann so eine Versicherung bereits beinhalten.
+> *Anm. Crash*: Wer keine hat, hat die Kontrolle über sein Leben verloren
 
-Beispielhafte Vereine sind hier:
+Wenn du eine hast, schau trotzdem nach, ob das abgedeckt ist.
 
-- [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/rund-ums-fliegen/versicherung/)
-- [Österreichischer Aeroclub](https://aeroclub.at/de/service/versicherungen)
-- [Schweizerische Modellflugverband](https://www.modellflug.ch/DE/cont/280)
+Wenn es nicht abgedeckt ist, und du nicht z.B. über Mitgliedschaft in einem Modellbauverein (siehe oben) versichert bist, kannst du so eine Versicherung auch separat abschließen.
 
 Wenn du professionell arbeitest, solltest du nochmal zu deinem Versicherungsmenschen des Vertrauens gehen und prüfen, ob dein Versicherungsschutz auch für gewerbliche Arbeiten gilt.
 
