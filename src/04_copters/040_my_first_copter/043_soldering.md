@@ -1,6 +1,8 @@
 # Löten
 
-Zum Bauen und Reparieren deines Quads wirst du einen Lötkolben benötigen. Der Lötkolben sollte temperaturgesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
+Wenn du im Hobby unterwegs bist, wirst du dich unweigerlich mit dem Thema Löten beschäftigen müssen. Zum selbst bauen deines Kopters sowieso. Und auch wenn du dir einen flugfertigen Kopter gekauft hast, wirst du diesen nach dem ein oder anderen Crash reparieren müssen.
+
+Hauptwerkzeug ist der Lötkolben. Dieser sollte Temperatur-gesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
 Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel enthalten.
 
