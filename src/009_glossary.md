@@ -1,12 +1,8 @@
-# Jenseits von Multikoptern
-
-FPV ist nicht auf Kopter beschränkt. Natürlich kannst du so ein System in alle möglichen Gerätschaften einbauen, ob Auto oder Boot.
-
-Flugzeuge erfreuen sich bei vielen Kopter-Piloten ebenfalls einer großen Beliebtheit. Dort kommt oft eine ähnliche oder sogar die gleiche Steuersoftware wie bei Multikoptern zum Einsatz.
-
 # Glossar
 
-Der Themenbereich FPV ist voller Anglizismen
+Der Themenbereich FPV ist voller Anglizismen, wenn du dich in dem Dschungel aus Abkürzungen nicht zurecht findest oder einfach etwas nachschlagen möchtest, empfehle ich das [FPV Wörterbuch (WIP)](https://docs.google.com/document/d/1BGCfnv2kSAx8u5DQhsWWvEG7S7KHRSN71H0z0-NkFyw).
+
+Einen rudimentären Satz an Begriffen habe ich auch hier gesammelt.
 
 |                 |                                                                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
