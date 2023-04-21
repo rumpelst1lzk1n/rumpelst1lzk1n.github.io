@@ -190,3 +190,7 @@ blockquote {
 .result-no-output {
     font-style: italic;
 }
+
+p > img {
+    
+}

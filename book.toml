@@ -11,6 +11,8 @@ optional = true
 
 [output.html]
 git-repository-url = "https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io"
+additional-js = ["lightbox-plus-jquery.min.js"]
+additional-css = ["lightbox.min.css"]
 
 [output.html.fold]
 enable = true
