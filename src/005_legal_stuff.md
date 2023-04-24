@@ -61,6 +61,7 @@ Anders als bei den lokalen Vereinen sind die Multikopter bei den Dachverbänden 
 Erwähnenswert sind hier 
 
 - [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/)
+- [Modellflugsportverband Deutschland e.V.](https://www.mfsd.de/)
 - [Österreichischer Aeroclub](https://aeroclub.at/)
 - [Schweizerische Modellflugverband](https://www.modellflug.ch/)
 
