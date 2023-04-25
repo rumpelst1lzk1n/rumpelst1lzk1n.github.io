@@ -6,13 +6,16 @@ Und falls du feststellst, dass das Hobby überhaupt nichts für dich ist, hast d
 
 Hier eine Liste populärer Simulatoren (ohne Wertung):
 
-- [Orqa FPV.SkyDive (Steam, kostenlos)](https://store.steampowered.com/app/1278060/Orqa_FPVSkyDive/)
-- [Velocidrone (NICHT auf Steam erhältlich, Quasi-Standard für Racer)](https://www.velocidrone.com/)
-- [Liftoff (Steam, std. für alles andere)](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/)
-- [DRL (Steam)](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)
-- [Uncrashed (Steam)](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)
-- [AI Drone Simulator (Steam)](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)
-- [TryP (Steam)](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/)
+| Titel                                                                                       | Quelle                 | Zusammenfassung / Besonderheiten               |
+| ------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------------- |
+| [Orqa FPV.SkyDive](https://store.steampowered.com/app/1278060/Orqa_FPVSkyDive/)             | Steam                  | kostenlos                                      |
+| [Velocidrone](https://www.velocidrone.com/)                                                 | nur die eigene Website | Quasi-Standard für Racer, bestes Flugverhalten |
+| [Liftoff](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/)              | Steam                  | Standard für alles andere                      |
+| [Liftoff Microdrones](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/)  | Steam                  | Liftoff für TinyWhoops                         |
+| [DRL](https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/)         | Steam, Epic            |                                                |
+| [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)     | Steam                  | mäßiges Flugverhalten                          |
+| [AI Drone Simulator](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)        | Steam                  |                                                |
+| [TRYP FPV](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/) | Steam                  | schöne große Maps                              |
 
 ## Üben
 
