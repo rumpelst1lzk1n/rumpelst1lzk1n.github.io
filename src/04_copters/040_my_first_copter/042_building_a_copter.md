@@ -72,3 +72,13 @@ Kostenpunkt dieses Builds sind in etwa 500-600€.
 Nach dem Zusammenbauen des Kopters solltest du auch noch in Betaflight das Flugverhalten einstellen. Das kann man auf die Spitze treiben, für die ersten paar Monate im Hobby reicht aber ein Standard-Tune. Links zu unterschiedlichen Quellen für Tunes findest du in der [Linkliste](#linkliste).
 
 > *Anm. Puffi*: Gutes Tuning wird erst wichtig wenn du gut fliegen kannst.
+
+## Bauanleitungen
+
+Halbwegs gute Bauanleitungen für Kopter gibt es in Youtube wie Sand am Meer.
+
+Ein ganz passables Beispiel ohne viel Bullshit, wie der Aufbau ablaufen kann, findest du unter folgendem Video:
+
+[![Craft Channel Drone Build](/img/craft_channel/craft_channel_building_a_drone.png)](https://www.youtube.com/watch?v=9mcIlWwHPJI)
+
+Die Teile können variieren und du wirst während des Builds mit Sicherheit noch jede Menge Handbücher und Schemata wälzen, um die richtigen Lötpads zu finden, über die du die einzelnen Komponenten miteinander verbindest.
