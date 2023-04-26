@@ -2,7 +2,7 @@
 
 HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
 
-Bei der Bildqualität ist DJI klar das bessere System.
+Bei der Bildqualität ist sowohl DJI wie auch Walksnail klar das bessere System.
 
 Für die Nutzung von HDZero gibt es normal folgende Gründe:
 

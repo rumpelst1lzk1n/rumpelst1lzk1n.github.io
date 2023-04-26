@@ -17,7 +17,9 @@ Die Hardware-Auswahl ist bei den Video-Sendern sehr überschaubar, es gibt:
 - einen VTX für größere Fluggeräte mit mehr Gewicht und bis zu 1200mw Sendeleistung
 - einen VTX für leichte Fluggeräte mit bis zu 400mw Sendeleistung
 
-Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6. Sie unterscheiden sich dadurch, wie viel Eingangsspannung sie vertragen sowie durch die Kühlkörper und die damit verbundene Sendeleistung
+Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6mm. Sie unterscheiden sich dadurch, wie viel Eingangsspannung sie vertragen sowie durch die Kühlkörper und die damit verbundene Sendeleistung.
+
+Die zweite Version des Full-Size VTX hat im Kühlkörper zudem Bohrungen im Lochabstand 20x20mm im Kühlkörper.
 
 | Full-Size (2-6S)                                               | Whoop (1S)                                          |
 | -------------------------------------------------------------- | --------------------------------------------------- |
