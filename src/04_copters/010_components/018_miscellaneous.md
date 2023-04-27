@@ -42,6 +42,8 @@ Manche GPS-Module verfügen über einen Batterie-gestützten Speicher, der eine 
 
 ![Matek GPS mit Kompass und Batterie](/img/matek/matek_GPS-M8Q-5883-1.png)
 
+> *Anm. rumpelst1lzk1n*: Ein GPS mit Kompass sollte möglichst weit von magnetischen Komponenten entfernt eingebaut werden. Die Keramikantenne des GPS sollte freie Sicht auf den Himmel haben. Zudem hilft es, wenn das GPS-Modul möglichst weit von der Antenne des Videosenders entfernt ist. Das alles unter einen Hut zu bringen ist schwierig. Meistens stellt die Platzierung des GPS-Moduls bei kleineren Koptern einen Kompromiss dar.
+
 ## Magnetometer / Kompass
 
 Ebenso wie GPS als optional zu betrachten.
