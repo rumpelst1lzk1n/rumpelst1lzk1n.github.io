@@ -6,7 +6,7 @@ TL;DR: Erst selbst versuchen, eine Antwort zu finden, dann eine intelligente Fra
 
 Es gibt für die meisten Themen umfangreiche Dokumentation, seien es Websites oder Video-Anleitungen. Siehe Linksammlung in der Kapitelübersicht.
 
-Die meisten Online-Communities, die sich mit FPV beschäftigen, sind zudem sehr hilfsbereit. Was aber nicht heißt, dass du das als deine persönliche Support-Hotline missverstehen solltest. Niemand hat sich verpflichtet, dir zu helfen oder deine Fragen zu beantworten. Das Hobby ist Technik-lastig. Du musst nicht alles auf Anhieb verstehen aber eigenständiges Denken und Transferleistungen sind eine Grundvoraussetzung.
+Die meisten Online-Communities, die sich mit FPV beschäftigen, sind zudem sehr hilfsbereit. Was aber nicht heißt, dass du das als deine persönliche Support-Hotline missverstehen solltest. Niemand hat sich verpflichtet, dir zu helfen oder deine Fragen zu beantworten. Das Hobby ist Technik-lastig. Du musst nicht alles auf Anhieb verstehen aber eigenständiges Denken und die Fähigkeit zu gedanklichen Transferleistungen sind eine Grundvoraussetzung.
 
 Wenn du bei Fragen ausschließlich ein RTFM oder einfach einen Link bekommst, ist das der dezente Hinweis, dass du die Antwort auf deine Frage auch sehr leicht selbst gefunden hättest.
 
