@@ -39,4 +39,4 @@ Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die 
 
 Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.
 
-Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst.
+Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst. Schau in die Anleitung deiner Funke.
