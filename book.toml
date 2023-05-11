@@ -10,6 +10,7 @@ description = "Orientierungshilfe für Einsteiger in das Thema 'FPV' mit Multiko
 optional = true
 
 [output.html]
+base-url = "https://rumpelst1lzk1n.github.io"
 git-repository-url = "https://github.com/rumpelst1lzk1n/rumpelst1lzk1n.github.io"
 
 [output.html.fold]
