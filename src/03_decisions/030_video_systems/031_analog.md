@@ -17,7 +17,13 @@ Es gibt eine Vielzahl unterschiedlicher Videosendern von unterschiedlichen Herst
 Üblich sind zwischen 200mw und 600mw maximaler Sendeleistung.
 Es gibt noch deutlich stärkere Sender bis hoch zu 2000mw, diese sind aber erst für wirklich große Distanzen relevant.
 
-Der Vorteil bei analogen Systemen ist, dass du die unterschiedlichen Videosender leicht gegeneinander austauschen kannst.
+Der Vorteil bei analogen Systemen ist, dass analoge Videosender deutlich kleiner und leichter gebaut werden können als digitale.
+
+Oft sind analoge Videosender nur Daumennagel-groß.
+
+![TBS Unify Pro32 nano](/img/team_blacksheep/tbs_unify_pro32_nano.png)
+
+Zudem können können analoge Videosender unterschiedlicher Hersteller leicht gegeneinander austauschen kannst.
 
 Besonders hervorzuheben sind die Videosender der Unify-Reihe von TBS und die ImmersionRC Tramp. Sie gelten mit als die Besten. Auf Rennen sind oft nur diese Analog-VTX zugelassen.
 
