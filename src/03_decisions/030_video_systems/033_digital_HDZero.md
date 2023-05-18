@@ -16,14 +16,22 @@ Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sen
 
 ## Videosender
 
-Aktuell gibt es 3 relevante Videosender.
+Aktuell gibt es 5 relevante Videosender.
 
 | Race V2 (20x20)                                             | Whoop (25x25)                                       | Freestyle (30x30)                                                     |
 | ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
 | ![HDZero Race v2 VTX](/img/divimath/hdzero_race_vtx_v2.png) | ![TX5S.1](/img/divimath/hdzero_whoop_vtx_v1.png)    | ![HDZero 1Watt freestyle VTX](/img/divimath/hdzero_freestyle_vtx.png) |
-|                                                             | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) |                                                                       |
+| ![Foxeer Race VTX](/img/foxeer/foxeer_hdzero_race_vtx.png)  | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) |                                                                       |
 
 Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
+
+Empfehlenswert sind dabei folgende:
+
+- Race-VTX von Foxeer
+- Whoop VTX
+- Freestyle VTX
+
+Alle anderen haben mit dem ein oder anderen Problemchen zu kämpfen.
 
 ## Empfänger
 
