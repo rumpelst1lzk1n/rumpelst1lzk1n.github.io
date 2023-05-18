@@ -1,6 +1,6 @@
 # Caddx / Walksnail
 
-Seit Anfang Juli 2022 ist ein neues System von Caddx erhältlich.
+Seit Mitte 2022 ist ein neues System von Caddx erhältlich.
 
 Das System verhält sich ähnlich wie DJI, ist aber nicht damit kompatibel.
 

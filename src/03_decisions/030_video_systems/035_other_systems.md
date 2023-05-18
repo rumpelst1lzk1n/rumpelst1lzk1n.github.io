@@ -8,7 +8,9 @@ Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darü
 
 Der Videoempfänger soll wohl ein Modul ähnlich dem von HDZero werden. An FPV-Brillen kann dieser dann entweder mit HDMI oder einer proprietären Schnittstelle angeschlossen werden.
 
-Zum aktuellen Zeitpunkt (Anfang 2022) ist davon auszugehen, dass es wohl noch mindestens 1-2 Jahre dauern wird, bis die ersten Produkte tatsächlich auf den Markt kommen.
+Seit der CES hat man bis zum aktuellen Zeitpunkt (Mitte 2023) nichts mehr davon gehört.
+
+> *Anm. rumpelst1lzk1n*: Ich glaub ja aktuell (Anfang 2023) nicht, dass da noch was bei raus kommt. Zumindest fürs FPV-Hobby. Orqa wurde von Caddx/Walksnail ziemlich kalt erwischt, was deren HD-System angeht.
 
 ## OpenHD
 

@@ -24,10 +24,10 @@ Die Integra unterscheidet sich von der normalen Version durch ein eingebautes GP
 
 Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
 
-| DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                |
-| ------------------------------------------------ | -------------------------------------------- |
-| ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png) | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png) |
-|  | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
+| DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                                |
+| ------------------------------------------------ | ------------------------------------------------------------ |
+| ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png) | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png)                 |
+|                                                  | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
 
 Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
@@ -61,7 +61,7 @@ Bei den verfügbaren Kameras für die V1-Videosender gibt es vorrangig die Auswa
 - Caddx Vista Unit Cam
 - Caddx Nebula **Pro** (nano)
 
-Die Runcam Falcon ist auch vielversprechend, allerdings hat man von dieser zum aktuellen Zeitpunkt (Juli/August 2022) noch nichts gesehen.
+Die Runcam Wasp und Falcon sind auch noch OK, allerdings können diese nur 4:3, kein 16:9.
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
@@ -69,7 +69,7 @@ Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als
 
 ### V2
 
-Ende November 2022 hat DJI die neue O3 AirUnit veröffentlicht.
+Ende 2022 hat DJI sein neues O3-System veröffentlicht.
 
 Diese ist mit den DJI FPV Goggles v2 sowie den DJI Goggles 2 kompatibel. Mit den DJI FPV Goggles V1 ist dieser Videosender nicht kompatibel und wird das mutmaßlich auch niemals werden.
 

@@ -26,7 +26,7 @@ Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem 
 - OpenTX oder EdgeTX
 - Monochrom-Display
 
-Die Funke gibt es zum aktuellen Zeitpunkt (Mitte Dezember 2022) erst als Vorbestellung. Von dem, was man bisher gesehen hat, hat die Funke aber das Potential, eine DER Empfehlungen für Neueinsteiger zu sein.
+So ziemlich DIE Empfehlung für Neueinsteiger.
 
 ## TBS Tango 2
 
@@ -51,6 +51,8 @@ Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit 
 - Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
 - OpenTX oder EdgeTX
 - großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
+
+Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 

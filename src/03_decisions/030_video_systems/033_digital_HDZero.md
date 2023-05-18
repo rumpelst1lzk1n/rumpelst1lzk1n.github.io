@@ -12,8 +12,6 @@ Für die Nutzung von HDZero gibt es normal folgende Gründe:
   - die variable Latenz anderer digitaler Systeme stört dich.
 - Du hast bereits eine gute Analog-Brille (mit HDMI-Eingang) und möchtest diese weiter verwenden.
 
-Das System kann inzwischen (Mitte 2022) als relativ ausgereift betrachtet werden.
-
 Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sender herausbringen. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
 
 ## Videosender
