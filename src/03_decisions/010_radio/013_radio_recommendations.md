@@ -7,7 +7,9 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 
 Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle angeboten wurden, gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
 
-## Jumper T-Pro
+## Jumper T-Pro (V1 !!!)
+
+**Aktuell ist eine Hardware-Revision der Boxer mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=bug-verseucht.**
 
 - ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
