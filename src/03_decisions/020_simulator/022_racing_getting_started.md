@@ -74,9 +74,9 @@ Der Anstellwinkel der Kamera.
 
 > *Anm. stackola*: Du brauchst mehr Winkel!
 
-Je höher, desto schneller kannst/musst du fliegen, um nicht in den Himmel zu glotzen, sondern das zu sehen, was tatsächlich vor dir liegt.
+Je höher, desto schneller kannst/musst du fliegen, um nicht in den Himmel zu glotzen, sondern das zu sehen, was tatsächlich vor dir liegt. Wenn der Winkel zu flach ist, neigen Piloten dazu, ihr volles Potential in Sachen Geschwindigkeit nicht auszureizen.
 
-Wenn der Winkel zu flach ist, neigen Piloten dazu, ihr volles Potential in Sachen Geschwindigkeit nicht auszureizen.
+Zudem ändert sich bei einem höheren Kamera-Winkel das Flugverhalten, sodass du bei deinen Eingaben an der Funke nicht mehr so viele Achsen mischen musst.
 
 Wenn du feststellst, dass du beim vorwärts fliegen trotz Vollgas ständig die Grasnarbe küsst, kann es helfen, den Winkel wieder etwas zu reduzieren.
 
