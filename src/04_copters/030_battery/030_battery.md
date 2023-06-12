@@ -30,11 +30,11 @@ Wird ein Akku geladen, erhöht sich die Spannung zwischen Plus- und Minuspol. Be
 
 Wird ein Akku entladen, verringert sich nach und nach die Spannung. Weiter herunter als 3,3 Volt solltest du eine Akku-Zelle nicht fliegen, sonst kannst du den Akku nachhaltig beschädigen.
 
-### Innenwiederstand
+### Innenwiderstand
 
-Die einzelnen Zellen eines Akkus haben wie alle elektronischen Komponenten einen Wiederstand. Dieser bestimmt, wie gut sie Energie aufnehmen und abgeben können.
+Die einzelnen Zellen eines Akkus haben wie alle elektronischen Komponenten einen Widerstand. Dieser bestimmt, wie gut sie Energie aufnehmen und abgeben können.
 
-Viele Ladegeräte können dir nach dem Ladevorgang den Innenwiederstand der einzelnen Zellen anzeigen.
+Viele Ladegeräte können dir nach dem Ladevorgang den Innenwiderstand der einzelnen Zellen anzeigen.
 
 Sollte eine Zelle einen extremen Ausreißer bei diesem Wert haben (z.B. das doppelte), solltest du den Akku nicht mehr zusammen mit anderen parallel laden und allgemein darüber nachdenken, ob du ihn nicht bald in die Rente schickst.
 
