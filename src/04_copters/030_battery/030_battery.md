@@ -12,13 +12,13 @@ Häufig wirst du beispielsweise "6S" hören. Dies bezeichnet die Anzahl der Akku
 
 Ein Akku besteht aus einer oder mehreren Zellen. Akkus bestehend aus einer einzigen Zelle findest du eigentlich nur bei TinyWhoops. Die meisten Kopter fliegen mit mehrzelligen Akkus.
 
-Zellen in Reihe geschalten erhöhen die Spannung. Zellen parallel geschalten erhöhen die Kapazität.
+Zellen in Reihe geschaltet erhöhen die Spannung. Zellen parallel geschaltet erhöhen die Kapazität.
 
-Ein 2S Akku hat 2 Zellen in Reihe (seriell) geschalten. Am Stromanschluss liegt die Summe der Spannung der einzelnen Akkus an.
+Ein 2S Akku hat 2 Zellen in Reihe (seriell) geschaltet. Am Stromanschluss liegt die Summe der Spannung der einzelnen Akkus an.
 
-Ein 2P Akku hat 2 Zellen parallel geschalten. Der Akku kann Summe der Kapazität der einzelnen Akkus als Leistung zur Verfügung stellen.
+Ein 2P Akku hat 2 Zellen parallel geschaltet. Der Akku kann Summe der Kapazität der einzelnen Akkus als Leistung zur Verfügung stellen.
 
-Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschalten. Üblich ist dabei, dass die Zellen erst parallel verbunden werden und anschließend die so entstandenen Akkus in Reihe geschalten werden.
+Ein 2S2P Akku hat 2 Zellen in Reihe und 2 Zellen parallel geschaltet. Üblich ist dabei, dass die Zellen erst parallel verbunden werden und anschließend die so entstandenen Akkus in Reihe geschaltet werden.
 
 ### Zell-Spannung & -Chemie
 
