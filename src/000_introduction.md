@@ -26,7 +26,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 
 Dieser Guide soll einen umfangreichen Einblick in das Thema "FPV-Drohnen" vermitteln und hat den Anspruch, als Orientierungshilfe für Einsteiger zu dienen und die meisten *allgemeinen* Fragen zu beantworten über die man beim Einstieg stolpert.
 
-Die in dem Guide empfohlene Hardware wurde danach ausgesucht, dass sie zum einen sinnvolle Features bietet und zum anderen auch einigermaßen wertstabil ist. Es geht in vielen Fällen auch billiger. Allerdings ist wirst du der Billigst-Hardware deutlich schneller entwachsen. Und selbst wenn du das Hobby nach kurzer Zeit wieder aufgeben solltest, hat die empfohlene Hardware noch etwas an Wiederverkaufswert.
+Die in dem Guide empfohlene Hardware wurde danach ausgesucht, dass sie zum einen sinnvolle Features bietet und zum anderen auch einigermaßen wertstabil ist. Es geht in vielen Fällen auch billiger. Allerdings wirst du der Billigst-Hardware deutlich schneller entwachsen. Und selbst wenn du das Hobby nach kurzer Zeit wieder aufgeben solltest, hat die empfohlene Hardware noch etwas an Wiederverkaufswert.
 
 Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
 
