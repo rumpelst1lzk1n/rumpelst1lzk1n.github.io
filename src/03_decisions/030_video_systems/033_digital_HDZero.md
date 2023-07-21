@@ -21,18 +21,11 @@ Aktuell gibt es 5 relevante Videosender.
 | Race VTX series (20x20)                                     | Whoop (25x25)                                       | Freestyle (30x30)                                                     |
 | ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
 | ![HDZero Race v3 VTX](/img/divimath/hdzero_race_vtx_v3.png) | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) | ![HDZero 1Watt freestyle VTX](/img/divimath/hdzero_freestyle_vtx.png) |
-| ![Foxeer Race VTX](/img/foxeer/foxeer_hdzero_race_vtx.png)  | ![TX5S.1](/img/divimath/hdzero_whoop_vtx_v1.png)    |                                                                       |
-| ![HDZero Race v2 VTX](/img/divimath/hdzero_race_vtx_v2.png) |                                                     |                                                                       |
+| ![Foxeer Race VTX](/img/foxeer/foxeer_hdzero_race_vtx.png)  |                                                     |                                                                       |
 
 Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
 
-Empfehlenswert sind dabei folgende:
-
-- Race-VTX (v3 oder von Foxeer)
-- Whoop VTX
-- Freestyle VTX
-
-Die Hardware ist im Laufe der Zeit immer ausgereifter und kompakter geworden. Die oberste Version in der Tabelle ist dabei zum Zeitpunkt des Editierens die jeweils neueste verfügbare Iteration
+Die Hardware ist im Laufe der Zeit immer ausgereifter und kompakter geworden. Die oberste Version in der Tabelle ist dabei zum Zeitpunkt des Editierens die jeweils neueste verfügbare Iteration.
 
 ## Empfänger
 
@@ -60,9 +53,13 @@ Die Resonanz bei den Leuten, die bisher eine HDZero Brille ergattern konnten ist
 
 ## Alte Hardware
 
-Neben den oben erwähnten Empfängern und Sendern gibt es noch ältere Hardware. Diese wurde teilweise unter dem Label von Fatshark vermarktet. Seit Fatshark und HDZero getrennte Wege gehen, wird diese Hardware nicht mehr weiter produziert.
+Neben den oben erwähnten Empfängern und Sendern gibt es noch ältere Hardware. Diese wurde teilweise unter dem Label von Fatshark vermarktet, teilweise handelt es sich auch um ältere Iterationen der oben genannten Produkte. Diese Hardware wird nicht mehr weiter produziert.
 
-Zu der betreffenden Hardware zählen Videosender in teilweise etwas unüblichen Formfaktoren.
+Zu der betreffenden Hardware zählen Videosender wie:
+
+- Race VTX v1
+- Race VTX v2
+- Whoop TX5S.1
 
 Daneben gibt es noch Legacy-Empfangs-Hardware. Eine Brille mit eingebautem HDZero-Modul und ein separates Modul. Das Modul wurde nahtlos durch den oben bereits genannten Empfänger ersetzt. Für die Brille gibt es bisher noch keine Alternative.
 
