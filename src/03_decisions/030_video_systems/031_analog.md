@@ -77,9 +77,9 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 
 - ca. 100€
 - DVR
-- Antennen-Diversity
+- eingebautes Receiver-Modul
+- Antennen-Diversity (was in dieser Preisklasse nicht selbstverständlich ist)
 - wird mit einer Patch-Antenne und einer omnidirektionalen Antenne geliefert
-- integrierter Receiver mit Diversity, was in dieser Preisklasse nicht selbstverständlich ist
 
 #### Skyzone Cobra X (v2)
 
@@ -102,7 +102,7 @@ Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese 
 
 #### HDZero Goggles
 
-- 600$ (plus Zoll etwa 700€)
+- ca. 700€
 - DVR
 - Auflösung 1080p
 - **KEIN** mitgelieferter Analog-Empfänger, Analog-Adapter wird zusätzlich benötigt
@@ -111,7 +111,7 @@ Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese 
 - HDZero eingebaut
 
 Eigentlich ist die Brille dazu gedacht, sie mit dem HDZero Digital-System zu verwenden. Dafür ist auch ein entsprechender Empfänger verbaut.
-Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verwenden kann.
+Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verwenden kann. Bitte beachte, dass der Adapter etwa 60€ kostet. Das Analog-Modul schlägt dann auch nochmal mit 40-140€ zu Buche.
 
 Gibt es leider nur im HDZero-Shop und der liefert nur aus China. Zudem ist die Brille aktuell ausverkauft, mit der nächsten Lieferung ist frühestens im März 2023 zu rechnen.
 
