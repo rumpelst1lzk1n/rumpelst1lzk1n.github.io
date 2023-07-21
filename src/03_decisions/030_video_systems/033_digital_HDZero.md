@@ -51,6 +51,24 @@ Kostenpunkt für die HDzero Brille sind etwa 500$, für die EMAX-Brille etwa 240
 
 Die Resonanz bei den Leuten, die bisher eine HDZero Brille ergattern konnten ist positiv bis sehr positiv.
 
+### Kameras
+
+Bei den Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
+
+| 19x19mm                                                   | 14x16mm                                                       |
+| --------------------------------------------------------- | ------------------------------------------------------------- |
+| ![HDZero Micro V2](/img/divimath/hdzero_cam_micro_v2.png) | ![HDZero Nano V2](/img/divimath/hdzero_cam_nano_v2.png)       |
+|                                                           | ![HDZero Nano 90FPS](/img/divimath/hdzero_cam_nano_90fps.png) |
+|                                                           | ![HDZero Nano Lite](/img/divimath/hdzero_cam_nano_lite.png)   |
+
+Micro und Nano V2 können bis 1080p bei 30fps und 720p bei 60fps aufnehmen und sind das, was man als "guter Standard" bezeichnen kann.
+
+Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit der HDZero Brille als Empfänger verwendbar.
+
+Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras und für TinyWhoops gedacht.
+
+Darüber hinaus gibt es noch andere / ältere (lies: schlechtere) Kameras für das HDZero-System.
+
 ## Alte Hardware
 
 Neben den oben erwähnten Empfängern und Sendern gibt es noch ältere Hardware. Diese wurde teilweise unter dem Label von Fatshark vermarktet, teilweise handelt es sich auch um ältere Iterationen der oben genannten Produkte. Diese Hardware wird nicht mehr weiter produziert.
