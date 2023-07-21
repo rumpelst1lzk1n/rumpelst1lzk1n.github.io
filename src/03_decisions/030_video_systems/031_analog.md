@@ -23,7 +23,7 @@ Oft sind analoge Videosender nur Daumennagel-groß.
 
 ![TBS Unify Pro32 nano](/img/team_blacksheep/tbs_unify_pro32_nano.png)
 
-Zudem können können analoge Videosender unterschiedlicher Hersteller leicht gegeneinander austauschen kannst.
+Zudem können analoge Videosender unterschiedlicher Hersteller leicht gegeneinander austauschen kannst.
 
 Besonders hervorzuheben sind die Videosender der Unify-Reihe von TBS und die ImmersionRC Tramp. Sie gelten mit als die Besten. Auf Rennen sind oft nur diese Analog-VTX zugelassen.
 
