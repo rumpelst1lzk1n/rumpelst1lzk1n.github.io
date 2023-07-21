@@ -67,7 +67,7 @@ In dieser Kategorie bekommst du ab ca ~350€ eine halbwegs taugliche Brille. La
 
 ### Empfehlungen
 
-Schau dich auf dem Gebrauchtmarkt um. Viele der unten genannten Modelle kriegst du auf eBay-Kleinanzeigen recht günstig gebraucht.
+Schau dich auf dem Gebrauchtmarkt um. Viele der unten genannten Modelle kriegst du dort recht günstig.
 
 Wenn du mehr als 200€ für die Brille ausgibst, sollte diese über einen HDMI-Eingang verfügen um zukunftssicher für HD-Systeme zu sein (siehe unten).
 
