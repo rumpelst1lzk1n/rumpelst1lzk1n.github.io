@@ -64,5 +64,5 @@ ELRS ist dabei die einzige Integration, die bedingt auch die Steuerung von digit
 
 | TBS Crossfire 69                                                   | ImmersionRC Ghost Hybrid                                                   | Happymodel Fuyion                                          |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| ![TBS Crossfire 69 (nice!)](/img/team_blacksheep/crossfire_69.png) | ![ImmersionRC Ghost Hybrid](/img/ImmersionRC/immersionrc_ghost_hybrid.png) | ![Happymodel Fuyion](/img/happymode/happymodel_fuyion.png) |
+| ![TBS Crossfire 69 (nice!)](/img/team_blacksheep/crossfire_69.png) | ![ImmersionRC Ghost Hybrid](/img/ImmersionRC/immersionrc_ghost_hybrid.png) | ![Happymodel Fuyion](/img/happymodel/happymodel_fuyion.png) |
 
