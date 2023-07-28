@@ -9,9 +9,3 @@ Mitwirkende:
 - [Puffi](https://www.youtube.com/channel/UCnS1f_wUUGjGD3vL1L-AKFA) (Discord: `Puffi#7127`)
 - [remove_me](https://www.youtube.com/channel/UCV0hukgWm_BdC_gvOPZSa9w) (Discord: `remove_me#4028`)
 - ruohki (Discord: `ruohk!#2864`)
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="HC56FX97RNX8U" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="" name="submit" title="Eine kleine Spende für den nächsten Satz Propeller" alt="Eine kleine Spende für den nächsten Satz Propeller" />
-<img alt="" border="" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
-</form>
