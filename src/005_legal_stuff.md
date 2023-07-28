@@ -8,9 +8,9 @@ Grundsätzlich gilt: Sei kein Arschloch, dann wird in den allermeisten Fällen d
 
 Halte Abstand zu Unbeteiligten, damit sie sich von deiner kinderfressenden Killerdrohne nicht bedroht oder beobachtet fühlen.
 
-Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Zudem setzt bei manchen auch einfach das Hirn aus, wenn sie den Begriff "Drohne" hören. Der einfachste Weg ist, zu gehen.
-
 ![drone retard](/img/memes/drone_retard.png)
+
+Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Zudem setzt bei manchen auch einfach das Hirn aus, wenn sie den Begriff "Drohne" hören. Der einfachste Weg ist, zu gehen.
 
 ## Führerscheine
 
@@ -25,6 +25,10 @@ Auf einer [Website des Luftfahrtbundesamtes](https://lba-openuav.de/) kannst du 
 Zum einen hast du dann schon mal alle Regeln gehört, die es zu beachten gilt.
 
 Zum anderen hast du ein offizielles Dokument, dass du jemandem unter die Nase halten kannst, der dir grundlos auf den Sack gehen will. Betonung liegt auf "grundlos". Sei kein Arschloch.
+
+> *Anm. rumpelst1lzk1n*: Du solltest schon mit den Regeln vertraut sein. Ob du sie dann auch einhältst ist ein anderes Thema. Aber wenn du dich entscheidest, bestimmte Regeln nicht sooo genau zu befolgen, sollte das eine bewusste Entscheidung auf Basis einer Risikoabwägung sein. Auf der Wiese neben der Siedlung ohne Einhalten des Mindestabstands fliegen? Solang sich niemand über dich beschwert und du niemandem auf den Sack gehst? Nuja. Durch die Fußgängerzone mit dem 5" ballern? Neben dem Flughafen fliegen? Nicht so cool. Ist halt scheiße auch für andere Leute in dem Hobby, wenn deine Aktion entweder statistisch relevant wird oder das Potential für einen Zeitungsartikel hat. Wirft ein schlechtes Bild aufs Hobby und da hat eigentlich keiner Bock drauf, weil das mittelfristig nur zu noch schärferen Regeln führt.
+
+![Drohnen verboten](/img/memes/lego_drohnen_verboten.png)
 
 ### der große Drohnenführerschein
 
