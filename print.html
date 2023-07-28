@@ -338,7 +338,7 @@ Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und
 <p>Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.</p>
 <p>Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst. Schau in die Anleitung deiner Funke.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="funkprotokoll"><a class="header" href="#funkprotokoll">Funkprotokoll</a></h1>
-<p>Neben dem Formfaktor ist auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkfernsteuerung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.</p>
+<p>Neben dem Formfaktor für die Funke gibt es auch noch die Frage nach dem Funkprotokoll. Sender in deiner Funkfernsteuerung und Empfänger auf der Drohne müssen die gleiche Sprache sprechen. Üblicherweise entscheidet man sich für einen Sender, der das gewünschte Protokoll unterstützt und packt dann dazu passende Empfänger in die Drohne.</p>
 <p>Falls du ein nicht von deiner Funke abgedecktes Protokoll fliegen willst, kannst du dieses mit Modulen nachrüsten. Die beiden Formfaktoren nutzen unterschiedliche Modulgrößen, <code>JR</code> bei Vollformat, <code>Lite</code> bei Gamepad.</p>
 <h2 id="frequenzen"><a class="header" href="#frequenzen">Frequenzen</a></h2>
 <p>Funkprotokolle verwenden die Frequenzen 2.4GHz und 900MHz.</p>
@@ -371,12 +371,18 @@ Sei es von FrSky, Graupner, Futaba oder wie sie alle heißen. Ihnen gemein ist, 
 <li>ExpressLRS (aka. ELRS) (900MHz und 2.4GHz)</li>
 <li>ImmersionRC Ghost (2.4GHz)</li>
 </ul>
-<p>TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine komfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.</p>
+<p>TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Für das System wirst du online umfangreiche Hilfestellungen finden.</p>
 <p>TBS Tracer ist wie Crossfire nur auf 2.4GHz. Die TBS Mambo hat Tracer bereits eingebaut. Alles andere funktioniert wie bei Crossfire.</p>
 <p>ELRS ist OpenSource und wird von unterschiedlichen Herstellern angeboten.
 Es gibt Sender/Empfänger für 2.4GHz und 900MHz. Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber die gleiche Frequenz nutzen. Das System ist noch relativ jung, aber es springen zunehmend Hersteller auf den Zug auf. Es gibt inzwischen auch vereinzelt Drohnen fertig damit zu kaufen. Das günstigste der 4 Systeme. Es ist davon auszugehen, dass ELRS mittelfristig die noch verbliebenen Legacy-Protokolle auch im Budget-Bereich verdrängen wird.</p>
-<p>Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="software"><a class="header" href="#software">Software</a></h1>
+<p>ImmersionRC Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.</p>
+<h2 id="integration-mit-videosystemen"><a class="header" href="#integration-mit-videosystemen">Integration mit Videosystemen</a></h2>
+<p>Manche Hersteller bieten auch kombinierte Empfänger und Analog-Videosender an. Das gilt sowohl für die Hardware von TBS, ImmersionRC wie auch für die Hersteller von ELRS-Hardware. Diese erlauben eine komfortable Steuerung des Videosenders über die Integration des jeweiligen Protokolls. Wenn man sich darauf einlässt, kann das sehr komfortabel sein.</p>
+<p>ELRS ist dabei die einzige Integration, die bedingt auch die Steuerung von digitalen Brillen erlaubt.</p>
+<div class="table-wrapper"><table><thead><tr><th>TBS Crossfire 69</th><th>ImmersionRC Ghost Hybrid</th><th>Happymodel Fuyion</th></tr></thead><tbody>
+<tr><td><img src="03_decisions/010_radio//img/team_blacksheep/crossfire_69.png" alt="TBS Crossfire 69 (nice!)" /></td><td><img src="03_decisions/010_radio//img/ImmersionRC/immersionrc_ghost_hybrid.png" alt="ImmersionRC Ghost Hybrid" /></td><td><img src="03_decisions/010_radio//img/happymode/happymodel_fuyion.png" alt="Happymodel Fuyion" /></td></tr>
+</tbody></table>
+</div><div style="break-before: page; page-break-before: always;"></div><h1 id="software"><a class="header" href="#software">Software</a></h1>
 <p>Moderne Funkfernsteuerungen sind kleine Computer, entsprechend läuft auf ihnen auch ein Betriebsystem.</p>
 <p>In den meisten Fällen kommt dabei OpenTX oder eines seiner Derivate zum Einsatz.</p>
 <blockquote>
