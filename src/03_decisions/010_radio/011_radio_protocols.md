@@ -47,11 +47,22 @@ Folgende Funksysteme können als "modern" betrachtet werden:
 - ExpressLRS (aka. ELRS) (900MHz und 2.4GHz)
 - ImmersionRC Ghost (2.4GHz)
 
-TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Es gibt kombinierte Empfänger/(analoge) Videosender, die eine komfortable Steuerung des Videosenders über Crossfire erlauben. TBS stellt auch analoge Videosender und Empfänger her. Wenn man sich darauf einlässt, bietet es eine umfangreiche Integration. Für das System wirst du online umfangreiche Hilfestellungen finden.
+TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Für das System wirst du online umfangreiche Hilfestellungen finden.
 
 TBS Tracer ist wie Crossfire nur auf 2.4GHz. Die TBS Mambo hat Tracer bereits eingebaut. Alles andere funktioniert wie bei Crossfire.
 
 ELRS ist OpenSource und wird von unterschiedlichen Herstellern angeboten.
 Es gibt Sender/Empfänger für 2.4GHz und 900MHz. Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber die gleiche Frequenz nutzen. Das System ist noch relativ jung, aber es springen zunehmend Hersteller auf den Zug auf. Es gibt inzwischen auch vereinzelt Drohnen fertig damit zu kaufen. Das günstigste der 4 Systeme. Es ist davon auszugehen, dass ELRS mittelfristig die noch verbliebenen Legacy-Protokolle auch im Budget-Bereich verdrängen wird.
 
-Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
+ImmersionRC Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
+
+## Integration mit Videosystemen
+
+Manche Hersteller bieten auch kombinierte Empfänger und Analog-Videosender an. Das gilt sowohl für die Hardware von TBS, ImmersionRC wie auch für die Hersteller von ELRS-Hardware. Diese erlauben eine komfortable Steuerung des Videosenders über die Integration des jeweiligen Protokolls. Wenn man sich darauf einlässt, kann das sehr komfortabel sein.
+
+ELRS ist dabei die einzige Integration, die bedingt auch die Steuerung von digitalen Brillen erlaubt.
+
+| TBS Crossfire 69                                                   | ImmersionRC Ghost Hybrid                                                   | Happymodel Fuyion                                          |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ![TBS Crossfire 69 (nice!)](/img/team_blacksheep/crossfire_69.png) | ![ImmersionRC Ghost Hybrid](/img/ImmersionRC/immersionrc_ghost_hybrid.png) | ![Happymodel Fuyion](/img/happymode/happymodel_fuyion.png) |
+
