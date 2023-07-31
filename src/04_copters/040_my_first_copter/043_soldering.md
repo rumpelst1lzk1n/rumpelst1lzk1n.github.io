@@ -41,6 +41,10 @@ Lötfett oder Lötwasser ist säurehaltig und auch elektrisch leitfähig, es zer
 
 Was du willst, ist Flussmittel (engl. *Flux*). Das gibt es flüssig oder als Gel. Zum Teil auch in Form eines Stiftes, mit dem man das auftragen kann. Achte dabei darauf, dass das Flussmittel als "no clean" beworben wird. Wenn das nicht der Fall ist, solltest du deine Elektronik nach dem Löten z.B. mit Isopropanol reinigen, da die Reste des Flussmittels elektrisch leiten und dir so Bauteile töten.
 
+| Flux Stift                                   | Flux Gel                                   |
+| -------------------------------------------- | ------------------------------------------ |
+| ![Flussmittel Stift](/img/misc/flux_pen.png) | ![Flux Gel](/img/misc/flux_sticky_tac.png) |
+
 ## Lötgore
 
 Vorsicht, zart besaitete Elektrotechniker sollten ab hier aufhören zu lesen.
