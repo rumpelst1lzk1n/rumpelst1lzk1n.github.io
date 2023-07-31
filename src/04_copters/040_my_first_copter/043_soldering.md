@@ -53,7 +53,9 @@ Vorsicht, zart besaitete Elektrotechniker sollten ab hier aufhören zu lesen.
 
 Wenn deine Lötversuche so oder ähnlich (hoffentlich nicht schlimmer) aussehen, dann solltest du definitiv nochmal üben.
 
-|                                          |                                          |
-| ---------------------------------------- | ---------------------------------------- |
-| ![Lötgore](/img/LegoRJ35/loetgore_1.jpg) | ![Lötgore](/img/LegoRJ35/loetgore_3.jpg) |
-| ![Lötgore](/img/LegoRJ35/loetgore_2.jpg) | ![Lötgore](/img/LegoRJ35/loetgore_4.jpg) |
+|                                          |
+| ---------------------------------------- |
+| ![Lötgore](/img/LegoRJ35/loetgore_1.jpg) |
+| ![Lötgore](/img/LegoRJ35/loetgore_2.jpg) |
+| ![Lötgore](/img/LegoRJ35/loetgore_3.jpg) |
+| ![Lötgore](/img/LegoRJ35/loetgore_4.jpg) |
