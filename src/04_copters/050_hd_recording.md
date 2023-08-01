@@ -27,7 +27,7 @@ Bekannte Beispiele:
 - Realsteady Go (2) von GoPro
 - Insta360 Studio
 
-Darüber hinaus gibt es auch noch ein OpenSource Projekt namens [Gyroflow](https://gyroflow.xyz/). Im Gegensatz zu Realsteady und Insta360 Studio funktioniert diese nicht nur mit Kameras des entsprechenden Herstellers. In der Qualität steht Gyroflow den anderen in nichts nach und übertrifft diese zum Teil sogar.
+Darüber hinaus gibt es auch noch ein OpenSource Projekt namens [Gyroflow](https://gyroflow.xyz/). Im Gegensatz zu Realsteady und Insta360 Studio funktioniert diese mit nahezu beliebigen Kameras. In der Qualität steht Gyroflow den anderen in nichts nach und übertrifft diese zum Teil sogar.
 
 ## Videobearbeitung
 
