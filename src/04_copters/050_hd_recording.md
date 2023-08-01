@@ -37,10 +37,10 @@ Der Goldstandard im Bereich Videoschnitt dürfe wohl Adobe Premiere sein.
 
 Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch andere (kostenlose) Software:
 
-- kdenlive
-- OpenShot
-- shotcut
-- DaVinci Resolve
+- [kdenlive](https://kdenlive.org/) (OpenSource, kostenlos)
+- [OpenShot](https://www.openshot.org/de/) (OpenSource, kostenlos)
+- [shotcut](https://www.shotcut.org/) (OpenSource, kostenlos)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/) (kostenlos in der Basisversion)
 
 Je nachdem wie aufwändig dein bearbeitetes Video ist, solltest du einen starken Rechner haben und die Videosoftware direkte Schnittstellen der Grafikkarte nutzen können.
 
