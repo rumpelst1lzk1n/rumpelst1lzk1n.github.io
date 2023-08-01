@@ -37,7 +37,7 @@ Der Goldstandard im Bereich Videoschnitt dürfe wohl [Adobe Premiere](https://ww
 
 Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch andere (kostenlose) Software.
 
-Beispielsweise [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/). Dieses ist in der Basisversion kostenlos und ebenfalls eine "echte" Industrielösung aus der Filmbranche.
+Beispielsweise [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/). Dieses ist in der Basisversion kostenlos und wie die Produkte von Adobe eine "echte" Industrielösung aus der Filmbranche.
 
 Du willst es wirklich kostenlos? Mit allen Features? Am Ende verlangst du sogar noch, dass es OpenSource sein soll?
 
