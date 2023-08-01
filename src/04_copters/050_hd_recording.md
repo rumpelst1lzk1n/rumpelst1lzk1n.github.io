@@ -33,14 +33,19 @@ Darüber hinaus gibt es auch noch ein OpenSource Projekt namens [Gyroflow](https
 
 Wenn du bei deinen Videos Effekte (z.B. Übergänge) einfügen möchtest, die über einfache Schnitte hinaus gehen, wirst du auch dafür Software benötigen.
 
-Der Goldstandard im Bereich Videoschnitt dürfe wohl Adobe Premiere sein.
+Der Goldstandard im Bereich Videoschnitt dürfe wohl [Adobe Premiere](https://www.adobe.com/de/products/premiere.html) sein.
 
-Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch andere (kostenlose) Software:
+Wenn du keinen Geldscheißer für Adobe-Produkte hast, gibt es auch andere (kostenlose) Software.
 
-- [kdenlive](https://kdenlive.org/) (OpenSource, kostenlos)
-- [OpenShot](https://www.openshot.org/de/) (OpenSource, kostenlos)
-- [shotcut](https://www.shotcut.org/) (OpenSource, kostenlos)
-- [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/) (kostenlos in der Basisversion)
+Beispielsweise [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/). Dieses ist in der Basisversion kostenlos und ebenfalls eine "echte" Industrielösung aus der Filmbranche.
+
+Du willst es wirklich kostenlos? Mit allen Features? Am Ende verlangst du sogar noch, dass es OpenSource sein soll?
+
+Na gut du kleiner Kommunist, hier sind 3 Vorschläge:
+
+- [kdenlive](https://kdenlive.org/)
+- [OpenShot](https://www.openshot.org/de/)
+- [shotcut](https://www.shotcut.org/)
 
 Je nachdem wie aufwändig dein bearbeitetes Video ist, solltest du einen starken Rechner haben und die Videosoftware direkte Schnittstellen der Grafikkarte nutzen können.
 
