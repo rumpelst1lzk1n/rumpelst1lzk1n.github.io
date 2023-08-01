@@ -47,6 +47,8 @@ Na gut du kleiner Kommunist, hier sind 3 Vorschläge:
 - [OpenShot](https://www.openshot.org/de/)
 - [shotcut](https://www.shotcut.org/)
 
+Egal welche der oben genannten Software du nimmst, sie funktionieren auf den ersten Blick recht ähnlich. Ein Zeitstrahl, auf dem du unterschiedliche Quellen für Video und Ton anlegen kannst, die jeweilige Originalquelle, eine Vorschau für das Endprodukt und dann noch ein paar Segmente, in denen du Einstellungen tätigen kannst.
+
 Je nachdem wie aufwändig dein bearbeitetes Video ist, solltest du einen starken Rechner haben und die Videosoftware direkte Schnittstellen der Grafikkarte nutzen können.
 
 ## Musik
