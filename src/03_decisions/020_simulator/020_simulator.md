@@ -4,6 +4,8 @@ Für den Einstieg erfüllt jeder Simulator den Zweck, dass du dich mit der Steue
 
 Und falls du feststellst, dass das Hobby überhaupt nichts für dich ist, hast du nur Geld für die Fernbedienung ausgegeben. Diese kannst du normalerweise ohne großen Verlust auf eBay-Kleinanzeigen oder in einschlägigen Facebook-Gruppen verkaufen.
 
+In welchem Simulator du fliegst ist erst einmal egal. Hauptsache, du bekommst ein Gefühl fürs Fliegen.
+
 Hier eine Liste populärer Simulatoren (ohne Wertung):
 
 | Titel                                                                                       | Quelle                 | Zusammenfassung / Besonderheiten               |
@@ -16,6 +18,10 @@ Hier eine Liste populärer Simulatoren (ohne Wertung):
 | [Uncrashed](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/)     | Steam                  | mäßiges Flugverhalten                          |
 | [AI Drone Simulator](https://store.steampowered.com/app/1608560/AI_Drone_Simulator/)        | Steam                  |                                                |
 | [TRYP FPV](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/) | Steam                  | schöne große Maps                              |
+
+![VELOCIDRONE!!!](/img/memes/velocidrone_krah.png)
+
+> *Anm. rumpelst1lzk1n*: Besser Rennen im Simulator fliegen auch wenn man keine Ambitionen als Racer hat. Das zielgerichtete Fliegen bringt mehr, als auf 100 Metern Höhe Flips und Rolls zu üben.
 
 ## Üben
 
