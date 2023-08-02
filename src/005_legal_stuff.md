@@ -56,7 +56,7 @@ Das Fliegen auf den Modellflugplätzen ist meistens Vereinsmitgliedern vorbehalt
 
 Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit deinem Kopter fliegen zu lassen.
 
-> *Anm. rumpelst1lzk1n*: Erfahrungsgemäß werden Multikopter- und FPV-Piloten in solchen lokalen Vereinen häufig diskriminiert bzw. dürfen auf deren Flugplätzen nicht mit ihrem Setup fliegen. Außer du erwischst einen der seltenen Vereine, in denen es eine entsprechende Abteilung für FPV gibt.
+> *Anm. rumpelst1lzk1n*: Erfahrungsgemäß werden Multikopter- und FPV-Piloten in solchen lokalen Vereinen diskriminiert bzw. dürfen auf deren Flugplätzen nicht mit ihrem Setup fliegen. Außer du erwischst einen der seltenen Vereine, in denen es eine entsprechende Abteilung für FPV gibt.
 
 ## Dachverbände
 
@@ -69,7 +69,7 @@ Erwähnenswert sind hier
 - [Österreichischer Aeroclub](https://aeroclub.at/)
 - [Schweizerische Modellflugverband](https://www.modellflug.ch/)
 
-Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram. Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen.
+Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram. Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen (LuftVO §21f).
 
 ## Versicherung
 
@@ -79,7 +79,7 @@ Häufig sind private Flüge mit Drohnen bei einer allgemeinen Haftpflichtversich
 
 > *Anm. Crash*: Wer keine hat, hat die Kontrolle über sein Leben verloren
 
-Wenn du eine hast, schau trotzdem nach, ob das abgedeckt ist.
+Wenn du eine hast, schau trotzdem nach, ob und in welchem Maß Drohnen abgedeckt sind.
 
 Wenn es nicht abgedeckt ist, und du nicht z.B. über Mitgliedschaft in einem Modellbauverein (siehe oben) versichert bist, kannst du so eine Versicherung auch separat abschließen.
 
