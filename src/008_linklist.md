@@ -51,6 +51,11 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 - [Giant Ant Cowboy](https://www.youtube.com/c/GiantAntCowboy) Long Range, HDZero
 - [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
 
+## Youtube-Playlists
+
+- [Technische Pflichtlektüre](https://www.youtube.com/watch?v=mRlsaD5tf_8&list=PLgtT6HufUGhuscsQfvJBSTqtKURIQklWC)
+- [Meilensteine der FPV-Geschichte](https://www.youtube.com/watch?v=13OtZFWdhwQ&list=PLgtT6HufUGhs9KB-plIvo5z7mxH-MMQDV)
+
 ## Websites
 
 ### Rechtsgrundlagen
