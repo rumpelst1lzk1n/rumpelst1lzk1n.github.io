@@ -132,8 +132,10 @@ Manche Brillen kommen ohne Empfänger. Hier musst du diesen über einen Modulsch
 Falls du dich für so eine Brille entschieden hast, hier eine Liste populärer Empfänger:
 
 - TBS Fusion (siehe Artikel zu TBS Crossfire/TBS Tracer)
-- Rapidfire
+- ImmersionRC Rapidfire
+- Foxeer Wildfire
 - FuriousFPV Achilles
+- Eachine Pro58 (Budget-Lösung)
 
 ![Beispielbild TBS Fusion](/img/team_blacksheep/tbs_fusion.png)
 
