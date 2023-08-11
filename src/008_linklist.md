@@ -27,12 +27,12 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 ### Hi tech, low life
 
-| Kanal                                                                    | Beschreibung                                                                    |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
-| [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
-| [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
-| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme              |
+| Kanal                                                                  | Beschreibung                                                                    |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg) | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
+| [UAV Tech](https://www.youtube.com/user/spatzengr)                     | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
+| [Chris Rosser](https://www.youtube.com/user/neucleotide)               | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
+| [Ivan Efimov](https://www.youtube.com/@IvanEfimovLimon)                | Technik-Videos, FPV-Racing, aktiver Betaflight-Entwickler                       |
 
 ### Fanboy-Kanäle / Entertainment
 
