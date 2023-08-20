@@ -20,7 +20,7 @@
     - [HDZero](03_decisions/030_video_systems/033_digital_HDZero.md)
     - [Caddx / Walksnail](03_decisions/030_video_systems/034_digital_caddx.md)
     - [sonstiges](03_decisions/030_video_systems/035_other_systems.md)
-  - [Flugstile](03_decisions/040_flight_styles.md)
+  - [Flugstile](03_decisions/040_flight_styles/040_flight_styles.md)
 - [Drohne / Quad / Kopter](04_copters/000_copters.md)
   - [Hardware-Bestandteile](04_copters/010_components/010_components.md)
     - [Rahmen / Frame](04_copters/010_components/011_frame.md)
