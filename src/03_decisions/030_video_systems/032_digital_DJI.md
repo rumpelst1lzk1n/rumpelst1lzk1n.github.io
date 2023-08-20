@@ -7,7 +7,7 @@ DJI ist das Apple unter den FPV-Systemen. Funktioniert super, ist aber ein golde
 Die Hardware gibt es nur von DJI, lediglich bei den Kameras lassen sie 1-2 andere Hersteller mit ins Boot.
 
 Das System hat einen sehr guten Reifegrad. Wenn du das Geld übrig, kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaß (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
-Viele fliegen dennoch Rennen mit dem DJI-System, wenn es vom Rennveranstalter erlaubt ist.
+Viele fliegen dennoch Rennen mit dem DJI-System, wenn es vom Rennveranstalter erlaubt ist oder installieren einen Analog-Empfänger (nur FPV Googles v1 und v2).
 
 ## Brillen
 

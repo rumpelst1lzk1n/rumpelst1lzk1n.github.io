@@ -7,6 +7,10 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 
 Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle angeboten wurden, gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
 
+Die Empfehlungen basieren rein auf den technischen Daten der Funken. Wenn du die Möglichkeit hast, sieh zu, dass du ein paar Funken in die Hand bekommst, bevor du dich entscheidest. Möglichkeiten dafür hast du z.B. auf FPV-Rennen oder bei einer lokalen FPV-Gruppe.
+
+> *Anm. rumpelst1lzk1n*: Reine Modellbau-Vereine kannst knicken, die hinken bei ihren Funken meistens 15-20 Jahre hinterher.
+
 ## Jumper T-Pro (V1 !!!)
 
 **Aktuell ist eine Hardware-Revision der Boxer mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=bug-verseucht.**

@@ -1,15 +1,16 @@
 # HDZero (früher SharkByte)
 
-HDZero (aka SharkByte) ist ein weiteres digitales FPV-System, das im Gegensatz zu DJI noch keine so weite Verbreitung genießt. Das Projekt wurde ursprünglich unter dem Namen SharkByte unter der Schirmherrschaft von FatShark entwickelt. Inzwischen hat sich die Firma Divimath hinter der Technologie aber von FatShark abgenabelt und neue Produkte entstehen unabhängig von FatShark.
+HDZero (aka SharkByte) ist ein weiteres digitales FPV-System. Es erfreut sich aufgrund seiner technischen Eigenschaften bei den FPV-Racern stetig wachsender Beliebtheit. Bei anderen FPV-Kategorien, insbesondere Freestyle hat es jedoch einen schweren Stand gegenüber DJI (und neuerdings Walksnail).
 
-Bei der Bildqualität ist sowohl DJI wie auch Walksnail klar das bessere System.
+Bei der Bildqualität sind sowohl DJI wie auch Walksnail die klar überlegenen Systeme.
 
 Für die Nutzung von HDZero gibt es normal folgende Gründe:
 
-- Du willst kein DJI aber trotzdem besseres Bild als Analog.
-- Du bist Racer und willst Digital aber
-  - das DJI-System wiegt dir zu viel.
-  - die variable Latenz anderer digitaler Systeme stört dich.
+- Du bist Racer und ...
+  - ... hast das Geld für die HDZero-Brille.
+  - ... willst besseres Bild als Analog.
+- Das DJI-System wiegt dir zu viel.
+- Die variable Latenz anderer digitaler Systeme (DJI, Walksnail) stört dich.
 - Du hast bereits eine gute Analog-Brille (mit HDMI-Eingang) und möchtest diese weiter verwenden.
 
 Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sender herausbringen. Im Gegensatz zu DJI will die Firma hinter HDZero die Technologie auch anderen Herstellern zugänglich machen, sodass diese eigene, untereinander kompatible Produkte auf den Markt bringen können. Ähnlich, wie es jetzt auch schon bei Analog der Fall ist.
@@ -29,7 +30,7 @@ Die Hardware ist im Laufe der Zeit immer ausgereifter und kompakter geworden. Di
 
 ## Empfänger
 
-Für HDZero gibt es inzwischen einige unterschiedliche Empfänger
+Für HDZero gibt es inzwischen einige unterschiedliche Empfänger.
 
 ### Modul
 
@@ -45,11 +46,9 @@ Daneben gibt es 2 Brillen, eine im Binocular-Design und eine im Box-Design.
 | -------------------------------------------------- | ------------------------------------------------------------- |
 | ![HDZero Brille](/img/divimath/hdzero_goggles.png) | ![EMAX Transporter 2 HD](/img/emax/emax_transporter_2_hd.png) |
 
-Beide haben es bisher noch nicht in den europäischen Handel geschafft sondern sind ausschließlich auf den Websites der Hersteller vorbestellbar.
+Beide sind nur vereinzelt bei europäischen Shops verfügbar. Ansonsten sind die Websites der jeweiligen Hersteller eine gute Anlaufstelle dafür.
 
-Kostenpunkt für die HDzero Brille sind etwa 500$, für die EMAX-Brille etwa 240$. Beide Preise jeweils ohne Zoll und Einfuhrumsatzsteuer.
-
-Die Resonanz bei den Leuten, die bisher eine HDZero Brille ergattern konnten ist positiv bis sehr positiv.
+Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei der EMAX-Brille etwa 290€. Bei den Shops der Hersteller kann man teilweise günstiger weg kommen, je nach Kurs Dollar/Euro.
 
 ### Kameras
 
@@ -63,7 +62,7 @@ Bei den Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Mic
 
 Micro und Nano V2 können bis 1080p bei 30fps und 720p bei 60fps aufnehmen und sind das, was man als "guter Standard" bezeichnen kann.
 
-Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit der HDZero Brille als Empfänger verwendbar.
+Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit der HDZero Brille als Empfänger verwendbar. Dafür bietet die Kombination aus HDZero Brille und 90FPS-Kamera eine geringere Latenz als selbst Analog.
 
 Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras und für TinyWhoops gedacht.
 
