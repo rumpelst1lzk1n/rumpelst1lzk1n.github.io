@@ -29,7 +29,11 @@ Die meisten organisieren sich inoffiziell über Messenger-Dienste.
 
 ## überregionale Gruppen
 
-In Süddeutschland sind die [Aircrashers](https://aircrasher.de/) und in Norddeutschland der [Drone Cup North](https://dronecupnorth.de/) die zentralen Anlaufstellen und Organisatoren der größeren FPV-Rennen.
+Die größeren FPV-Rennen werden meistens von überregionalen Gruppen organisiert. Das beinhaltet z.B. Rennen auf Modellbaumessen wie in Friedrichshafen.
+
+Vornehmlich in Norddeutschland aktiv ist der [Drone Cup North](https://dronecupnorth.de/).
+
+Die [Aircrashers](https://aircrasher.de/) kommen primär aus Süddeutschland, im Rahmen der deutschen Meisterschaft, die sie betreuen, organisieren sie aber auch Rennen im Norden.
 
 ## Sim-Racing
 
