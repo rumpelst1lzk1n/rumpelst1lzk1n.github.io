@@ -41,7 +41,7 @@ Kostenpunkt dieses Builds sind in etwa 220€.
 
 ### Mittelklasse
 
-Ab der Mittelklasse gehe ich davon aus, dass du für den Videoempfang bereits ein digitales System hast. Entweder DJI oder HDZero. Siehe oben.
+Ab der Mittelklasse gehe ich davon aus, dass du für den Videoempfang bereits ein digitales System hast. Entweder DJI, Walksnail oder HDZero. Siehe oben.
 
 Kostenpunkt dieses Builds sind in etwa 350-400€.
 
@@ -66,6 +66,18 @@ Kostenpunkt dieses Builds sind in etwa 500-600€.
 - ESC & FC: Diatone Mamba F722 App Stack oder iFlight SucceX-D F7 (ca. 130€)
 - Receiver: ELRS, Tracer oder Crossfire (ca. 15-35€)
 - Videosystem: passend zum Videoempfänger (ca. 110-180€)
+
+### Racer
+
+Kostenpunkt dieses Builds sind in etwa 400-500€.
+
+- Frame: Five33 Switchback Pro (ca. 50€)
+- Motor: T-Motor F60 (2207, ca. 110€)
+- ESC & FC: Hobbywing XRotor oder Foxeer Stack (ca 130-150€)
+- Receiver: ELRS, Tracer oder Ghost (ca. 15-35€)
+- Videosystem: HDZero mit 90FPS Cam (ca 150€)
+
+Ein weiterer Kostenfaktor beim Racing sind die Ersatzteile! Ob Arme, Motoren oder Kameras. Du wirst Ersatz brauchen.
 
 ## Tune
 
