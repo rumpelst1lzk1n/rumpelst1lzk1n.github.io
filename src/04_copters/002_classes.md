@@ -26,6 +26,8 @@ Wenn du im Herbst/Winter überlegst, mit FPV anzufangen, ist ein TinyWhoop eine 
 
 Für viele Piloten die Grundausstattung, hier ist mehr oder weniger alles erlaubt.
 
+Für viele Piloten gehört auch eine GoPro auf den Freestyle-Kopter drauf. Diese Kombination aus zusätzlichem Ballast und gewünschter Leistung sorgt dafür, dass die meisten Freestyle-Kopter um die 5 Zoll als Propeller-Durchmesser verwenden.
+
 Die Frames bieten relativ viel Platz für Flight Controller und ESC und sind darauf ausgelegt, auch mal unsanft den Boden zu küssen ohne sofort kaputt zu gehen.
 
 ![ImpulseRC Apex Build by GhostBranch FPV ](/img/ghostbranchfpv/impulserc_apex_build.png)
