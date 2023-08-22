@@ -11,14 +11,25 @@ Die Empfehlungen basieren rein auf den technischen Daten der Funken. Wenn du die
 
 > *Anm. rumpelst1lzk1n*: Reine Modellbau-Vereine kannst knicken, die hinken bei ihren Funken meistens 15-20 Jahre hinterher.
 
+## Radiomaster Pocket
+
+- ca. 80€
+- Gamepad(-ish)
+- Lite-Modulanschluss
+- ELRS (oder Multi-Protokoll-Modul, aber lieber ELRS)
+- EdgeTX
+- Monochrom-Display
+
+Die günstigste Funke, die sich irgendwie lohnt.
+
 ## Jumper T-Pro (V1 !!!)
 
-**Aktuell ist eine Hardware-Revision der Boxer mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=bug-verseucht.**
+**Aktuell ist eine Hardware-Revision der Boxer mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=eher nicht so.**
 
 - ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
 - Lite-Modulanschluss
-- Mehrere Protokoll-Varianten. Nimm die mit integriertem ELRS.
+- ELRS (oder Multi-Protokoll-Modul, aber lieber ELRS)
 - winziges Monochrom-Display
 
 ## Radiomaster Boxer
@@ -27,7 +38,7 @@ Die Empfehlungen basieren rein auf den technischen Daten der Funken. Wenn du die
 - etwas kleiner als Vollformat
 - JR-Modulschacht
 - ELRS (oder Multi-Protokoll-Modul, aber lieber ELRS)
-- OpenTX oder EdgeTX
+- EdgeTX
 - Monochrom-Display
 
 So ziemlich DIE Empfehlung für Neueinsteiger.
@@ -45,6 +56,8 @@ So ziemlich DIE Empfehlung für Neueinsteiger.
 
 Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
 
+> *Anm. rumpelst1lzk1n*: lass dich nicht davon abschrecken, dass sie nirgends lieferbar ist. Die Funke ist gefragt und TBS kommt kaum hinterher. Betrachte die Bestellung als Vorbestellung, kauf bei einem lokalen Händler, der die Funke auf Lager hat oder hol dir eine gebrauchte.
+
 ## Radiomaster TX16S (Mk 2)
 
 Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit Leder-Applikationen?
@@ -60,7 +73,9 @@ Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus
 
 Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
 
-> *Anm. rumpelst1lzk1n*: TX16S nur, wenn du wirklich meinst, dass du ein farbiges Touch-Display brauchst. Und dann am besten die Version mit integriertem Multi-Protokoll-Modul. Das interne ELRS-Modul in der TX16S ist leider nur solala, kann nur 250mw und hat Hitzeprobleme. Lieber ein separates ELRS-Modul, das Eichhörnchen mit 1W grillen kann.
+> *Anm. rumpelst1lzk1n*: TX16S nur, wenn du wirklich meinst, dass du ein farbiges Touch-Display brauchst. Und dann am besten die Version mit integriertem Multi-Protokoll-Modul. Das interne ELRS-Modul in der TX16S ist mMn nur solala, kann nur 250mw und hat Hitzeprobleme. Lieber ein separates ELRS-Modul, das Eichhörnchen mit 1W grillen kann.
+
+> *Anm. rumpelst1lzk1n*: Ich komme mir gerade ein bisschen wie ein Marktschreier für Radiomaster vor. Aber Fakt ist: Sie liefern gute Hardware und wenn sie mal einen Bock schießen, stehen sie dafür gerade.
 
 ## Sendemodul & Empfänger
 
@@ -103,6 +118,10 @@ Die Hardware von Radiomaster genießt allgemeinen einen guten Ruf und sie arbeit
 | RadioMaster Ranger Micro                                       | RadioMaster Ranger Nano                                         |
 | -------------------------------------------------------------- | --------------------------------------------------------------- |
 | ![JR-Bay Modul](/img/radiomaster/radiomaster_ranger_micro.png) | ![Lite-Bay Modul](/img/radiomaster/radiomaster_ranger_nano.png) |
+
+### SD-Karte
+
+Die SD-Karten in den Funken sind meistens die billigsten der billigen. Defekt aus der Fabrik, dreimal vom LKW gefallen, fünfmal überfahren. Ich empfehle **DRINGEND** die mitgelieferte SD-Karte einer jeden Funke direkt auszutauschen. Irgend eine günstige Samsung, Sandisk oder so. 8GB reichen vollkommen aus, sie muss auch nicht schnell sein, sie muss nur besser als der Müll sein, der bei den Funken normal dabei ist.
 
 ### ELRS-Empfänger
 
