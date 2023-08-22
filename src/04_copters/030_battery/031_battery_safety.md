@@ -10,7 +10,7 @@ Akkus sind brennbar. Du willst deine Bude damit nicht abfackeln. Entsprechend so
 
 Wichtig bei der Aufbewahrung ist, die Akkus **NIEMALS** druckdicht zu verpacken. Sonst hast du eine Rohrbombe. Wenn dir Munitionskiste Luftdichtigkeit verspricht, bohre ein paar Löcher oder entferne die Dichtung an einigen Stellen, damit im Fall eines Brandes der Druck gezielt entweichen kann. LiPo-Brände sind selbstversorgend. Wenn dein LiPo brennt, dann brennt er, egal wie viel Wasser du drauf kippst. Du brauchst nicht darauf hoffen, dass durch die Luftdichtigkeit die Luft im Behälter irgendwann verbraucht ist und das Feuer von selbst ausgeht. Der Brand erzeugt weiter Gase und wenn der Behälter druckdicht ist macht es irgendwann BUM.
 
-Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPos beträgt diese Spannung 3,8 Volt. Dein Ladegerät sollte über einen Modus verfügen, über den du die Akkus auf Lagerspannung bringen kannst.
+Zum Lagern sollten die Akkus zudem auf Lagerspannung gebracht werden. Das ist die Spannung, bei der die Akkuchemie am stabilsten ist. Bei LiPo-Zellen beträgt diese Spannung 3,8 Volt. Dein Ladegerät sollte über einen Modus verfügen, über den du die Akkus auf Lagerspannung bringen kannst.
 
 Zudem empfiehlt es sich, einen kleinen Akku-Tester griffbereit zu haben. Auch unterwegs.
 
