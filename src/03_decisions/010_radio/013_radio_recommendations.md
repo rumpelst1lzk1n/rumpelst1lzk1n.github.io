@@ -2,12 +2,12 @@
 
 Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Derivat davon, z.B. FreedomTX oder EdgeTX.
 
-Bei den genannten Funken ist das Display nachrangig.
+Bei den Funken im Rahmen dieses Guides ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
 
-Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle angeboten wurden, gibt inzwischen alles eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
+Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle (siehe oben) angeboten wurden, gibt es inzwischen alle eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
 
-Die Empfehlungen basieren rein auf den technischen Daten der Funken. Wenn du die Möglichkeit hast, sieh zu, dass du ein paar Funken in die Hand bekommst, bevor du dich entscheidest. Möglichkeiten dafür hast du z.B. auf FPV-Rennen oder bei einer lokalen FPV-Gruppe.
+Die Empfehlungen basieren rein auf den technischen Daten der Funken. Mindestens genau so wichtig wenn nicht sogar wichtiger ist jedoch, dass sich die Funke gut in der Hand anfühlt. Wenn du die Möglichkeit hast, sieh zu, dass du ein paar Funken in die Hand bekommst, bevor du dich entscheidest. Möglichkeiten dafür hast du z.B. auf FPV-Rennen oder bei einer lokalen FPV-Gruppe.
 
 > *Anm. rumpelst1lzk1n*: Reine Modellbau-Vereine kannst knicken, die hinken bei ihren Funken meistens 15-20 Jahre hinterher.
 
@@ -24,7 +24,7 @@ Die günstigste Funke, die sich irgendwie lohnt.
 
 ## Jumper T-Pro (V1 !!!)
 
-**Aktuell ist eine Hardware-Revision der Boxer mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=eher nicht so.**
+**Aktuell ist eine Hardware-Revision der T-Pro mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=eher nicht so.**
 
 - ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
