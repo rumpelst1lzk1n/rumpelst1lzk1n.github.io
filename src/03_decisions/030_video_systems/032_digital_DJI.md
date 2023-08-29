@@ -9,8 +9,6 @@ Die Hardware gibt es nur von DJI, lediglich bei den Kameras lassen sie 1-2 ander
 Das System hat einen sehr guten Reifegrad. Wenn du kein Problem mit einem goldenen Käfig ala Apple hast und zudem auch nur so zum Spaß (also keine Rennen) fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen.
 Viele fliegen dennoch Rennen mit dem DJI-System, wenn es vom Rennveranstalter erlaubt ist oder installieren einen Analog-Empfänger (nur FPV Googles v1 und v2).
 
-Preislich betrachtet ist eine gebrauchte DJI V2-Brille vermutlich der günstigste Weg zu digitalem FPV.
-
 ## Brillen
 
 Bei den Brillen ist das Namensschema von DJI vogelwild.
@@ -38,6 +36,8 @@ Für die FPV Goggles (**nicht** für die Googles 2) gibt es auch Adapter, um ein
 Das bietet sich z.B. für sehr kleine Kopter an, da die Videosender von DJI mit 25+X Gramm zu schwer für diese sind. Hier ist Analog immer noch die Lösung mit dem geringsten Gewicht.
 
 ![DJI FPV Googles mit Analog-Adapter](/img/DJI/dji_analog_adapter.png)
+
+Preislich betrachtet ist eine gebrauchte DJI V2-Brille (um 350-400€ je nach Zustand und Zubehör, Stand September 2023) vermutlich der günstigste Weg zu digitalem FPV.
 
 ## Videosender
 
