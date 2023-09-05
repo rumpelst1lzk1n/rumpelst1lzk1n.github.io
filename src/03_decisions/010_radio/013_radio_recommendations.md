@@ -5,7 +5,7 @@ Alle hier genannten Funkfernsteuerungen verwenden entweder OpenTX oder ein Deriv
 Bei den Funken im Rahmen dieses Guides ist das Display nachrangig.
 Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der Brille angezeigt. Ein großes Display wie bei der TX16S ist zwar schön, wenn man etwas umfangreicher konfigurieren will, aber man kann die Funken auch über den Rechner ganz ohne Display konfigurieren.
 
-Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle (siehe oben) angeboten wurden, gibt es inzwischen alle eigentlich auch mit ELRS, sodass es keinen Grund mehr gibt, irgendwelche alten Krücken zu fliegen.
+Wenn du bei der Funke hinsichtlich des verbauten Moduls die Wahl zwischen einem Multi-Protokoll-Modul und ELRS hast, nimm ELRS. ELRS hat Anfang 2022 auf dem Markt ordentlich aufgeräumt. Alle fertigen Kopter, die früher mit einem der Legacy-Protokolle (siehe oben) angeboten wurden, gibt es inzwischen auch mit ELRS. Es gibt wirklich keinen Grund mehr, irgendwas mit einem dieser Legacy-Protokolle zu fliegen.
 
 Die Empfehlungen basieren rein auf den technischen Daten der Funken. Mindestens genau so wichtig wenn nicht sogar wichtiger ist jedoch, dass sich die Funke gut in der Hand anfühlt. Wenn du die Möglichkeit hast, sieh zu, dass du ein paar Funken in die Hand bekommst, bevor du dich entscheidest. Möglichkeiten dafür hast du z.B. auf FPV-Rennen oder bei einer lokalen FPV-Gruppe.
 
