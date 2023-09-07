@@ -6,15 +6,16 @@
 
 | Kanal                                                                  | Beschreibung                                                                                                                                                                                                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Joshua Bardwell](https://www.youtube.com/c/JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
-| [Nick Burns](https://www.youtube.com/channel/UCBGpbEe0G9EchyGYCRRd4hg) | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
-| [Gal Kremer](https://www.youtube.com/user/galkremer11)                 | Produktbewertungen                                                                                                                                                                                                                   |
-| [Albert Kim](https://www.youtube.com/channel/UCnJyFn_66GMfAbz1AW9MqbQ) | Produktbewertungen                                                                                                                                                                                                                   |
-| [Oscar Liang](https://www.youtube.com/user/289359752)                  | Produktbewertungen                                                                                                                                                                                                                   |
-| [AndyRC](https://www.youtube.com/channel/UCKE_cpUIcXCUh_cTddxOVQw)     | Produktbewertungen, nicht nur Quads, auch Flugzeuge                                                                                                                                                                                  |
-| [Pawel Spychalski](https://www.youtube.com/user/dzikuvx)               | Tutorials um iNAV                                                                                                                                                                                                                    |
-| [Painless360](https://www.youtube.com/c/Painless360)                   | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
-| [Project Blue Falcon](https://www.youtube.com/c/ProjectBlueFalcon/)    | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
+| [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
+| [Nick Burns](https://www.youtube.com/@NickBurnsFPV) | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
+| [Gal Kremer](https://www.youtube.com/@KremerFPV)                 | Produktbewertungen                                                                                                                                                                                                                   |
+| [Albert Kim](https://www.youtube.com/@AlbertKimTV) | Produktbewertungen                                                                                                                                                                                                                   |
+| [Oscar Liang](https://www.youtube.com/@OscarLiang1)                    | Produktbewertungen                                                                                                                                                                                                                   |
+| [Mr ShutterBug](https://www.youtube.com/@MrShutterBug)                 | Produktbewertungen und Basteln, hauptsächlich TinyWhoops                                                                                                                                                                             |
+| [AndyRC](https://www.youtube.com/@AndyRCchannel)     | Produktbewertungen, nicht nur Quads, auch Flugzeuge, aktuell wohl inaktiv.                                                                                                                                                                                  |
+| [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)               | Tutorials um iNAV                                                                                                                                                                                                                    |
+| [Painless360](https://www.youtube.com/@Painless360)                   | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
+| [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon)    | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
 
 ### Marktschreier
 
@@ -22,34 +23,34 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 | Kanal                                                                      | Beschreibung                                             |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [UAV Futures](https://www.youtube.com/channel/UC3ioIOr3tH6Yz8qzr418R-g)    | Marktschreier mit eigenwillig witziger australischer Art |
-| [Drone Camps RC](https://www.youtube.com/channel/UCwojJxGQ0SNeVV09mKlnonA) | Ja ... Marktschreier halt                                |
+| [UAV Futures](https://www.youtube.com/@UAVfutures)    | Marktschreier mit eigenwillig witziger australischer Art |
+| [Drone Camps RC](https://www.youtube.com/@dronecamps) | Ja ... Marktschreier halt                                |
 
 ### Hi tech, low life
 
 | Kanal                                                                    | Beschreibung                                                                    |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [Mad's Tech](https://www.youtube.com/channel/UCxpgzA0iO-7anEAyiLMDRmg)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
-| [UAV Tech](https://www.youtube.com/user/spatzengr)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
-| [Chris Rosser](https://www.youtube.com/user/neucleotide)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
-| [Wezley Varty](https://www.youtube.com/channel/UCiluOsWP9XCNnPART78mOfA) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme              |
+| [Mad's Tech](https://www.youtube.com/@MadRC)   | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
+| [UAV Tech](https://www.youtube.com/@uavtech)                       | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
+| [Chris Rosser](https://www.youtube.com/@ChrisRosser)                 | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
+| [Wezley Varty](https://www.youtube.com/@WezleyVarty) | Produkttests auf höherem technischen Niveau, Fokus auf Funksysteme              |
 
 ### Fanboy-Kanäle / Entertainment
 
-- [Mr Steve](https://www.youtube.com/user/MrSteeledavis)
-- [TBS](https://www.youtube.com/user/nastycop420)
-- [TBS Lounge](https://www.youtube.com/channel/UChNaTfgpiQRIeJiGrP1fOOQ)
-- [JohnnyFPV](https://www.youtube.com/channel/UC7O8KgJdsE_e9op3vG-p2dg)
-- [RotorRiot](https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw)
-- [MCK](https://www.youtube.com/channel/UCFJdwOewIZBv3dDJmhtVn1g)
-- [Botgrinder](https://www.youtube.com/c/BOTGRINDERFPV)
+- [Mr Steve](https://www.youtube.com/@MrSteeleFPV)
+- [TBS](https://www.youtube.com/@TeamBlackSheepFPV)
+- [TBS Lounge](https://www.youtube.com/@TeamBlackSheepLIVE)
+- [JohnnyFPV](https://www.youtube.com/@JohnnyFPV)
+- [RotorRiot](https://www.youtube.com/@RotorRiot)
+- [MCK](https://www.youtube.com/@MCKFPV)
+- [Botgrinder](https://www.youtube.com/@BOTGRINDER)
 
 ### Nicht eindeutig zuordenbar
 
 - [QRP](https://www.youtube.com/user/voxtelnismo)
-- [FalconRad FPV](https://www.youtube.com/c/FalconRadFPV) Fokus auf Long Range Kopter
-- [Giant Ant Cowboy](https://www.youtube.com/c/GiantAntCowboy) Long Range, HDZero
-- [rctestflight](https://www.youtube.com/channel/UCq2rNse2XX4Rjzmldv9GqrQ) Verrückte Modellbauprojekte
+- [FalconRad FPV](https://www.youtube.com/@FalconRadFPV) Fokus auf Long Range Kopter
+- [Giant Ant Cowboy](https://www.youtube.com/@GiantAntCowboy) Long Range, HDZero
+- [rctestflight](https://www.youtube.com/@rctestflight) Verrückte Modellbauprojekte
 
 ## Websites
 
