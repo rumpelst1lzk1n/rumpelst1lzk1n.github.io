@@ -4,18 +4,18 @@
 
 ### Einsteigerfreundlich / Tutorials / legitime Produktbewertungen
 
-| Kanal                                                                  | Beschreibung                                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)            | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
-| [Nick Burns](https://www.youtube.com/@NickBurnsFPV) | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
-| [Gal Kremer](https://www.youtube.com/@KremerFPV)                 | Produktbewertungen                                                                                                                                                                                                                   |
-| [Albert Kim](https://www.youtube.com/@AlbertKimTV) | Produktbewertungen                                                                                                                                                                                                                   |
-| [Oscar Liang](https://www.youtube.com/@OscarLiang1)                    | Produktbewertungen                                                                                                                                                                                                                   |
-| [Mr ShutterBug](https://www.youtube.com/@MrShutterBug)                 | Produktbewertungen und Basteln, hauptsächlich TinyWhoops                                                                                                                                                                             |
-| [AndyRC](https://www.youtube.com/@AndyRCchannel)     | Produktbewertungen, nicht nur Quads, auch Flugzeuge, aktuell wohl inaktiv.                                                                                                                                                                                  |
-| [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)               | Tutorials um iNAV                                                                                                                                                                                                                    |
-| [Painless360](https://www.youtube.com/@Painless360)                   | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
-| [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon)    | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
+| Kanal                                                             | Beschreibung                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)        | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
+| [Nick Burns](https://www.youtube.com/@NickBurnsFPV)               | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
+| [Gal Kremer](https://www.youtube.com/@KremerFPV)                  | Produktbewertungen                                                                                                                                                                                                                   |
+| [Albert Kim](https://www.youtube.com/@AlbertKimTV)                | Produktbewertungen                                                                                                                                                                                                                   |
+| [Oscar Liang](https://www.youtube.com/@OscarLiang1)               | Produktbewertungen                                                                                                                                                                                                                   |
+| [Mr ShutterBug](https://www.youtube.com/@MrShutterBug)            | Produktbewertungen und Basteln, hauptsächlich TinyWhoops                                                                                                                                                                             |
+| [AndyRC](https://www.youtube.com/@AndyRCchannel)                  | Produktbewertungen, nicht nur Quads, auch Flugzeuge, aktuell wohl inaktiv.                                                                                                                                                           |
+| [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)        | Tutorials um iNAV                                                                                                                                                                                                                    |
+| [Painless360](https://www.youtube.com/@Painless360)               | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
+| [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon) | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
 
 ### Marktschreier
 
@@ -29,12 +29,12 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 ### Hi tech, low life
 
-| Kanal                                                    | Beschreibung                                                                    |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Mad's Tech](https://www.youtube.com/@MadRC)             | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
-| [UAV Tech](https://www.youtube.com/@uavtech)             | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
-| [Chris Rosser](https://www.youtube.com/@ChrisRosser) | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
-| [Ivan Efimov](https://www.youtube.com/@IvanEfimovLimon)  | Technik-Videos, FPV-Racing, aktiver Betaflight-Entwickler                       |
+| Kanal                                                   | Beschreibung                                                                    |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [Mad's Tech](https://www.youtube.com/@MadRC)            | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
+| [UAV Tech](https://www.youtube.com/@uavtech)            | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
+| [Chris Rosser](https://www.youtube.com/@ChrisRosser)    | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
+| [Ivan Efimov](https://www.youtube.com/@IvanEfimovLimon) | Technik-Videos, FPV-Racing, aktiver Betaflight-Entwickler                       |
 
 ### Fanboy-Kanäle / Entertainment
 
