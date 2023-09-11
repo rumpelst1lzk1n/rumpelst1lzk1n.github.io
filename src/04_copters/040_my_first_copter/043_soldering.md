@@ -32,7 +32,7 @@ Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich 
 
 Auch bei der Lötspitze gilt, dass sie keine SMD-Komponenten löten können muss.
 
-Im Nachfolgenden 3 Spitzen, die sich für Lötkolben in der Bauart des TS100 bewährt haben. Für andere Lötkolben mit wechselbarer Spitze gibt es mit sicherheit ähnliche Spitzen.
+Im Nachfolgenden 3 Spitzen, die sich für Lötkolben in der Bauart des TS100 bewährt haben. Alle oben aufgeführten Modelle nutzen dabei die gleiche Art der Aufnahme für die Spitzen. Für Lötkolben mit anderen Aufnahmen gibt es mit Sicherheit ähnliche Spitzen.
 
 | DS24                                                   | C4                                                  | BC2                                                   |
 | ------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- |
