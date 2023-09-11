@@ -8,11 +8,15 @@ Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mi
 
 Gute kompakte Lötkolben sind z.B.
 
-- TS100
+- TS100 / TS101
 - Sequre Mini SQ-001
+- Pinecil
 - Sequre Mini D60
 
-Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben. Das ermöglicht es dir, unterwegs zu löten und z.B. schnell mal eine defekte Komponente im Feld zu tauschen. Alternativ haben die Netzteile, die dir hier im Guide empfohlen werden auch eine DC-Power-Funktion, mit der die Lötkolben betrieben werden können.
+![Beispiel Pinecil](/img/pine64/pine64_pinecil.png)
+
+Diese kannst du unter anderem auch mit einem LiPo-Akku oder einer Powerbank betreiben. Das ermöglicht es dir, unterwegs zu löten und z.B. schnell mal eine defekte Komponente im Feld zu tauschen.
+Für den Betrieb auf der Werkbank eignen sich die hier im Guide empfohlenen Akku-Ladegeräte. Diese haben eine Netzteil-Funktion, mit der die Lötkolben betrieben werden können.
 
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
