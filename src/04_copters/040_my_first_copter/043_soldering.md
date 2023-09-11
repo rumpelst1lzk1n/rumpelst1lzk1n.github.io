@@ -4,7 +4,7 @@ Wenn du im Hobby unterwegs bist, wirst du dich unweigerlich mit dem Thema Löten
 
 Hauptwerkzeug ist der Lötkolben. Dieser sollte Temperatur-gesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
-Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel enthalten.
+Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel (engl. rosin core) enthalten.
 
 Gute kompakte Lötkolben sind z.B.
 
