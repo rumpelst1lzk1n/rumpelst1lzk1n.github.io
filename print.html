@@ -1285,8 +1285,16 @@ Da der Chip auf dem Flight Controller sitzt, ist die Kamera meistens zunächst m
 <p>Die Motorsteuerung erfolgt über den ESC. Er ist zudem die zentrale Stromversorgung des Kopters, der Akku hängt direkt am ESC.</p>
 <p>Bis vor einigen Jahren war diese Komponente noch aufgeteilt in einen Chip für die Stromverteilung (Power Distribution Board, PDB) sowie 4 einzelne ESCs pro Motor.</p>
 <p>Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ESC, AIO-ESC) oder ist zusammen mit dem Flight Controller auf dem gleichen Board.</p>
+<div class="table-wrapper"><table><thead><tr><th>4in1</th><th>Einzel-ESC</th></tr></thead><tbody>
+<tr><td><img src="04_copters/010_components//img/foxeer/foxeer_esc_4in1.png" alt="Foxeer 4in1 ESC" /></td><td><img src="04_copters/010_components//img/foxeer/foxeer_esc_single.png" alt="Foxeer Single ESC" /></td></tr>
+</tbody></table>
+</div>
+<p>Der ESC verfügt üblicherweise über einen Anschluss für Strom, für das Steuersignal sowie für den Motor. Der Motor hat 3 Phasen, daher hier 3 Löt-Pads pro Motor.</p>
+<p><img src="04_copters/010_components//img/foxeer/foxeer_esc_4in1_schema.png" alt="Foxeer 4in1 ESC Schema" /></p>
+<h2 id="firmware"><a class="header" href="#firmware">Firmware</a></h2>
 <p>Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S oder BLHeli_32 zum Einsatz. Auch, wenn die ESCs alle auf einem Chip sind, hast du technisch betrachtet mehrere unabhängige ESCs, die du einzeln flashen und konfigurieren musst.</p>
 <p>BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bzw. alternative Firmware (insbesondere &quot;Bluejay&quot;) bekommen, welche das die annähernd gleichen Fähigkeiten im Vergleich zu BLHeli_32 bieten.</p>
+<h2 id="steuerung"><a class="header" href="#steuerung">Steuerung</a></h2>
 <p>Die Motorsteuerung gibt die Drehrichtung der Motoren vor. Die 2 jeweils diagonal gelegenen Motoren sollten sich in die gleiche Richtung drehen. Dabei unterscheidet man zwischen &quot;props in&quot; und &quot;props out&quot;.</p>
 <div class="table-wrapper"><table><thead><tr><th>props in</th><th>props out</th></tr></thead><tbody>
 <tr><td><img src="https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234.svg" alt="props in" /></td><td><img src="https://raw.githubusercontent.com/betaflight/betaflight-configurator/master/resources/motor_order/quad_x_1234_reversed.svg" alt="props out" /></td></tr>
