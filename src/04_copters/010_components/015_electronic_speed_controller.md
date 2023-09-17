@@ -12,6 +12,8 @@ Heutzutage besteht der ESC üblicherweise nur noch aus einem Chip (All In One ES
 
 Der ESC verfügt üblicherweise über einen Anschluss für Strom, für das Steuersignal sowie für den Motor. Der Motor hat 3 Phasen, daher hier 3 Löt-Pads pro Motor.
 
+Am Stromanschluss hängt bei 4in1 ESC meistens direkt der Akku.
+
 ![Foxeer 4in1 ESC Schema](/img/foxeer/foxeer_esc_4in1_schema.png)
 
 ## Firmware
