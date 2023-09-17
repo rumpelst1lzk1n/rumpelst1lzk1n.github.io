@@ -2,7 +2,7 @@
 
 Die Propeller sind mit das markanteste Merkmal eines Quads. Ihre Größe wird in angloamerikanischen Zoll (1" = 2,54 cm) angegeben, wobei damit der Durchmesser bezeichnet wird.
 
-Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß der Multikopter ist, über die gesprochen wird.
+Die Propellergröße ist für viele Piloten der einfachste Anhaltspunkt, wie groß der Multikopter ist, über den gesprochen wird.
 
 ## Kennzahlen
 
