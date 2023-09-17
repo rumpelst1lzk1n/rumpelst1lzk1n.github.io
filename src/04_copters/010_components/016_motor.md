@@ -1,8 +1,18 @@
 # Motoren
 
-Der Antrieb unseres Kopters. Hier gibt es einige Zahlen, die man kennen sollte, wenn man sich seinen Kopter selbst bauen oder zumindest sinnvolle Fragen zu dem Thema stellen möchte.
+Der Antrieb unseres Kopters.
 
-## Motor-Größe
+## Aufbau
+
+Prinzipiell handelt es sich um einen dreiphasigen Elektromotor nach dem Outrunner-Prinzip. Kurz: 3 Stromkabel und der außen liegende Teil des Motors dreht sich.
+
+![Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
+
+## Kennzahlen
+
+Hier gibt es einige Zahlen, die man kennen sollte, wenn man sich seinen Kopter selbst bauen oder zumindest sinnvolle Fragen zu dem Thema stellen möchte.
+
+### Motor-Größe
 
 1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.
 
@@ -13,7 +23,7 @@ Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht.
 Nachfolgende Grafik gibt eine Empfehlung, welches Motor-Volumen sich für welche Propellergröße eignen und wo einige populäre Motorgrößen einzuordnen sind.
 ![motor volume vs prop diameter by Chris Rosser](/img/chris_rosser_motor_size_vs_prop_diameter.png)
 
-## KV
+### KV
 
 KV bezeichnet die sogenannte "Drehzahlkonstante". Damit sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Propeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.
 
@@ -25,7 +35,3 @@ Vermeide eine zu hohe KV bei zu viel Spannung, da sonst die Geschwindigkeit an d
 
 Technisch betrachtet ist die Einheit "KV" genau anders herum zu betrachten, wie es bei Koptern üblich ist.
 Ein Elektromotor, den du von Hand drehst, wirkt wie ein Generator und erzeugt Strom. KV bezeichnet die Anzahl der Umdrehungen pro Minute, ab welcher der Motor 1 Volt Spannung ausgibt.
-
-## Stator und Magneten
-
-![Motor Aufbau](https://oscarliang.com/ctt/uploads/2017/12/mini-quad-brushless-motor-anatomy-bell-magnet-bearing-stator-winding-shaft-diagram.jpg)
