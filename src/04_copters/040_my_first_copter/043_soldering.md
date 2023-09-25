@@ -4,15 +4,19 @@ Wenn du im Hobby unterwegs bist, wirst du dich unweigerlich mit dem Thema Löten
 
 Hauptwerkzeug ist der Lötkolben. Dieser sollte Temperatur-gesteuert sein. Nimm bitte nicht einfach den nächstbilligen Lötkolben aus dem Baumarkt, diese haben meistens keine Temperatursteuerung sondern geben einfach Vollgas.
 
-Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel enthalten.
+Versuche bleihaltiges Lötzinn zu bekommen. Damit lötet es sich leichter als mit bleifreiem. Dazu sollte das Lötzinn Flussmittel (engl. rosin core) enthalten.
 
 Gute kompakte Lötkolben sind z.B.
 
-- TS100
+- TS100 / TS101
 - Sequre Mini SQ-001
+- Pinecil
 - Sequre Mini D60
 
-Diese kannst du unter anderem auch mit einem LiPo-Akku betreiben. Das ermöglicht es dir, unterwegs zu löten und z.B. schnell mal eine defekte Komponente im Feld zu tauschen. Alternativ haben die Netzteile, die dir hier im Guide empfohlen werden auch eine DC-Power-Funktion, mit der die Lötkolben betrieben werden können.
+![Beispiel Pinecil](/img/pine64/pine64_pinecil.png)
+
+Diese kannst du unter anderem auch mit einem LiPo-Akku oder einer Powerbank betreiben. Das ermöglicht es dir, unterwegs zu löten und z.B. schnell mal eine defekte Komponente im Feld zu tauschen.
+Für den Betrieb auf der Werkbank eignen sich die hier im Guide empfohlenen Akku-Ladegeräte. Diese haben eine Netzteil-Funktion, mit der die Lötkolben betrieben werden können.
 
 > *Anm. Puffi*: Wenn du zu viel Angst vorm Löten hast hol dir ne Trainingsplatine und übe!
 
@@ -28,7 +32,7 @@ Du musst keine SMD-Komponenten löten können, aber mit Lötflächen im Bereich 
 
 Auch bei der Lötspitze gilt, dass sie keine SMD-Komponenten löten können muss.
 
-Im Nachfolgenden 3 Spitzen, die sich für Lötkolben in der Bauart des TS100 bewährt haben. Für andere Lötkolben mit wechselbarer Spitze gibt es mit sicherheit ähnliche Spitzen.
+Im Nachfolgenden 3 Spitzen, die sich für Lötkolben in der Bauart des TS100 bewährt haben. Alle oben aufgeführten Modelle nutzen dabei die gleiche Art der Aufnahme für die Spitzen. Für Lötkolben mit anderen Aufnahmen gibt es mit Sicherheit ähnliche Spitzen.
 
 | DS24                                                   | C4                                                  | BC2                                                   |
 | ------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- |

@@ -12,6 +12,10 @@ F3 wurde ebenfalls verwendet, ist aber lange überholt. Neuere Versionen von Bet
 
 Es gibt auch Flight Controller mit integriertem ESC, hier spricht man von einem "All in One" (AIO).
 
+| Mini FC (20x20)                                   | Standard FC (30x30)                                       | AIO (25x25)                                              |
+| ------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
+| ![Foxeer H7 Mini](/img/foxeer/foxeer_h7_mini.png) | ![Diatone Mamba MK4](/img/diatone/diatone_mamba_f722.png) | ![iFlight Blitz AIO](/img/iflight/iflight_blitz_aio.png) |
+
 ## Hersteller
 
 Flight Controller gibt es von allen möglichen Herstellern. Die größeren Hersteller haben meistens die komplette Elektronik im Sortiment, die du für einen Copter brauchst.

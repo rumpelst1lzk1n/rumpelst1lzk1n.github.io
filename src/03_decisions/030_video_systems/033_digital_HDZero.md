@@ -17,16 +17,37 @@ Es wird langsam von Drittherstellern adaptiert, die eigene Kameras und Video-Sen
 
 ## Videosender
 
-Aktuell gibt es 5 relevante Videosender.
+Aktuell gibt es 5 relevante Videosender. Die Hardware ist im Laufe der Zeit immer ausgereifter und kompakter geworden. Bei manchen Serien wird explizit die Version erwähnt, da es sich eher um eine Evolution handelt.
 
-| Race VTX series (20x20)                                     | Whoop (25x25)                                       | Freestyle (30x30)                                                     |
-| ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------- |
-| ![HDZero Race v3 VTX](/img/divimath/hdzero_race_vtx_v3.png) | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) | ![HDZero 1Watt freestyle VTX](/img/divimath/hdzero_freestyle_vtx.png) |
-| ![Foxeer Race VTX](/img/foxeer/foxeer_hdzero_race_vtx.png)  |                                                     |                                                                       |
+### Race
 
-Der Freestyle Sender hat bis zu einem Watt Sendeleistung. Alle anderen bis zu 200 Milliwatt. Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
+Die Race-Serie ist wie der Name schon sagt vornehmlich für Race-Kopter gedacht. Dazu ist das bisher der Foxeer-Race-VTX bisher der einzige VTX für HDZero von einem Dritthersteller.
 
-Die Hardware ist im Laufe der Zeit immer ausgereifter und kompakter geworden. Die oberste Version in der Tabelle ist dabei zum Zeitpunkt des Editierens die jeweils neueste verfügbare Iteration.
+Die Sendeleistung bei diesen VTXen liegt bei 200mW. Mehr braucht es beim Racing nicht.
+
+| V3                                                          | Foxeer                                                     |
+| ----------------------------------------------------------- | ---------------------------------------------------------- |
+| ![HDZero Race v3 VTX](/img/divimath/hdzero_race_vtx_v3.png) | ![Foxeer Race VTX](/img/foxeer/foxeer_hdzero_race_vtx.png) |
+
+Bitte beachte, dass der v3 Race VTX maximal 12V (3S) Spannung ab kann. Frühere Versionen sowie der Foxeer können bis 25V ab und können daher direkt mit der Akkuspannung eines 6S Kopters gespeist werden.
+
+### Whoop
+
+Die Whoop-Serie ist für Tinywhoops gedacht, daher wurde besonders aufs Gewicht geachtet. Die Serie ist im Whoop-Standard-Format mit Montagen im Format 25x25 und hat bis zu 200mW Sendeleistung.
+
+![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png)
+
+### Freestyle
+
+Die Freestyle-Serie hat einen markanten Kühlkörper um die 1000mW Sendeleistung zu kompensieren. Er ist für den Flug mit Freestyle-Kopter gedacht. Üblicherweise hat man dort leichter Hindernisse zwischen dem Piloten und dem Kopter, welche den Empfang beeinträchtigen. Mehr Sendeleistung hilft, das zu kompensieren.
+
+Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.
+
+Beim V2 hat sich der Hersteller am Format der DJI Vista Unit (siehe oben) orientiert. Viele Hersteller von FPV-Frames orientieren sich an deren Abmessungen. Der V1 VTX war hier etwas problematischer und der Einbau in Frames war entsprechend oft mit Kompromissen behaftet.
+
+| V1                                                                          | V2                                                                          |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ![HDZero 1Watt freestyle VTX V1](/img/divimath/hdzero_freestyle_vtx_v1.png) | ![HDZero 1Watt freestyle VTX V2](/img/divimath/hdzero_freestyle_vtx_v2.png) |
 
 ## Empfänger
 
