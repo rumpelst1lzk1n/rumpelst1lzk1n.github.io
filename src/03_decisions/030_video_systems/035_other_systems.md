@@ -14,6 +14,14 @@ Seit der CES hat man bis zum aktuellen Zeitpunkt (Mitte 2023) nichts mehr davon 
 
 ## OpenHD
 
-[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
+[OpenHD](https://github.com/OpenHD/Open.HD) ist ein OpenSource-Projekt, in dem handelsübliche WLAN-Hardware zur Bildübertragung genutzt wird. Als Kameras werden häufig Kombinationen aus Raspberry Pi und den dafür erhältlichen Kameras genutzt.
 
-Für andere Einsatzzwecke eines Multicopters, bei denen es nicht so stark auf die Latenz ankommt, z.B. bei Foto-Drohnen ist der Einsatz durchaus vorstellbar.
+Das Projekt wird aktiv weiter entwickelt. Für den FPV-Flug mit Drohne ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist.
+
+Für andere Einsatzzwecke, bei denen es nicht so stark auf die Latenz ankommt, ist der Einsatz durchaus vorstellbar. Beispiele hierfür wären Foto-Kopter oder Wings.
+
+## OpenIPC
+
+[OpenIPC](https://openipc.org/) ist ähnlich wie OpenHD ein OpenSource-Projekt. Statt dem Raspberry Pi-Setup kommen IP-Kameras zum Einsatz, wie sie z.B. auch in Überwachungskameras verwendet werden.
+
+Das Projekt ist aus OpenHD hervor gegangen und wird aktiv weiter entwickelt. Für den FPV-Flug mit einem Multicopters ist diese Art der Videoübertragung leider (noch) nicht zu gebrauchen, da die Latenz zu hoch ist. Allerdings konnten die Entwickler die Latenz im Vergleich zu OpenHD ungefähr halbieren.
