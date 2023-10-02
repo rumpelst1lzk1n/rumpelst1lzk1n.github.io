@@ -28,6 +28,8 @@ Ich empfehle dir, dass du mindestens 10 Stunden auf der Uhr haben solltest, bevo
 
 Die Zeit ist bares Geld wert, weil du dir das bei Reparaturen deiner Drohne sparst oder deine Drohne nicht gleich beim Jungfernflug über alle Berge geht.
 
+![Üben](/img/memes/getting_started.png)
+
 Zudem gibt es auch in den Simulatoren kompetitive Wettbewerbe, seien es Wettrennen oder Zeitrennen. Viele spielen die Simulatoren nicht nur zum Üben, sondern tatsächlich zum Zeitvertreib als Spiel.
 
 Und auch wenn du keine Ambitionen als Racer haben solltest, empfehle ich dir, Rennen zu fliegen. Es muss nicht im Multiplayer sein, Zeitrennen reichen auch. Das zielgerichtete Fliegen darin bringt dir mehr, als auf 100 Metern Höhe Flips und Rolls zu üben.
