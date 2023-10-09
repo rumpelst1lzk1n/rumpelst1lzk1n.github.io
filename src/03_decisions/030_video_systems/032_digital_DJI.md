@@ -77,7 +77,11 @@ Diese ist mit den DJI FPV Goggles v2 sowie den DJI Goggles 2 kompatibel. Mit den
 
 ![DJI O3 AirUnit](/img/DJI/dji_o3_airunit.png)
 
-Es gibt nur eine Kamera zur Auswahl. Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit einer SD-Karte erweitert werden. Zudem unterstützt das Onboard-Recording Bildstabilisierung.
+Es gibt nur eine Kamera zur Auswahl. Diese wird aufgrund einiger Eigenschaften wie z.B. einem geringeren Dynamikumfang im Vergleich zu den guten Kameras des V1-Systems kritisiert. 
+
+Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit einer SD-Karte erweitert werden. Zudem unterstützt das Onboard-Recording Bildstabilisierung. Allerdings brauchen die Kameras, welche die Gyro-Daten erzeugen eine gesonderte Dämpfung (meistens über TPU-Druckteile realisiert).
+
+> *Anm. rumpelst1lzk1n*: Ich fasse mal zusammen: überteuerte Kackscheiße, Funkqualität ist über jeden Zweifel erhaben, Bildqualität ist ausreichend für Youtube-Piloten. Freestyler fliegen das alte DJI-System, Racer lächeln dank HDZero sowieso nur müde bei Latenzen über 15ms. Wer ernst genommen werden will fliegt mit GoPro, der Rest schnüffelt Copium. Und irgendwo gibt es da auch noch Walksnail. Die kommen zwar bei der Bildquali nicht an DJI ran, aber immerhin ist die Kamera kein Wackelkandidat und die Gyrodaten brauchen kein extra Kissen.
 
 ## WTFOS
 

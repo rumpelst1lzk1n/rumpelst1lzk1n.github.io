@@ -4,12 +4,6 @@ Seit Mitte 2022 ist ein neues System von Caddx erhältlich.
 
 Das System verhält sich ähnlich wie DJI, ist aber nicht damit kompatibel.
 
-Initial wollte Fatshark als Hersteller des Systems auftreten und hat viel Geheimniskrämerei darum betreiben, wer hinter dem System steht. Darum gab es eine größere Kontroverse.
-
-> *Anm. Drew "Le Drib" Camden*: You don't get to know.
-
-Inzwischen hat Caddx die Scharade aber fallen gelassen und sich dazu bekannt, dass es unter dem Deckmantel "Walksnail" das System entwickelt hat.
-
 ## Sender
 
 Die Hardware-Auswahl ist bei den Video-Sendern sehr überschaubar, es gibt:
@@ -71,3 +65,11 @@ Die Brillen haben keinerlei Möglichkeit, andere Videosystem daran anzuschließe
 > *Anm. rumpelst1lzk1n*: Ich bin da lieber flexibel. Meine persönliche Empfehlung wäre, sich eine gute Brille mit HDMI-Eingang und den Empfänger zu holen.
 
 Beide Binocular-Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Akku an!!!
+
+## Trivia
+
+Initial wollte Fatshark als Hersteller des Systems auftreten und hat viel Geheimniskrämerei darum betreiben, wer hinter dem System steht. Darum gab es eine größere Kontroverse.
+
+> *Anm. Drew "Le Drib" Camden*: You don't get to know.
+
+Inzwischen hat Caddx die Scharade aber fallen gelassen und sich dazu bekannt, dass es unter dem Deckmantel "Walksnail" das System entwickelt hat.
