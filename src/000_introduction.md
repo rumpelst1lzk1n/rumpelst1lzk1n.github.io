@@ -31,3 +31,5 @@ Die in dem Guide empfohlene Hardware wurde danach ausgesucht, dass sie zum einen
 Da sich der Guide an Einsteiger richtet, sind manche technische Sachverhalte vereinfacht formuliert.
 
 Für konkrete HowTos findet ihr [unten in den Links](/008_linklist.html) umfangreich Anlaufstellen.
+
+> *Anm. rumpelst1lzk1n*: Der Guide kann humoristische Anmerkungen, politisch unkorrekte Witze und starke Meinungen beinhalten, die für Personen ohne Internetführerschein ungeeignet sein könnten.
