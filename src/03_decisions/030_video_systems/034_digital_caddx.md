@@ -56,10 +56,10 @@ Es gibt:
 
 ### Binocular Style
 
-|     | Caddx / Walksnail                                                 | Fatshark                                                     |
-| --- | ----------------------------------------------------------------- | ------------------------------------------------------------ |
-| v2  | ![Walksnail Avatar HD Goggles X](/img/caddx/avatar_goggles_x.png) |                                                              |
-| v1  | ![Caddx Brille](/img/caddx/avatar_goggles.webp)                   | ![Fatshark Dominator](/img/fatshark/fatshark_dominator.webp) |
+|        | Caddx / Walksnail                                                 | Fatshark                                                     |
+| ------ | ----------------------------------------------------------------- | ------------------------------------------------------------ |
+| **v2** | ![Walksnail Avatar HD Goggles X](/img/caddx/avatar_goggles_x.png) |                                                              |
+| **v1** | ![Caddx Brille](/img/caddx/avatar_goggles.webp)                   | ![Fatshark Dominator](/img/fatshark/fatshark_dominator.webp) |
 
 Anmerkungen zu v2:
 
