@@ -15,10 +15,11 @@ Beide Sender haben den gleichen Formfaktor und einen Lochabstand von 25,6x25,6mm
 
 Die zweite Version des Full-Size VTX hat im Kühlkörper zudem Bohrungen im Lochabstand 20x20mm im Kühlkörper.
 
-| Full-Size (2-6S)                                               | Whoop (1S)                                          |
-| -------------------------------------------------------------- | --------------------------------------------------- |
-| **v1**: ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp) | ![Walksnail 1S VTX](/img/caddx/avatar_vtx_mini.png) |
-| **v2**: ![Walksnail VTX v2](/img/caddx/avatar_vtx_v2.png)      |                                                     |
+| Full-Size (2-6S)                                                | Whoop (1S)                                          |
+| --------------------------------------------------------------- | --------------------------------------------------- |
+| **v1**: ![Walksnail VTX](/img/caddx/avatar_vtx_micro_cam.webp)  | ![Walksnail 1S VTX](/img/caddx/avatar_vtx_mini.png) |
+| **v2**: ![Walksnail VTX v2](/img/caddx/avatar_vtx_v2.png)       |                                                     |
+| **v2.1**: ![Walksnail VTX v2.1](/img/caddx/avatar_vtx_v2.1.png) |                                                     |
 
 Die beiliegenden Antennen sind Müll. Hol dir gute Antennen.
 
