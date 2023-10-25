@@ -49,22 +49,40 @@ Auf Empfängerseite gibt es die größte Auswahl.
 
 Es gibt:
 
-- zwei Brillen im Binocular-Style. Beide unterscheiden sich nur durch die Farbe der Hülle.
+- zwei Brillen im Binocular-Style, v1 und v2. Die v1 gibt es zudem in schwarz und weiß.
 - eine Brille im Box-Style
 - einen reinen Empfänger, der das Video über HDMI ausgibt (z.B. für Brillen mit HDMI Eingang).
 
-| Caddx / Walksnail                               | Fatshark                                                     |
-| ----------------------------------------------- | ------------------------------------------------------------ |
-| ![Caddx Brille](/img/caddx/avatar_goggles.webp) | ![Fatshark Dominator](/img/fatshark/fatshark_dominator.webp) |
-| ![Caddx VRX](/img/caddx/avatar_vrx.png)         | ![Fatshark Recon HD](/img/fatshark/fatshark_recon_hd.webp)   |
+### Binocular Style
 
-Die Brille von Caddx und die Fatshark Dominator unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
+|     | Caddx / Walksnail                                                 | Fatshark                                                     |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------------------ |
+| v2  | ![Walksnail Avatar HD Goggles X](/img/caddx/avatar_goggles_x.png) |                                                              |
+| v1  | ![Caddx Brille](/img/caddx/avatar_goggles.webp)                   | ![Fatshark Dominator](/img/fatshark/fatshark_dominator.webp) |
 
-Die Brillen haben keinerlei Möglichkeit, andere Videosystem daran anzuschließen.
+Anmerkungen zu v2:
+
+Die v2-Brille von Caddx hat einen HDMI- und einen Analog-Eingang. Sie unterstützt damit sowohl HDZero als auch Analog via Modul.
+
+> *Anm. rumpelst1lzk1n*: Meiner Meinung nach in jedem Fall der v1-Brille vorzuziehen.
+
+Anmerkungen zu v1:
+
+Die v1-Brillen von Caddx und Fatshark unterscheiden sich nur durch die Farbe der Hülle. Nimm die, die dir besser gefällt oder die du günstiger bekommst.
+
+Die v1-Brillen haben keinerlei Möglichkeit, andere Videosystem daran anzuschließen.
 
 > *Anm. rumpelst1lzk1n*: Ich bin da lieber flexibel. Meine persönliche Empfehlung wäre, sich eine gute Brille mit HDMI-Eingang und den Empfänger zu holen.
 
 Beide Binocular-Brillen vertragen entgegen früherer Annahmen nur **5S**. Schließe sie nicht direkt an den üblichen 6S Akku an!!!
+
+### Box Style
+
+![Fatshark Recon HD](/img/fatshark/fatshark_recon_hd.webp)
+
+### Receiver
+
+![Caddx VRX](/img/caddx/avatar_vrx.png) 
 
 ## Trivia
 
