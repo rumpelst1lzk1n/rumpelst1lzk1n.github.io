@@ -21,8 +21,6 @@ Die zweite Version des Full-Size VTX hat im Kühlkörper zudem Bohrungen im Loch
 | **v2**: ![Walksnail VTX v2](/img/caddx/avatar_vtx_v2.png)       |                                                     |
 | **v2.1**: ![Walksnail VTX v2.1](/img/caddx/avatar_vtx_v2.1.png) |                                                     |
 
-Die beiliegenden Antennen sind Müll. Hol dir gute Antennen.
-
 Die Versionen des Full-Size VTX unterscheiden sich vornehmlich dadurch, dass die neue Version Befestigungslöcher im Lochabstand 20x20 (M2 Gewinde) bietet. Zudem ist die neue Version nun mit 8 oder 32 GB Speicher onboard erhältlich.
 
 ## Kamera

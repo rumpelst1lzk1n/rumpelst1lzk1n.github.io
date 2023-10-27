@@ -56,6 +56,8 @@ Für den Einstieg sind auf Brille und Drohne ungerichtete Antennen vom Typ "Loll
 
 Wenn du an deiner Brille mehrere Inputs für Antennen hast und dein Videosystem z.B. Diversity unterstützt, kann eine Kombination aus gerichteter und ungerichteter Antenne Sinn machen. Dabei ist die Annahme, dass du meistens in dem Bereich vor dir fliegst. Auf diesen Bereich richtest du dann die gerichtete Antenne aus und sorgst damit für besseren Empfang.
 
+> *Anm. rumpelst1lzk1n*: Auf Seite des Videoempfängers lohnt es sich in gute Antennen zu investieren. Diese halten meistens ewig. Auf einem Kopter verwandeln sich die Antennen über kurz oder lang in Babyrasseln. Heißt, die eigentlichen Antennenelement in der Plastikkapsel brechen und die Antenne ist futsch. Wenn Geld keine Rolex spielt, kannst du dir natürlich auch für den Kopter die teuren Antennen holen. Ansonsten empfehle ich dafür eher was aus dem preislichen Mittelfeld. z.B. von Foxeer. Dann tut es nicht ganz so weh, wenn man die Antenne doch mal entsorgen muss.
+
 #### Polarisation
 
 Die Polarisation sagt etwas darüber aus, wie sich die Funkwellen aus der Antenne heraus ausbreiten bzw. auf den Empfang welcher Ausbreitungsform eine Antenne ausgelegt ist.
