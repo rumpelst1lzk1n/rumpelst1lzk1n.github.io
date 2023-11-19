@@ -4,6 +4,8 @@ HDZero (aka SharkByte) ist ein weiteres digitales FPV-System. Es erfreut sich au
 
 Bei der Bildqualität sind sowohl DJI wie auch Walksnail die klar überlegenen Systeme.
 
+> *Anm. vtx-slayer*: HDZero ist eher so Analog Plus.
+
 Für die Nutzung von HDZero gibt es normal folgende Gründe:
 
 - Du bist Racer und ...
