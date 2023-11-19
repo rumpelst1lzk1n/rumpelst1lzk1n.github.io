@@ -78,7 +78,7 @@ Diese ist mit den DJI FPV Goggles v2 sowie den DJI Goggles 2 kompatibel. Mit den
 
 ![DJI O3 AirUnit](/img/DJI/dji_o3_airunit.png)
 
-Es gibt nur eine Kamera zur Auswahl. Diese wird aufgrund einiger Eigenschaften wie z.B. einem geringeren Dynamikumfang im Vergleich zu den guten Kameras des V1-Systems kritisiert. 
+Es gibt nur eine Kamera zur Auswahl. Diese wird aufgrund einiger Eigenschaften wie z.B. einem geringeren Dynamikumfang im Vergleich zu den guten Kameras des V1-Systems kritisiert.
 
 Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit einer SD-Karte erweitert werden. Zudem unterstützt das Onboard-Recording Bildstabilisierung. Allerdings brauchen die Kameras, welche die Gyro-Daten erzeugen eine gesonderte Dämpfung (meistens über TPU-Druckteile realisiert).
 
@@ -111,4 +111,6 @@ Die Avata ist ein CineWhoop und hat als solcher mit Propellerschutz auch eher ei
 
 ![DJI Avata Set](/img/DJI/dji_avata_set.png)
 
-Als Einstieg in die Welt des FPV ist die Avata nur bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Beim Set der Drohne ist allerdings ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht. Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert aber NUR mit der DJI FPV Drohne, der DJI Avata und der O3 AirUnit.
+Als Einstieg in die Welt des FPV ist die Avata nur bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Beim Set der Drohne ist allerdings ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht.
+
+Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert neben der Avata auch mit der DJI FPV Drohne und kann auch bei "echten" FPV-Drohnen, welche die O3 AirUnit verbaut haben verwendet werden.
