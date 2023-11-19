@@ -42,7 +42,7 @@ Dazu gehst in einen der Spielmodi *Nemesis* oder *Single Player* oder *Multiplay
 
 ![game modes](/img/velocidrone/velocidrone_main_menu_game_modes.png)
 
-Dort wählst du in der oberen linken Ecke *Add Quad* aus.
+Dort wählst du in der unteren linken Ecke *Add Quad* aus.
 
 ![add quad](/img/velocidrone/velocidrone_add_quad.png)
 
@@ -116,7 +116,7 @@ Folgende Einstellungen empfehle ich für den Anfang um Rennen zu fliegen:
 
 ![rate menu](/img/velocidrone/velocidrone_ingame_rate_menu.png)
 
-Der Graph oben rechts hilft dir, das Verhalten einzuschätzen. Die X-Achse ist dabei dein Stick-Input. Die meisten Rate-Typen bestehen aus 2-3 Variablen mit denen du das Aussehen der Kurve beeinflussen kannst.
+Der Graph unten links hilft dir, das Verhalten einzuschätzen. Die X-Achse ist dabei dein Stick-Input. Die meisten Rate-Typen bestehen aus 2-3 Variablen mit denen du das Aussehen der Kurve beeinflussen kannst.
 
 Die Zahlen aus dem Screenshot oben sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Racer langsamere Rates mit sehr geraden Kurven wie die oben gezeigt. Dies ermöglicht es, den Platz, den die Sticks auf deiner Funke dir bieten optimal zu nutzen, kleinste Korrekturbewegungen vorzunehmen und entsprechend präzise zu manövrieren.
 
