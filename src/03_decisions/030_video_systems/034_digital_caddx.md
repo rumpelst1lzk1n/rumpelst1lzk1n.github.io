@@ -44,9 +44,7 @@ Bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
 
 ## Empfänger
 
-Auf Empfängerseite gibt es die größte Auswahl.
-
-Es gibt:
+Zur Auswahl stehen:
 
 - zwei Brillen im Binocular-Style, v1 und v2. Die v1 gibt es zudem in schwarz und weiß.
 - eine Brille im Box-Style
