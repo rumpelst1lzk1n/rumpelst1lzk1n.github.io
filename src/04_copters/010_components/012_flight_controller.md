@@ -123,3 +123,24 @@ Als Konfigurationssoftware kommt meistens *Mission Planer* oder *QGroundControl*
 Proprietäre Flight Controller Software, konnte mit Lizenz auch auf andere Hardware aufgespielt werden. Wurde Mitte 2021 unfreiwillig OpenSource. Dabei stellte sich heraus, dass viele der versprochenen Features Bullshit oder einfach umbenannte Funktionen waren, die in anderer Flight Controller Software zum Standardrepertoire gehört.
 
 > *Anm. rumpelst1lzk1n*: Finger weg von dem Schrott.
+
+## Komponenten
+
+Nachfolgend werden die Komponenten auf einem Flightcontroller beispielhaft an einem Modell des Herstellers Speedybee erklärt.
+
+| Oberseite                                            | Unterseite                                               |
+| ---------------------------------------------------- | -------------------------------------------------------- |
+| ![Oberseite](/img/speedybee/speedybee_F7_v3_top.png) | ![Unterseite](/img/speedybee/speedybee_F7_v3_bottom.png) |
+
+1) Prozessor (meistens ein Modell des Herstellers STM)
+2) Gyroskop (Lagesensor)
+3) USB-Anschluss um den Flight-Controller mit dem PC zu verbinden
+4) Boot-Taster um den Flight-Controller in den Boot-Mode zu bringen (manchmal notwendig um neue Firmware zu flashen)
+5) Löt-Pads für Peripherie, UARTs, Stromversorgung, etc. Näheres entnimmt man am besten dem Handbuch des FCs.
+6) Orientierung des FCs. Der Pfeil zeigt die Oberseite und gedachte Ausrichtung an. Falls davon abgewichen wird, muss die Orientierung ggf. in Software angepasst werden.
+7) Montagelöcher um den FC am Frame zu befestigen.
+8) OSD-Chip für analoges Video. Hier wird das Kamerabild durch den FC geschleift und OSD-Informationen in das Bildsignal eingebrannt. Irrelevant wenn man digitales FPV fliegt.
+9) Anschluss für den 4in1-ESC.
+10) Stecker-Anschlüsse als Alternative zu den Löt-Pads (siehe 5.). Belegung entnimmt man am besten dem Handbuch des FCs.
+
+Die meisten hier aufgeführten Komponenten wird man in dieser oder ähnlicher Form auf so ziemlich jedem FC finden.

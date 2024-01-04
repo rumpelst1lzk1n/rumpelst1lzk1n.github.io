@@ -4,4 +4,4 @@ Neben dem Kaufen und selbst bauen gibt es noch die Möglichkeit, dass du dir ein
 
 Bei jemandem, den du für den Zusammenbau bezahlst, kannst du mit ca. 200€ für diese Dienstleistung rechnen. Mehr oder weniger. Das ist abhängig davon, was er sonst noch so alles am Kopter macht, ob z.B. die Elektronik bereits getuned sein soll.
 
-Bei einem Kumpel ist *mindestens* ein Kasten Bier fällig.
+Bei einem Kumpel ist *mindestens* ein Kasten Bier fällig. Zur preislichen Einordnung. Muss natürlich nicht Alkohol beinhalten.
