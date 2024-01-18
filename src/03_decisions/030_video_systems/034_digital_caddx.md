@@ -46,6 +46,14 @@ Hinsichtlich Kameras gibt es 5 Modelle in 2 Generationen
 
 Bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
 
+### Generation 2.5
+
+| Avatar Moonlight Cam (19x19mm)                              |     |
+| ----------------------------------------------------------- | --- |
+| ![Avatar Micro Cam v2](/img/caddx/avatar_moonlight_cam.png) |     |
+
+Die Cam hat eine ähnlich gute Performance bei Nacht wie die Pro-Cam und unterstützt Aufnahmen mit bis zu 4K@60FPS onboard mit den neueren VTX.
+
 ## Empfänger
 
 Zur Auswahl stehen:
