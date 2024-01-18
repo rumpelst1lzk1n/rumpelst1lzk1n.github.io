@@ -4,8 +4,9 @@ Diese Zusammenfassung wurde von **rumpelst1lzk1n** (Discord: `rumpelst1lzk1n`) e
 
 Mitwirkende:
 
-- Cpt. Sum Ting Wong (Discord: `Cpt. Sum Ting Wong#5637`)
-- [Panda](https://www.youtube.com/channel/UCh5bOX3_hTCsVLJxf4cm5qA) (Discord: `pandafpv`)
-- [Puffi](https://www.youtube.com/channel/UCnS1f_wUUGjGD3vL1L-AKFA) (Discord: `derpuffesel`)
-- [remove_me](https://www.youtube.com/channel/UCV0hukgWm_BdC_gvOPZSa9w) (Discord: `.remove_me`)
+- Cpt. Sum Ting Wong (Discord: `cpt.sumtingwong_`)
+- [LegoRJ35](https://www.youtube.com/@legorj35) (Discord: `legorj35`)
+- [Panda](https://www.youtube.com/@pandafpvde) (Discord: `pandafpv`)
+- [Puffi](https://www.youtube.com/@DerPuffEsel) (Discord: `derpuffesel`)
+- [remove_me](https://www.youtube.com/@mrpink4231) (Discord: `.remove_me`)
 - ruohki (Discord: `ruohki`)
