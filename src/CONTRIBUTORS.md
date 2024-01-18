@@ -1,6 +1,6 @@
 # Mitwirkende
 
-Diese Zusammenfassung wurde von **rumpelst1lzk1n** (Discord: `rumpelst1lzk1n`) erstellt.
+Diese Zusammenfassung wurde von [**rumpelst1lzk1n**](https://www.youtube.com/@rumpelst1lzk1n) (Discord: `rumpelst1lzk1n`) erstellt.
 
 Mitwirkende:
 
