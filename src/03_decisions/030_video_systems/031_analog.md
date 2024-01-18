@@ -91,14 +91,16 @@ Empfehlung des Hauses als absolute Einsteiger-Brille, für die es sich lohnt, Ge
 
 Es gibt noch günstigere Versionen dieser Brille unter der Marke Eachine. Diese haben Displays mit deutlich geringerer Auflösung.
 
-#### Skyzone Sky04X (v2)
+#### Skyzone Sky04X (Pro)
 
 - ca. 600€
 - gutes DVR, 60FPS (ab V2, V1 hat nur 30FPS DVR)
-- Auflösung 720p
+- Auflösung 720p (bis v2) bzw 1080p (Pro)
 - gutes mitgeliefertes Receiver-Modul
-- HDMI-in
+- HDMI-in 60FPS (bis v2) bzw. 100FPS (Pro)
 - OLED-Display (knackscharfe Farben)
+
+Bitte beachte, dass die volle Auflösung nur wirklich über den HDMI-Input genutzt werden. Die Auflösung des Analog-Signals liegt etwa 480p.
 
 #### HDZero Goggles
 
