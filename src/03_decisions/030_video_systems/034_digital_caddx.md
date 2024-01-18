@@ -79,7 +79,9 @@ Beide Binocular-Brillen vertragen entgegen früherer Annahmen nur **5S**. Schlie
 
 ### Receiver
 
-![Caddx VRX](/img/caddx/avatar_vrx.png) 
+![Caddx VRX](/img/caddx/avatar_vrx.png)
+
+Eine günstige Möglichkeit, in das System hinein zu schnuppern, wenn du bereits eine Brille hast, die über einen HDMI-Eingang verfügt. Anzumerken ist, dass der schnelle Modus mit 100Hz nur mit einigen wenigen Brillen funktioniert. Konkret ist mir nur die HDZero-Brille und die Skyzone Sky04X Pro bekannt.
 
 ## Trivia
 
