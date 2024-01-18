@@ -33,7 +33,7 @@ Hinsichtlich Kameras gibt es 6 Modelle in 2-3 Generationen
 | Generation | Formfaktor 19x19mm                                           | Formfaktor 14x14mm                                           |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1          | ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png)   | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano.png)        |
-| 1          |                                                              | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
+| 1.5        |                                                              | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
 | 2          | ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png)   |                                                              |
 | 2          | ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |                                                              |
 | 2.5        | ![Avatar Micro Cam v2](/img/caddx/avatar_moonlight_cam.png)  |                                                              |
