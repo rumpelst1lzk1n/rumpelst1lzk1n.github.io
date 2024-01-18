@@ -29,30 +29,19 @@ Darüber hinaus gibt es noch einen VTX, der 4k@60FPS Aufzeichnungen onboard auf 
 
 ## Kamera
 
-Hinsichtlich Kameras gibt es 5 Modelle in 2 Generationen
+Hinsichtlich Kameras gibt es 6 Modelle in 2-3 Generationen
 
-### Generation 1
+| Generation | Formfaktor 19x19mm                                           | Formfaktor 14x14mm                                           |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1          | ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png)   | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano.png)        |
+| 1          |                                                              | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
+| 2          | ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png)   |                                                              |
+| 2          | ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |                                                              |
+| 2.5        | ![Avatar Micro Cam v2](/img/caddx/avatar_moonlight_cam.png)  |                                                              |
 
-| Formfaktor 19x19mm                                         | Formfaktor 14x14mm                                           |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Avatar Micro Cam v1](/img/caddx/avatar_cam_micro_v1.png) | ![Avatar Nano Cam v1](/img/caddx/avatar_cam_nano.png)        |
-|                                                            | ![Avatar Nano Cam Lite](/img/caddx/avatar_cam_nano_lite.png) |
+Bei den Cams der Generation 2 ist bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
 
-### Generation 2
-
-| Avatar Micro Cam v2 (19x19mm)                              | Avatar Micro Cam Pro (19x19mm)                               |
-| ---------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Avatar Micro Cam v2](/img/caddx/avatar_cam_micro_v2.png) | ![Avatar Micro Cam Pro](/img/caddx/avatar_cam_micro_pro.png) |
-
-Bei der "Pro"-Cam ist besonders die gute Performance bei Nacht hervorzuheben.
-
-### Generation 2.5
-
-| Avatar Moonlight Cam (19x19mm)                              |     |
-| ----------------------------------------------------------- | --- |
-| ![Avatar Micro Cam v2](/img/caddx/avatar_moonlight_cam.png) |     |
-
-Die Cam hat eine ähnlich gute Performance bei Nacht wie die Pro-Cam und unterstützt Aufnahmen mit bis zu 4K@60FPS onboard mit den neueren VTX.
+Die Cam die ich als Generation 2.5 einordnen würde hat eine ähnlich gute Performance bei Nacht wie die "Pro"-Cam aus Generation 2. Zudem unterstützt sie Aufnahmen mit bis zu 4K@60FPS onboard mit den neueren VTX.
 
 ## Empfänger
 
