@@ -25,7 +25,7 @@ Die Versionen des Full-Size VTX unterscheiden sich vornehmlich dadurch, dass die
 
 Darüber hinaus gibt es noch einen VTX, der 4k@60FPS Aufzeichnungen onboard auf integrierten Speicher sowie eine Mikro-SD-Karte unterstützt. Dieser VTX ist nochmal deutlich größer (ungefähre Abmessungen der DJI O3 Unit).
 
-[Walksnail Moonlight Kit](/img/caddx/avatar_moonlight_vtx.png)
+![Walksnail Moonlight Kit](/img/caddx/avatar_moonlight_vtx.png)
 
 ## Kamera
 
