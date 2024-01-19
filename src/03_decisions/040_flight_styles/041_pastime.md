@@ -8,7 +8,7 @@ Als Cinematic bezeichnet man allgemein einen entspannten Flugstil ohne große ak
 
 Üblicherweise sind entsprechende Videos auf Youtube die Einstiegsdroge ins FPV-Hobby.
 
-> *Anm. rumpelst1lzk1n*: Cinematic als reines Freizeitvergnügen abzustempeln wird dem nur bedingt gerecht. FPV kommt inzwischen auch bei professionellen Veranstaltungen zum Einsatz um Videoaufnahmen zu erstellen.
+> *Anm. rumpelst1lzk1n*: Cinematic als reines Freizeitvergnügen abzustempeln wird dem nur bedingt gerecht. FPV kommt inzwischen auch bei professionellen Veranstaltungen bis hin zu Blockbuster-Kinofilmen zum Einsatz um Videoaufnahmen zu erstellen. Wichtig dabei ist, dass der für unser Hobby "aufregende" Teil dabei aber nur Mittel zum Zweck ist. Es interessiert deinen Auftraggeber null, wie toll du fliegst. Nur die Aufnahmen zählen am Ende.
 
 ## Freestyle
 
