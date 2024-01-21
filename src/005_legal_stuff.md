@@ -40,7 +40,15 @@ Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen
 
 ### Übersicht
 
-![UAV Kategorien](/img/legal/categories.png)
+Nachfolgend eine Übersicht der Kategorie "Open". Wenn du nicht weißt, in welcher Kategorie du fliegst, ist es diese. Anderfalls wüsstest du, dass es anders ist.
+
+[![UAV Kategorien](/img/legal/categories.png)](https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html)
+
+Unsere Kopter fallen normalerweise in die Sub-Kategorien A1 (unter 250 Gramm) oder A3 (darüber).
+
+Die technische Kategoriesierung (C0 bis C4) ist für selbst gebaute Kopter irrelevant. Für fertige Kopter und Drohnen muss sich der Hersteller um eine entsprechende Einordnung und Zertifizierung kümmern.
+
+> *Anm. rumpelst1lzk1n*: Ich bin kein Anwalt. Alle juristischen Angaben ohne Gewär.
 
 ## lokale Vereine
 
@@ -62,14 +70,23 @@ Vorausgesetzt, die Modellbau-Opas vor Ort sind überhaupt gewillt, dich mit dein
 
 Anders als bei den lokalen Vereinen sind die Multikopter bei den Dachverbänden schon eher angekommen und akzeptiert.
 
-Erwähnenswert sind hier 
+Erwähnenswert sind hier
 
 - [Deutscher Modellflieger Verband e.V.](https://www.dmfv.aero/)
 - [Modellflugsportverband Deutschland e.V.](https://www.mfsd.de/)
 - [Österreichischer Aeroclub](https://aeroclub.at/)
 - [Schweizerische Modellflugverband](https://www.modellflug.ch/)
 
-Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram. Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen (LuftVO §21f).
+Hier lohnt es sich über eine Mitgliedschaft nachzudenken. Zum einen beinhaltet die Mitgliedschaft eine Haftpflichtversicherung für deine Modellflug-Aktivitäten, also auch für unseren Kopter-Kram.
+
+Zum anderen kommst du damit auch in den Genuss von Sonderregelungen, welche diese Dachverbände für ihre Mitglieder ausstellen dürfen (LuftVO §21f).
+
+Siehe:
+
+- [Modellflug im DMFV](https://www.dmfv.aero/rund-ums-fliegen/einfach-sicher-fliegen/)
+- [Fliegen im Verbandsrahmen des MFSD](https://www.mfsd.de/flugbetrieb-im-verbandsrahmen-des-mfsd/kurzbeschreibung-modellflieger/)
+
+Konkret entfällt hier die Pflicht, bei FPV einen Spotter einzusetzen sofern der Flugbetrieb trotzdem in Sichtweite und unterhalb von 30 Metern erfolgt.
 
 ## Versicherung
 
