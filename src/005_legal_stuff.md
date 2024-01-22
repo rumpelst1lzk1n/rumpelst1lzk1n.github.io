@@ -1,8 +1,12 @@
 # Rechtliches
 
+> *Anm. rumpelst1lzk1n*: Ich bin kein Anwalt. Alle juristischen Angaben ohne Gewähr.
+
 In diesem Abschnitt geht es um die rechtliche Situation als FPV-Pilot.
 
 Juristisch betrachtet bist du mit einem unbemannten Fluggerät ("unmanned aerial vehicle", UAV, oder "unmanned aircraft system", UAS) unterwegs. Das umfasst Modellflieger und -hubschrauber genauso wie unsere Multikopter.
+
+> *Anm. rumpelst1lzk1n*: Auch wenn Modellbau-Opas gerne mal meinen, Drohnen sind was aNdErEs. *spongebob_mock_meme.jpg*
 
 Grundsätzlich gilt: Sei kein Arschloch, dann wird in den allermeisten Fällen darüber hinweg gesehen, wenn du mal nicht ganz so legal unterwegs bist.
 
@@ -38,17 +42,29 @@ Der Schein kostet abhängig vom Anbieter der Schulung 200-300€. Gegebenenfalls
 
 Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen fliegen. Und du bekommst leichter eine Sondergenehmigung von der für die jeweilige Region zuständigen Luftfahrtbehörde. Eigentlich brauchst du den Schein nur, wenn du professionell (z.B. als Auftragsarbeit) fliegst.
 
-### Übersicht
+### Einordnung der Kopter
 
-Nachfolgend eine Übersicht der Kategorie "Open". Wenn du nicht weißt, in welcher Kategorie du fliegst, ist es diese. Anderfalls wüsstest du, dass es anders ist.
+#### Kategorien
 
-[![UAV Kategorien](/img/legal/categories.png)](https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html)
+Es gibt 3 große Kategorien.
+
+- Open
+- Specific
+- Certified
+
+Wenn du nicht weißt, in welcher Kategorie du fliegst, ist es "Open". Andernfalls wüsstest du, dass es anders ist. *Specific* und *Certified* sind als Kategorien beide außerhalb des Scopes, den man für den Einstieg in FPV benötigt. Entsprechend sind diese hier ausgeklammert.
+
+#### Unterkategorien
+
+Die Kategorie "Open" ist nochmal in 3 Unterkategorien A1-A3 unterteilt. Auf diese beziehen sich auch die Drohnenführerscheine. Siehe oben.
 
 Unsere Kopter fallen normalerweise in die Sub-Kategorien A1 (unter 250 Gramm) oder A3 (darüber).
 
-Die technische Kategoriesierung (C0 bis C4) ist für selbst gebaute Kopter irrelevant. Für fertige Kopter und Drohnen muss sich der Hersteller um eine entsprechende Einordnung und Zertifizierung kümmern.
+[![UAV Kategorien](/img/legal/categories.png)](https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html)
 
-> *Anm. rumpelst1lzk1n*: Ich bin kein Anwalt. Alle juristischen Angaben ohne Gewär.
+#### technische Kategorien
+
+Die technische Kategoriesierung (C0 bis C4) ist für selbst gebaute Kopter irrelevant. Für fertige Kopter und Drohnen muss sich der Hersteller um eine entsprechende Einordnung und Zertifizierung kümmern.
 
 ## lokale Vereine
 
