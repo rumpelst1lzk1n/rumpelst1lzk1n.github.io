@@ -4,7 +4,9 @@ Der Flight Controller ist ein Mikrocontroller der die unterschiedlichen elektron
 
 Das Gyroskop liefert die Lageninformationen, die Steuersoftware berechnet, wie schnell welcher Motor drehen muss, damit der Kopter in die von dir über die Fernsteuerung vorgegebene Fluglage kommt.
 
-Das Herzstück der Flugsteuerung ist der Prozessor. Dabei handelt es sich normalerweise um einen STM32-Chip des Herstellers STMicroelectronics. Den Chip gibt es in unterschiedlichen Ausführungen, üblicherweise kommen Prozessoren vom Typ F4, F7 oder (neuerdings) H7 zum Einsatz. Diese unterscheiden sich in Geschwindigkeit und verfügbaren Anschlüssen. F4-Prozessoren sind inzwischen als Budget-Variante zu sehen, F7 oder H7 dagegen eher als Premium.
+Das Herzstück der Flugsteuerung ist der Prozessor. Dabei handelt es sich normalerweise um einen Chip der Herstellers STMicroelectronics oder Artery Tek.
+
+Den Chip gibt es in unterschiedlichen Ausführungen, üblicherweise kommen Prozessoren vom Typ F4, F7 oder (neuerdings) H7 zum Einsatz. Diese unterscheiden sich in Geschwindigkeit und verfügbaren Anschlüssen. F4-Prozessoren sind inzwischen als Budget-Variante zu sehen, F7 oder H7 dagegen eher als Premium.
 
 Weitere mögliche Charakteristiken, die einen Flight-Controller in Richtung Premium schieben sind z.B. ein SD-Kartenslot für Blackbox-Logs oder ein zweites Gyroskop um genauere Daten zu erhalten.
 

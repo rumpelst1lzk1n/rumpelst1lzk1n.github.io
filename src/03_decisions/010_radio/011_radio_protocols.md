@@ -25,7 +25,7 @@ Seit 2021 haben die Hersteller 2.4 GHz auch für moderne Funkprotokolle entdeckt
 
 ### Andere
 
-Es gibt noch gänzlich andere Frequenzen auf 27, 40 oder 433 MHz. Diese sind entweder etwas für die Modellbau-Opas (aka gnadenlos veraltet) oder spielen für das FPV-Hobby zumindest keine Rolle.
+Es gibt noch gänzlich andere Frequenzen auf 27, 40 oder 433 MHz. Diese sind entweder etwas für die Modellbau-Opas (aka gnadenlos veraltet) oder spielen für das FPV-Hobby zumindest keine tragende Rolle.
 
 ## Alt vs. Neu
 

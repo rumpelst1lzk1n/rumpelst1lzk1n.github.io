@@ -22,9 +22,7 @@ Die Empfehlungen basieren rein auf den technischen Daten der Funken. Mindestens 
 
 Die günstigste Funke, die sich irgendwie lohnt.
 
-## Jumper T-Pro (V1 !!!)
-
-**Aktuell ist eine Hardware-Revision der T-Pro mit etlichen Bugs im Umlauf. Wenn du auf Nummer sicher gehen willst, frag den Händler, ob es sich um die V1 oder V2 der T-Pro handelt. V1=gut, V2=eher nicht so.**
+## Jumper T-Pro
 
 - ca. 150€ (in China manchmal auf für ~100€)
 - Gamepad
