@@ -16,6 +16,7 @@
 | [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)        | Tutorials um iNAV                                                                                                                                                                                                                    |
 | [Painless360](https://www.youtube.com/@Painless360)               | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
 | [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon) | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
+| [MaiOnHigh](https://www.youtube.com/@MaiOnHigh)                   | Tutorials für Racing und Meta-Content übers Geld verdienen mit FPV                                                                                                                                                                   |
 
 ### Marktschreier
 
