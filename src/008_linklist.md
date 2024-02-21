@@ -32,7 +32,7 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 | Kanal                                                   | Beschreibung                                                                    |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Mad's Tech](https://www.youtube.com/@MadRC)            | Nachrichten und Produktbewertungen auf einem höheren technischen Niveau         |
+| [Mad's Tech](https://www.youtube.com/@MadRC)            | Nachrichten und Produktbewertungen auf einem höherem technischen Niveau         |
 | [UAV Tech](https://www.youtube.com/@uavtech)            | Fokus auf Tuning, aktiver Betaflight-Entwickler                                 |
 | [Chris Rosser](https://www.youtube.com/@ChrisRosser)    | Tuning mit Fokus auf Filter, machte die Vibrationsanalyse von Frames salonfähig |
 | [Ivan Efimov](https://www.youtube.com/@IvanEfimovLimon) | Technik-Videos, FPV-Racing, aktiver Betaflight-Entwickler                       |
