@@ -25,10 +25,11 @@ Die Integra unterscheidet sich von der normalen Version durch ein eingebautes GP
 
 Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
 
-| DJI FPV Goggles (v1 & v2)                        | DJI Goggles 2                                                |
-| ------------------------------------------------ | ------------------------------------------------------------ |
-| ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png) | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png)                 |
-|                                                  | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
+| Modell                    |                                                              |
+| ------------------------- | ------------------------------------------------------------ |
+| DJI FPV Goggles (V1 & V2) | ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png)             |
+| DJI Goggles 2             | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png)                 |
+| DJI Goggles 2 Integra     | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
 
 Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
