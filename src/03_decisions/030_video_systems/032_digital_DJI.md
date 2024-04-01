@@ -123,8 +123,8 @@ Funkfernsteuerung hatten wir zwar schon (siehe oben), aber da das DJI-System nur
 
 Es gibt 2 Funken, eine für das V1 Videosystem, eine für das V2 Videosystem.
 
-| V1                                        | V2                                             |
-| ----------------------------------------- | ---------------------------------------------- |
-| ![AirUnit](/img/DJI/dji_fpv_remote_1.png) | ![AirUnit Lite](/img/DJI/dji_fpv_remote_2.png) |
+| V1                                                 | V2                                                 |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![DJI FPV Remote 1](/img/DJI/dji_fpv_remote_1.png) | ![DJI FPV Remote 2](/img/DJI/dji_fpv_remote_2.png) |
 
 Vorteil: Man braucht keinen zusätzlichen Receiver auf dem Kopter und der Link selbst ist performant genug. Nachteil: Man ist an das Videosystem gebunden und hat nur diese beiden Funken zur Auswahl.
