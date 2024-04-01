@@ -114,3 +114,17 @@ Die Avata ist ein CineWhoop und hat als solcher mit Propellerschutz auch eher ei
 Als Einstieg in die Welt des FPV ist die Avata nur bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Beim Set der Drohne ist allerdings ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht.
 
 Ein "echtes" FPV-Feeling ist mit dem "DJI Remote Controller 2" möglich. Diese Funkfernsteuerung funktioniert neben der Avata auch mit der DJI FPV Drohne und kann auch bei "echten" FPV-Drohnen, welche die O3 AirUnit verbaut haben verwendet werden.
+
+### DJI Funkfernsteuerung
+
+Das DJI-Videosystem hat auch ein System zur Funkfernsteuerung mit integriert.
+
+Funkfernsteuerung hatten wir zwar schon (siehe oben), aber da das DJI-System nur in Kombination mit dem Videosystem funktioniert, ist das hier besser aufgehoben.
+
+Es gibt 2 Funken, eine für das V1 Videosystem, eine für das V2 Videosystem.
+
+| V1                                        | V2                                             |
+| ----------------------------------------- | ---------------------------------------------- |
+| ![AirUnit](/img/DJI/dji_fpv_remote_1.png) | ![AirUnit Lite](/img/DJI/dji_fpv_remote_2.png) |
+
+Vorteil: Man braucht keinen zusätzlichen Receiver auf dem Kopter und der Link selbst ist performant genug. Nachteil: Man ist an das Videosystem gebunden und hat nur diese beiden Funken zur Auswahl.
