@@ -14,14 +14,17 @@ Thema FPV-Rennen: Aufgrund der technischen Funktionsweise des DJI-Systems ist di
 
 Bei den Brillen ist das Namensschema von DJI vogelwild.
 
-Es gibt 4 Brillen:
+Es gibt 5 Brillen:
 
 - DJI FPV Goggles v1
 - DJI FPV Goggles v2
 - DJI Goggles 2
 - DJI Goggles 2 Integra
+- DJI Goggles 3
 
-Die Integra unterscheidet sich von der normalen Version durch ein eingebautes GPS und einen eingebauten Akku.
+Die Integra unterscheidet sich von den normalen Goggles 2 durch ein eingebautes GPS und einen eingebauten Akku. Das eingebaute GPS ist für RemoteID, ein vorgeschriebenes Verfahren für den US-amerikanischen Markt.
+
+Die Goggles 3 sind aktuell nur im Set mit der Avata 2 erhältlich. Zur Kompatibilität mit älteren DJI-FPV-Brillen ist bisher nichts bekannt.
 
 Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit von DJI kompatibel! Dazu später mehr.
 
@@ -30,6 +33,7 @@ Von den DJI FPV Goggles v1 rate ich ab. Diese ist NICHT mit der neuen 03 AirUnit
 | DJI FPV Goggles (V1 & V2) | ![DJI FPV Goggles](/img/DJI/dji_fpv_goggles.png)             |
 | DJI Goggles 2             | ![DJI Goggles 2](/img/DJI/dji_goggles_2.png)                 |
 | DJI Goggles 2 Integra     | ![DJI Goggles 2 Integra](/img/DJI/dji_goggles_2_integra.png) |
+| DJI Goggles 3             | ![DJI Goggles 3](/img/DJI/dji_goggles_3.png)                 |
 
 Das DVR der Brillen kann man auch schon ganz gut zum Herumzeigen verwenden.
 
@@ -106,11 +110,14 @@ Die große DJI-FPV-Drohne ist eine glorifizierte Mavic-Drohne, die man besser ni
 ![DJI FPV Drohne](/img/DJI/dji_fpv_drone.png)
 ![DJI FPV Drohne](/img/memes/dji_fpv.png)
 
-### Avata
+### Avata (2)
 
 Die Avata ist ein CineWhoop und hat als solcher mit Propellerschutz auch eher eine Existenzberechtigung für das klassische DJI-Publikum.
 
-![DJI Avata Set](/img/DJI/dji_avata_set.png)
+| Modell      |                                              |
+| ----------- | -------------------------------------------- |
+| DJI Avata   | ![DJI Avata Set](/img/DJI/dji_avata_set.png) |
+| DJI Avata 2 | ![DJI Avata Set](/img/DJI/dji_avata_2.png)   |
 
 Als Einstieg in die Welt des FPV ist die Avata nur bedingt geeignet. Es gibt viele Ersatzteile von DJI sodass man einige Sachen selbst reparieren kann. Beim Set der Drohne ist allerdings ein Motion-Controller dabei, sodass das Set eher einem Erlebnis ala "Fotodrohne mit Augmented Reality" gleicht.
 
