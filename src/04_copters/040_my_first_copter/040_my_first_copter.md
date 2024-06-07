@@ -8,8 +8,9 @@ Für welche du dich auch immer entscheidest, eine **dringende** Empfehlung für 
 
 Das kann man gar nicht oft und lautstark genug betonen.
 
-Irgendwelche Exoten-Kopter mit faltbaren Armen und sonstigen Sperenzchen kannst du dir zulegen, wenn du mit bewährten Sachen im Hobby Erfahrung gesammelt hast. Ansonsten wirst du mit Spezialfällen keinen Spaß beim Fliegen haben. Wirklich nicht. *Keinen*. Wirklich ***keinen***!
+Irgendwelche Exoten-Kopter mit faltbaren Armen und sonstigen Sperenzchen bringen erfahrungsgemäß Eigenheiten mit, die dazu führen, dass ein Anfänger damit vor Herausforderungen gestellt wird und wenig bis gar keinen Spaß damit hat. Es gibt bei normalen Koptern genug Dinge, die man falsch machen kann.
 
-TinyWhoop, 3" oder 5" mit Standard-Frame sind deine Freunde.
+> *Anm. rumpelst1lzk1n*: Erfahrungsgemäß strapazierst du die Hilfsbereitschaft als Neuling über jedes Maß, wenn du neben von den Menschen in der Community erwartest, dass sie auseinander klabustern 
+Und das Verlangen, direkt mit irgendwelchen Spezialitäten einzusteigen ohne die Grundlagen an simplen Koptern zu lernen, kann in der hilfsbereitesten Community dazu führen, dass man dich mit deinen dir selbst eingebrockten Spezialproblemen allein lässt.
 
-Und damit gehts jetzt ans Eingemachte.
+TinyWhoop, 3" oder 5" mit Standard-Frame sind deine Freunde um am Anfang Erfahrungen zu sammeln.
