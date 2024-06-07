@@ -4,7 +4,7 @@ Wenn du eine fertigem Kopter kaufst, sparst du jede Menge Zeit mit der Auswahl d
 
 Für viele gehört das selbst bauen des Kopters einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, ein fertiges Gerät zu kaufen.
 
-> *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigtl. auch nix wert. Aber schön, dass du da bist!
+> *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigentlich auch nix wert. Aber schön, dass du da bist!
 
 ## Ready-to-Fly / RTF
 
@@ -37,10 +37,6 @@ Für fertige Kopter gilt immer die Empfehlung, sich Testberichte dazu auf Youtub
 Wenn du im Winter einsteigst, solltest du dir überlegen, ob du dir einen TinyWhoop holst und damit innen fliegst. Die Mobula-Serie von Happymodel liefert hier seit Jahren konstant gute Vertreter.
 
 Die Mobula 7 unterscheidet sich von der Mobula 6 darin, dass die 7er geringfügig größer ist.
-
-Zudem kann man die Mobula 7 auch auf 2S umbauen.
-
-> *Anm. rumpelst1lzk1n*: Auf XT30 umlöten und dann mit 2S 350mah LiPos fliegen. Ein Traum.
 
 Außen kann man beide Kopter begrenzt fliegen, wenn es windstill ist.
 
