@@ -50,12 +50,12 @@ Bekannte Shops sind [Banggood](https://www.banggood.com/) und [AliExpress](https
 
 > *Anm. rumpelst1lzk1n:* Wenn bei den Lieferzeiten von Banggood etwas anderes steht als "Ships in 24 hours": Finger weg. Entweder du wartest ewig, oder deine Bestellung wird storniert.
 
+> *Anm. remove_me*: Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
+
 [AliExpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
 Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
 
 Beide Shops führen Einfuhrumsatzsteuer und Zoll direkt ab. Oder schlagen sie drauf und umgehen den Zoll auf irgendwelchen Wegen.
-
-> *Anm. remove_me*: Du magst Glücksspiel und hast kein Problem mit Wartezeiten? Banggood it is!
 
 Sowohl AliExpress wie auch Banggood haben ein Gutschein-System. Häufig kann man hier nochmal ein bisschen Geld sparen.
 
