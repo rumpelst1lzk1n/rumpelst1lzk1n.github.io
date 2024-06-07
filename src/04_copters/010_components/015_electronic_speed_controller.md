@@ -18,9 +18,11 @@ Am Stromanschluss hängt bei 4in1 ESC meistens direkt der Akku.
 
 ## Firmware
 
-Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S oder BLHeli_32 zum Einsatz. Auch, wenn die ESCs alle auf einem Chip sind, hast du technisch betrachtet mehrere unabhängige ESCs, die du einzeln flashen und konfigurieren musst.
+Als Firmware kommt auf der Motorsteuerung meistens BLHeli_S, AM32 oder BLHeli_32 zum Einsatz. Auch, wenn die ESCs alle auf einem Chip sind, hast du bei einem 4in1-ESC technisch betrachtet mehrere unabhängige ESCs, die du einzeln flashen und konfigurieren musst.
 
-BLHeli_32 gilt als höherwertiger. BLHeli_S hat in 2020 und 2021 aber einige Updates bzw. alternative Firmware (insbesondere "Bluejay") bekommen, welche das die annähernd gleichen Fähigkeiten im Vergleich zu BLHeli_32 bieten.
+BLHeli_32 galt als ausgereifteste Firmware, wurde aber Anfang Juni 2024 urplötzlich und ohne Vorwarnung eingestellt. Auch die Update-Server wurden offline genommen. Zum aktuellen Zeitpunkt (Mitte 2024) steht es in der Schwebe, wie es für Kunden mit BLHeli_32-ESCs weiter geht. Fliegbar sind sie, aber es gibt keine Möglichkeit, sie zu aktualisieren und die Firmware selbst ist ebenfalls eingestellt.
+
+AM32 ist eine OpenSource-Software, die auf der gleichen Hardware wie BLHeli_32 laufen kann. Zum aktuellen Zeitpunkt (Mitte 2024) evaluieren die meisten Hersteller, auf AM32 umzusteigen. 
 
 ## Steuerung
 
