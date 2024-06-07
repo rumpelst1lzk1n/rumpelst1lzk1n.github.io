@@ -46,7 +46,9 @@ Beachte bitte, dass du beim Einkaufen außerhalb der EU für die Ware noch Einfu
 
 Bekannte Shops sind [Banggood](https://www.banggood.com/) und [AliExpress](https://de.aliexpress.com/).
 
-[Banggood](https://www.banggood.com/) ist eher mit Amazon zu vergleichen. Versand und Support liegt beides bei Banggood und zumindest in den letzten Jahren leistet sich Banggood auch einen ganz ordentlichen Support. Zudem unterhält es kleinere Lagerhäuser in Europa über die vereinzelte Produkte schneller geliefert werden können.
+[Banggood](https://www.banggood.com/) ist eher mit Amazon zu vergleichen. Versand und Support liegt beides bei Banggood und zumindest in den letzten Jahren leistet sich Banggood auch einen ganz ordentlichen Support. Zudem unterhält es kleinere Lagerhäuser in Europa über die vereinzelte Produkte schneller geliefert werden können. Leider hat Banggood seit ca 2022 sehr stark nachgelassen, was die Auswahl der Produkte angeht. Bei AliExpress fährt man inzwischen mMn deutlich besser.
+
+> *Anm. rumpelst1lzk1n:* Wenn bei den Lieferzeiten von Banggood etwas anderes steht als "Ships in 24 hours": Finger weg. Entweder du wartest ewig, oder deine Bestellung wird storniert.
 
 [AliExpress](https://de.aliexpress.com/) ist vergleichbar mit Ebay - eine Handelsplattform.
 Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und Support für die Produkte. Hit or miss, man kann auch daneben greifen und einen Händler mit unterirdischem Support erwischen. Dafür kann man auch günstiger weg kommen als bei Banggood.
