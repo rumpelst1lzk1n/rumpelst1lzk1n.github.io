@@ -48,9 +48,9 @@ Schöne kleine Toothpicks mit gut Power. Anfängerfreundlich, verzeihen aufgrund
 
 Kaum ein anderer Hersteller hat mehr Piloten ihren ersten fertigen Kopter verschafft.
 
-#### Nazgul 5 (Evoque)
+#### Nazgul 5 (Evoque/Eco)
 
-Einer der bekanntesten Einsteiger-Kopter. Das Produkt hat inzwischen mehrere Iterationen hinter sich, die aktuellste (Stand Ende 2021) trägt den Beinamen "Evoque". iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Kopter mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
+Einer der bekanntesten Einsteiger-Kopter. Das Produkt hat inzwischen mehrere Iterationen hinter sich. "Evoque" ist eher die Premium-Variante, "Eco" die mit etwas günstigerer Hardware. iFlight liefert verlässliche Qualität, Dokumentation und verwendet Standard-kompatible Teile. Zudem kriegt man die Kopter mit Analog oder Digital und unterschiedlichen Protokollen zur Fernsteuerung.
 
 #### AOS 5 V2
 
