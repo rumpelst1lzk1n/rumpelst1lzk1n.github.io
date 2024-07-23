@@ -55,7 +55,7 @@ Vorsicht, zart besaitete Elektrotechniker sollten ab hier aufhören zu lesen.
 
 > *Anm. rumpelst1lzk1n*: Die folgenden Löt-Unfälle werden Ihnen stolz präsentiert von [LegoRJ35](https://www.youtube.com/@legorj35).
 
-Wenn deine Lötversuche so oder ähnlich (hoffentlich nicht schlimmer) aussehen, dann solltest du definitiv nochmal üben.
+Wenn deine Lötversuche so oder ähnlich aussehen, dann solltest du definitiv nochmal üben.
 
 |                                          |
 | ---------------------------------------- |
@@ -63,3 +63,8 @@ Wenn deine Lötversuche so oder ähnlich (hoffentlich nicht schlimmer) aussehen,
 | ![Lötgore](/img/LegoRJ35/loetgore_2.jpg) |
 | ![Lötgore](/img/LegoRJ35/loetgore_3.jpg) |
 | ![Lötgore](/img/LegoRJ35/loetgore_4.jpg) |
+| ![Lötgore](/img/misc/solder_gore_1.png)  |
+
+Saubere Lötstellen sehen nicht aus, wie Batzen von Heißkleber sondern haben eine glatte Oberfläche und glänzen.
+
+![Lötporn](/img/misc/solder_porn_1.png)
