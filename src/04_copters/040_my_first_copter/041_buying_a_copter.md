@@ -4,7 +4,9 @@ Wenn du eine fertigem Kopter kaufst, sparst du jede Menge Zeit mit der Auswahl d
 
 Für viele gehört das selbst bauen des Kopters einfach zum Hobby dazu. Ich will dich aber nicht davon ab bringen, ein fertiges Gerät zu kaufen.
 
-> *Anm. remove_me*: Wenn du deine Drohne nicht selber baust, bist du eigentlich auch nix wert. Aber schön, dass du da bist!
+> *Anm. remove_me*: Wenn du deinen Kopter nicht selber baust, bist du eigentlich auch nix wert. Aber schön, dass du da bist!
+
+> *Anm. rumpelst1lzk1n*: Lass als Neuling die Pfoten von den tiefer gehenden Einstellungen bei fertigen Kopter. Nix mit neueste Betaflight-Version flashen und PID-Tuning. Der Hersteller weiß normalerweise, was er einstellt, damit der Kopter sauber fliegt.
 
 ## Ready-to-Fly / RTF
 
