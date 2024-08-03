@@ -28,7 +28,7 @@ Wenn du vermutest, dass dein Videosignal von WLAN gestört wird, kann es sich lo
 
 Beim Anschalten des Videosenders kann dieser auch auf anderen als den ausgewählten Frequenzen senden. Vermeide es daher, deinen Videosender in unmittelbarer Nähe von anderen Piloten einzuschalten.
 
-![FPV Channel Übersicht](https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg)
+<a href="https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg" data-lightbox="fpv-channel" data-title="FPV Channel Übersicht"><img src="https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg" alt="FPV Channel Übersicht"></a>
 
 Nicht alle einstellbaren Frequenzen sind in Europa legal. Welche legal geflogen werden dürfen, kannst der Grafik oben entnehmen.
 

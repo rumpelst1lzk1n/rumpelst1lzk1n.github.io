@@ -1,0 +1,12 @@
+/* src/custom.css */
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.image-grid img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}

@@ -21,7 +21,9 @@ Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher s
 Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für Standard-5"-Quads haben sich die Größen 2207 und 2306 etabliert.
 
 Nachfolgende Grafik gibt eine Empfehlung, welches Motor-Volumen sich für welche Propellergröße eignen und wo einige populäre Motorgrößen einzuordnen sind.
-![motor volume vs prop diameter by Chris Rosser](/img/chris_rosser_motor_size_vs_prop_diameter.png)
+
+<a href="/img/chris_rosser_motor_size_vs_prop_diameter.png" data-lightbox="rosser-motor-prop-chart" data-title="motor volume vs prop diameter by Chris Rosser"><img src="/img/chris_rosser_motor_size_vs_prop_diameter.png" alt="motor volume vs prop diameter by Chris Rosser"></a>
+
 
 ### KV
 

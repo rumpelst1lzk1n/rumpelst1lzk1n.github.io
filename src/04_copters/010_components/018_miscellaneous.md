@@ -12,8 +12,8 @@ Da wir beim FPV-Flug eher kurze Spitzenlast haben, musst du dir keine Sorgen mac
 
 Bei Koptern bis ca 250-300 Gramm sind XT30 gebräuchlich. Auf den Standard 5-Zoll Koptern ist XT60 üblich.
 
-| XT60 mit Endkappe | XT60 | XT30 |
-| --- | --- | --- |
+| XT60 mit Endkappe                                  | XT60                                            | XT30                                             |
+| -------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------ |
 | ![XT60 mit Endkappe](/img/amass/amass_XT60H-M.png) | ![XT60 mit Endkappe](/img/amass/amass_XT60.png) | ![XT60 mit Endkappe](/img/amass/amass_XT30U.png) |
 
 Für TinyWhoops gibt es zudem noch Akkus mit kleineren Anschlüssen. JST-PH2 ist wohl der geläufigste Typ hierfür.
@@ -24,8 +24,8 @@ Es wir empfohlen, einen Kondensator mit an die Batterie-Pads des ESC zu löten. 
 
 Insbesondere beim Abbremsen der Motoren entstehen Rückspeisungen in die anderen elektronischen Komponenten. Diese können lokal sehr hohe Spannungen verursachen und dadurch beim ESC oder andere Komponenten Überspannungsschäden verursachen.
 
-| Beispiel eines explodierenden ESCs |
-| --- |
+| Beispiel eines explodierenden ESCs                                                                  |
+| --------------------------------------------------------------------------------------------------- |
 | [![ESC goes boom](/img/g3gg0/esc_goes_boom.png)](https://www.youtube.com/watch?v=tTln5ggb0FE&t=29s) |
 
 Achte beim anbringen des Kondensators auf die richtige Polarisation (+ zu +, - zu -), sonst sprengst du den Kondensator.

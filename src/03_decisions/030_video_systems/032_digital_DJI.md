@@ -77,7 +77,7 @@ Die Runcam Wasp und Falcon sind auch noch OK, allerdings können diese nur 4:3, 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-![DJI Cams](/img/DJI/dji_cams.png)
+<a href="/img/DJI/dji_cams.png" data-lightbox="dji-cam-chart" data-title="DJI Cams"><img src="/img/DJI/dji_cams.png" alt="DJI Cams"></a>
 
 ### V2
 
@@ -97,7 +97,7 @@ Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit e
 
 Es gibt ein OpenSource-Hacker-Projekt um das V1-FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.
 
-![ItsBluntys DJI Firmware Chart](/img/itsblunty/itsblunty_dji_firmware_chart.png)
+<a href="/img/itsblunty/itsblunty_dji_firmware_chart.png" data-lightbox="blunty-dji-fw-chart" data-title="ItsBluntys DJI Firmware Chart"><img src="/img/itsblunty/itsblunty_dji_firmware_chart.png" alt="ItsBluntys DJI Firmware Chart"></a>
 
 Wenn du eine Version auf der Brille haben solltest, mit der WTF.OS geblockt ist, kannst du mit dem Projekt [fpv-wtf/butter](https://github.com/fpv-wtf/butter) eine Firmware flashen, mit der die Installation des Hacks wieder möglich sein sollte.
 
