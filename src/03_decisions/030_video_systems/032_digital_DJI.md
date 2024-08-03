@@ -45,6 +45,10 @@ Das bietet sich z.B. für sehr kleine Kopter an, da die Videosender von DJI mit 
 
 Preislich betrachtet ist eine gebrauchte DJI V2-Brille (um 350-400€ je nach Zustand und Zubehör, Stand September 2023) vermutlich der günstigste Weg zu digitalem FPV.
 
+DJI macht DJI-Sachen und ihre Produkte sind nicht immer untereinander voll kompatibel. Die DJI Goggles 3 sind aktuell (Stand Mitte 2024) **NUR** mit der Avata 2 und der O3 Unit (siehe unten) kompatibel.
+
+Eine volle Kompatibilitätsliste findet ihr [hier](https://fpvwiki.co.uk/dji-fpv-goggles-drones-and-air-unit-compatibility-chart).
+
 ## Videosender
 
 ### V1
