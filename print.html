@@ -36,6 +36,8 @@
     <link rel="stylesheet" href="ayu-highlight.css">
 
     <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="src/custom.css">
+    <link rel="stylesheet" href="src/lightbox/css/lightbox.min.css">
 
 </head>
 
@@ -329,17 +331,18 @@ Unterschiedliche Händler übernehmen unabhängig von AliExpress den Versand und
 <h2 id="formfaktor"><a class="header" href="#formfaktor">Formfaktor</a></h2>
 <p>Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.</p>
 <p>Nachfolgend einige populäre Vertreter dieser Formfaktoren.</p>
-<div class="table-wrapper"><table><thead><tr><th>Vollformat</th><th>Gamepad</th><th>Zwischending</th></tr></thead><tbody>
-<tr><td><img src="03_decisions/010_radio//img/radiomaster/radiomaster_tx16s.png" alt="Radiomaster TX16S" /></td><td><img src="03_decisions/010_radio//img/team_blacksheep/tango2.png" alt="TBS Tango 2" /></td><td><img src="03_decisions/010_radio//img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer" /></td></tr>
-<tr><td></td><td><img src="03_decisions/010_radio//img/jumper/jumper_t-pro.png" alt="Jumper T-Pro" /></td><td></td></tr>
-</tbody></table>
+<div class="image-grid">
+  <a href="03_decisions/010_radio//img/radiomaster/radiomaster_tx16s.png" data-lightbox="radio-set" data-title="Radiomaster TX16S"><img src="03_decisions/010_radio//img/radiomaster/radiomaster_tx16s.png" alt="Radiomaster TX16S"></a>
+  <a href="03_decisions/010_radio//img/team_blacksheep/tango2.png" data-lightbox="radio-set" data-title="TBS Tango 2"><img src="03_decisions/010_radio//img/team_blacksheep/tango2.png" alt="TBS Tango 2"></a>
+  <a href="03_decisions/010_radio//img/radiomaster/radiomaster_boxer.png" data-lightbox="radio-set" data-title="Radiomaster Boxer"><img src="03_decisions/010_radio//img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer"></a>
+  <a href="03_decisions/010_radio//img/jumper/jumper_t-pro.png" data-lightbox="radio-set" data-title="Jumper T-Pro"><img src="03_decisions/010_radio//img/jumper/jumper_t-pro.png" alt="Jumper T-Pro"></a>
 </div>
 <h2 id="modi"><a class="header" href="#modi">Modi</a></h2>
 <p>Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernsteuerung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernsteuerungen im Gamepad-Formfaktor.</p>
 <p>Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.</p>
 <p><img src="03_decisions/010_radio//img/radio_modes.drawio.png" alt="radio_modes" /></p>
 <p>Hier nochmal zur Verdeutlichung, wie du dir die Bewegung der einzelnen Achsen vorstellen darfst:</p>
-<p><img src="03_decisions/010_radio//img/misc/control_axis.png" alt="Steuer-Achsen" /></p>
+<p><a href="03_decisions/010_radio//img/misc/control_axis.png" data-lightbox="control-axis" data-title="Steuer-Achsen"><img src="03_decisions/010_radio//img/misc/control_axis.png" alt="Steuer-Achsen"></a></p>
 <p>Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.</p>
 <p>Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.</p>
 <p>Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst. Schau in die Anleitung deiner Funke.</p>
@@ -656,7 +659,7 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 <p>Klicke dazu dann auf der rechten Seite auf <strong>Advanced Drone Settings</strong>.</p>
 <p><img src="03_decisions/020_simulator//img/velocidrone/velocidrone_ingame_menue_advanced_drone_settings.png" alt="advanced drone settings" /></p>
 <p>Folgende Einstellungen empfehle ich für den Anfang um Rennen zu fliegen:</p>
-<p><img src="03_decisions/020_simulator//img/velocidrone/velocidrone_ingame_rate_menu.png" alt="rate menu" /></p>
+<p><a href="03_decisions/020_simulator//img/velocidrone/velocidrone_ingame_rate_menu.png" data-lightbox="race-menu" data-title="Race Menu"><img src="03_decisions/020_simulator//img/velocidrone/velocidrone_ingame_rate_menu.png" alt="Race Menu"></a></p>
 <p>Der Graph unten links hilft dir, das Verhalten einzuschätzen. Die X-Achse ist dabei dein Stick-Input. Die meisten Rate-Typen bestehen aus 2-3 Variablen mit denen du das Aussehen der Kurve beeinflussen kannst.</p>
 <p>Die Zahlen aus dem Screenshot oben sind nicht in Stein gemeißelt. Allerdings bevorzugen die meisten Racer langsamere Rates mit sehr geraden Kurven wie die oben gezeigt. Dies ermöglicht es, den Platz, den die Sticks auf deiner Funke dir bieten optimal zu nutzen, kleinste Korrekturbewegungen vorzunehmen und entsprechend präzise zu manövrieren.</p>
 <p>Für Freestyle werden meistens Rates mit höheren Werten ("höhere Rates") geflogen. Dazu wird dann auch gerne noch der Exponent erhöht, damit sich die Drohne bei maximalem Stick-Input schnell dreht. Dies hilft beim Ausführen vieler Tricks.</p>
@@ -689,7 +692,7 @@ Wir fliegen FPV (First-Person-View) und bekommen die relevanten Flugdaten in der
 <p>Wenn du vermutest, dass dein Videosignal von WLAN gestört wird, kann es sich lohnen den Kanal zu wechseln.</p>
 <p>"R" (Raceband) ist die beliebteste Kanal-Gruppe für den Flug mit mehreren anderen Piloten. Wenn du zusammen mit anderen Piloten fliegst, solltet ihr vorab ausmachen, wer welchen Kanal verwendet und das auch <strong>vor</strong> dem Abheben verifizieren.</p>
 <p>Beim Anschalten des Videosenders kann dieser auch auf anderen als den ausgewählten Frequenzen senden. Vermeide es daher, deinen Videosender in unmittelbarer Nähe von anderen Piloten einzuschalten.</p>
-<p><img src="https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg" alt="FPV Channel Übersicht" /></p>
+<p><a href="https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg" data-lightbox="fpv-channel" data-title="FPV Channel Übersicht"><img src="https://oscarliang.com/wp-content/uploads/2021/05/5.8ghz-fpv-channels-chart-diagram-frequency-analog-digital-dji-o3-walksnail-avatar-hdzero-09-2023.jpg" alt="FPV Channel Übersicht"></a></p>
 <p>Nicht alle einstellbaren Frequenzen sind in Europa legal. Welche legal geflogen werden dürfen, kannst der Grafik oben entnehmen.</p>
 <h3 id="sendeleistung"><a class="header" href="#sendeleistung">Sendeleistung</a></h3>
 <p>Die Sendeleistung wird üblicherweise in Milliwatt (mw) angegeben.</p>
@@ -925,7 +928,7 @@ Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verw
 </ul>
 <p>Die Runcam Wasp und Falcon sind auch noch OK, allerdings können diese nur 4:3, kein 16:9.</p>
 <p>Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.</p>
-<p><img src="03_decisions/030_video_systems//img/DJI/dji_cams.png" alt="DJI Cams" /></p>
+<p><a href="03_decisions/030_video_systems//img/DJI/dji_cams.png" data-lightbox="dji-cam-chart" data-title="DJI Cams"><img src="03_decisions/030_video_systems//img/DJI/dji_cams.png" alt="DJI Cams"></a></p>
 <h3 id="v2"><a class="header" href="#v2">V2</a></h3>
 <p>Ende 2022 hat DJI sein neues O3-System veröffentlicht.</p>
 <p>Diese ist mit den DJI FPV Goggles v2 sowie den DJI Goggles 2 kompatibel. Mit den DJI FPV Goggles V1 ist dieser Videosender nicht kompatibel und wird das mutmaßlich auch niemals werden.</p>
@@ -937,7 +940,7 @@ Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verw
 </blockquote>
 <h2 id="wtfos"><a class="header" href="#wtfos">WTFOS</a></h2>
 <p>Es gibt ein OpenSource-Hacker-Projekt um das V1-FPV-System von DJI namens <a href="https://fpv.wtf/">WTFOS</a>. Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.</p>
-<p><img src="03_decisions/030_video_systems//img/itsblunty/itsblunty_dji_firmware_chart.png" alt="ItsBluntys DJI Firmware Chart" /></p>
+<p><a href="03_decisions/030_video_systems//img/itsblunty/itsblunty_dji_firmware_chart.png" data-lightbox="blunty-dji-fw-chart" data-title="ItsBluntys DJI Firmware Chart"><img src="03_decisions/030_video_systems//img/itsblunty/itsblunty_dji_firmware_chart.png" alt="ItsBluntys DJI Firmware Chart"></a></p>
 <p>Wenn du eine Version auf der Brille haben solltest, mit der WTF.OS geblockt ist, kannst du mit dem Projekt <a href="https://github.com/fpv-wtf/butter">fpv-wtf/butter</a> eine Firmware flashen, mit der die Installation des Hacks wieder möglich sein sollte.</p>
 <h2 id="fertige-drohnen"><a class="header" href="#fertige-drohnen">fertige Drohnen</a></h2>
 <p>Neben den klassischen Kamera-Drohnen (Mavic und Co) vertreibt DJI zudem zwei fertige Drohnen mit FPV-Unterstützung.</p>
@@ -1389,8 +1392,8 @@ Da der Chip auf dem Flight Controller sitzt, ist die Kamera meistens zunächst m
 <p>1408, 2204, 2206, alle diese Zahlen bezeichnen Motoren in unterschiedlicher Größe. Die ersten beiden Zahlen geben den Durchmesser, die zweiten zwei Zahlen die Höhe des Motors an. Es gibt auch Exoten, die mit Komma-Werten arbeiten. Motoren, denen namhafte Piloten ihren Stempel verleihen, kommen manchmal auch ganz ohne Größenangabe aus.</p>
 <p>Die Leistungsfähigkeit eines Motors ergibt sich aus seinem Volumen. Ein hoher schmaler Motor kann die gleiche Leistung bringen, wie ein flacher breiter oder ein Motor, der sich irgendwo in der Mitte dazwischen befindet. Durch die unterschiedliche Größe können sich allerdings unterschiedliche Laufeigenschaften ergeben. Flache, breite Motoren bleiben kühler, können ggf. größere Kugellager tragen, sind aber träger im Beschleunigen und Abbremsen. Hohe schmale Motoren werden heißer, reagieren aber schneller.</p>
 <p>Die Motor-Größe wird üblicherweise an der Größe der Propeller fest gemacht. Für Standard-5"-Quads haben sich die Größen 2207 und 2306 etabliert.</p>
-<p>Nachfolgende Grafik gibt eine Empfehlung, welches Motor-Volumen sich für welche Propellergröße eignen und wo einige populäre Motorgrößen einzuordnen sind.
-<img src="04_copters/010_components//img/chris_rosser_motor_size_vs_prop_diameter.png" alt="motor volume vs prop diameter by Chris Rosser" /></p>
+<p>Nachfolgende Grafik gibt eine Empfehlung, welches Motor-Volumen sich für welche Propellergröße eignen und wo einige populäre Motorgrößen einzuordnen sind.</p>
+<p><a href="04_copters/010_components//img/chris_rosser_motor_size_vs_prop_diameter.png" data-lightbox="rosser-motor-prop-chart" data-title="motor volume vs prop diameter by Chris Rosser"><img src="04_copters/010_components//img/chris_rosser_motor_size_vs_prop_diameter.png" alt="motor volume vs prop diameter by Chris Rosser"></a></p>
 <h3 id="kv"><a class="header" href="#kv">KV</a></h3>
 <p>KV bezeichnet die sogenannte "Drehzahlkonstante". Damit sind die Umdrehungen pro Minute gemeint, die ein Motor pro Volt Akkuspannung ohne Last (also ohne Propeller) erreichen kann. Ein 10 KV-Motor erreicht mit 10 Volt Spannung 100 Umdrehungen pro Minute. Entsprechend gibt es Motoren, die für eine höhere oder niedrigere Akkuspannung ausgelegt sind.</p>
 <p>Für 5"-Kopter haben sich Werte zwischen 1700 und 2500 KV für Akkus mit 14,8 bis 22,4 Volt etabliert. Die Motoren haben in ihren Beschreibungen häufig auch, für wie viele Akkuzellen sie ausgelegt sind. Dazu später mehr.</p>
@@ -1968,7 +1971,10 @@ Für den Betrieb auf der Werkbank eignen sich die hier im Guide empfohlenen Akku
 <h4 id="unterkategorien"><a class="header" href="#unterkategorien">Unterkategorien</a></h4>
 <p>Die Kategorie "Open" ist nochmal in 3 Unterkategorien A1-A3 unterteilt. Auf diese beziehen sich auch die Drohnenführerscheine. Siehe oben.</p>
 <p>Unsere Kopter fallen normalerweise in die Sub-Kategorien A1 (unter 250 Gramm) oder A3 (darüber).</p>
-<p><a href="https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html"><img src="/img/legal/categories.png" alt="UAV Kategorien" /></a></p>
+<a href="/img/legal/categories.png" data-lightbox="image-1" data-title="UAV Kategorien">
+    <img src="/img/legal/categories.png" alt="UAV Kategorien">
+</a>
+<p>Siehe auch <a href="https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html">Website des LBA</a>.</p>
 <h4 id="technische-kategorien"><a class="header" href="#technische-kategorien">technische Kategorien</a></h4>
 <p>Die technische Kategoriesierung (C0 bis C4) ist für selbst gebaute Kopter irrelevant. Für fertige Kopter und Drohnen muss sich der Hersteller um eine entsprechende Einordnung und Zertifizierung kümmern.</p>
 <h2 id="lokale-vereine"><a class="header" href="#lokale-vereine">lokale Vereine</a></h2>
@@ -2313,6 +2319,9 @@ Wo ist der neugeborene König der RC-Links? Wir haben den Kopter aufsteigen sehe
     <script src="book.js" type="text/javascript" charset="utf-8"></script>
 
     <!-- Custom JS scripts -->
+    <script type="text/javascript" src="src/lightbox/js/lightbox-plus-jquery.min.js"></script>
+    <script type="text/javascript" src="src/lightbox/js/lightbox.min.js"></script>
+    <script type="text/javascript" src="src/lightbox/lightbox.init.js"></script>
 </body>
 
 </html>

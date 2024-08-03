@@ -35,6 +35,8 @@
     <link rel="stylesheet" href="../../ayu-highlight.css">
 
     <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="../../src/custom.css">
+    <link rel="stylesheet" href="../../src/lightbox/css/lightbox.min.css">
 
 </head>
 
@@ -172,17 +174,18 @@
 <h2 id="formfaktor"><a class="header" href="#formfaktor">Formfaktor</a></h2>
 <p>Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollformat. Gamepad sollte bekannt sein. Vollformat sind viereckige Kästen. Zwischenstufen sind möglich.</p>
 <p>Nachfolgend einige populäre Vertreter dieser Formfaktoren.</p>
-<div class="table-wrapper"><table><thead><tr><th>Vollformat</th><th>Gamepad</th><th>Zwischending</th></tr></thead><tbody>
-<tr><td><img src="/img/radiomaster/radiomaster_tx16s.png" alt="Radiomaster TX16S" /></td><td><img src="/img/team_blacksheep/tango2.png" alt="TBS Tango 2" /></td><td><img src="/img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer" /></td></tr>
-<tr><td></td><td><img src="/img/jumper/jumper_t-pro.png" alt="Jumper T-Pro" /></td><td></td></tr>
-</tbody></table>
+<div class="image-grid">
+  <a href="/img/radiomaster/radiomaster_tx16s.png" data-lightbox="radio-set" data-title="Radiomaster TX16S"><img src="/img/radiomaster/radiomaster_tx16s.png" alt="Radiomaster TX16S"></a>
+  <a href="/img/team_blacksheep/tango2.png" data-lightbox="radio-set" data-title="TBS Tango 2"><img src="/img/team_blacksheep/tango2.png" alt="TBS Tango 2"></a>
+  <a href="/img/radiomaster/radiomaster_boxer.png" data-lightbox="radio-set" data-title="Radiomaster Boxer"><img src="/img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer"></a>
+  <a href="/img/jumper/jumper_t-pro.png" data-lightbox="radio-set" data-title="Jumper T-Pro"><img src="/img/jumper/jumper_t-pro.png" alt="Jumper T-Pro"></a>
 </div>
 <h2 id="modi"><a class="header" href="#modi">Modi</a></h2>
 <p>Bei einem Gamepad zentrieren sich beide Analog-Sticks. Bei einer RC-Funkfernsteuerung zentriert sich die Achse des Sticks, auf dem das Gas liegt nicht selbständig, damit du dieses feiner dosieren kannst. Das gilt auch für Funkfernsteuerungen im Gamepad-Formfaktor.</p>
 <p>Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung eingestellt ist. Der gängigste Modus ist "Mode 2", aber nimm, womit du am besten klar kommst.</p>
 <p><img src="/img/radio_modes.drawio.png" alt="radio_modes" /></p>
 <p>Hier nochmal zur Verdeutlichung, wie du dir die Bewegung der einzelnen Achsen vorstellen darfst:</p>
-<p><img src="/img/misc/control_axis.png" alt="Steuer-Achsen" /></p>
+<p><a href="/img/misc/control_axis.png" data-lightbox="control-axis" data-title="Steuer-Achsen"><img src="/img/misc/control_axis.png" alt="Steuer-Achsen"></a></p>
 <p>Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.</p>
 <p>Wenn du allerdings zwischen Modi wechseln möchtest, die das Gas auf einem anderen Stick haben, wirst du eine Anpassung der Hardware vornehmen müssen.</p>
 <p>Manche Funken erlauben diese Anpassung von außen vorzunehmen, andere musst du aufschrauben um ein paar Schräubchen und Federn anders zu setzen, wieder bei anderen kann es passieren, dass du die Sticks komplett ausbauen und anders herum einbauen musst. Schau in die Anleitung deiner Funke.</p>
@@ -256,6 +259,9 @@
     <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
 
     <!-- Custom JS scripts -->
+    <script type="text/javascript" src="../../src/lightbox/js/lightbox-plus-jquery.min.js"></script>
+    <script type="text/javascript" src="../../src/lightbox/js/lightbox.min.js"></script>
+    <script type="text/javascript" src="../../src/lightbox/lightbox.init.js"></script>
 </body>
 
 </html>
