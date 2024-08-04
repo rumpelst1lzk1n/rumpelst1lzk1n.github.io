@@ -57,13 +57,13 @@ Vorsicht, zart besaitete Elektrotechniker sollten ab hier aufhören zu lesen.
 
 Wenn deine Lötversuche so oder ähnlich aussehen, dann solltest du definitiv nochmal üben.
 
-|                                          |
-| ---------------------------------------- |
-| ![Lötgore](/img/LegoRJ35/loetgore_1.jpg) |
-| ![Lötgore](/img/LegoRJ35/loetgore_2.jpg) |
-| ![Lötgore](/img/LegoRJ35/loetgore_3.jpg) |
-| ![Lötgore](/img/LegoRJ35/loetgore_4.jpg) |
-| ![Lötgore](/img/misc/solder_gore_1.png)  |
+<div class="image-grid">
+  <a href="/img/LegoRJ35/loetgore_1.jpg" data-lightbox="soldering-gore-set" data-title="Lötgore 1"><img src="/img/LegoRJ35/loetgore_1.jpg" alt="Lötgore 1"></a>
+  <a href="/img/LegoRJ35/loetgore_2.jpg" data-lightbox="soldering-gore-set" data-title="Lötgore 2"><img src="/img/LegoRJ35/loetgore_2.jpg" alt="Lötgore 2"></a>
+  <a href="/img/LegoRJ35/loetgore_3.jpg" data-lightbox="soldering-gore-set" data-title="Lötgore 3"><img src="/img/LegoRJ35/loetgore_3.jpg" alt="Lötgore 3"></a>
+  <a href="/img/LegoRJ35/loetgore_4.jpg" data-lightbox="soldering-gore-set" data-title="Lötgore 4"><img src="/img/LegoRJ35/loetgore_4.jpg" alt="Lötgore 4"></a>
+  <a href="/img/misc/solder_gore_1.png" data-lightbox="soldering-gore-set" data-title="Lötgore 5"><img src="/img/misc/solder_gore_1.png" alt="Lötgore 5"></a>
+</div>
 
 Saubere Lötstellen sehen nicht aus, wie Batzen von Heißkleber sondern haben eine glatte Oberfläche und glänzen.
 
