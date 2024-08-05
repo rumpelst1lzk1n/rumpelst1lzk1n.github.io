@@ -60,7 +60,11 @@ Die Kategorie "Open" ist nochmal in 3 Unterkategorien A1-A3 unterteilt. Auf dies
 
 Unsere Kopter fallen normalerweise in die Sub-Kategorien A1 (unter 250 Gramm) oder A3 (darüber).
 
-[![UAV Kategorien](/img/legal/categories.png)](https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html)
+<a href="/img/legal/categories.png" data-lightbox="image-1" data-title="UAV Kategorien">
+    <img src="/img/legal/categories.png" alt="UAV Kategorien">
+</a>
+
+Siehe auch [Website des LBA](https://www.lba.de/DE/Drohnen/Fernpiloten/Anforderungen_Fernpiloten_node.html).
 
 #### technische Kategorien
 

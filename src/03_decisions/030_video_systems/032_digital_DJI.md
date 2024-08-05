@@ -45,6 +45,10 @@ Das bietet sich z.B. für sehr kleine Kopter an, da die Videosender von DJI mit 
 
 Preislich betrachtet ist eine gebrauchte DJI V2-Brille (um 325€ je nach Zustand und Zubehör, Stand August 2024) vermutlich der günstigste Weg zu digitalem FPV.
 
+DJI macht DJI-Sachen und ihre Produkte sind nicht immer untereinander voll kompatibel. Die DJI Goggles 3 sind aktuell (Stand Mitte 2024) **NUR** mit der Avata 2 und der O3 Unit (siehe unten) kompatibel.
+
+Eine volle Kompatibilitätsliste findet ihr [hier](https://fpvwiki.co.uk/dji-fpv-goggles-drones-and-air-unit-compatibility-chart).
+
 ## Videosender
 
 ### V1
@@ -73,7 +77,7 @@ Die Runcam Wasp und Falcon sind auch noch OK, allerdings können diese nur 4:3, 
 
 Alle andern Kameras sind irrelevant. Bestenfalls zählt die Caddx Polar noch als Notnagel.
 
-![DJI Cams](/img/DJI/dji_cams.png)
+<a href="/img/DJI/dji_cams.png" data-lightbox="dji-cam-chart" data-title="DJI Cams"><img src="/img/DJI/dji_cams.png" alt="DJI Cams"></a>
 
 ### V2
 
@@ -93,7 +97,7 @@ Die AirUnit hat Onboard-Recording auf einen internen Speicher. Dieser kann mit e
 
 Es gibt ein OpenSource-Hacker-Projekt um das V1-FPV-System von DJI namens [WTFOS](https://fpv.wtf/). Das System erlaubt die Erweiterung des DJI Systems um einige von der Community nachgefragte Features, die DJI nicht liefern wollte. Allerdings blockt DJI in neueren Versionen die initiale Installation des Hacks.
 
-![ItsBluntys DJI Firmware Chart](/img/itsblunty/itsblunty_dji_firmware_chart.png)
+<a href="/img/itsblunty/itsblunty_dji_firmware_chart.png" data-lightbox="blunty-dji-fw-chart" data-title="ItsBluntys DJI Firmware Chart"><img src="/img/itsblunty/itsblunty_dji_firmware_chart.png" alt="ItsBluntys DJI Firmware Chart"></a>
 
 Wenn du eine Version auf der Brille haben solltest, mit der WTF.OS geblockt ist, kannst du mit dem Projekt [fpv-wtf/butter](https://github.com/fpv-wtf/butter) eine Firmware flashen, mit der die Installation des Hacks wieder möglich sein sollte.
 

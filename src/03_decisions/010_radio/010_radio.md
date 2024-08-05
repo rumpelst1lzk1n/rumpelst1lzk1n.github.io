@@ -18,10 +18,12 @@ Als vorherrschende Formfaktoren bei Fernbedienungen gibt es Gamepad und Vollform
 
 Nachfolgend einige populäre Vertreter dieser Formfaktoren.
 
-| Vollformat                                                   | Gamepad                                         | Zwischending                                                 |
-| ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
-| ![Radiomaster TX16S](/img/radiomaster/radiomaster_tx16s.png) | ![TBS Tango 2](/img/team_blacksheep/tango2.png) | ![Radiomaster Boxer](/img/radiomaster/radiomaster_boxer.png) |
-|                                                              | ![Jumper T-Pro](/img/jumper/jumper_t-pro.png)   |                                                              |
+<div class="image-grid">
+  <a href="/img/radiomaster/radiomaster_tx16s.png" data-lightbox="radio-set" data-title="Radiomaster TX16S"><img src="/img/radiomaster/radiomaster_tx16s.png" alt="Radiomaster TX16S"></a>
+  <a href="/img/team_blacksheep/tango2.png" data-lightbox="radio-set" data-title="TBS Tango 2"><img src="/img/team_blacksheep/tango2.png" alt="TBS Tango 2"></a>
+  <a href="/img/radiomaster/radiomaster_boxer.png" data-lightbox="radio-set" data-title="Radiomaster Boxer"><img src="/img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer"></a>
+  <a href="/img/jumper/jumper_t-pro.png" data-lightbox="radio-set" data-title="Jumper T-Pro"><img src="/img/jumper/jumper_t-pro.png" alt="Jumper T-Pro"></a>
+</div>
 
 ## Modi
 
@@ -33,7 +35,7 @@ Welche Achse genau das ist, hängt vom Modus ab, auf den deine Funkfernsteuerung
 
 Hier nochmal zur Verdeutlichung, wie du dir die Bewegung der einzelnen Achsen vorstellen darfst:
 
-![Steuer-Achsen](/img/misc/control_axis.png)
+<a href="/img/misc/control_axis.png" data-lightbox="control-axis" data-title="Steuer-Achsen"><img src="/img/misc/control_axis.png" alt="Steuer-Achsen"></a>
 
 Normal kann jede Funke alle Modi. Der Wechsel zwischen Modi, bei denen sich die Gas-Achse nicht verändert, lässt sich einfach in der Software konfigurieren.
 

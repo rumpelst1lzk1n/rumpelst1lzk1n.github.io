@@ -114,7 +114,7 @@ Klicke dazu dann auf der rechten Seite auf **Advanced Drone Settings**.
 
 Folgende Einstellungen empfehle ich für den Anfang um Rennen zu fliegen:
 
-![rate menu](/img/velocidrone/velocidrone_ingame_rate_menu.png)
+<a href="/img/velocidrone/velocidrone_ingame_rate_menu.png" data-lightbox="race-menu" data-title="Race Menu"><img src="/img/velocidrone/velocidrone_ingame_rate_menu.png" alt="Race Menu"></a>
 
 Der Graph unten links hilft dir, das Verhalten einzuschätzen. Die X-Achse ist dabei dein Stick-Input. Die meisten Rate-Typen bestehen aus 2-3 Variablen mit denen du das Aussehen der Kurve beeinflussen kannst.
 
