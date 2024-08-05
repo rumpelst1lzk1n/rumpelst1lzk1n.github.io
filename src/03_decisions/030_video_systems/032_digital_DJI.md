@@ -43,7 +43,7 @@ Das bietet sich z.B. für sehr kleine Kopter an, da die Videosender von DJI mit 
 
 ![DJI FPV Googles mit Analog-Adapter](/img/DJI/dji_analog_adapter.png)
 
-Preislich betrachtet ist eine gebrauchte DJI V2-Brille (um 350-400€ je nach Zustand und Zubehör, Stand September 2023) vermutlich der günstigste Weg zu digitalem FPV.
+Preislich betrachtet ist eine gebrauchte DJI V2-Brille (um 325€ je nach Zustand und Zubehör, Stand August 2024) vermutlich der günstigste Weg zu digitalem FPV.
 
 ## Videosender
 
