@@ -4,19 +4,21 @@
 
 ### Einsteigerfreundlich / Tutorials / legitime Produktbewertungen
 
-| Kanal                                                             | Beschreibung                                                                                                                                                                                                                         |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)        | Der FPV-Jesus. Weil ihn sein Youtube-Kanal mit Nachrichten, Tutorials, Live-Q&A und Produktbewertungen anscheinend noch nicht genug auslastet, versucht er Menschen auch per Mail-Support bei ihren Problemen mit Koptern zu helfen. |
-| [Nick Burns](https://www.youtube.com/@NickBurnsFPV)               | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                                                                                                                                         |
-| [Gal Kremer](https://www.youtube.com/@KremerFPV)                  | Produktbewertungen                                                                                                                                                                                                                   |
-| [Albert Kim](https://www.youtube.com/@AlbertKimTV)                | Produktbewertungen                                                                                                                                                                                                                   |
-| [Oscar Liang](https://www.youtube.com/@OscarLiang1)               | Produktbewertungen                                                                                                                                                                                                                   |
-| [Mr ShutterBug](https://www.youtube.com/@MrShutterBug)            | Produktbewertungen und Basteln, hauptsächlich TinyWhoops                                                                                                                                                                             |
-| [AndyRC](https://www.youtube.com/@AndyRCchannel)                  | Produktbewertungen, nicht nur Quads, auch Flugzeuge, aktuell wohl inaktiv.                                                                                                                                                           |
-| [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)        | Tutorials um iNAV                                                                                                                                                                                                                    |
-| [Painless360](https://www.youtube.com/@Painless360)               | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                                                                                                                                          |
-| [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon) | Produktbewertungen, Tutorials. Leider ist der Inhaber des Kanals vor einigen Jahren verstorben, daher kommen keine neuen Videos mehr. Seine existierenden Videos stehen aber für sich und insbesondere die Tutorials sind zeitlos.   |
-| [MaiOnHigh](https://www.youtube.com/@MaiOnHigh)                   | Tutorials für Racing und Meta-Content übers Geld verdienen mit FPV                                                                                                                                                                   |
+| Kanal                                                             | Beschreibung                                                                                                      |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Joshua Bardwell](https://www.youtube.com/@JoshuaBardwell)        | Der FPV-Jesus. Nachrichten, Tutorials, Live-Q&A und Produktbewertungen                                            |
+| [Nick Burns](https://www.youtube.com/@NickBurnsFPV)               | Produktbewertungen, hauptsächlich TinyWhoops und Toothpicks.                                                      |
+| [Gal Kremer](https://www.youtube.com/@KremerFPV)                  | Produktbewertungen                                                                                                |
+| [Albert Kim](https://www.youtube.com/@AlbertKimTV)                | Produktbewertungen                                                                                                |
+| [Oscar Liang](https://www.youtube.com/@OscarLiang1)               | Produktbewertungen                                                                                                |
+| [Mr ShutterBug](https://www.youtube.com/@MrShutterBug)            | Produktbewertungen und Basteln, hauptsächlich TinyWhoops                                                          |
+| [AndyRC](https://www.youtube.com/@AndyRCchannel)                  | Produktbewertungen, nicht nur Quads, auch Flugzeuge, aktuell wohl inaktiv.                                        |
+| [Pawel Spychalski](https://www.youtube.com/@FPVUniversity)        | Tutorials vornehmlich um iNAV                                                                                     |
+| [Painless360](https://www.youtube.com/@Painless360)               | Produktbewertungen, Tutorials, Fokus auf iNAV und Flugzeuge                                                       |
+| [Project Blue Falcon](https://www.youtube.com/@ProjectBlueFalcon) | Produktbewertungen, Tutorials. Leider inzwischen inaktiv.                                                         |
+| [MaiOnHigh](https://www.youtube.com/@MaiOnHigh)                   | Tutorials für Racing und Meta-Content übers Geld verdienen mit FPV                                                |
+| [Mr.D - Falling with style](https://www.youtube.com/@MrD)         | Tutorials rund um iNAV FPV                                                                                        |
+| [UAV Futures](https://www.youtube.com/@UAVfutures)                | Livestreams, Q&A, ältere Videos teils marktschreierische Produktbewertungen, eigenwillig witzige australische Art |
 
 ### Marktschreier
 
@@ -24,7 +26,6 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 
 | Kanal                                                 | Beschreibung                                                                    |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [UAV Futures](https://www.youtube.com/@UAVfutures)    | Marktschreier mit eigenwillig witziger australischer Art                        |
 | [Drone Camps RC](https://www.youtube.com/@dronecamps) | Marktschreier sei Vater                                                         |
 | [Spinfast](https://www.youtube.com/@Spinfast)         | Marktschreier sei Mutter, bei professionelleren Produkten aber halbwegs legitim |
 
