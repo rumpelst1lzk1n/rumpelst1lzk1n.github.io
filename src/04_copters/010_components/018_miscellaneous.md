@@ -30,6 +30,14 @@ Insbesondere beim Abbremsen der Motoren entstehen Rückspeisungen in die anderen
 
 Achte beim anbringen des Kondensators auf die richtige Polarisation (+ zu +, - zu -), sonst sprengst du den Kondensator.
 
+## Beeper
+
+Du kannst den Kopter über die Funkfernsteuerung ein Signal geben um die Motoren "piepsen" zu lassen. Das ist hilfreich, wenn der Kopter z.B. in höherem Gras landet.
+
+Darüber hinaus lassen sich aber auch noch dedizierte Beeper anbauen. Diese sind deutlich lauter als die Motoren. Abhängig von der Umgebung hört man einen dedizierten Beeper bis zu 50 Meter weit.
+
+Manche haben auch einen eigenen Akku, der dafür sorgt, dass der Beeper laut von sich geht, wenn der Akku des Kopters z.B. bei einem Crash von diesem getrennt wird.
+
 ## GPS
 
 GPS ist für den Anfang als optional zu betrachten.
@@ -79,3 +87,7 @@ Insbesondere Renn-Drohnen haben oft eine sog. `Turtle Fin`. Dieser nach oben ger
 ## Heckspoiler
 
 Vielleicht gerätst du in die Verlockung, optische Anbauteile an dem Kopter zu befestigen, wie z.B. einen Heckspoiler. Das Bauteil bringt unnötigen Luftwiderstand und Vibrationen und beeinflusst das Flugverhalten entsprechend negativ. **LASS ES SEIN!** Außer du machst es for the lulz.
+
+## leere PET-Flasche
+
+Insbesondere wenn du über Wasser fliegst, kann dir eine leere PET-Flasche bei einem Crash den Kopter retten. Oder zumindest als Schwimmkörper verhindern, dass er auf den Grund des Gewässers sinkt.
