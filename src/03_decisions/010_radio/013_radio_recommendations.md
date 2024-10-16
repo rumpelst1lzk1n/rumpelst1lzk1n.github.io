@@ -41,6 +41,10 @@ Die günstigste Funke, die sich irgendwie lohnt.
 
 So ziemlich DIE Empfehlung für Neueinsteiger.
 
+Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
+
+> *Anm. rumpelst1lzk1n*: wenn du das Kleingeld übrig hast, hol dir die "Crush"-Version. Die hat gleich die richtig guten Gimbals verbaut. Die normalen Gimbals sind nicht schlecht. Aaaber ...
+
 ## TBS Tango 2
 
 - ca. 180-200€ (normale Version) oder 220-240€ (Pro-Version)
@@ -50,7 +54,8 @@ So ziemlich DIE Empfehlung für Neueinsteiger.
 - Pro-Version mit klappbaren Gimbals
 - ständig ausverkauft
 - winziges Monochrom-Display
-- Multi-Protokoll via separat erhältlichem Modul
+- Lite-Modulanschluss optional
+- Multi-Protokoll oder ELRS via separatem Modul
 
 Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
 
@@ -65,7 +70,7 @@ Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit 
 - JR-Modulschacht
 - Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
 - OpenTX oder EdgeTX
-- großer farbiger Touchscreen, Touch wird nur in EdgeTX unterstützt
+- großer farbiger Touchscreen
 
 Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
 
