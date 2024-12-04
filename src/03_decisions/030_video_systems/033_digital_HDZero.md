@@ -37,7 +37,12 @@ Bitte beachte, dass der v3 Race VTX maximal 12V (3S) Spannung ab kann. Frühere 
 
 Die Whoop-Serie ist für Tinywhoops gedacht, daher wurde besonders aufs Gewicht geachtet. Die Serie ist im Whoop-Standard-Format mit Montagen im Format 25x25 und hat bis zu 200mW Sendeleistung.
 
-![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png)
+Neben einem dedizierten VTX gibt es auch einen FlightController, der Flugsteuerung, Motorsteuerung, Receiver und Videosender vereint (AIO).
+
+| separater VTX                                       | integriert mit Flight Controller             |
+| --------------------------------------------------- | -------------------------------------------- |
+| ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) | ![Whoop AIO5](/img/divimath/hdzero_aio5.png) |
+
 
 ### Freestyle
 
@@ -75,7 +80,11 @@ Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei
 
 ### Kameras
 
-Bei den Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
+Bei den Kameras unterscheidet man zwischen den Verbindungen via MIPI-Kabel und AnalogHD. Jede Verbindung hat ihre eigenen Videosender. AnalogHD ist insbesondere für extrem leichte Kameras gedacht.
+
+#### MIPI
+
+Bei den MIPI Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
 
 | 19x19mm                                                   | 14x16mm                                                       |
 | --------------------------------------------------------- | ------------------------------------------------------------- |
@@ -90,6 +99,16 @@ Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind 
 Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras und für TinyWhoops gedacht.
 
 Darüber hinaus gibt es noch andere / ältere (lies: schlechtere) Kameras für das HDZero-System.
+
+#### AnalogHD
+
+Mit AnalogHD hast du 2 Kameras zur Auswahl. Einmal die Eco und einemal die Lux. Die Lux ist besser.
+
+Beide sind für relativ leichte Kopter, wie z.B. TinyWhoops gedacht.
+
+| Eco                                      | Lux                                      |
+| ---------------------------------------- | ---------------------------------------- |
+| ![Eco](/img/divimath/hdzero_cam_eco.png) | ![Lux](/img/divimath/hdzero_cam_lux.png) |
 
 ## Alte Hardware
 
