@@ -13,7 +13,7 @@
     <meta property="og:url" content="https://rumpelst1lzk1n.github.io">
     <meta property="og:image" content="https://rumpelst1lzk1n.github.io/img/misc/spurdo_fbv.png">
     <!-- Custom HTML head -->
-    
+
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="og:description" content="Orientierungshilfe für Einsteiger in das Thema &#x27;FPV&#x27; mit Multikoptern (aka &#x27;Drohnen&#x27;)">
     <meta name="description" content="Orientierungshilfe für Einsteiger in das Thema &#x27;FPV&#x27; mit Multikoptern (aka &#x27;Drohnen&#x27;)">
@@ -99,7 +99,7 @@
     <div id="page-wrapper" class="page-wrapper">
 
         <div class="page">
-                        <div id="menu-bar-hover-placeholder"></div>
+            <div id="menu-bar-hover-placeholder"></div>
             <div id="menu-bar" class="menu-bar sticky bordered">
                 <div class="left-buttons">
                     <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents"
@@ -1009,7 +1009,11 @@ Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verw
 <p>Bitte beachte, dass der v3 Race VTX maximal 12V (3S) Spannung ab kann. Frühere Versionen sowie der Foxeer können bis 25V ab und können daher direkt mit der Akkuspannung eines 6S Kopters gespeist werden.</p>
 <h3 id="whoop"><a class="header" href="#whoop">Whoop</a></h3>
 <p>Die Whoop-Serie ist für Tinywhoops gedacht, daher wurde besonders aufs Gewicht geachtet. Die Serie ist im Whoop-Standard-Format mit Montagen im Format 25x25 und hat bis zu 200mW Sendeleistung.</p>
-<p><img src="03_decisions/030_video_systems//img/divimath/hdzero_whoop_vtx_v2.png" alt="Whoop VTX" /></p>
+<p>Neben einem dedizierten VTX gibt es auch einen FlightController, der Flugsteuerung, Motorsteuerung, Receiver und Videosender vereint (AIO).</p>
+<div class="table-wrapper"><table><thead><tr><th>separater VTX</th><th>integriert mit Flight Controller</th></tr></thead><tbody>
+<tr><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_whoop_vtx_v2.png" alt="Whoop VTX" /></td><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_aio5.png" alt="Whoop AIO5" /></td></tr>
+</tbody></table>
+</div>
 <h3 id="freestyle"><a class="header" href="#freestyle">Freestyle</a></h3>
 <p>Die Freestyle-Serie hat einen markanten Kühlkörper um die 1000mW Sendeleistung zu kompensieren. Er ist für den Flug mit Freestyle-Kopter gedacht. Üblicherweise hat man dort leichter Hindernisse zwischen dem Piloten und dem Kopter, welche den Empfang beeinträchtigen. Mehr Sendeleistung hilft, das zu kompensieren.</p>
 <p>Bitte beachte, dass in Deutschland maximal 25 Milliwatt legal sind.</p>
@@ -1032,7 +1036,9 @@ Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verw
 <p>Beide sind nur vereinzelt bei europäischen Shops verfügbar. Ansonsten sind die Websites der jeweiligen Hersteller eine gute Anlaufstelle dafür.</p>
 <p>Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei der EMAX-Brille etwa 290€. Bei den Shops der Hersteller kann man teilweise günstiger weg kommen, je nach Kurs Dollar/Euro.</p>
 <h3 id="kameras"><a class="header" href="#kameras">Kameras</a></h3>
-<p>Bei den Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)</p>
+<p>Bei den Kameras unterscheidet man zwischen den Verbindungen via MIPI-Kabel und AnalogHD. Jede Verbindung hat ihre eigenen Videosender. AnalogHD ist insbesondere für extrem leichte Kameras gedacht.</p>
+<h4 id="mipi"><a class="header" href="#mipi">MIPI</a></h4>
+<p>Bei den MIPI Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)</p>
 <div class="table-wrapper"><table><thead><tr><th>19x19mm</th><th>14x16mm</th></tr></thead><tbody>
 <tr><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_cam_micro_v2.png" alt="HDZero Micro V2" /></td><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_cam_nano_v2.png" alt="HDZero Nano V2" /></td></tr>
 <tr><td></td><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_cam_nano_90fps.png" alt="HDZero Nano 90FPS" /></td></tr>
@@ -1043,6 +1049,13 @@ Allerdings gibt es auch einen Adapter, mit dem man klassische Analog-Module verw
 <p>Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit der HDZero Brille als Empfänger verwendbar. Dafür bietet die Kombination aus HDZero Brille und 90FPS-Kamera eine geringere Latenz als selbst Analog.</p>
 <p>Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras und für TinyWhoops gedacht.</p>
 <p>Darüber hinaus gibt es noch andere / ältere (lies: schlechtere) Kameras für das HDZero-System.</p>
+<h4 id="analoghd"><a class="header" href="#analoghd">AnalogHD</a></h4>
+<p>Mit AnalogHD hast du 2 Kameras zur Auswahl. Einmal die Eco und einemal die Lux. Die Lux ist besser.</p>
+<p>Beide sind für relativ leichte Kopter, wie z.B. TinyWhoops gedacht.</p>
+<div class="table-wrapper"><table><thead><tr><th>Eco</th><th>Lux</th></tr></thead><tbody>
+<tr><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_cam_eco.png" alt="Eco" /></td><td><img src="03_decisions/030_video_systems//img/divimath/hdzero_cam_lux.png" alt="Lux" /></td></tr>
+</tbody></table>
+</div>
 <h2 id="alte-hardware"><a class="header" href="#alte-hardware">Alte Hardware</a></h2>
 <p>Neben den oben erwähnten Empfängern und Sendern gibt es noch ältere Hardware. Diese wurde teilweise unter dem Label von Fatshark vermarktet, teilweise handelt es sich auch um ältere Iterationen der oben genannten Produkte. Diese Hardware wird nicht mehr weiter produziert.</p>
 <p>Zu der betreffenden Hardware zählen Videosender wie:</p>
