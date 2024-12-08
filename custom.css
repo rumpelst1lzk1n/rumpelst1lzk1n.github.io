@@ -12,7 +12,7 @@
 }
 
 .sidebar-header-image {
-    margin: 10%;
+    margin: 5px;
     width: 80%; /* Make image responsive within the sidebar */
     height: auto; /* Maintain aspect ratio */
 }
