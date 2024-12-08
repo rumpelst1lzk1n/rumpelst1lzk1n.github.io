@@ -6,7 +6,7 @@
 
 - [Hilfe bekommen](001_getting_help.md)
 - [Einkaufen](002_buying_stuff.md)
-- [Entscheidungen](03_decisions/000_decisions.md)
+- [Entscheidungen](03_decisions/030_decisions.md)
   - [Funkfernsteuerung](03_decisions/010_radio/010_radio.md)
     - [Protokolle](03_decisions/010_radio/011_radio_protocols.md)
     - [Software](03_decisions/010_radio/012_radio_software.md)
