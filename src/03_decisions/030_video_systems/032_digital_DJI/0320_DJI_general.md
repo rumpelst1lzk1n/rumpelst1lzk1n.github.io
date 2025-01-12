@@ -12,7 +12,9 @@ Das System ist unter den digitalen FPV-Systemen das mit dem höchsten Reifegrad.
 
 DJI entwickelt das System ständig weiter. Nachfolgend findet ihr einen Versuch, diese Entwicklung einigermaßen einzuordnen.
 
-Eine volle Kompatibilitätsliste findet ihr [hier](https://fpvwiki.co.uk/dji-fpv-goggles-drones-and-air-unit-compatibility-chart).
+<a href="/img/DJI/dji_mads_tech_compatibility_chart.png" data-lightbox="mads-tech-dji-compatibility-chart" data-title="Mad's Tech DJI compatibility chart"><img src="/img/DJI/dji_mads_tech_compatibility_chart.png" alt="Mad's Tech DJI compatibility chart"></a>
+
+[Quelle](https://fpvwiki.co.uk/dji-fpv-goggles-drones-and-air-unit-compatibility-chart)
 
 ## DJI und FPV-Rennen
 
