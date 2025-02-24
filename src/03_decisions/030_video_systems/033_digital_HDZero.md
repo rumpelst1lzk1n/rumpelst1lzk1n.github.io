@@ -60,15 +60,9 @@ Beim V2 hat sich der Hersteller am Format der DJI Vista Unit (siehe oben) orient
 
 Für HDZero gibt es inzwischen einige unterschiedliche Empfänger.
 
-### Modul
-
-Das Modul kostet etwa 250€ und setzt eine vorhandene FPV-Brille **mit HDMI-Eingang** voraus.
-
-![HDZero VRX](/img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png)
-
 ### Brillen
 
-Daneben gibt es 2 Brillen, eine im Binocular-Design und eine im Box-Design.
+Es gibt 2 Brillen, eine im Binocular-Design und eine im Box-Design.
 
 | HDZero Brille                                      | EMAX Transporter II HD                                        |
 | -------------------------------------------------- | ------------------------------------------------------------- |
@@ -78,7 +72,23 @@ Beide sind nur vereinzelt bei europäischen Shops verfügbar. Ansonsten sind die
 
 Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei der EMAX-Brille etwa 290€. Bei den Shops der Hersteller kann man teilweise günstiger weg kommen, je nach Kurs Dollar/Euro.
 
-### Kameras
+Wenn du das Geld übrig hast, hol dir die HDZero Brille. Nur diese hat 100Hz-Displays und ermöglicht es, das volle Potential des Systems zu nutzen.
+
+Eine weitere Budget-Brille mit ebenfalls 100Hz-Display befindet sich in Entwicklung und wird im Frühjahr/Sommer 2025 erwartet.
+
+### Modul
+
+Daneben gibt es noch ein Modul, welches für Brillen **mit HDMI-Eingang** gedacht ist. Das Modul kostet etwa 250€.
+
+![HDZero VRX](/img/divimath/hdzero-vrx-digital-hd-empfaenger-modul.png)
+
+### Monitor
+
+Weiterhin gibt es auch einen Monitor, der sowohl Analog wie auch HDZero als Signal empfangen, anzeigen und über HDMI ausgeben kann.
+
+![HDZero Monitor](/img/divimath/hdzero_monitor.png)
+
+## Kameras
 
 Bei den Kameras unterscheidet man zwischen den Verbindungen via MIPI-Kabel und AnalogHD. Jede Verbindung hat ihre eigenen Videosender. AnalogHD ist insbesondere für extrem leichte Kameras gedacht.
 
