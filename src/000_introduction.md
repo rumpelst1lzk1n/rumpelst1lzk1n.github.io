@@ -1,6 +1,6 @@
 # Einsteigerguide FPV
 
-**Stand: Winter 2024/2025**
+**Stand: Frühjahr 2025**
 
 Das Dokument wird stetig erweitert und modifiziert. Ich versuche dabei alle Daten einigermaßen aktuell zu halten.
 
