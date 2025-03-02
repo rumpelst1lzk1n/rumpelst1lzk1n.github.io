@@ -13,13 +13,18 @@ Zeltstangen und -Stoff bieten sich an, da diese auch Crashes mit einer Drohne ü
 
 ## international
 
-- MultiGP
+- [MultiGP](https://www.multigp.com)
   - "echtes" FPV-Racing
+  - von FPV-Piloten für FPV-Piloten
+  - Weltweite Wertung
+- [FAI](https://www.fai.org/drone-sports)
+  - Kommt eher aus der Modellflug-Ecke
+  - Weltweite Wertung
+
+Neben den oben genannten Wertungssystemen und Rennserien gab es auch einige Versuche, FPV-Racing als kommerzielles Spektakel aufzuziehen. Dabei gab es einige spektakuläre FPV-Rennen und einige der heute bekanntesten Piloten haben sich in diesen Rennserien einen Namen gemacht. Seite Ende 2024 kann man die Konzepte allerdings mehr oder weniger als gescheitert betrachten. Beide Rennserien leben eigentlich nur noch in Form der gleichnamigen Computerspiele und in Form virtueller Rennen.
+
 - DRL - Drone Racing League
-  - die Piloten sind schon Spitze, aber bei DRL ist auch viel Show dabei
-  - Man hat über den DRL-Simulator die Möglichkeit, sich auf einen Platz als Pilot zu bewerben
 - DCL - Drone Champions League
-  - bisschen Mischung aus "echtem" Racing und der DRL-Show
 
 ## lokale Gruppen
 
