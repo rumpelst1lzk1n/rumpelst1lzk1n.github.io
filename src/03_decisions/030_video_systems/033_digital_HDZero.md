@@ -91,7 +91,7 @@ Weiterhin gibt es auch einen Monitor, der sowohl Analog wie auch HDZero als Sign
 
 Bei den Kameras unterscheidet man zwischen den Verbindungen via MIPI-Kabel und AnalogHD. Jede Verbindung hat ihre eigenen Videosender. AnalogHD ist insbesondere für extrem leichte Kameras gedacht.
 
-#### MIPI
+### MIPI
 
 Bei den MIPI Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
 
@@ -109,7 +109,7 @@ Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras 
 
 Darüber hinaus gibt es noch andere / ältere (lies: schlechtere) Kameras für das HDZero-System.
 
-#### AnalogHD
+### AnalogHD
 
 Mit AnalogHD hast du 2 Kameras zur Auswahl. Einmal die Eco und einemal die Lux. Die Lux ist besser.
 
