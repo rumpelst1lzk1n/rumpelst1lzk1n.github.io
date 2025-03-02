@@ -43,7 +43,6 @@ Neben einem dedizierten VTX gibt es auch einen FlightController, der Flugsteueru
 | --------------------------------------------------- | -------------------------------------------- |
 | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) | ![Whoop AIO5](/img/divimath/hdzero_aio5.png) |
 
-
 ### Freestyle
 
 Die Freestyle-Serie hat einen markanten Kühlkörper um die 1000mW Sendeleistung zu kompensieren. Er ist für den Flug mit Freestyle-Kopter gedacht. Üblicherweise hat man dort leichter Hindernisse zwischen dem Piloten und dem Kopter, welche den Empfang beeinträchtigen. Mehr Sendeleistung hilft, das zu kompensieren.
@@ -74,7 +73,7 @@ Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei
 
 Wenn du das Geld übrig hast, hol dir die HDZero Brille. Nur diese hat 100Hz-Displays und ermöglicht es, das volle Potential des Systems zu nutzen.
 
-Eine weitere Budget-Brille mit ebenfalls 100Hz-Display befindet sich in Entwicklung und wird im Frühjahr/Sommer 2025 erwartet.
+Eine Budget-Version der HDZero Brille mit ebenfalls 100Hz-Displays befindet sich in Entwicklung und wird im Frühjahr/Sommer 2025 erwartet.
 
 ### Modul
 
