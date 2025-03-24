@@ -64,17 +64,19 @@ Für HDZero gibt es inzwischen einige unterschiedliche Empfänger.
 
 Es gibt 2 Brillen, eine im Binocular-Design und eine im Box-Design.
 
-| HDZero Brille                                      | EMAX Transporter II HD                                        |
-| -------------------------------------------------- | ------------------------------------------------------------- |
-| ![HDZero Brille](/img/divimath/hdzero_goggles.png) | ![EMAX Transporter 2 HD](/img/emax/emax_transporter_2_hd.png) |
+| HDZero Brille                                      | HDZero BoxPro/BoxPro+                                            |
+| -------------------------------------------------- | ---------------------------------------------------------------- |
+| ![HDZero Brille](/img/divimath/hdzero_goggles.png) | ![HDZero BoxPro/BoxPro+](/img/divimath/hdzero_goggles_boxed.png) |
 
 Beide sind nur vereinzelt bei europäischen Shops verfügbar. Ansonsten sind die Websites der jeweiligen Hersteller eine gute Anlaufstelle dafür.
 
 Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei der EMAX-Brille etwa 290€. Bei den Shops der Hersteller kann man teilweise günstiger weg kommen, je nach Kurs Dollar/Euro.
 
-Wenn du das Geld übrig hast, hol dir die HDZero Brille. Nur diese hat 100Hz-Displays und ermöglicht es, das volle Potential des Systems zu nutzen.
+Beide Brillen haben 100Hz-Displays. Auch wenn es noch andere Empfänger gibt: das volle Potential des Systems (insbesondere beim Racing) kannst du nur mit einer dieser beiden Brillen nutzen.
 
-Eine weitere Budget-Brille mit ebenfalls 100Hz-Display befindet sich in Entwicklung und wird im Frühjahr/Sommer 2025 erwartet.
+Die BoxPro ist als "Budget"-Option angedacht, bietet aber im Gegensatz zur älteren und teureren Brille auch einen integrierten Analog-Empfänger.
+
+> *Anm. rumpelst1lzk1n*: Wenn du bisher noch auf Analog unterwegs warst und dafür viele Kopter hast, ist die BoxPro ein guter Upgrade-Pfad, wenn du nach und nach auf HDZero umsteigen willst.
 
 ### Modul
 
