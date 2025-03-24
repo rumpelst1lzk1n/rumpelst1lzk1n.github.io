@@ -8,7 +8,7 @@ Die Hardware gibt es nur von DJI, lediglich bei den Kameras haben sie anfangs 1-
 
 ## Entwicklungsstand
 
-Das System ist unter den digitalen FPV-Systemen das mit dem höchsten Reifegrad. Wenn du kein Problem mit einem goldenen Käfig ala Apple hast fliegen willst, gibt es keinen Grund, nicht auf das DJI-System zu setzen. Auch im Bereich der professionellen Filmaufnahmen wirst du um DJI nicht herum kommen, weil der Name einfach so bekannt ist, dass er Türen öffnet.
+Das System ist unter den digitalen FPV-Systemen das mit dem höchsten Reifegrad. Wenn du kein Problem mit einem goldenen Käfig ala Apple hast, gibt es keinen Grund, nicht auf das DJI-System zu setzen. Auch im Bereich der professionellen Filmaufnahmen wirst du um DJI nicht herum kommen, weil der Name einfach so bekannt ist, dass er Türen öffnet.
 
 DJI entwickelt das System ständig weiter. Nachfolgend findet ihr einen Versuch, diese Entwicklung einigermaßen einzuordnen.
 
