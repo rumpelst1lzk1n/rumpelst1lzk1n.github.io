@@ -72,7 +72,7 @@ Die Produktbewertungen dieser YouTuber sind mit Vorsicht zu genießen. Alles ist
 - [https://oscarliang.com/](https://oscarliang.com/) (FPV allgemein, viele Tutorials, Bilder von seiner Website in diesem Guide mit freundlicher Genehmigung)
 - [https://blog.seidel-philipp.de/](https://blog.seidel-philipp.de/) (FPV allgemein)
 - [https://www.fpvknowitall.com/](https://www.fpvknowitall.com/) (Joshua Bardwell Einkaufsliste)
-- [https://betaflight.de/docs/knowledge-base/](https://betaflight.de/docs/knowledge-base/)
+- [Betaflight Knowledgebase](https://betaflight.com/docs/wiki)
 - [https://fpvwiki.co.uk/](https://fpvwiki.co.uk/) (Mad's Tech Wiki, Teardowns von FPV-Bauteilen)
 
 ### Tune Presets
