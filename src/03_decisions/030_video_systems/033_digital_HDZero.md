@@ -67,15 +67,16 @@ Es gibt 2 Brillen, eine im Binocular-Design und eine im Box-Design.
 | -------------------------------------------------- | ---------------------------------------------------------------- |
 | ![HDZero Brille](/img/divimath/hdzero_goggles.png) | ![HDZero BoxPro/BoxPro+](/img/divimath/hdzero_goggles_boxed.png) |
 
-Beide sind nur vereinzelt bei europäischen Shops verfügbar. Ansonsten sind die Websites der jeweiligen Hersteller eine gute Anlaufstelle dafür.
+Beide sind nur vereinzelt bei europäischen Shops verfügbar.
 
-Kostenpunkt für die HDzero Brille sind bei europäischen Shops etwa 700€, bei der EMAX-Brille etwa 290€. Bei den Shops der Hersteller kann man teilweise günstiger weg kommen, je nach Kurs Dollar/Euro.
+Die Websites von HDZero ist aber auch eine gute Anlaufstelle. Bitte beachte, dass bei Bestellungen aus dem nicht-europäischen Ausland ggf. noch Zollgebühren auf den Preis drauf kommen.
 
 Beide Brillen haben 100Hz-Displays. Auch wenn es noch andere Empfänger gibt: das volle Potential des Systems (insbesondere beim Racing) kannst du nur mit einer dieser beiden Brillen nutzen.
 
-Die BoxPro ist als "Budget"-Option angedacht, bietet aber im Gegensatz zur älteren und teureren Brille auch einen integrierten Analog-Empfänger.
+Die BoxPro ist als "Budget"-Option angedacht.
 
-> *Anm. rumpelst1lzk1n*: Wenn du bisher noch auf Analog unterwegs warst und dafür viele Kopter hast, ist die BoxPro ein guter Upgrade-Pfad, wenn du nach und nach auf HDZero umsteigen willst.
+Mitte 2025 kam eine neue Revision der Binocular-Brille auf den Markt. Dabei wurden die Optiken überarbeitet und die Brille kann jetzt auch ohne Modul nativ analoges Video empfangen, ähnlich wie der Monitor und die BoxPro.
+Optisch unterscheiden sich die V1 und V2 Brillen dadurch, dass die V2 Brille eine eher schwarze Unterseite hat statt des Grünstichs der V1. Zudem ist die V1 auch mit einem roten statt weißem Oberteil verfügbar.
 
 ### Modul
 
@@ -95,19 +96,16 @@ Bei den Kameras unterscheidet man zwischen den Verbindungen via MIPI-Kabel und A
 
 ### MIPI
 
-Bei den MIPI Kameras gibt es aktuell 4 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
+Bei den MIPI Kameras gibt es aktuell 3 relevante Modelle in Standardbreiten 19mm (Micro) und 14mm (Nano)
 
-| 19x19mm                                                   | 14x16mm                                                       |
-| --------------------------------------------------------- | ------------------------------------------------------------- |
-| ![HDZero Micro V2](/img/divimath/hdzero_cam_micro_v2.png) | ![HDZero Nano V2](/img/divimath/hdzero_cam_nano_v2.png)       |
-|                                                           | ![HDZero Nano 90FPS](/img/divimath/hdzero_cam_nano_90fps.png) |
-|                                                           | ![HDZero Nano Lite](/img/divimath/hdzero_cam_nano_lite.png)   |
+| 19x19mm                                                   | 14x16mm                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| ![HDZero Micro V2](/img/divimath/hdzero_cam_micro_v2.png) | ![HDZero Nano V2](/img/divimath/hdzero_cam_nano_v2.png)    |
+|                                                           | ![HDZero Nano 90](/img/divimath/hdzero_cam_nano_90fps.png) |
 
 Micro und Nano V2 können bis 1080p bei 30fps und 720p bei 60fps aufnehmen und sind das, was man als "guter Standard" bezeichnen kann.
 
-Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit der HDZero Brille als Empfänger verwendbar. Dafür bietet die Kombination aus HDZero Brille und 90FPS-Kamera eine geringere Latenz als selbst Analog.
-
-Die Nano Lite kann 720p bei 60fps aufnehmen. Sie ist die leichteste der Kameras und für TinyWhoops gedacht.
+Die Nano 90FPS kann 720p bei 60fps und 540p bei 90fps aufnehmen. Die 90FPS sind allerdings ausschließlich mit den HDZero Brillen (Goggles oder BoxPro) als Empfänger verwendbar. Dafür bietet die Kombination aus HDZero Brille und 90FPS-Kamera eine geringere Latenz als selbst Analog.
 
 Darüber hinaus gibt es noch andere / ältere (lies: schlechtere) Kameras für das HDZero-System.
 
