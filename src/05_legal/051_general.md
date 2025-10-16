@@ -15,3 +15,8 @@ Halte Abstand zu Unbeteiligten, damit sie sich von deiner kinderfressenden Kille
 ![drone retard](/img/memes/drone_retard.png)
 
 Natürlich kannst du immer an jemanden geraten, der einen schlechten Tag hat, grundlos Streit sucht, oder in einer sehr deutschen Mentalität meint, dass du doch sicher gegen irgend ein Gesetz verstoßen MUSST, so viel Spaß wie du offensichtlich hast. Zudem setzt bei manchen auch einfach das Hirn aus, wenn sie den Begriff "Drohne" hören. Der einfachste Weg ist, zu gehen.
+
+## wo fliegen? gib Karte!
+
+- [dipul Karte der Deutschen Flugsicherung](https://maptool-dipul.dfs.de/)
+- [Droniq Maps](https://droniq.de/en/droniq-maps/)
