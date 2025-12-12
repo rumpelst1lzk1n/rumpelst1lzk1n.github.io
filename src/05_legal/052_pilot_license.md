@@ -12,9 +12,11 @@ Zum einen hast du dann schon mal alle Regeln gehört, die es zu beachten gilt.
 
 Zum anderen hast du ein offizielles Dokument, dass du jemandem unter die Nase halten kannst, der dir grundlos auf den Sack gehen will. Betonung liegt auf "grundlos". Sei kein Arschloch.
 
-> *Anm. rumpelst1lzk1n*: Du solltest schon mit den Regeln vertraut sein. Ob du sie dann auch einhältst ist ein anderes Thema. Aber wenn du dich entscheidest, bestimmte Regeln nicht sooo genau zu befolgen, sollte das eine bewusste Entscheidung auf Basis einer Risikoabwägung sein. Auf der Wiese neben der Siedlung ohne Einhalten des Mindestabstands fliegen? Solang sich niemand über dich beschwert und du niemandem auf den Sack gehst? Nuja. Durch die Fußgängerzone mit dem 5" ballern? Neben dem Flughafen fliegen? Nicht so cool. Ist halt scheiße auch für andere Leute in dem Hobby, wenn deine Aktion entweder statistisch relevant wird oder das Potential für einen Zeitungsartikel hat. Wirft ein schlechtes Bild aufs Hobby und da hat eigentlich keiner Bock drauf, weil das mittelfristig nur zu noch schärferen Regeln führt.
+> *Anm. rumpelst1lzk1n*: Du solltest schon mit den Regeln vertraut sein. Ob du sie dann auch einhältst ist ein anderes Thema. Aber wenn du dich entscheidest, bestimmte Regeln nicht sooo genau zu befolgen, sollte das eine bewusste Entscheidung auf Basis einer Risikoabwägung sein. Auf der Wiese neben der Siedlung ohne Einhalten des Mindestabstands fliegen? Solang sich niemand über dich beschwert und du niemandem auf den Sack gehst? Nuja. Durch die Fußgängerzone mit dem 5" ballern? Neben dem Flughafen fliegen? Nicht so cool. Wenn deine Aktion entweder statistisch relevant wird oder das Potential für einen Zeitungsartikel hat, ist das auch scheiße für andere Piloten. Wirft ein schlechtes Bild aufs Hobby und da hat eigentlich keiner Bock drauf, weil das mittelfristig nur zu noch schärferen Regeln führt.
 
 ![Drohnen verboten](/img/memes/lego_drohnen_verboten.png)
+
+Der Schein hat eine Gültigkeit von 5 Jahren, danach muss er verlängert werden. Die ersten Verlängerungen sind damit Ende 2025 fällig.
 
 ## der große Drohnenführerschein
 
