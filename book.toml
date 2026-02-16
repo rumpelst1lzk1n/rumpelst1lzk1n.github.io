@@ -1,7 +1,6 @@
 [book]
 authors = ["rumpelst1lzk1n"]
 language = "de"
-multilingual = false
 src = "src"
 title = "Einsteigerguide FPV"
 description = "Orientierungshilfe für Einsteiger in das Thema 'FPV' mit Multikoptern (aka 'Drohnen')"
