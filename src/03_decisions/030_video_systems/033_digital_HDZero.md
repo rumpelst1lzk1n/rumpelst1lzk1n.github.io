@@ -43,6 +43,8 @@ Neben einem dedizierten VTX gibt es auch einen FlightController, der Flugsteueru
 | --------------------------------------------------- | -------------------------------------------- |
 | ![Whoop VTX](/img/divimath/hdzero_whoop_vtx_v2.png) | ![Whoop AIO5](/img/divimath/hdzero_aio5.png) |
 
+Zum AIO5 gibt es auch noch den größeren Bruder, den AIO15. Wenn du das Kleingeld übrig hast und nicht jedes Gramm sparen willst, nimm den AIO15. Der hat die bessere ELRS-Integration (als vollwertigen Receiver, nicht nur als SPI-Modul).
+
 ### Freestyle
 
 Die Freestyle-Serie hat einen markanten Kühlkörper um die 1000mW Sendeleistung zu kompensieren. Er ist für den Flug mit Freestyle-Kopter gedacht. Üblicherweise hat man dort leichter Hindernisse zwischen dem Piloten und dem Kopter, welche den Empfang beeinträchtigen. Mehr Sendeleistung hilft, das zu kompensieren.
@@ -76,7 +78,7 @@ Beide Brillen haben 100Hz-Displays. Auch wenn es noch andere Empfänger gibt: da
 Die BoxPro ist als "Budget"-Option angedacht.
 
 Mitte 2025 kam eine neue Revision der Binocular-Brille auf den Markt. Dabei wurden die Optiken überarbeitet und die Brille kann jetzt auch ohne Modul nativ analoges Video empfangen, ähnlich wie der Monitor und die BoxPro.
-Optisch unterscheiden sich die V1 und V2 Brillen dadurch, dass die V2 Brille eine eher schwarze Unterseite hat statt des Grünstichs der V1. Zudem ist die V1 auch mit einem roten statt weißem Oberteil verfügbar.
+Optisch unterscheiden sich die V1 und V2 Brillen dadurch, dass die V2 Brille eine eher schwarze Unterseite hat statt des Grünstichs der V1. Zudem ist die V2 auch mit einem roten statt weißem Oberteil verfügbar.
 
 ### Modul
 

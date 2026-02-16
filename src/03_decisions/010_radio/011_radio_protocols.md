@@ -27,34 +27,42 @@ Seit 2021 haben die Hersteller 2.4 GHz auch für moderne Funkprotokolle entdeckt
 
 Es gibt noch gänzlich andere Frequenzen auf 27, 40 oder 433 MHz. Diese sind entweder etwas für die Modellbau-Opas (aka gnadenlos veraltet) oder spielen für das FPV-Hobby zumindest keine tragende Rolle.
 
-## Alt vs. Neu
+## Protokolle
 
-Bei den Funkprotokollen unterscheide ich zwischen Legacy und Modern.
+Früher habe ich in dem Guide an dieser Stelle zwischen modernen Protokollen und Legacy unterschieden.
 
-### Legacy
+Inzwischen gehe ich soweit und sage: ELRS. Dann kommt lange nichts. Dann kommen noch einige verbreitete proprietäre Systeme. Und dann kommen Altlasten.
 
-Diese Protokolle sind irrelevant.
-Sei es von FrSky, Graupner, Futaba oder wie sie alle heißen. Ihnen gemein ist, dass sie eigentlich alle mit einem Multi-Protokoll-Modul abgedeckt werden. Vergiss sie. Wenn du welche hast, verkaufe sie.
+### ELRS
 
-Wenn du unbedingt eine Drohne fliegen willst, die einen Empfänger mit einem dieser Protokolle verwendet, ist ein Multi-Protokoll-Modul der richtige Weg. Oder ein Upgrade des Fluggeräts auf ein modernes Protokoll.
+ExpressLRS ist der Stand der Dinge, wenn du mit dem FPV-Hobby anfangen willst. Günstig. OpenSource. Vielseitig. Leistungsstark.
 
-### Modern
+Sender gibt es für 2.4GHz, 900Mhz und (seit ca Anfang 2025) auch mit Modi, die beide Frequenzen einzeln oder sogar parallel verwenden können.
 
-Folgende Funksysteme können als "modern" betrachtet werden:
+Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber beide die Frequenzen unterstützen, die du beabsichtigst zu benutzen. Bei den allermeisten Fertig-Drohnen hast du inzwischen ELRS zur Wahl. Wo früher Legacy-Protokolle die Budget-Option waren, ist es inzwischen ELRS. Was noch nicht einmal Abstriche zu den anderen modernen Protokollen bedeutet.
 
-- ExpressLRS (aka. ELRS) (900MHz und 2.4GHz)
+Insbesondere für Einsteiger gibt es eigentlich keinen Grund, mit etwas anderem als ELRS anzufangen.
+
+### Proprietär
+
+Folgende proprietäre Protokolle finden sich auf dem Markt und genießen noch halbwegs Verbreitung:
+
 - TBS Crossfire (900MHz)
 - TBS Tracer (2.4GHz)
 - ImmersionRC Ghost (2.4GHz)
-
-ELRS ist OpenSource und wird von unterschiedlichen Herstellern angeboten.
-Es gibt Sender/Empfänger für 2.4GHz und 900MHz. Sender und Empfänger müssen zusammen passen, sie können von unterschiedlichen Herstellern kommen, müssen aber die gleiche Frequenz nutzen können. Es ist das günstigste der modernen System. Bei den allermeisten Fertig-Drohnen hast du inzwischen ELRS zur Wahl. Wo früher Legacy-Protokolle die Budget-Option waren, ist es inzwischen ELRS. Was noch nicht einmal Abstriche zu den anderen modernen Protokollen bedeutet. Insbesondere für Einsteiger gibt es eigentlich keinen Grund, mit etwas anderem als ELRS anzufangen.
 
 TBS Crossfire ist das älteste und ausgereifteste der 4 Systeme. Lange Zeit das einzige ernstzunehmende Protokoll, mit dem man auch fertige Drohnen bekommen hat. Die TBS Tango 2 hat Crossfire bereits eingebaut. Für das System wirst du online umfangreiche Hilfestellungen finden.
 
 TBS Tracer ist wie Crossfire nur auf 2.4GHz. Die TBS Mambo hat Tracer bereits eingebaut. Alles andere funktioniert wie bei Crossfire.
 
 ImmersionRC Ghost bietet eine ähnliche Kombination aus Funkempfänger und Videosender wie Crossfire und Tracer. Ist in meiner Wahrnehmung nicht so weit verbreitet, entsprechend kann man bei Problemen etwas weniger auf Hilfestellung aus der Community zählen.
+
+### Legacy/Altlasten
+
+Diese Protokolle sind irrelevant.
+Sei es von FrSky, Graupner, Futaba oder wie sie alle heißen. Ihnen gemein ist, dass sie eigentlich alle mit einem Multi-Protokoll-Modul abgedeckt werden. Vergiss sie. Wenn du welche hast, verkaufe sie.
+
+Wenn du unbedingt eine Drohne fliegen willst, die einen Empfänger mit einem dieser Protokolle verwendet, ist ein Multi-Protokoll-Modul der richtige Weg. Oder ein Upgrade des Fluggeräts auf ein modernes Protokoll.
 
 ## Integration mit Videosystemen
 
