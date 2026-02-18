@@ -41,9 +41,34 @@ Die günstigste Funke, die sich irgendwie lohnt.
 
 So ziemlich DIE Empfehlung für Neueinsteiger.
 
-Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
+Wie die meisten Radiomaster-Funken gibt es unterschiedliche Ausbaustufen. Die "normale" und die "Max". Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
 
-> *Anm. rumpelst1lzk1n*: wenn du das Kleingeld übrig hast, hol dir die "Crush"-Version. Die hat gleich die richtig guten Gimbals verbaut. Die normalen Gimbals sind nicht schlecht. Aaaber ...
+> *Anm. rumpelst1lzk1n*: wenn du das Kleingeld übrig hast, hol dir die "Crush"-Version. Die hat gleich die besseren Gimbals verbaut und verzichtet auf den sonstigen BlingBling der Max. Die normalen Gimbals sind nicht schlecht. Aaaber ...
+
+## Radiomaster TX15
+
+- ca. 170€
+- etwas kleiner als Vollformat
+- JR-Modulschacht
+- ELRS
+- EdgeTX
+- kleiner farbiger Touchscreen
+
+Mehr oder weniger der designierte Nachfolger der Boxer.
+
+Wie die meisten Radiomaster-Funken gibt es unterschiedliche Ausbaustufen. Die "normale" und die "Max". Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
+
+Die normale Version reicht vollkommen.
+
+## Flysky ProArt PA01
+
+- ca. 180€
+- Gamepad
+- Lite-Modulanschluss
+- ELRS (500mW)
+- kleiner farbiger Touchscreen
+
+Der große Bruder aller Gamepad-Funken.
 
 ## TBS Tango 2
 
@@ -57,24 +82,24 @@ Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus
 - Lite-Modulanschluss optional
 - Multi-Protokoll oder ELRS via separatem Modul
 
-Vermutlich die hochwertigste aktuelle Funke im Gamepad-Formfaktor.
+Vermutlich die am hochwertigsten verarbeitete Funke im Gamepad-Formfaktor.
 
-> *Anm. rumpelst1lzk1n*: lass dich nicht davon abschrecken, dass sie nirgends lieferbar ist. Die Funke ist gefragt und TBS kommt kaum hinterher. Betrachte die Bestellung als Vorbestellung, kauf bei einem lokalen Händler, der die Funke auf Lager hat oder hol dir eine gebrauchte.
+> *Anm. rumpelst1lzk1n*: Größter Nachteil dürfte sein, dass die Funke Crossfire verwendet und allgemein in die Jahre gekommen ist. Crossfire hat zwar noch eine gewisse Verbreitung. Aber ELRS-basierte Funken in allen Formfaktoren haben effektiv alles andere vom Markt verdrängt.
 
-## Radiomaster TX16S (Mk 2)
+## Radiomaster TX16S (Mk 3)
 
 Du willst die Funke mit dem meisten Bling? Mit Farbdisplay und Touchscreen? Mit Leder-Applikationen?
 
-- ab ca. 230€
+- ab ca. 250€
 - Vollformat
 - JR-Modulschacht
-- Multi-Protokoll-Modul, MK2 alternativ auch mit ELRS
-- OpenTX oder EdgeTX
+- ELRS
+- EdgeTX
 - großer farbiger Touchscreen
 
-Die Funke gibt es in mehrere Ausbaustufen. Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
+Wie die meisten Radiomaster-Funken gibt es unterschiedliche Ausbaustufen. Die "normale" und die "Max". Die günstigste reicht vollkommen aus für den Anfang, Sachen wie Leder-Applikationen oder farbige Element sind zusätzlicher Bling, den es nicht unbedingt braucht.
 
-Gibt es auch als Variante von Eachine. Beide Funken sind gleichwertig und unterscheiden sich nur geringfügig durch die Positionierung und Form einiger Knöpfe.
+Von der TX16S gibt es auch ältere Modelle (MK1 und MK2), teils mit weniger leistungsfähigen ELRS-Modulen oder mit Multiprotokoll-Modul. Die MK3 ist aktuell (Stand Winter 2025/2026) in der normalen Version nur auf Vorbestellung zu haben.
 
 > *Anm. rumpelst1lzk1n*: TX16S nur, wenn du wirklich meinst, dass du ein farbiges Touch-Display brauchst. Und dann am besten die Version mit integriertem Multi-Protokoll-Modul. Das interne ELRS-Modul in der TX16S ist mMn nur solala, kann nur 250mw und hat Hitzeprobleme. Lieber ein separates ELRS-Modul, das Eichhörnchen mit 1W grillen kann.
 
