@@ -12,7 +12,7 @@ Das Dokument hat eine ziemliche Länge, daher hat der liebe *remove_me* das in s
 
 ### SUPER-SHORT-CUT-FÜR-MEGA-UNGEDULDIGE
 
-- **Schritt 1**: Kaufe eine Funke (z.B. Radiomaster Boxer).
+- **Schritt 1**: Kaufe eine Funke (z.B. Radiomaster Boxer oder Pocket).
 - **Schritt 2**: Kaufe einen Simulator (z.B. Liftoff oder Velocidrone).
 - **Schritt 3**: übe übe übe - stundenlang und informiere dich nebenher langsam weiter.
 - **Schritt 3.1**: Lies den Rest in diesem Dokument. Kläre Fragen und werde schlauer.
