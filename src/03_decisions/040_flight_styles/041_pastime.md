@@ -27,7 +27,7 @@ Es gibt mehrere Stilrichtungen des Freestyles.
 
 ## Longrange
 
-Fliegen um des Fliegens Willen Teil 2. Du willst weg. Weit weg. Kilometer weit weg. Und dabei noch ein ein- bis zweitausend Höhenmeter überwinden.
+Fliegen um des Fliegens Willen Teil 2. Du willst weg. Weit weg. Kilometer weit weg. Und dabei noch ein- bis zweitausend Höhenmeter überwinden.
 
 Das ist Longrange.
 

@@ -1,4 +1,4 @@
-# Tips für Rennen im Simulator
+# Tipps für Rennen im Simulator
 
 In diesem Abschnitt kommen einige Tipps für den weniger schmerzhafen Einstieg in Simulator-Rennen, speziell Zeitrennen und noch spezieller im Simulator **Velocidrone**.
 
