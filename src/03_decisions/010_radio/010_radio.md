@@ -25,7 +25,7 @@ Nachfolgend einige populäre Vertreter dieser Formfaktoren.
   <a href="/img/flysky/flysky_proart_01.png" data-lightbox="radio-set" data-title="Jumper T-Pro"><img src="/img/flysky/flysky_proart_01.png" alt="Jumper T-Pro"></a>
 </div>
 
-Mit unterschiedlichem Grad von BlingBling. Für FPV brauchst du eigentlich kein Farbdisplay. Du hast alle Informationen zum Fliegen des Kopters in deiner Brille. Entsprechend reicht an der Funke auch ein kleines Schwarzweiß-Display. Gibt es aber natürlich in der Vollausstattung mit farbigem Touchscreen, Leder-Applikation, Alu-Knöpfen statt Plasikt etc. Ob mans braucht? Geschmackssache.
+Mit unterschiedlichem Grad von BlingBling. Für FPV brauchst du eigentlich kein Farbdisplay. Du hast alle Informationen zum Fliegen des Kopters in deiner Brille. Entsprechend reicht an der Funke auch ein kleines Schwarzweiß-Display. Gibt es aber natürlich in der Vollausstattung mit farbigem Touchscreen, Leder-Applikation, Alu-Knöpfen statt Plastik etc. Ob mans braucht? Geschmackssache.
 
 ## Modi
 

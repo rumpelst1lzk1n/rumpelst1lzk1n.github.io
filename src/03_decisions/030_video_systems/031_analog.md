@@ -8,7 +8,7 @@ Die mit großem Abstand günstigste Möglichkeit, in FPV einzusteigen. Wenn dein
 
 Brille 80€, Videosender 10€, Kamera 15€ wäre so ein Minimal-Setup.
 
-Neben dem Geld ist auch noch das Gewicht ein Argument für einen Analog-Setup. Die leichtesten anlogen Videosender wiegen circa 1 Gramm.
+Neben dem Geld ist auch noch das Gewicht ein Argument für einen Analog-Setup. Die leichtesten analogen Videosender wiegen circa 1 Gramm.
 
 ## Videosender
 
