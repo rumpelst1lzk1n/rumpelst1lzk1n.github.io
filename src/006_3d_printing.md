@@ -22,7 +22,7 @@ Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker ha
 
 Eine Art Mittelweg stellen z.B. Drucker wie der [Anycubic Kobra](https://de.anycubic.com/products/anycubic-kobra) dar. Diese versprechen ebenfalls Features wie Autoleveling oder ein beheiztes Bett die früher den teureren Druckern vorbehalten waren..
 
-Für das zweite Szenario empfehle ich einen Drucker von Prusam, Ultimaker oder Bambu Lab. Nicht so teuer wie die hochprofessionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
+Für das zweite Szenario empfehle ich einen Drucker von Prusa, Ultimaker oder Bambu Lab. Nicht so teuer wie die hochprofessionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
 
 Bei mittleren Druckern ist durch Kalibrierung, slicer Settings und hardware Modifikationen noch einiges an Druckgeschwindigkeit und Qualität herauszuholen.
 
