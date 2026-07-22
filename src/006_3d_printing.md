@@ -32,11 +32,11 @@ Bei mittleren Druckern ist durch Kalibrierung, slicer Settings und hardware Modi
 - PLA: Ist das billigst und meist verbreitetste Filament ist recht fest aber bricht unter Belastung, außerdem ist es nicht wirklich Wärme beständig. Schon starke Sonneneinstrahlung kann es zum verbiegen bringen.
 - PETG: Ist nur etwas teurer als PLA, aber viel stabiler und auch gegenüber Wärme hält es mehr aus.
 
-## Wichtige Tips
+## Wichtige Tipps
 
 - Trockne dein Filament
   - gerade bei TPU ist trocknen sehr wichtig da es hygroskopisch ist und daher mit der Zeit Wasser in sich trägt. Beim Erhitzen in der Nozzle auf mehr als 200C° wird das Wasser gasförmig und dein Druck wird porös.
   - Pro Tip: lege zum trocknen einfach 3 Lego-Steine auf dein Heizbett, dann das Filament drauf und mit einer Schachtel zudecken. Nun das Heizbett auf ca. 70-80°C aufheizen und je nach gezogener Feuchtigkeit 2-4h warten. **Achtung nicht unbeaufsichtigt lassen**
   - Alternativ kannst du das Filament etwas komfortabler auch in einem Dörrautomaten trocknen.
-- Wenn du eine Glasplatte als Druckoberfläche hast, kannst du sie entweder jedes mal vorm Drucken mit Alkohol (z.B. Isopropanol) reinigen. Oder du trägst eine dünne Schicht UHU-Stick auf und hast eine Zeit deine Ruhe, aber dafür ist die Oberfläche deines Drucks nicht so gut.
+- Wenn du eine Glasplatte als Druckoberfläche hast, kannst du sie entweder jedes mal vorm Drucken mit Alkohol (z.B. Isopropanol) reinigen. Alternativ kann die Druckplatte auch mit Handspülmittel und anschließend klarem Wasser gereinigt werden. Oder du trägst eine dünne Schicht UHU-Stick auf und hast eine Zeit deine Ruhe, aber dafür ist die Oberfläche deines Drucks nicht so gut.
   
