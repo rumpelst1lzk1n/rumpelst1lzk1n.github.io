@@ -2,6 +2,18 @@
 
 Die nachfolgenden Systeme sind entweder noch nicht über eine Ankündigung hinaus gekommen oder passen nicht ins Anforderungsprofil von FPV.
 
+## Artosyn
+
+Artosyn allgemein ist ein Hersteller von Funkchips. Auf deren Basis baut Walksnail auf.
+
+Allerdings nutzen auch andere Hersteller Artosyn-Hardware mit einer etwas offeneren Implementierung, die unter diesen Herstellern auch kompatibel sein soll. Darunter
+
+- BetaFPV -> ArtLynk
+- HGLRC -> Draco
+- Skyzone -> SteadyDigital
+
+> *Anm. rumpelst1lzk1n*: Ich bin da zum aktuellen Zeitpunkt (Ende 2026) noch skeptisch was Leistungsfähigkeit und Adaption des Systems angeht.
+
 ## Orqa HD
 
 Orqa hat auf der CES 2022 ein eigenes HD-Videosystem vorgestellt. Viel ist darüber noch nicht bekannt.
