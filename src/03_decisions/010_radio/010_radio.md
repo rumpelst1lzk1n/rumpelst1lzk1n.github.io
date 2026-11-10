@@ -21,11 +21,20 @@ Nachfolgend einige populäre Vertreter dieser Formfaktoren.
 <div class="image-grid">
   <a href="/img/radiomaster/radiomaster_tx16s_mk3.png" data-lightbox="radio-set" data-title="Radiomaster TX16S MK3 (MAX-Version mit viel BlingBling)"><img src="/img/radiomaster/radiomaster_tx16s_mk3.png" alt="Radiomaster TX16S"></a>
   <a href="/img/team_blacksheep/tango2.png" data-lightbox="radio-set" data-title="TBS Tango 2"><img src="/img/team_blacksheep/tango2.png" alt="TBS Tango 2"></a>
-  <a href="/img/radiomaster/radiomaster_boxer.png" data-lightbox="radio-set" data-title="Radiomaster Boxer"><img src="/img/radiomaster/radiomaster_boxer.png" alt="Radiomaster Boxer"></a>
-  <a href="/img/flysky/flysky_proart_01.png" data-lightbox="radio-set" data-title="Jumper T-Pro"><img src="/img/flysky/flysky_proart_01.png" alt="Jumper T-Pro"></a>
+  <a href="/img/radiomaster/radiomaster_tx15.png" data-lightbox="radio-set" data-title="Radiomaster TX15"><img src="/img/radiomaster/radiomaster_tx15.png" alt="Radiomaster TX15"></a>
+  <a href="/img/flysky/flysky_proart_01.png" data-lightbox="radio-set" data-title="FlySky Proart"><img src="/img/flysky/flysky_proart_01.png" alt="FlySky Proart"></a>
 </div>
 
 Mit unterschiedlichem Grad von BlingBling. Für FPV brauchst du eigentlich kein Farbdisplay. Du hast alle Informationen zum Fliegen des Kopters in deiner Brille. Entsprechend reicht an der Funke auch ein kleines Schwarzweiß-Display. Gibt es aber natürlich in der Vollausstattung mit farbigem Touchscreen, Leder-Applikation, Alu-Knöpfen statt Plastik etc. Ob mans braucht? Geschmackssache.
+
+Bekannte Marken, die in der Regel gute EdgeTX-Funken herstellen sind:
+
+- Radiomaster
+- Jumper
+- FlySky
+- HelloRadioSky
+
+Wenn irgendwelche Veranstaltungen, z.B. Rennen in deiner Nähe stattfinden, empfehle ich dir dringend, dort mal vorbei zu schauen. Die wenigsten Piloten haben ein Problem damit, wenn du ihre Funke mal in die Hand nimmst. Dann bekommst du am besten ein Gefühl dafür.
 
 ## Modi
 
